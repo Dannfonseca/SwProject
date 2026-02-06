@@ -1,0 +1,7499 @@
+[
+  {
+    "name": "Elucia",
+    "element": "Water",
+    "file": "data/reference\\Elucia__10111.png",
+    "phash": "d9f165c7498a8639",
+    "dhash": "ca1a293373697133"
+  },
+  {
+    "name": "Kuhn",
+    "element": "Water",
+    "file": "data/reference\\Kuhn__11411.png",
+    "phash": "c37f8c324f333432",
+    "dhash": "f4f3d96bc8cac8f0"
+  },
+  {
+    "name": "Mihyang",
+    "element": "Water",
+    "file": "data/reference\\Mihyang__18311.png",
+    "phash": "8c3275e2952dd387",
+    "dhash": "ecec7972f1c1b2a2"
+  },
+  {
+    "name": "Karakum",
+    "element": "Dark",
+    "file": "data/reference\\Karakum__20315.png",
+    "phash": "fdba803846cb3c36",
+    "dhash": "0c0f374606324242"
+  },
+  {
+    "name": "Rina",
+    "element": "Water",
+    "file": "data/reference\\Rina__15311.png",
+    "phash": "9dad74d0b511d664",
+    "dhash": "367b6b5373e8f064"
+  },
+  {
+    "name": "Ongyouki",
+    "element": "Dark",
+    "file": "data/reference\\Ongyouki__25115.png",
+    "phash": "f4d69c9cac0538b3",
+    "dhash": "242cd4c60e92c2d6"
+  },
+  {
+    "name": "Kaz",
+    "element": "Water",
+    "file": "data/reference\\Kaz__16911.png",
+    "phash": "db7ce608419bd629",
+    "dhash": "2123585993b87bef"
+  },
+  {
+    "name": "Tyron",
+    "element": "Water",
+    "file": "data/reference\\Tyron__11811.png",
+    "phash": "fe2fc6a851260ad9",
+    "dhash": "23236b1612a5acd0"
+  },
+  {
+    "name": "Kahli",
+    "element": "Fire",
+    "file": "data/reference\\Kahli__12032.png",
+    "phash": "c5efe0c294e1d932",
+    "dhash": "8313127274f1d09e"
+  },
+  {
+    "name": "Izaria",
+    "element": "Water",
+    "file": "data/reference\\Izaria__13311.png",
+    "phash": "fe35219655298375",
+    "dhash": "dc37233331693333"
+  },
+  {
+    "name": "Kahn",
+    "element": "Water",
+    "file": "data/reference\\Kahn__11511.png",
+    "phash": "cc7838df0f871159",
+    "dhash": "341597e3e3e0f07a"
+  },
+  {
+    "name": "Sin",
+    "element": "Fire",
+    "file": "data/reference\\Sin__20212.png",
+    "phash": "ca7f113a7e694834",
+    "dhash": "7978936525b193c4"
+  },
+  {
+    "name": "Hemos",
+    "element": "Water",
+    "file": "data/reference\\Hemos__16011.png",
+    "phash": "e91d74a86737a8c8",
+    "dhash": "56b2b36ab3b31607"
+  },
+  {
+    "name": "Ellena",
+    "element": "Water",
+    "file": "data/reference\\Ellena__12031.png",
+    "phash": "c1ff70c294c1f932",
+    "dhash": "8215127274b1d08e"
+  },
+  {
+    "name": "Moria",
+    "element": "Wind",
+    "file": "data/reference\\Moria__12033.png",
+    "phash": "c9efa0c294c1f936",
+    "dhash": "8313137274f1d08e"
+  },
+  {
+    "name": "Shren",
+    "element": "Light",
+    "file": "data/reference\\Shren__12034.png",
+    "phash": "d5bf204ab4c998b6",
+    "dhash": "b21232e274f1d08e"
+  },
+  {
+    "name": "Federica",
+    "element": "Water",
+    "file": "data/reference\\Federica__27611.png",
+    "phash": "db1e20f63ae19ac8",
+    "dhash": "19307151712b93d3"
+  },
+  {
+    "name": "Federica",
+    "element": "Fire",
+    "file": "data/reference\\Federica__27612.png",
+    "phash": "cb1f20fa3ae19ac8",
+    "dhash": "19707151712bd3d3"
+  },
+  {
+    "name": "Anders",
+    "element": "Water",
+    "file": "data/reference\\Anders__29611.png",
+    "phash": "cf9630d33ac0cfc8",
+    "dhash": "ec24626161628323"
+  },
+  {
+    "name": "Jumaline",
+    "element": "Dark",
+    "file": "data/reference\\Jumaline__12035.png",
+    "phash": "cdaf30c294c1f936",
+    "dhash": "9713327274f1d08e"
+  },
+  {
+    "name": "Magnus",
+    "element": "Fire",
+    "file": "data/reference\\Magnus__29612.png",
+    "phash": "cf9670d12ac0cdcd",
+    "dhash": "ed2663616162a323"
+  },
+  {
+    "name": "Lars",
+    "element": "Light",
+    "file": "data/reference\\Lars__29614.png",
+    "phash": "cf9630d36ac0c9cd",
+    "dhash": "ac26636161626323"
+  },
+  {
+    "name": "Valdemar",
+    "element": "Dark",
+    "file": "data/reference\\Valdemar__29615.png",
+    "phash": "cfb230d37ac0c98d",
+    "dhash": "cc24626161606223"
+  },
+  {
+    "name": "Kai",
+    "element": "Fire",
+    "file": "data/reference\\Kai__33612.png",
+    "phash": "dae2351e3d8a9724",
+    "dhash": "25a1e1713179f1d2"
+  },
+  {
+    "name": "Qilin Slasher",
+    "element": "Water",
+    "file": "data/reference\\Qilin Slasher__32911.png",
+    "phash": "c8c07393796b9738",
+    "dhash": "d8e4e53332687113"
+  },
+  {
+    "name": "Qilin Slasher",
+    "element": "Light",
+    "file": "data/reference\\Qilin Slasher__32914.png",
+    "phash": "c8a26393796b9738",
+    "dhash": "d9e5e53330687313"
+  },
+  {
+    "name": "Qilin Slasher",
+    "element": "Fire",
+    "file": "data/reference\\Qilin Slasher__32912.png",
+    "phash": "c8c47393792b9738",
+    "dhash": "59e4e53332687113"
+  },
+  {
+    "name": "Qilin Slasher",
+    "element": "Wind",
+    "file": "data/reference\\Qilin Slasher__32913.png",
+    "phash": "caa22393792b9739",
+    "dhash": "d9e5e53332683313"
+  },
+  {
+    "name": "Colleen",
+    "element": "Fire",
+    "file": "data/reference\\Colleen__12112.png",
+    "phash": "ea35288ed19328fe",
+    "dhash": "a6265bd9252521b3"
+  },
+  {
+    "name": "Cogma",
+    "element": "Fire",
+    "file": "data/reference\\Cogma__10212.png",
+    "phash": "eb9b4135e1d8d03c",
+    "dhash": "5a4b2939174e02cf"
+  },
+  {
+    "name": "Sieq",
+    "element": "Fire",
+    "file": "data/reference\\Sieq__10612.png",
+    "phash": "ea34d50631ed12f9",
+    "dhash": "96262d2d1dede3b9"
+  },
+  {
+    "name": "Henrik",
+    "element": "Wind",
+    "file": "data/reference\\Henrik__29613.png",
+    "phash": "cf9630d32ac0cdcd",
+    "dhash": "ed2663616162a323"
+  },
+  {
+    "name": "Lala",
+    "element": "Fire",
+    "file": "data/reference\\Lala__13212.png",
+    "phash": "ea6af79ce0522153",
+    "dhash": "0d214185f3b26887"
+  },
+  {
+    "name": "Qilin Slasher",
+    "element": "Dark",
+    "file": "data/reference\\Qilin Slasher__32915.png",
+    "phash": "da2269d73d2b9708",
+    "dhash": "1b49694979687133"
+  },
+  {
+    "name": "Cahule",
+    "element": "Fire",
+    "file": "data/reference\\Cahule__10912.png",
+    "phash": "d5b7e4b44c593941",
+    "dhash": "26c6d878e23c82e3"
+  },
+  {
+    "name": "Ursha",
+    "element": "Fire",
+    "file": "data/reference\\Ursha__10712.png",
+    "phash": "a7b47efa00e183d1",
+    "dhash": "5d24ded65d4f4bcd"
+  },
+  {
+    "name": "Tatu",
+    "element": "Fire",
+    "file": "data/reference\\Tatu__10312.png",
+    "phash": "ea7b91da16d11136",
+    "dhash": "191111616561cbce"
+  },
+  {
+    "name": "Tarq",
+    "element": "Water",
+    "file": "data/reference\\Tarq__10611.png",
+    "phash": "fa34d106b9ec1279",
+    "dhash": "1c24292d3dede319"
+  },
+  {
+    "name": "Sisroo",
+    "element": "Water",
+    "file": "data/reference\\Sisroo__12111.png",
+    "phash": "ce126dae55c134ae",
+    "dhash": "e0e9d9d865656332"
+  },
+  {
+    "name": "Konamiya",
+    "element": "Water",
+    "file": "data/reference\\Konamiya__10911.png",
+    "phash": "ddb76ca45c501bc1",
+    "dhash": "6646d838603c8333"
+  },
+  {
+    "name": "Lulu",
+    "element": "Water",
+    "file": "data/reference\\Lulu__13211.png",
+    "phash": "8aaff70961462557",
+    "dhash": "c3717dc7d3f3690c"
+  },
+  {
+    "name": "Daharenos",
+    "element": "Water",
+    "file": "data/reference\\Daharenos__10811.png",
+    "phash": "cfd320dd354e83a8",
+    "dhash": "e0e0d96132722396"
+  },
+  {
+    "name": "Tantra",
+    "element": "Fire",
+    "file": "data/reference\\Tantra__10412.png",
+    "phash": "d06ccaf072a4ed72",
+    "dhash": "a0e0e2a69c9cd8e1"
+  },
+  {
+    "name": "Kacey",
+    "element": "Water",
+    "file": "data/reference\\Kacey__10311.png",
+    "phash": "ee5c91cb56911936",
+    "dhash": "1830176165638bce"
+  },
+  {
+    "name": "Taharus",
+    "element": "Wind",
+    "file": "data/reference\\Taharus__10813.png",
+    "phash": "cfd324df244e23a8",
+    "dhash": "60e0d96130703397"
+  },
+  {
+    "name": "Bremis",
+    "element": "Fire",
+    "file": "data/reference\\Bremis__10812.png",
+    "phash": "c9d2e0dd247b21ea",
+    "dhash": "90f15171727233b6"
+  },
+  {
+    "name": "Fynn",
+    "element": "Water",
+    "file": "data/reference\\Fynn__10211.png",
+    "phash": "f5157a54a4cada34",
+    "dhash": "9456586616100589"
+  },
+  {
+    "name": "Aeilene",
+    "element": "Wind",
+    "file": "data/reference\\Aeilene__10113.png",
+    "phash": "99816586699b967b",
+    "dhash": "c283393333687113"
+  },
+  {
+    "name": "Lindermen",
+    "element": "Wind",
+    "file": "data/reference\\Lindermen__10913.png",
+    "phash": "95976db44c5939c1",
+    "dhash": "66c6d878e03cc363"
+  },
+  {
+    "name": "Allen",
+    "element": "Water",
+    "file": "data/reference\\Allen__15211.png",
+    "phash": "bf748098639ce639",
+    "dhash": "3f0e6e465b3836c9"
+  },
+  {
+    "name": "Kaimann",
+    "element": "Water",
+    "file": "data/reference\\Kaimann__11111.png",
+    "phash": "ff688023da31cf34",
+    "dhash": "86132e292c6f5e74"
+  },
+  {
+    "name": "Gamir",
+    "element": "Wind",
+    "file": "data/reference\\Gamir__10613.png",
+    "phash": "aabcc58439ed02f9",
+    "dhash": "9e25292d1ded8349"
+  },
+  {
+    "name": "Kunda",
+    "element": "Water",
+    "file": "data/reference\\Kunda__10411.png",
+    "phash": "d02dcbf03b84ad1b",
+    "dhash": "e0f0e2ac9c9cd8c1"
+  },
+  {
+    "name": "Seal",
+    "element": "Wind",
+    "file": "data/reference\\Seal__12113.png",
+    "phash": "ccfb01ec05d124fe",
+    "dhash": "e2615dd82626e2b2"
+  },
+  {
+    "name": "Roid",
+    "element": "Wind",
+    "file": "data/reference\\Roid__15213.png",
+    "phash": "bf3e025d6b0cf209",
+    "dhash": "196e6e1b1a7870cd"
+  },
+  {
+    "name": "Chichi",
+    "element": "Wind",
+    "file": "data/reference\\Chichi__13213.png",
+    "phash": "8a2ed79d215239d3",
+    "dhash": "e7630985b2b368d1"
+  },
+  {
+    "name": "Ralph",
+    "element": "Wind",
+    "file": "data/reference\\Ralph__10213.png",
+    "phash": "f1bf73f920c4902c",
+    "dhash": "525a78e3975244cd"
+  },
+  {
+    "name": "Shannon",
+    "element": "Wind",
+    "file": "data/reference\\Shannon__10313.png",
+    "phash": "887893de16d1376c",
+    "dhash": "9891979325e5d3e6"
+  },
+  {
+    "name": "Rakaja",
+    "element": "Wind",
+    "file": "data/reference\\Rakaja__10413.png",
+    "phash": "816aceb032ad8f76",
+    "dhash": "f0e0e38a8eced4e8"
+  },
+  {
+    "name": "Ramagos",
+    "element": "Wind",
+    "file": "data/reference\\Ramagos__10713.png",
+    "phash": "b19d5e8f1c4067c5",
+    "dhash": "7c389a9d5ecfcbcd"
+  },
+  {
+    "name": "Sorin",
+    "element": "Dark",
+    "file": "data/reference\\Sorin__10115.png",
+    "phash": "9abb6cc56c89c331",
+    "dhash": "13296971f0e8f0b6"
+  },
+  {
+    "name": "Rizak",
+    "element": "Dark",
+    "file": "data/reference\\Rizak__10915.png",
+    "phash": "9fb76ea41c5819c1",
+    "dhash": "2647da38e0dc8163"
+  },
+  {
+    "name": "Garok",
+    "element": "Dark",
+    "file": "data/reference\\Garok__10215.png",
+    "phash": "fbbd7365a0d0d024",
+    "dhash": "524b297bd758018d"
+  },
+  {
+    "name": "Gorgo",
+    "element": "Dark",
+    "file": "data/reference\\Gorgo__10715.png",
+    "phash": "a7fc7eba006183d1",
+    "dhash": "1d24d6d6554f4fcd"
+  },
+  {
+    "name": "Chacha",
+    "element": "Dark",
+    "file": "data/reference\\Chacha__13215.png",
+    "phash": "ca6aff91e0d28153",
+    "dhash": "1d254181d2f06854"
+  },
+  {
+    "name": "Shamar",
+    "element": "Light",
+    "file": "data/reference\\Shamar__10614.png",
+    "phash": "b0ca22db6aca4f78",
+    "dhash": "992c64acbc7a9f8f"
+  },
+  {
+    "name": "Lukan",
+    "element": "Wind",
+    "file": "data/reference\\Lukan__11113.png",
+    "phash": "f66085ae4621ef9c",
+    "dhash": "c68316892c675f76"
+  },
+  {
+    "name": "Shushu",
+    "element": "Light",
+    "file": "data/reference\\Shushu__13214.png",
+    "phash": "ea2ab799c1c219d3",
+    "dhash": "9f274181b3b36854"
+  },
+  {
+    "name": "Camaryn",
+    "element": "Dark",
+    "file": "data/reference\\Camaryn__10315.png",
+    "phash": "ee7ba3ca14613724",
+    "dhash": "194949516561eb6e"
+  },
+  {
+    "name": "Cheryl",
+    "element": "Light",
+    "file": "data/reference\\Cheryl__10314.png",
+    "phash": "80f193ce7ed1932c",
+    "dhash": "889396b727a5cbef"
+  },
+  {
+    "name": "Jansson",
+    "element": "Light",
+    "file": "data/reference\\Jansson__14814.png",
+    "phash": "8719fdb1809a687e",
+    "dhash": "9b6a59d9ecce6c66"
+  },
+  {
+    "name": "Granite",
+    "element": "Fire",
+    "file": "data/reference\\Granite__19012.png",
+    "phash": "accb95b9fcc8aa80",
+    "dhash": "1353ab353737b6b6"
+  },
+  {
+    "name": "Sharman",
+    "element": "Light",
+    "file": "data/reference\\Sharman__11114.png",
+    "phash": "c0940f7b379e7e04",
+    "dhash": "a5a5a4ad8321a3c7"
+  },
+  {
+    "name": "Arkajan",
+    "element": "Light",
+    "file": "data/reference\\Arkajan__10414.png",
+    "phash": "c36fcbb0130e0f93",
+    "dhash": "616161669c9c98c1"
+  },
+  {
+    "name": "Decamaron",
+    "element": "Dark",
+    "file": "data/reference\\Decamaron__11115.png",
+    "phash": "fee083e3c482ef18",
+    "dhash": "c6033628246f5d6e"
+  },
+  {
+    "name": "Anne",
+    "element": "Fire",
+    "file": "data/reference\\Anne__19312.png",
+    "phash": "9f68047ab7616d2a",
+    "dhash": "7979725069796874"
+  },
+  {
+    "name": "Randy",
+    "element": "Fire",
+    "file": "data/reference\\Randy__15612.png",
+    "phash": "dbe8a0f9b4651394",
+    "dhash": "9313f00c3859c3e9"
+  },
+  {
+    "name": "Ceres",
+    "element": "Fire",
+    "file": "data/reference\\Ceres__14912.png",
+    "phash": "b92f457991d62686",
+    "dhash": "1a3b2c39331b989c"
+  },
+  {
+    "name": "Taru",
+    "element": "Light",
+    "file": "data/reference\\Taru__10214.png",
+    "phash": "b95f712160dad4ac",
+    "dhash": "525a7879d3d6aa9e"
+  },
+  {
+    "name": "Xiao Chun",
+    "element": "Fire",
+    "file": "data/reference\\Xiao Chun__17212.png",
+    "phash": "d0b750156f527563",
+    "dhash": "88b40c4513b290a1"
+  },
+  {
+    "name": "Sath",
+    "element": "Fire",
+    "file": "data/reference\\Sath__16012.png",
+    "phash": "a90d75e466762aca",
+    "dhash": "56b3336bb3b31607"
+  },
+  {
+    "name": "Kungen",
+    "element": "Fire",
+    "file": "data/reference\\Kungen__13712.png",
+    "phash": "b3d1fe465310ca63",
+    "dhash": "0c2e9b99cfe11d0f"
+  },
+  {
+    "name": "Iselia",
+    "element": "Fire",
+    "file": "data/reference\\Iselia__10112.png",
+    "phash": "9efa68c169998639",
+    "dhash": "032d6970f0687032"
+  },
+  {
+    "name": "Kugo",
+    "element": "Fire",
+    "file": "data/reference\\Kugo__11412.png",
+    "phash": "c33f8c314f373432",
+    "dhash": "f1f15969c98eccf0"
+  },
+  {
+    "name": "Lucasha",
+    "element": "Fire",
+    "file": "data/reference\\Lucasha__10512.png",
+    "phash": "bbe141bbaa789c60",
+    "dhash": "8b4b373b2b313960"
+  },
+  {
+    "name": "Nangrim",
+    "element": "Fire",
+    "file": "data/reference\\Nangrim__18512.png",
+    "phash": "df7220cb362ccbc8",
+    "dhash": "2509616468626272"
+  },
+  {
+    "name": "Kahli",
+    "element": "Fire",
+    "file": "data/reference\\Kahli__12012.png",
+    "phash": "e8dca0815ea57a7c",
+    "dhash": "b2371732318bd63b"
+  },
+  {
+    "name": "Raoq",
+    "element": "Fire",
+    "file": "data/reference\\Raoq__11012.png",
+    "phash": "ff9710c9c8c0ed70",
+    "dhash": "ce4c4d4653578d1b"
+  },
+  {
+    "name": "Amanda",
+    "element": "Fire",
+    "file": "data/reference\\Amanda__15412.png",
+    "phash": "ba4adc9263a4c573",
+    "dhash": "a13173674b2a3616"
+  },
+  {
+    "name": "Burentau",
+    "element": "Fire",
+    "file": "data/reference\\Burentau__17712.png",
+    "phash": "aabeb4d28383f0e4",
+    "dhash": "2f2727532391c3d6"
+  },
+  {
+    "name": "Iron",
+    "element": "Fire",
+    "file": "data/reference\\Iron__16512.png",
+    "phash": "f5f18f03d0dd490c",
+    "dhash": "5858129c9c5b6262"
+  },
+  {
+    "name": "Mei",
+    "element": "Fire",
+    "file": "data/reference\\Mei__15012.png",
+    "phash": "ab72f439ccc66198",
+    "dhash": "3359a9f17b5b7222"
+  },
+  {
+    "name": "Spectra",
+    "element": "Fire",
+    "file": "data/reference\\Spectra__11512.png",
+    "phash": "ee78f85d8d970109",
+    "dhash": "300f87e7e360703b"
+  },
+  {
+    "name": "Fairo",
+    "element": "Fire",
+    "file": "data/reference\\Fairo__15812.png",
+    "phash": "ba95d130636093df",
+    "dhash": "9c346cec759db743"
+  },
+  {
+    "name": "Krakdon",
+    "element": "Fire",
+    "file": "data/reference\\Krakdon__11112.png",
+    "phash": "fe608163d4a1cfb4",
+    "dhash": "c6032229246b5e7c"
+  },
+  {
+    "name": "Igmanodon",
+    "element": "Fire",
+    "file": "data/reference\\Igmanodon__17812.png",
+    "phash": "d62d3495874a6a7a",
+    "dhash": "f67625616824b0cc"
+  },
+  {
+    "name": "Rebecca",
+    "element": "Fire",
+    "file": "data/reference\\Rebecca__15912.png",
+    "phash": "da67f8d28129d661",
+    "dhash": "992927c6d13933bb"
+  },
+  {
+    "name": "Fao",
+    "element": "Fire",
+    "file": "data/reference\\Fao__11312.png",
+    "phash": "bd72c03da43e415e",
+    "dhash": "9d8b0f17161232a2"
+  },
+  {
+    "name": "Naki",
+    "element": "Fire",
+    "file": "data/reference\\Naki__18712.png",
+    "phash": "fde135c82295c2c7",
+    "dhash": "9a1a5ab6a9b3360c"
+  },
+  {
+    "name": "Geoffrey",
+    "element": "Fire",
+    "file": "data/reference\\Geoffrey__14812.png",
+    "phash": "c2d8f8a2869a6b9e",
+    "dhash": "a19471f0ecce6c66"
+  },
+  {
+    "name": "Gunpyeong",
+    "element": "Fire",
+    "file": "data/reference\\Gunpyeong__18412.png",
+    "phash": "e16e4054393abf8b",
+    "dhash": "8486671b12a694d6"
+  },
+  {
+    "name": "Surtr",
+    "element": "Fire",
+    "file": "data/reference\\Surtr__18812.png",
+    "phash": "94323c93b89c65e7",
+    "dhash": "b47cecf4fc7474b6"
+  },
+  {
+    "name": "Kai'en",
+    "element": "Fire",
+    "file": "data/reference\\Kaien__15212.png",
+    "phash": "bf7e0679620cf209",
+    "dhash": "396e6f1b1b3b77cd"
+  },
+  {
+    "name": "Draco",
+    "element": "Fire",
+    "file": "data/reference\\Draco__18012.png",
+    "phash": "ac1ee989607e27e2",
+    "dhash": "1b3b2c24957a4bc6"
+  },
+  {
+    "name": "Garoche",
+    "element": "Fire",
+    "file": "data/reference\\Garoche__14012.png",
+    "phash": "a9d16871a935dc35",
+    "dhash": "93c9d4d6d3db53b7"
+  },
+  {
+    "name": "Tagaros",
+    "element": "Fire",
+    "file": "data/reference\\Tagaros__11712.png",
+    "phash": "fed0a0e8e2e0ed29",
+    "dhash": "9534766c69333337"
+  },
+  {
+    "name": "Chloe",
+    "element": "Fire",
+    "file": "data/reference\\Chloe__15312.png",
+    "phash": "bfab64d0e911c469",
+    "dhash": "3b3b7b5b3bb07036"
+  },
+  {
+    "name": "Hong Hua",
+    "element": "Fire",
+    "file": "data/reference\\Hong Hua__17312.png",
+    "phash": "ab4a85dd604eb963",
+    "dhash": "a769692d1b3a4dcf"
+  },
+  {
+    "name": "Shihwa",
+    "element": "Fire",
+    "file": "data/reference\\Shihwa__11212.png",
+    "phash": "bb7af48701c628e6",
+    "dhash": "332b35796b7d643a"
+  },
+  {
+    "name": "Arnold",
+    "element": "Fire",
+    "file": "data/reference\\Arnold__16212.png",
+    "phash": "bdfdd410cab4c854",
+    "dhash": "362e0f0f0f0f2eea"
+  },
+  {
+    "name": "Zibrolta",
+    "element": "Fire",
+    "file": "data/reference\\Zibrolta__18112.png",
+    "phash": "d6be4cda18c51c66",
+    "dhash": "6075644c0c10c666"
+  },
+  {
+    "name": "Antares",
+    "element": "Fire",
+    "file": "data/reference\\Antares__16312.png",
+    "phash": "aff5f548420aa2ad",
+    "dhash": "36362b697171732a"
+  },
+  {
+    "name": "Jojo",
+    "element": "Fire",
+    "file": "data/reference\\Jojo__13412.png",
+    "phash": "bf6560e0d9c6a439",
+    "dhash": "921365791b672539"
+  },
+  {
+    "name": "Clara",
+    "element": "Fire",
+    "file": "data/reference\\Clara__13912.png",
+    "phash": "d43b924acb6d3c94",
+    "dhash": "71d88ccaf0b4f08c"
+  },
+  {
+    "name": "Ramira",
+    "element": "Water",
+    "file": "data/reference\\Ramira__10511.png",
+    "phash": "dfe50a938261ae65",
+    "dhash": "f878620a1a717961"
+  },
+  {
+    "name": "Hwahee",
+    "element": "Fire",
+    "file": "data/reference\\Hwahee__18312.png",
+    "phash": "883765ea2d6dd225",
+    "dhash": "efe56973f1c9f2b2"
+  },
+  {
+    "name": "Hwa",
+    "element": "Fire",
+    "file": "data/reference\\Hwa__15512.png",
+    "phash": "bf7f60696c248998",
+    "dhash": "231d5c6d39597537"
+  },
+  {
+    "name": "Jean",
+    "element": "Fire",
+    "file": "data/reference\\Jean__14112.png",
+    "phash": "aa0771cd36c9cab1",
+    "dhash": "4327d9c737331399"
+  },
+  {
+    "name": "Garo",
+    "element": "Fire",
+    "file": "data/reference\\Garo__13512.png",
+    "phash": "ad5bb19d44a4e855",
+    "dhash": "1e5b49e573339616"
+  },
+  {
+    "name": "Jun",
+    "element": "Fire",
+    "file": "data/reference\\Jun__16912.png",
+    "phash": "997ee208e19bd629",
+    "dhash": "01215858b2b8bbef"
+  },
+  {
+    "name": "Fria",
+    "element": "Fire",
+    "file": "data/reference\\Fria__11912.png",
+    "phash": "fa1e87b302786ac5",
+    "dhash": "593937399b1b1b46"
+  },
+  {
+    "name": "Akia",
+    "element": "Fire",
+    "file": "data/reference\\Akia__13312.png",
+    "phash": "fa75758a57055702",
+    "dhash": "1d332b333139332b"
+  },
+  {
+    "name": "Baretta",
+    "element": "Fire",
+    "file": "data/reference\\Baretta__11812.png",
+    "phash": "fa5d846832ad1ad5",
+    "dhash": "a32071551929838c"
+  },
+  {
+    "name": "Rakan",
+    "element": "Fire",
+    "file": "data/reference\\Rakan__14612.png",
+    "phash": "f09f11b726a4e48d",
+    "dhash": "3c1933244c0c9b89"
+  },
+  {
+    "name": "Kumar",
+    "element": "Fire",
+    "file": "data/reference\\Kumar__17412.png",
+    "phash": "dff4f9cac8281283",
+    "dhash": "30646c6461697373"
+  },
+  {
+    "name": "Atenai",
+    "element": "Fire",
+    "file": "data/reference\\Atenai__11612.png",
+    "phash": "8e61a54bd6897635",
+    "dhash": "428632717179336c"
+  },
+  {
+    "name": "Velajuel",
+    "element": "Fire",
+    "file": "data/reference\\Velajuel__17012.png",
+    "phash": "a827f5dce6718a21",
+    "dhash": "266b4b1b313133b4"
+  },
+  {
+    "name": "Verdehile",
+    "element": "Fire",
+    "file": "data/reference\\Verdehile__14712.png",
+    "phash": "8ae50e9929c67d69",
+    "dhash": "fcececc9dbf9f9f1"
+  },
+  {
+    "name": "Raki",
+    "element": "Fire",
+    "file": "data/reference\\Raki__17912.png",
+    "phash": "f82731a03ccbda6c",
+    "dhash": "9f5f7161b7b191b1"
+  },
+  {
+    "name": "Zaiross",
+    "element": "Fire",
+    "file": "data/reference\\Zaiross__14412.png",
+    "phash": "fbe4d8638207365c",
+    "dhash": "c9132441015d5a38"
+  },
+  {
+    "name": "Tesarion",
+    "element": "Fire",
+    "file": "data/reference\\Tesarion__19212.png",
+    "phash": "97181e66cb63e383",
+    "dhash": "69b01a0f960f4d54"
+  },
+  {
+    "name": "Laika",
+    "element": "Fire",
+    "file": "data/reference\\Laika__16612.png",
+    "phash": "bbadf1d074908c27",
+    "dhash": "1a0b673564f4d959"
+  },
+  {
+    "name": "Juno",
+    "element": "Fire",
+    "file": "data/reference\\Juno__15712.png",
+    "phash": "cbe276a46d9a9249",
+    "dhash": "ccccc9d1d3f17812"
+  },
+  {
+    "name": "Mei Hou Wang",
+    "element": "Fire",
+    "file": "data/reference\\Mei Hou Wang__16812.png",
+    "phash": "bf1f60d46233d03c",
+    "dhash": "4d7279692b761697"
+  },
+  {
+    "name": "Rica",
+    "element": "Fire",
+    "file": "data/reference\\Rica__16112.png",
+    "phash": "d007a33c36c73d6c",
+    "dhash": "e4d9d1f034b2f099"
+  },
+  {
+    "name": "Perna",
+    "element": "Fire",
+    "file": "data/reference\\Perna__14512.png",
+    "phash": "baf295398b94c8e2",
+    "dhash": "1c09a5751b3d76f0"
+  },
+  {
+    "name": "Brandia",
+    "element": "Fire",
+    "file": "data/reference\\Brandia__18912.png",
+    "phash": "8d82f11f24fa936c",
+    "dhash": "e5f3d1e2f6603392"
+  },
+  {
+    "name": "Vanessa",
+    "element": "Fire",
+    "file": "data/reference\\Vanessa__13812.png",
+    "phash": "be64b1b6618c60ee",
+    "dhash": "3d393571496d793b"
+  },
+  {
+    "name": "Ellin",
+    "element": "Water",
+    "file": "data/reference\\Ellin__14911.png",
+    "phash": "bb21c0fbb1d2aa86",
+    "dhash": "1bb32c19131b3898"
+  },
+  {
+    "name": "Gruda",
+    "element": "Water",
+    "file": "data/reference\\Gruda__13711.png",
+    "phash": "d036d5d2064bb3cb",
+    "dhash": "4c341fadb49c9188"
+  },
+  {
+    "name": "Chiwu",
+    "element": "Fire",
+    "file": "data/reference\\Chiwu__18612.png",
+    "phash": "c0e2fd9cb36a08b5",
+    "dhash": "1894c9c9e4a0d496"
+  },
+  {
+    "name": "Talc",
+    "element": "Water",
+    "file": "data/reference\\Talc__19011.png",
+    "phash": "accb85b9dcc8aa85",
+    "dhash": "13b3ab353717b6b6"
+  },
+  {
+    "name": "Wayne",
+    "element": "Water",
+    "file": "data/reference\\Wayne__15611.png",
+    "phash": "d92cc5db36010ebe",
+    "dhash": "e2b271483870d1c8"
+  },
+  {
+    "name": "Gangchun",
+    "element": "Water",
+    "file": "data/reference\\Gangchun__18511.png",
+    "phash": "cf7220cf360ccfc8",
+    "dhash": "2549616568626272"
+  },
+  {
+    "name": "Ellena",
+    "element": "Water",
+    "file": "data/reference\\Ellena__12011.png",
+    "phash": "fc8e80c11ec53a7e",
+    "dhash": "b2b72b32218b9631"
+  },
+  {
+    "name": "Yaku",
+    "element": "Water",
+    "file": "data/reference\\Yaku__15811.png",
+    "phash": "9690d5605360dbdf",
+    "dhash": "98b46cec5d1d2751"
+  },
+  {
+    "name": "Kernodon",
+    "element": "Water",
+    "file": "data/reference\\Kernodon__17811.png",
+    "phash": "d62d3058834bea7e",
+    "dhash": "f53625616824e8cc"
+  },
+  {
+    "name": "Icaru",
+    "element": "Water",
+    "file": "data/reference\\Icaru__11011.png",
+    "phash": "e98734dc98e08f72",
+    "dhash": "b64e49c21333859b"
+  },
+  {
+    "name": "Nickel",
+    "element": "Water",
+    "file": "data/reference\\Nickel__16511.png",
+    "phash": "f5f08f22d03d6a34",
+    "dhash": "14585a9e9cdd6262"
+  },
+  {
+    "name": "Sharron",
+    "element": "Water",
+    "file": "data/reference\\Sharron__15411.png",
+    "phash": "d541a8177384d57b",
+    "dhash": "a4b170664a683435"
+  },
+  {
+    "name": "Megan",
+    "element": "Water",
+    "file": "data/reference\\Megan__15911.png",
+    "phash": "d94ad89834be6695",
+    "dhash": "91c94a07f6f22a32"
+  },
+  {
+    "name": "Toma",
+    "element": "Water",
+    "file": "data/reference\\Toma__18711.png",
+    "phash": "e9c135c9222de86f",
+    "dhash": "db881ab2ebb3360c"
+  },
+  {
+    "name": "Urtau",
+    "element": "Water",
+    "file": "data/reference\\Urtau__17711.png",
+    "phash": "aabfb4928381f0f4",
+    "dhash": "2f2f27d34397e786"
+  },
+  {
+    "name": "Vigor",
+    "element": "Water",
+    "file": "data/reference\\Vigor__14011.png",
+    "phash": "85d22a738dd5ca27",
+    "dhash": "8dcdf4f6d2d916b7"
+  },
+  {
+    "name": "Purian",
+    "element": "Water",
+    "file": "data/reference\\Purian__11711.png",
+    "phash": "fe32e8c9b3a42529",
+    "dhash": "8735744c59732327"
+  },
+  {
+    "name": "Mina",
+    "element": "Water",
+    "file": "data/reference\\Mina__15011.png",
+    "phash": "dd22fe39cc82299a",
+    "dhash": "38588ae4321a7022"
+  },
+  {
+    "name": "Sera",
+    "element": "Water",
+    "file": "data/reference\\Sera__19311.png",
+    "phash": "9f6804dbb5612d6a",
+    "dhash": "6979717169796976"
+  },
+  {
+    "name": "Mao",
+    "element": "Water",
+    "file": "data/reference\\Mao__17211.png",
+    "phash": "d4a742154752af73",
+    "dhash": "c894056c023290a1"
+  },
+  {
+    "name": "Hina",
+    "element": "Wind",
+    "file": "data/reference\\Hina__14913.png",
+    "phash": "bb2bc1fba2960e84",
+    "dhash": "599b27291b1b39f0"
+  },
+  {
+    "name": "Dagora",
+    "element": "Water",
+    "file": "data/reference\\Dagora__10711.png",
+    "phash": "96f632db2280cb97",
+    "dhash": "5c3ce7e67e73fcfc"
+  },
+  {
+    "name": "Shailoq",
+    "element": "Water",
+    "file": "data/reference\\Shailoq__11311.png",
+    "phash": "fd72c035b41e415e",
+    "dhash": "9d1b1b1616363222"
+  },
+  {
+    "name": "Suri",
+    "element": "Wind",
+    "file": "data/reference\\Suri__18513.png",
+    "phash": "cff220cb362ccbc8",
+    "dhash": "2549616468626672"
+  },
+  {
+    "name": "Hannah",
+    "element": "Wind",
+    "file": "data/reference\\Hannah__19313.png",
+    "phash": "9f58047bb7706c2c",
+    "dhash": "7979337169794974"
+  },
+  {
+    "name": "Huan",
+    "element": "Wind",
+    "file": "data/reference\\Huan__17213.png",
+    "phash": "d0b750192e573d63",
+    "dhash": "c894046d0b92d8e0"
+  },
+  {
+    "name": "Roger",
+    "element": "Wind",
+    "file": "data/reference\\Roger__15613.png",
+    "phash": "cb0d8bfb34471516",
+    "dhash": "d393b0443c1949eb"
+  },
+  {
+    "name": "Olivine",
+    "element": "Wind",
+    "file": "data/reference\\Olivine__19013.png",
+    "phash": "acdb85b1ae38aa38",
+    "dhash": "56cf3f3537b7b666"
+  },
+  {
+    "name": "Dagorr",
+    "element": "Wind",
+    "file": "data/reference\\Dagorr__13713.png",
+    "phash": "b3d1fc465310caab",
+    "dhash": "8c2e9b99cfe11d0f"
+  },
+  {
+    "name": "Michelle",
+    "element": "Wind",
+    "file": "data/reference\\Michelle__15313.png",
+    "phash": "9ba144956b33c66d",
+    "dhash": "dbbb275b3bb07861"
+  },
+  {
+    "name": "Hiva",
+    "element": "Wind",
+    "file": "data/reference\\Hiva__16013.png",
+    "phash": "e909f5646726cc5a",
+    "dhash": "9793b32bb3b31707"
+  },
+  {
+    "name": "Prilea",
+    "element": "Wind",
+    "file": "data/reference\\Prilea__10513.png",
+    "phash": "b91f9d9182a38ce6",
+    "dhash": "7838238bab191bb1"
+  },
+  {
+    "name": "Ragion",
+    "element": "Wind",
+    "file": "data/reference\\Ragion__11413.png",
+    "phash": "c33fcc314f173432",
+    "dhash": "f5f3596bc9ccc8f0"
+  },
+  {
+    "name": "Moria",
+    "element": "Wind",
+    "file": "data/reference\\Moria__12013.png",
+    "phash": "cccca181bad7ab70",
+    "dhash": "b3b72b7131ebd41b"
+  },
+  {
+    "name": "Anduril",
+    "element": "Wind",
+    "file": "data/reference\\Anduril__11713.png",
+    "phash": "d8dad22b682daa96",
+    "dhash": "31383092d5d7ceac"
+  },
+  {
+    "name": "Velfinodon",
+    "element": "Wind",
+    "file": "data/reference\\Velfinodon__17813.png",
+    "phash": "d62d2109875aeaf6",
+    "dhash": "773625606420eccc"
+  },
+  {
+    "name": "Pigma",
+    "element": "Wind",
+    "file": "data/reference\\Pigma__15813.png",
+    "phash": "9691d52941765bd5",
+    "dhash": "9c746cace3792568"
+  },
+  {
+    "name": "Bernard",
+    "element": "Wind",
+    "file": "data/reference\\Bernard__11513.png",
+    "phash": "8e7838d24f871759",
+    "dhash": "359747e7e3e1f273"
+  },
+  {
+    "name": "Ramahan",
+    "element": "Wind",
+    "file": "data/reference\\Ramahan__11013.png",
+    "phash": "eb9730dc88e08f72",
+    "dhash": "964c4d825333859b"
+  },
+  {
+    "name": "Copper",
+    "element": "Wind",
+    "file": "data/reference\\Copper__16513.png",
+    "phash": "f7f08f22d09d6825",
+    "dhash": "595c1a9e9c576262"
+  },
+  {
+    "name": "Ardella",
+    "element": "Wind",
+    "file": "data/reference\\Ardella__15413.png",
+    "phash": "d0a90a15678cdd7b",
+    "dhash": "e5b171e24abcbdb5"
+  },
+  {
+    "name": "Lyn",
+    "element": "Light",
+    "file": "data/reference\\Lyn__14914.png",
+    "phash": "9925c1f997b62646",
+    "dhash": "9a93ad3832339194"
+  },
+  {
+    "name": "Ermeda",
+    "element": "Wind",
+    "file": "data/reference\\Ermeda__11313.png",
+    "phash": "dab5027a11b42dee",
+    "dhash": "9f9b969c193131f1"
+  },
+  {
+    "name": "Silia",
+    "element": "Wind",
+    "file": "data/reference\\Silia__15913.png",
+    "phash": "cae2085ac19d9f6d",
+    "dhash": "992967c0c129b2b2"
+  },
+  {
+    "name": "Naomi",
+    "element": "Wind",
+    "file": "data/reference\\Naomi__15013.png",
+    "phash": "99a2c47becd6311a",
+    "dhash": "3c4a8dd53b1ab0b2"
+  },
+  {
+    "name": "Shakan",
+    "element": "Wind",
+    "file": "data/reference\\Shakan__14013.png",
+    "phash": "a1e12a79ad35cc35",
+    "dhash": "93cbf4f6d2d117b7"
+  },
+  {
+    "name": "Eintau",
+    "element": "Wind",
+    "file": "data/reference\\Eintau__17713.png",
+    "phash": "aaafb4ba8381a8f4",
+    "dhash": "6f2767c315b5c78e"
+  },
+  {
+    "name": "Ahman",
+    "element": "Light",
+    "file": "data/reference\\Ahman__13714.png",
+    "phash": "da95557e761011e9",
+    "dhash": "1068d9b92d393110"
+  },
+  {
+    "name": "Mav",
+    "element": "Wind",
+    "file": "data/reference\\Mav__18713.png",
+    "phash": "ad4125c9232d7ec7",
+    "dhash": "c3ca1ab6e3b3b61e"
+  },
+  {
+    "name": "Baekdu",
+    "element": "Light",
+    "file": "data/reference\\Baekdu__18514.png",
+    "phash": "ac82b26c266ddbd8",
+    "dhash": "e48ce366a223369e"
+  },
+  {
+    "name": "Marble",
+    "element": "Light",
+    "file": "data/reference\\Marble__19014.png",
+    "phash": "b84aa5b39cc0ab9d",
+    "dhash": "13b33331331f9636"
+  },
+  {
+    "name": "Loren",
+    "element": "Light",
+    "file": "data/reference\\Loren__19314.png",
+    "phash": "de7865d665216d18",
+    "dhash": "3939333129694c72"
+  },
+  {
+    "name": "Priz",
+    "element": "Light",
+    "file": "data/reference\\Priz__10814.png",
+    "phash": "cbd221df24daa3a8",
+    "dhash": "e0d0d161717333b3"
+  },
+  {
+    "name": "Walkers",
+    "element": "Light",
+    "file": "data/reference\\Walkers__15614.png",
+    "phash": "cacb0f9a859f1564",
+    "dhash": "71918360b1396176"
+  },
+  {
+    "name": "Sia",
+    "element": "Light",
+    "file": "data/reference\\Sia__12114.png",
+    "phash": "eccad12c7dc124bc",
+    "dhash": "e26925662726b296"
+  },
+  {
+    "name": "Teon",
+    "element": "Light",
+    "file": "data/reference\\Teon__10914.png",
+    "phash": "99d365345c503be3",
+    "dhash": "a24fdbb0623d8722"
+  },
+  {
+    "name": "Shamann",
+    "element": "Light",
+    "file": "data/reference\\Shamann__11514.png",
+    "phash": "ae957888ce86665d",
+    "dhash": "b59e6ee7e3613025"
+  },
+  {
+    "name": "Groggo",
+    "element": "Light",
+    "file": "data/reference\\Groggo__11414.png",
+    "phash": "83af8c701e3f3632",
+    "dhash": "f5f35949ddc8cce0"
+  },
+  {
+    "name": "Neal",
+    "element": "Light",
+    "file": "data/reference\\Neal__10114.png",
+    "phash": "c9c146c75c999675",
+    "dhash": "c292bb333369310d"
+  },
+  {
+    "name": "Tien Qin",
+    "element": "Light",
+    "file": "data/reference\\Tien Qin__17214.png",
+    "phash": "d0b7d0392e55ad23",
+    "dhash": "8894046d0bb298a1"
+  },
+  {
+    "name": "Prom",
+    "element": "Light",
+    "file": "data/reference\\Prom__16014.png",
+    "phash": "e959f1a06776a642",
+    "dhash": "96b2232b93b70e07"
+  },
+  {
+    "name": "Fran",
+    "element": "Light",
+    "file": "data/reference\\Fran__19114.png",
+    "phash": "d8a7c295694e8679",
+    "dhash": "d8d86d3312f42889"
+  },
+  {
+    "name": "Belladeon",
+    "element": "Light",
+    "file": "data/reference\\Belladeon__11014.png",
+    "phash": "e187369c99e48f70",
+    "dhash": "964ccfc293338799"
+  },
+  {
+    "name": "Kabilla",
+    "element": "Light",
+    "file": "data/reference\\Kabilla__10514.png",
+    "phash": "a19eefa01e7388e4",
+    "dhash": "6b6b93a9bb9b0f47"
+  },
+  {
+    "name": "Eludain",
+    "element": "Light",
+    "file": "data/reference\\Eludain__11714.png",
+    "phash": "dc54ecebb2752901",
+    "dhash": "3331742c29333237"
+  },
+  {
+    "name": "Grotau",
+    "element": "Light",
+    "file": "data/reference\\Grotau__17714.png",
+    "phash": "8d0b7cfda08d30f4",
+    "dhash": "7361f0d3e072e2a2"
+  },
+  {
+    "name": "Shaffron",
+    "element": "Light",
+    "file": "data/reference\\Shaffron__15814.png",
+    "phash": "9695d76841749b65",
+    "dhash": "5c347caea331054c"
+  },
+  {
+    "name": "Silver",
+    "element": "Light",
+    "file": "data/reference\\Silver__16514.png",
+    "phash": "c7939f42e039cacc",
+    "dhash": "5948739c85456262"
+  },
+  {
+    "name": "Glinodon",
+    "element": "Light",
+    "file": "data/reference\\Glinodon__17814.png",
+    "phash": "d62d2049a75b62f6",
+    "dhash": "56b62d686421e0cc"
+  },
+  {
+    "name": "Eshir",
+    "element": "Light",
+    "file": "data/reference\\Eshir__14014.png",
+    "phash": "adf622418dd5da0d",
+    "dhash": "cecd747672d97637"
+  },
+  {
+    "name": "Linda",
+    "element": "Light",
+    "file": "data/reference\\Linda__15914.png",
+    "phash": "c8a2195a739d9b69",
+    "dhash": "99c9cec081693232"
+  },
+  {
+    "name": "Darion",
+    "element": "Light",
+    "file": "data/reference\\Darion__15214.png",
+    "phash": "bfa68698639cc689",
+    "dhash": "0f6e6e1b1b38364d"
+  },
+  {
+    "name": "Xiao Ling",
+    "element": "Light",
+    "file": "data/reference\\Xiao Ling__15014.png",
+    "phash": "91aad47fec42398a",
+    "dhash": "3958c995393af8bc"
+  },
+  {
+    "name": "Lusha",
+    "element": "Light",
+    "file": "data/reference\\Lusha__10714.png",
+    "phash": "98fa159f17d06ca4",
+    "dhash": "78388bbd7efb98de"
+  },
+  {
+    "name": "Dona",
+    "element": "Light",
+    "file": "data/reference\\Dona__18714.png",
+    "phash": "a89101cb2a2df97f",
+    "dhash": "db9c1eb6a9b3168c"
+  },
+  {
+    "name": "Elpuria",
+    "element": "Light",
+    "file": "data/reference\\Elpuria__11314.png",
+    "phash": "c0a583da5374b5ce",
+    "dhash": "d4cb969099b1b1d1"
+  },
+  {
+    "name": "Shren",
+    "element": "Light",
+    "file": "data/reference\\Shren__12014.png",
+    "phash": "81a0559ff15f9760",
+    "dhash": "f6a6e369ca6070d0"
+  },
+  {
+    "name": "Mara",
+    "element": "Dark",
+    "file": "data/reference\\Mara__14915.png",
+    "phash": "bb2a80fbb1d2aa86",
+    "dhash": "19332d19131bf8d8"
+  },
+  {
+    "name": "Camules",
+    "element": "Dark",
+    "file": "data/reference\\Camules__10815.png",
+    "phash": "8dca70e5d05aa4eb",
+    "dhash": "92e2757762763a3e"
+  },
+  {
+    "name": "Basalt",
+    "element": "Dark",
+    "file": "data/reference\\Basalt__19015.png",
+    "phash": "bccb84bcde5889c4",
+    "dhash": "37b7733d343e3c24"
+  },
+  {
+    "name": "Jamie",
+    "element": "Dark",
+    "file": "data/reference\\Jamie__15615.png",
+    "phash": "dbece0f974670094",
+    "dhash": "9313f00c385949eb"
+  },
+  {
+    "name": "Cassie",
+    "element": "Dark",
+    "file": "data/reference\\Cassie__19315.png",
+    "phash": "9f120176fe616978",
+    "dhash": "7878527879797072"
+  },
+  {
+    "name": "Hanra",
+    "element": "Dark",
+    "file": "data/reference\\Hanra__18515.png",
+    "phash": "df7220db340ccfc8",
+    "dhash": "2509632479617372"
+  },
+  {
+    "name": "Thrain",
+    "element": "Dark",
+    "file": "data/reference\\Thrain__16015.png",
+    "phash": "a90db6e467366cc8",
+    "dhash": "56b3336bb3b3170f"
+  },
+  {
+    "name": "Rasheed",
+    "element": "Dark",
+    "file": "data/reference\\Rasheed__15315.png",
+    "phash": "d3ea22ca293f846d",
+    "dhash": "b93c645a1ab05888"
+  },
+  {
+    "name": "Wei Shin",
+    "element": "Dark",
+    "file": "data/reference\\Wei Shin__17215.png",
+    "phash": "d5bc025d77463a46",
+    "dhash": "8894056c4a50d8d8"
+  },
+  {
+    "name": "Haken",
+    "element": "Dark",
+    "file": "data/reference\\Haken__13715.png",
+    "phash": "b3907c4efb30ca23",
+    "dhash": "342ed9dd4be1150f"
+  },
+  {
+    "name": "Maggi",
+    "element": "Dark",
+    "file": "data/reference\\Maggi__11415.png",
+    "phash": "c33f8c724f333432",
+    "dhash": "35f3d86bd9ccc8e0"
+  },
+  {
+    "name": "Hellea",
+    "element": "Dark",
+    "file": "data/reference\\Hellea__10515.png",
+    "phash": "dfe302399661ae86",
+    "dhash": "49192b2a3839b070"
+  },
+  {
+    "name": "Shumar",
+    "element": "Dark",
+    "file": "data/reference\\Shumar__10615.png",
+    "phash": "bab4958533cd0679",
+    "dhash": "96262d2d1de59319"
+  },
+  {
+    "name": "Drogan",
+    "element": "Dark",
+    "file": "data/reference\\Drogan__11715.png",
+    "phash": "fadbc0a060e5eaa9",
+    "dhash": "93293914954b0aac"
+  },
+  {
+    "name": "Varus",
+    "element": "Dark",
+    "file": "data/reference\\Varus__11515.png",
+    "phash": "eefcfa7a0f030405",
+    "dhash": "292736e663a1c363"
+  },
+  {
+    "name": "Devinodon",
+    "element": "Dark",
+    "file": "data/reference\\Devinodon__17815.png",
+    "phash": "962da494c74aea7a",
+    "dhash": "7606157164b07c6c"
+  },
+  {
+    "name": "Seren",
+    "element": "Dark",
+    "file": "data/reference\\Seren__12115.png",
+    "phash": "cb302cfec0c13caf",
+    "dhash": "ae2d5bd965656323"
+  },
+  {
+    "name": "Loque",
+    "element": "Dark",
+    "file": "data/reference\\Loque__15815.png",
+    "phash": "b8e0dda868f091dd",
+    "dhash": "a76f9c8d83b92474"
+  },
+  {
+    "name": "Kro",
+    "element": "Dark",
+    "file": "data/reference\\Kro__11015.png",
+    "phash": "ffd720d880c0fd70",
+    "dhash": "944c484051738597"
+  },
+  {
+    "name": "Miho",
+    "element": "Dark",
+    "file": "data/reference\\Miho__15015.png",
+    "phash": "bf2af0df60d06780",
+    "dhash": "1b19cd657b7a389e"
+  },
+  {
+    "name": "Gina",
+    "element": "Dark",
+    "file": "data/reference\\Gina__15915.png",
+    "phash": "d56ad2d91a385b70",
+    "dhash": "59c907cef2e0a0c8"
+  },
+  {
+    "name": "Woonhak",
+    "element": "Dark",
+    "file": "data/reference\\Woonhak__18415.png",
+    "phash": "d56402503b3ebfa9",
+    "dhash": "9186661a1af0f078"
+  },
+  {
+    "name": "Kamatau",
+    "element": "Dark",
+    "file": "data/reference\\Kamatau__17715.png",
+    "phash": "82cdad78b1853cf4",
+    "dhash": "736166eb9d9dcdcc"
+  },
+  {
+    "name": "Zinc",
+    "element": "Dark",
+    "file": "data/reference\\Zinc__16515.png",
+    "phash": "f5b18f03c0ddc98a",
+    "dhash": "595a129c9d5b6260"
+  },
+  {
+    "name": "Jumaline",
+    "element": "Dark",
+    "file": "data/reference\\Jumaline__12015.png",
+    "phash": "ff2ea0c00f80ab7e",
+    "dhash": "252763612b9a943b"
+  },
+  {
+    "name": "Mantura",
+    "element": "Dark",
+    "file": "data/reference\\Mantura__11315.png",
+    "phash": "be71e81a90d7634a",
+    "dhash": "1b170f3c357565e7"
+  },
+  {
+    "name": "Janssen",
+    "element": "Dark",
+    "file": "data/reference\\Janssen__14815.png",
+    "phash": "8fc9eda2c889aaaa",
+    "dhash": "e34673f0edcd4c4e"
+  },
+  {
+    "name": "Jubelle",
+    "element": "Dark",
+    "file": "data/reference\\Jubelle__15215.png",
+    "phash": "ff6c809a639ce219",
+    "dhash": "2d0f26465a3870c9"
+  },
+  {
+    "name": "Fuco",
+    "element": "Wind",
+    "file": "data/reference\\Fuco__16313.png",
+    "phash": "afb4b508022abddd",
+    "dhash": "b62e2b617171732b"
+  },
+  {
+    "name": "Lushen",
+    "element": "Wind",
+    "file": "data/reference\\Lushen__13413.png",
+    "phash": "9f2568d4d9c6a439",
+    "dhash": "b21b64791b642539"
+  },
+  {
+    "name": "Briand",
+    "element": "Wind",
+    "file": "data/reference\\Briand__16213.png",
+    "phash": "adbdd401cba5007f",
+    "dhash": "922a0f0f078b2ea8"
+  },
+  {
+    "name": "Jultan",
+    "element": "Dark",
+    "file": "data/reference\\Jultan__14015.png",
+    "phash": "a3e328f1283df136",
+    "dhash": "93d55647cdcb53f3"
+  },
+  {
+    "name": "Hraesvelg",
+    "element": "Wind",
+    "file": "data/reference\\Hraesvelg__18813.png",
+    "phash": "94a32c9f81dc6763",
+    "dhash": "f8fcecf4fc7434b6"
+  },
+  {
+    "name": "Ling Ling",
+    "element": "Wind",
+    "file": "data/reference\\Ling Ling__17313.png",
+    "phash": "ab6a84dd600e39f3",
+    "dhash": "c7696d051b7a45cf"
+  },
+  {
+    "name": "Taurus",
+    "element": "Wind",
+    "file": "data/reference\\Taurus__18113.png",
+    "phash": "d6ba4d5331667c24",
+    "dhash": "1d51649c88d8c462"
+  },
+  {
+    "name": "Sophia",
+    "element": "Wind",
+    "file": "data/reference\\Sophia__13913.png",
+    "phash": "d49ac36be9acc0c5",
+    "dhash": "59f8acb422b6b68e"
+  },
+  {
+    "name": "Orochi",
+    "element": "Wind",
+    "file": "data/reference\\Orochi__13513.png",
+    "phash": "99e3f41d649a215b",
+    "dhash": "9ed9d9c97372b016"
+  },
+  {
+    "name": "Aquila",
+    "element": "Wind",
+    "file": "data/reference\\Aquila__18013.png",
+    "phash": "96b89b99217e4713",
+    "dhash": "3b382ca5de6c48c4"
+  },
+  {
+    "name": "Arang",
+    "element": "Wind",
+    "file": "data/reference\\Arang__11213.png",
+    "phash": "9b78e89581fa9463",
+    "dhash": "3b2b3b796a7c61e9"
+  },
+  {
+    "name": "Yen",
+    "element": "Wind",
+    "file": "data/reference\\Yen__15513.png",
+    "phash": "94a331596a649ddd",
+    "dhash": "deccdcc4b8b8a4ae"
+  },
+  {
+    "name": "Hiro",
+    "element": "Light",
+    "file": "data/reference\\Hiro__20214.png",
+    "phash": "c0acd3ba6ee1c934",
+    "dhash": "c9e993e725f9d0c0"
+  },
+  {
+    "name": "Shimitae",
+    "element": "Wind",
+    "file": "data/reference\\Shimitae__11813.png",
+    "phash": "c4af4b1479072d5b",
+    "dhash": "e36b631796a4ac81"
+  },
+  {
+    "name": "Kaito",
+    "element": "Wind",
+    "file": "data/reference\\Kaito__16913.png",
+    "phash": "eb4e86994393274d",
+    "dhash": "c1a74959d3999aef"
+  },
+  {
+    "name": "Acasis",
+    "element": "Wind",
+    "file": "data/reference\\Acasis__11913.png",
+    "phash": "f0aac5a79e1067c3",
+    "dhash": "69a38b9d9dcc984c"
+  },
+  {
+    "name": "Chasun",
+    "element": "Wind",
+    "file": "data/reference\\Chasun__18313.png",
+    "phash": "8e3275fa0d699325",
+    "dhash": "ece46973f16972f2"
+  },
+  {
+    "name": "Lagmaron",
+    "element": "Wind",
+    "file": "data/reference\\Lagmaron__14613.png",
+    "phash": "f09f119706e4e4d9",
+    "dhash": "3c5912244d889989"
+  },
+  {
+    "name": "Woochi",
+    "element": "Wind",
+    "file": "data/reference\\Woochi__18413.png",
+    "phash": "d06402503b3e97ff",
+    "dhash": "8486661a1af4f9f9"
+  },
+  {
+    "name": "Delphoi",
+    "element": "Wind",
+    "file": "data/reference\\Delphoi__11613.png",
+    "phash": "dcb5c1c84e496675",
+    "dhash": "c29e1e31312990e8"
+  },
+  {
+    "name": "Argen",
+    "element": "Wind",
+    "file": "data/reference\\Argen__14713.png",
+    "phash": "8a65829e29de3763",
+    "dhash": "bdedc971117979f9"
+  },
+  {
+    "name": "Leo",
+    "element": "Wind",
+    "file": "data/reference\\Leo__16613.png",
+    "phash": "9bb5b1d074989627",
+    "dhash": "9a4a6f35e4f599d1"
+  },
+  {
+    "name": "Ritesh",
+    "element": "Wind",
+    "file": "data/reference\\Ritesh__17413.png",
+    "phash": "cff0f8820c2a36af",
+    "dhash": "91244c6465697b73"
+  },
+  {
+    "name": "Jamire",
+    "element": "Wind",
+    "file": "data/reference\\Jamire__14413.png",
+    "phash": "ffea80338607365c",
+    "dhash": "c993264101595aac"
+  },
+  {
+    "name": "Eladriel",
+    "element": "Wind",
+    "file": "data/reference\\Eladriel__17013.png",
+    "phash": "8f879ede30318a6c",
+    "dhash": "6066dadba7333727"
+  },
+  {
+    "name": "Julien",
+    "element": "Wind",
+    "file": "data/reference\\Julien__14113.png",
+    "phash": "c84751ec277a9a36",
+    "dhash": "91e3e9c3b7b39199"
+  },
+  {
+    "name": "Ethna",
+    "element": "Wind",
+    "file": "data/reference\\Ethna__17913.png",
+    "phash": "a8b730b43ccb5a6c",
+    "dhash": "9f1f7161b7f1d1b5"
+  },
+  {
+    "name": "Teshar",
+    "element": "Wind",
+    "file": "data/reference\\Teshar__14513.png",
+    "phash": "abbcc39d018ce4cb",
+    "dhash": "7d4bc5e71b37e3cb"
+  },
+  {
+    "name": "Charlotte",
+    "element": "Wind",
+    "file": "data/reference\\Charlotte__16113.png",
+    "phash": "dd66af3525c26944",
+    "dhash": "6674e96912327173"
+  },
+  {
+    "name": "Akhamamir",
+    "element": "Wind",
+    "file": "data/reference\\Akhamamir__19213.png",
+    "phash": "9f181e66c7636195",
+    "dhash": "69b0920b96074dd4"
+  },
+  {
+    "name": "Seara",
+    "element": "Wind",
+    "file": "data/reference\\Seara__15713.png",
+    "phash": "c3c235ae6d9e9249",
+    "dhash": "cccec9d1d3f97a16"
+  },
+  {
+    "name": "Pungbaek",
+    "element": "Wind",
+    "file": "data/reference\\Pungbaek__18613.png",
+    "phash": "dc63671d8f8e01e4",
+    "dhash": "48498028b8b43455"
+  },
+  {
+    "name": "Tiana",
+    "element": "Wind",
+    "file": "data/reference\\Tiana__18913.png",
+    "phash": "8b4fa37c25e89661",
+    "dhash": "636969f07269bbcb"
+  },
+  {
+    "name": "Katarina",
+    "element": "Wind",
+    "file": "data/reference\\Katarina__13813.png",
+    "phash": "ba3cb172498c60fb",
+    "dhash": "3d1d35f1490d7919"
+  },
+  {
+    "name": "Orion",
+    "element": "Water",
+    "file": "data/reference\\Orion__18011.png",
+    "phash": "b51ee989606e1771",
+    "dhash": "327a6c2d9e5e4ed4"
+  },
+  {
+    "name": "Xiao Lin",
+    "element": "Water",
+    "file": "data/reference\\Xiao Lin__17311.png",
+    "phash": "af6a0799614639e3",
+    "dhash": "c7656d211b3a6ccb"
+  },
+  {
+    "name": "Malaka",
+    "element": "Water",
+    "file": "data/reference\\Malaka__18111.png",
+    "phash": "d6ba6f1b13c45c24",
+    "dhash": "6d5564cc8890c466"
+  },
+  {
+    "name": "Aegir",
+    "element": "Water",
+    "file": "data/reference\\Aegir__18811.png",
+    "phash": "96333c9318ce6763",
+    "dhash": "f0fcecf4f87c7434"
+  },
+  {
+    "name": "Xing Zhe",
+    "element": "Wind",
+    "file": "data/reference\\Xing Zhe__16813.png",
+    "phash": "9f9f28d06273d2b0",
+    "dhash": "6d72796bba541697"
+  },
+  {
+    "name": "Sian",
+    "element": "Water",
+    "file": "data/reference\\Sian__13411.png",
+    "phash": "df1568e0d9c6a538",
+    "dhash": "9a1a64781a662519"
+  },
+  {
+    "name": "Su",
+    "element": "Water",
+    "file": "data/reference\\Su__15511.png",
+    "phash": "bf7e68684c258999",
+    "dhash": "231c5e7e78585436"
+  },
+  {
+    "name": "Luer",
+    "element": "Water",
+    "file": "data/reference\\Luer__14111.png",
+    "phash": "cb40e0ddb2355b36",
+    "dhash": "80e1632571707219"
+  },
+  {
+    "name": "Soha",
+    "element": "Water",
+    "file": "data/reference\\Soha__11211.png",
+    "phash": "9e78e883819ebd62",
+    "dhash": "1b2b3d78687c642e"
+  },
+  {
+    "name": "Gildong",
+    "element": "Water",
+    "file": "data/reference\\Gildong__18411.png",
+    "phash": "d46e60523932be9b",
+    "dhash": "8486661a32a49c94"
+  },
+  {
+    "name": "Rigel",
+    "element": "Water",
+    "file": "data/reference\\Rigel__16311.png",
+    "phash": "fff4f40802aab594",
+    "dhash": "36362a69f1717123"
+  },
+  {
+    "name": "Julie",
+    "element": "Water",
+    "file": "data/reference\\Julie__13911.png",
+    "phash": "803f9a8cc9e53cd6",
+    "dhash": "f1b90cc6e3a5f098"
+  },
+  {
+    "name": "Susano",
+    "element": "Water",
+    "file": "data/reference\\Susano__13511.png",
+    "phash": "a1d2f50d7824eb17",
+    "dhash": "9cd8d9c9d1d30616"
+  },
+  {
+    "name": "Fedora",
+    "element": "Water",
+    "file": "data/reference\\Fedora__16211.png",
+    "phash": "fd7cd0a8ca95c84a",
+    "dhash": "260e0e0e0f1faeca"
+  },
+  {
+    "name": "Mikene",
+    "element": "Water",
+    "file": "data/reference\\Mikene__11611.png",
+    "phash": "dc61e5c8c28b6e55",
+    "dhash": "c29e3a697131b06c"
+  },
+  {
+    "name": "Lumirecia",
+    "element": "Water",
+    "file": "data/reference\\Lumirecia__11911.png",
+    "phash": "fa2ac593969867c1",
+    "dhash": "2d3b9bbd1d4d3a66"
+  },
+  {
+    "name": "Liesel",
+    "element": "Water",
+    "file": "data/reference\\Liesel__14711.png",
+    "phash": "8ae58c9939c67569",
+    "dhash": "fcececc9dbf9f9f1"
+  },
+  {
+    "name": "Taor",
+    "element": "Water",
+    "file": "data/reference\\Taor__14611.png",
+    "phash": "f09710b706b4e4ed",
+    "dhash": "3c1913244c0c9b89"
+  },
+  {
+    "name": "Verad",
+    "element": "Water",
+    "file": "data/reference\\Verad__14411.png",
+    "phash": "db6699238607765c",
+    "dhash": "4913244109495a38"
+  },
+  {
+    "name": "Chandra",
+    "element": "Water",
+    "file": "data/reference\\Chandra__17411.png",
+    "phash": "dff2f9caca281083",
+    "dhash": "91646c6461697332"
+  },
+  {
+    "name": "Chow",
+    "element": "Water",
+    "file": "data/reference\\Chow__16611.png",
+    "phash": "dbb5f1d074988623",
+    "dhash": "1a4a6f35e4f199d1"
+  },
+  {
+    "name": "Beth",
+    "element": "Water",
+    "file": "data/reference\\Beth__17911.png",
+    "phash": "f83730a07ccb5a6c",
+    "dhash": "971f716127b1b1b1"
+  },
+  {
+    "name": "Praha",
+    "element": "Water",
+    "file": "data/reference\\Praha__15711.png",
+    "phash": "996367ec6c9a9249",
+    "dhash": "cfcbf93133317a76"
+  },
+  {
+    "name": "Anavel",
+    "element": "Water",
+    "file": "data/reference\\Anavel__16111.png",
+    "phash": "d107a33d36c72d4c",
+    "dhash": "64f9c95834b2f099"
+  },
+  {
+    "name": "Jackie",
+    "element": "Dark",
+    "file": "data/reference\\Jackie__20215.png",
+    "phash": "ce3f133a6e616930",
+    "dhash": "7978936525f1d060"
+  },
+  {
+    "name": "Woosa",
+    "element": "Water",
+    "file": "data/reference\\Woosa__18611.png",
+    "phash": "d00e7f9c1a770a95",
+    "dhash": "6894c9a9a4a00c9c"
+  },
+  {
+    "name": "Theomars",
+    "element": "Water",
+    "file": "data/reference\\Theomars__19211.png",
+    "phash": "921d4a67c36be1d1",
+    "dhash": "69b2b20f960f4dd4"
+  },
+  {
+    "name": "Shi Hou",
+    "element": "Water",
+    "file": "data/reference\\Shi Hou__16811.png",
+    "phash": "d5d728d46333d294",
+    "dhash": "4852584a18143697"
+  },
+  {
+    "name": "Sigmarus",
+    "element": "Water",
+    "file": "data/reference\\Sigmarus__14511.png",
+    "phash": "f36297b013bdc01e",
+    "dhash": "9ccba707199674f0"
+  },
+  {
+    "name": "Camilla",
+    "element": "Water",
+    "file": "data/reference\\Camilla__13811.png",
+    "phash": "ff24b836638c40fa",
+    "dhash": "2c3cb563092d7939"
+  },
+  {
+    "name": "Mimirr",
+    "element": "Light",
+    "file": "data/reference\\Mimirr__18814.png",
+    "phash": "9e1f40d098ace7e3",
+    "dhash": "b47c6f3339393517"
+  },
+  {
+    "name": "Ariel",
+    "element": "Water",
+    "file": "data/reference\\Ariel__17011.png",
+    "phash": "8dd75e8e72318a2c",
+    "dhash": "2064dadaa77336a5"
+  },
+  {
+    "name": "Dover",
+    "element": "Light",
+    "file": "data/reference\\Dover__18114.png",
+    "phash": "d67e0e1379447c64",
+    "dhash": "6c50669488d9e462"
+  },
+  {
+    "name": "Alicia",
+    "element": "Water",
+    "file": "data/reference\\Alicia__18911.png",
+    "phash": "8d02f31e25f8d669",
+    "dhash": "e3e1e9f2f268b3ca"
+  },
+  {
+    "name": "Gemini",
+    "element": "Light",
+    "file": "data/reference\\Gemini__18014.png",
+    "phash": "97ae19992c763790",
+    "dhash": "7afacc64ac5a54d8"
+  },
+  {
+    "name": "Iona",
+    "element": "Light",
+    "file": "data/reference\\Iona__15314.png",
+    "phash": "99a144956b37cc6d",
+    "dhash": "dab9b75b1bb07831"
+  },
+  {
+    "name": "Chris",
+    "element": "Light",
+    "file": "data/reference\\Chris__15414.png",
+    "phash": "d0890215778dff2b",
+    "dhash": "e4b1b132c8a8b49d"
+  },
+  {
+    "name": "Conrad",
+    "element": "Light",
+    "file": "data/reference\\Conrad__16214.png",
+    "phash": "b4d4c39dcb9c485c",
+    "dhash": "b48c9e16162eaed1"
+  },
+  {
+    "name": "Liu Mei",
+    "element": "Light",
+    "file": "data/reference\\Liu Mei__17314.png",
+    "phash": "9f14077d786e3862",
+    "dhash": "64e0e9291b1a454b"
+  },
+  {
+    "name": "Figaro",
+    "element": "Light",
+    "file": "data/reference\\Figaro__13414.png",
+    "phash": "9fa560fcd986a438",
+    "dhash": "b21364781a642599"
+  },
+  {
+    "name": "Gin",
+    "element": "Light",
+    "file": "data/reference\\Gin__13514.png",
+    "phash": "d1c3741d74de314a",
+    "dhash": "9c98d9c9d3d2b01c"
+  },
+  {
+    "name": "Halphas",
+    "element": "Light",
+    "file": "data/reference\\Halphas__16314.png",
+    "phash": "8bb4f44c002aefdd",
+    "dhash": "b68e6b716171712a"
+  },
+  {
+    "name": "Chamie",
+    "element": "Light",
+    "file": "data/reference\\Chamie__11214.png",
+    "phash": "d58782bd7b2ab620",
+    "dhash": "7ceaea5a1a368b88"
+  },
+  {
+    "name": "Tosi",
+    "element": "Light",
+    "file": "data/reference\\Tosi__16914.png",
+    "phash": "e3ce869903976655",
+    "dhash": "c1a10349d393daea"
+  },
+  {
+    "name": "Louis",
+    "element": "Light",
+    "file": "data/reference\\Louis__14114.png",
+    "phash": "e82f2d0d6bc1c9b2",
+    "dhash": "531e998167b395a9"
+  },
+  {
+    "name": "Eva",
+    "element": "Light",
+    "file": "data/reference\\Eva__13914.png",
+    "phash": "d81adb2a69806dd7",
+    "dhash": "3139eca2b2b5cc9a"
+  },
+  {
+    "name": "Pang",
+    "element": "Light",
+    "file": "data/reference\\Pang__15514.png",
+    "phash": "e4039197d935b51b",
+    "dhash": "cac38d87aaa6a6b6"
+  },
+  {
+    "name": "Aria",
+    "element": "Light",
+    "file": "data/reference\\Aria__13314.png",
+    "phash": "88f707127d799711",
+    "dhash": "5cb62b33b3e9b3a3"
+  },
+  {
+    "name": "Eredas",
+    "element": "Light",
+    "file": "data/reference\\Eredas__11814.png",
+    "phash": "d0abd3267b052ad5",
+    "dhash": "c8c9b113142dac98"
+  },
+  {
+    "name": "Shan",
+    "element": "Light",
+    "file": "data/reference\\Shan__14614.png",
+    "phash": "f09710b7a6ece581",
+    "dhash": "3c599225450d9bb1"
+  },
+  {
+    "name": "Icasha",
+    "element": "Light",
+    "file": "data/reference\\Icasha__11614.png",
+    "phash": "dca5c1c843ca6f55",
+    "dhash": "c29e3a793031b0f0"
+  },
+  {
+    "name": "Mihael",
+    "element": "Light",
+    "file": "data/reference\\Mihael__11914.png",
+    "phash": "c0a955b3d6957613",
+    "dhash": "22a383b38dcd98c4"
+  },
+  {
+    "name": "Shazam",
+    "element": "Light",
+    "file": "data/reference\\Shazam__17414.png",
+    "phash": "d6eaf90348b152a7",
+    "dhash": "e1e169a1656c6a30"
+  },
+  {
+    "name": "Hwadam",
+    "element": "Light",
+    "file": "data/reference\\Hwadam__18414.png",
+    "phash": "d42f421c399eaf89",
+    "dhash": "1184e73a32e0f8d8"
+  },
+  {
+    "name": "Lora",
+    "element": "Light",
+    "file": "data/reference\\Lora__16114.png",
+    "phash": "d946a63d25c6694e",
+    "dhash": "6670c9691312713b"
+  },
+  {
+    "name": "Artamiel",
+    "element": "Light",
+    "file": "data/reference\\Artamiel__17014.png",
+    "phash": "8fc39ece32398b24",
+    "dhash": "6144da9aa763372f"
+  },
+  {
+    "name": "Zerath",
+    "element": "Light",
+    "file": "data/reference\\Zerath__14414.png",
+    "phash": "d78d851b025f365c",
+    "dhash": "e9d2a04501194a8c"
+  },
+  {
+    "name": "Elsharion",
+    "element": "Light",
+    "file": "data/reference\\Elsharion__19214.png",
+    "phash": "9d1e4e4ec74b41d1",
+    "dhash": "69329279f0171796"
+  },
+  {
+    "name": "Jager",
+    "element": "Light",
+    "file": "data/reference\\Jager__16614.png",
+    "phash": "dbb5d5507a008737",
+    "dhash": "2c76761119f19971"
+  },
+  {
+    "name": "Qitian Dasheng",
+    "element": "Light",
+    "file": "data/reference\\Qitian Dasheng__16814.png",
+    "phash": "d1872dd4277382b5",
+    "dhash": "4cd2d8c88a941c96"
+  },
+  {
+    "name": "Elenoa",
+    "element": "Light",
+    "file": "data/reference\\Elenoa__18914.png",
+    "phash": "8dfaa33c21f29629",
+    "dhash": "aff3e1f2f260a3ca"
+  },
+  {
+    "name": "Yeonhong",
+    "element": "Light",
+    "file": "data/reference\\Yeonhong__18314.png",
+    "phash": "8e2774ce9529d331",
+    "dhash": "6eed6973f16931b6"
+  },
+  {
+    "name": "Hrungnir",
+    "element": "Dark",
+    "file": "data/reference\\Hrungnir__18815.png",
+    "phash": "94332c97989c65e7",
+    "dhash": "b4fcecf0fc7474b6"
+  },
+  {
+    "name": "Eludia",
+    "element": "Light",
+    "file": "data/reference\\Eludia__14514.png",
+    "phash": "cf986b9d41cd6451",
+    "dhash": "a269a9699c3673cb"
+  },
+  {
+    "name": "Asima",
+    "element": "Light",
+    "file": "data/reference\\Asima__17914.png",
+    "phash": "a8b530b47ecb5a64",
+    "dhash": "bc9e5361a5a1c1ad"
+  },
+  {
+    "name": "Dias",
+    "element": "Dark",
+    "file": "data/reference\\Dias__16215.png",
+    "phash": "fdfcc0a8daf44054",
+    "dhash": "362e060707172eaa"
+  },
+  {
+    "name": "Julianne",
+    "element": "Light",
+    "file": "data/reference\\Julianne__14714.png",
+    "phash": "82e51cb939c67d29",
+    "dhash": "fcecc8cddbb8f9f1"
+  },
+  {
+    "name": "Laima",
+    "element": "Light",
+    "file": "data/reference\\Laima__15714.png",
+    "phash": "dbc2348a6d9b924d",
+    "dhash": "cccc4951d3793a12"
+  },
+  {
+    "name": "Liebli",
+    "element": "Dark",
+    "file": "data/reference\\Liebli__13415.png",
+    "phash": "9f2528d0d9c6b43b",
+    "dhash": "9a1364781a646539"
+  },
+  {
+    "name": "Akroma",
+    "element": "Light",
+    "file": "data/reference\\Akroma__13814.png",
+    "phash": "ba2cb9337b8c44f0",
+    "dhash": "393bb563090d7919"
+  },
+  {
+    "name": "Bering",
+    "element": "Dark",
+    "file": "data/reference\\Bering__18115.png",
+    "phash": "f7bf6932306434a4",
+    "dhash": "1e5966644c08c426"
+  },
+  {
+    "name": "Grego",
+    "element": "Dark",
+    "file": "data/reference\\Grego__16315.png",
+    "phash": "ffd4f502022a75cc",
+    "dhash": "0a2a3249f151570b"
+  },
+  {
+    "name": "Korona",
+    "element": "Dark",
+    "file": "data/reference\\Korona__18015.png",
+    "phash": "94ba0bd9687e6721",
+    "dhash": "3b392c2494782c66"
+  },
+  {
+    "name": "Fei",
+    "element": "Dark",
+    "file": "data/reference\\Fei__17315.png",
+    "phash": "ff2e02dd61368a31",
+    "dhash": "e56d6d231a3874dc"
+  },
+  {
+    "name": "Guillaume",
+    "element": "Dark",
+    "file": "data/reference\\Guillaume__14115.png",
+    "phash": "c84650dd36353f36",
+    "dhash": "a8e1e3d63733b399"
+  },
+  {
+    "name": "Luna",
+    "element": "Dark",
+    "file": "data/reference\\Luna__13915.png",
+    "phash": "d09ed28acbc90ddc",
+    "dhash": "f98c26c2f0b48cda"
+  },
+  {
+    "name": "Bethony",
+    "element": "Dark",
+    "file": "data/reference\\Bethony__15415.png",
+    "phash": "be6b68df6320c470",
+    "dhash": "2131745a08743c0c"
+  },
+  {
+    "name": "Kamiya",
+    "element": "Dark",
+    "file": "data/reference\\Kamiya__11215.png",
+    "phash": "bf6ae88401d279e6",
+    "dhash": "332333796a746c3a"
+  },
+  {
+    "name": "Nigong",
+    "element": "Light",
+    "file": "data/reference\\Nigong__18614.png",
+    "phash": "9fc7871c032b948f",
+    "dhash": "7168642b39343376"
+  },
+  {
+    "name": "Wolyung",
+    "element": "Dark",
+    "file": "data/reference\\Wolyung__18315.png",
+    "phash": "9d2635c22d69d627",
+    "dhash": "efe56872f0793232"
+  },
+  {
+    "name": "Ran",
+    "element": "Dark",
+    "file": "data/reference\\Ran__15515.png",
+    "phash": "bf6a687a4c648999",
+    "dhash": "271d7e6638181c34"
+  },
+  {
+    "name": "Zeratu",
+    "element": "Dark",
+    "file": "data/reference\\Zeratu__14615.png",
+    "phash": "f89f11b706c0ecc9",
+    "dhash": "2c4913244d089a89"
+  },
+  {
+    "name": "Isael",
+    "element": "Dark",
+    "file": "data/reference\\Isael__13315.png",
+    "phash": "fcf503fa75038311",
+    "dhash": "dc36a2333329b3a3"
+  },
+  {
+    "name": "Rahul",
+    "element": "Dark",
+    "file": "data/reference\\Rahul__17415.png",
+    "phash": "cef4f8eb68381283",
+    "dhash": "2534546561697373"
+  },
+  {
+    "name": "Aschubel",
+    "element": "Dark",
+    "file": "data/reference\\Aschubel__11815.png",
+    "phash": "ff2f90e832e50ad0",
+    "dhash": "232b4b4f192182e8"
+  },
+  {
+    "name": "Sige",
+    "element": "Dark",
+    "file": "data/reference\\Sige__16915.png",
+    "phash": "9d6e6240e992e769",
+    "dhash": "01233878b2b0b8fb"
+  },
+  {
+    "name": "Tilasha",
+    "element": "Dark",
+    "file": "data/reference\\Tilasha__11615.png",
+    "phash": "9e61e589ca8b6275",
+    "dhash": "42963a717169726c"
+  },
+  {
+    "name": "Icares",
+    "element": "Dark",
+    "file": "data/reference\\Icares__11915.png",
+    "phash": "962afeba0ac16e43",
+    "dhash": "2db8ccbc4d3c9c64"
+  },
+  {
+    "name": "Craka",
+    "element": "Dark",
+    "file": "data/reference\\Craka__17915.png",
+    "phash": "c82730f47ccb5a6c",
+    "dhash": "9b9f73612421b3b3"
+  },
+  {
+    "name": "Ragdoll",
+    "element": "Dark",
+    "file": "data/reference\\Ragdoll__16615.png",
+    "phash": "9bedf9d064129427",
+    "dhash": "1a0b673564f0d959"
+  },
+  {
+    "name": "Son Zhang Lao",
+    "element": "Dark",
+    "file": "data/reference\\Son Zhang Lao__16815.png",
+    "phash": "bfbf20d06273d230",
+    "dhash": "6d73786838545c8f"
+  },
+  {
+    "name": "Giana",
+    "element": "Dark",
+    "file": "data/reference\\Giana__15715.png",
+    "phash": "986367e46d9a92c9",
+    "dhash": "8fdbb93133317972"
+  },
+  {
+    "name": "Nicki",
+    "element": "Dark",
+    "file": "data/reference\\Nicki__16115.png",
+    "phash": "dd378691758621d9",
+    "dhash": "7664711412d0f138"
+  },
+  {
+    "name": "Veromos",
+    "element": "Dark",
+    "file": "data/reference\\Veromos__19215.png",
+    "phash": "de77a879988609aa",
+    "dhash": "706364647970adb9"
+  },
+  {
+    "name": "Grogen",
+    "element": "Dark",
+    "file": "data/reference\\Grogen__14415.png",
+    "phash": "f3e8a21b860f365c",
+    "dhash": "c993204101195a8c"
+  },
+  {
+    "name": "Woonsa",
+    "element": "Dark",
+    "file": "data/reference\\Woonsa__18615.png",
+    "phash": "d1613f98878cd46b",
+    "dhash": "98189488a8b43a6c"
+  },
+  {
+    "name": "Han",
+    "element": "Dark",
+    "file": "data/reference\\Han__13515.png",
+    "phash": "d1d3746d9044f95a",
+    "dhash": "9cd8d8c8d1d2c40c"
+  },
+  {
+    "name": "Lydia",
+    "element": "Dark",
+    "file": "data/reference\\Lydia__18915.png",
+    "phash": "8f2ba13e34fa1278",
+    "dhash": "67f3d9e0f46173d2"
+  },
+  {
+    "name": "Trinity",
+    "element": "Dark",
+    "file": "data/reference\\Trinity__13815.png",
+    "phash": "ba60f5be418c64e6",
+    "dhash": "1d39a571492d39bb"
+  },
+  {
+    "name": "Kumae",
+    "element": "Dark",
+    "file": "data/reference\\Kumae__10415.png",
+    "phash": "d1f0fce8c97282c3",
+    "dhash": "92b69cdbdad099d1"
+  },
+  {
+    "name": "Kuna",
+    "element": "Dark",
+    "file": "data/reference\\Kuna__18715.png",
+    "phash": "fdf135e82285c247",
+    "dhash": "8b0b5ab2a9b3364c"
+  },
+  {
+    "name": "Cadiz",
+    "element": "Dark",
+    "file": "data/reference\\Cadiz__14715.png",
+    "phash": "9a65829e29ce3763",
+    "dhash": "fcecc071317979f9"
+  },
+  {
+    "name": "Fermion",
+    "element": "Dark",
+    "file": "data/reference\\Fermion__17015.png",
+    "phash": "aca5b68f72718b24",
+    "dhash": "26e2da9b237332ad"
+  },
+  {
+    "name": "Selena",
+    "element": "Wind",
+    "file": "data/reference\\Selena__13313.png",
+    "phash": "a195867339579792",
+    "dhash": "4c96fa9293978f8f"
+  },
+  {
+    "name": "Jaara",
+    "element": "Dark",
+    "file": "data/reference\\Jaara__14515.png",
+    "phash": "b5f49b995294c269",
+    "dhash": "381ace241a1b3e49"
+  },
+  {
+    "name": "Ignicus",
+    "element": "Fire",
+    "file": "data/reference\\Ignicus__19512.png",
+    "phash": "da35e5c1c019f3e2",
+    "dhash": "920e0df1e118f081"
+  },
+  {
+    "name": "Walter",
+    "element": "Wind",
+    "file": "data/reference\\Walter__14813.png",
+    "phash": "8fb0f0a28a89cbde",
+    "dhash": "899c33736dc76c66"
+  },
+  {
+    "name": "Zephicus",
+    "element": "Wind",
+    "file": "data/reference\\Zephicus__19513.png",
+    "phash": "da37a545c00c3bf3",
+    "dhash": "820f19f14910e081"
+  },
+  {
+    "name": "Aqcus",
+    "element": "Water",
+    "file": "data/reference\\Aqcus__19511.png",
+    "phash": "db3765c18019fb86",
+    "dhash": "d6060d39e119f282"
+  },
+  {
+    "name": "Carrack",
+    "element": "Fire",
+    "file": "data/reference\\Carrack__19412.png",
+    "phash": "ce3322888736b9de",
+    "dhash": "6d6d336761b1a763"
+  },
+  {
+    "name": "Galleon",
+    "element": "Water",
+    "file": "data/reference\\Galleon__19411.png",
+    "phash": "fe761680a6309afc",
+    "dhash": "a56c114765f19364"
+  },
+  {
+    "name": "Calicus",
+    "element": "Dark",
+    "file": "data/reference\\Calicus__19515.png",
+    "phash": "da3765e5c08419f3",
+    "dhash": "020e39e10930a0c3"
+  },
+  {
+    "name": "Barque",
+    "element": "Wind",
+    "file": "data/reference\\Barque__19413.png",
+    "phash": "c9b7099364399acd",
+    "dhash": "99d03006e4f1f3e3"
+  },
+  {
+    "name": "Frigate",
+    "element": "Dark",
+    "file": "data/reference\\Frigate__19415.png",
+    "phash": "ceb72288a638d8de",
+    "dhash": "ed64316760b1b3e3"
+  },
+  {
+    "name": "Rumicus",
+    "element": "Light",
+    "file": "data/reference\\Rumicus__19514.png",
+    "phash": "d202a55dcb8c1bf3",
+    "dhash": "f48d89e18930200a"
+  },
+  {
+    "name": "Huga",
+    "element": "Water",
+    "file": "data/reference\\Huga__14811.png",
+    "phash": "ad8363e544f5f0a8",
+    "dhash": "4e5b3976e3331383"
+  },
+  {
+    "name": "Tetra",
+    "element": "Water",
+    "file": "data/reference\\Tetra__19611.png",
+    "phash": "cf40f18f182e87e3",
+    "dhash": "e350482173636f88"
+  },
+  {
+    "name": "Cichlid",
+    "element": "Wind",
+    "file": "data/reference\\Cichlid__19613.png",
+    "phash": "ce08c1ab1c3e87f3",
+    "dhash": "e0d0682373634cc8"
+  },
+  {
+    "name": "Platy",
+    "element": "Fire",
+    "file": "data/reference\\Platy__19612.png",
+    "phash": "cf44e18f282e87e3",
+    "dhash": "634040337363678b"
+  },
+  {
+    "name": "Brig",
+    "element": "Light",
+    "file": "data/reference\\Brig__19414.png",
+    "phash": "c9b1e95b603192dd",
+    "dhash": "db517886e0f1f3e7"
+  },
+  {
+    "name": "Molly",
+    "element": "Light",
+    "file": "data/reference\\Molly__19614.png",
+    "phash": "dc0ac1a75c3e1dc3",
+    "dhash": "e0c0213373764c8a"
+  },
+  {
+    "name": "Triton",
+    "element": "Wind",
+    "file": "data/reference\\Triton__19713.png",
+    "phash": "c87197c0b50fe98b",
+    "dhash": "d499131389a1f164"
+  },
+  {
+    "name": "Betta",
+    "element": "Dark",
+    "file": "data/reference\\Betta__19615.png",
+    "phash": "cf63718b982c07e3",
+    "dhash": "4340413371636450"
+  },
+  {
+    "name": "Okeanos",
+    "element": "Fire",
+    "file": "data/reference\\Okeanos__19712.png",
+    "phash": "d87197c0b58fa90b",
+    "dhash": "5498111299a1f164"
+  },
+  {
+    "name": "Poseidon",
+    "element": "Water",
+    "file": "data/reference\\Poseidon__19711.png",
+    "phash": "d8739780b51fe10b",
+    "dhash": "d419111289a1f164"
+  },
+  {
+    "name": "Astar",
+    "element": "Fire",
+    "file": "data/reference\\Astar__19812.png",
+    "phash": "cb63e82c659b9a29",
+    "dhash": "47cb59585635ab33"
+  },
+  {
+    "name": "Pontos",
+    "element": "Light",
+    "file": "data/reference\\Pontos__19714.png",
+    "phash": "c87197c0b71f458b",
+    "dhash": "d5991333a1a1f175"
+  },
+  {
+    "name": "Manannan",
+    "element": "Dark",
+    "file": "data/reference\\Manannan__19715.png",
+    "phash": "d87397c0b59fa103",
+    "dhash": "5418111289a1f1e4"
+  },
+  {
+    "name": "Lapis",
+    "element": "Water",
+    "file": "data/reference\\Lapis__19811.png",
+    "phash": "df23e82c649b1a69",
+    "dhash": "47cb695856352b33"
+  },
+  {
+    "name": "Iris",
+    "element": "Light",
+    "file": "data/reference\\Iris__19814.png",
+    "phash": "cda7e83c64d39a41",
+    "dhash": "c7c7c9415631aab2"
+  },
+  {
+    "name": "Stella",
+    "element": "Water",
+    "file": "data/reference\\Stella__19911.png",
+    "phash": "f58ae0bf9a249193",
+    "dhash": "7365d874581a468e"
+  },
+  {
+    "name": "Lanett",
+    "element": "Dark",
+    "file": "data/reference\\Lanett__19815.png",
+    "phash": "9f63682e65d21ac9",
+    "dhash": "47cb795877752a32"
+  },
+  {
+    "name": "Lexy",
+    "element": "Fire",
+    "file": "data/reference\\Lexy__19912.png",
+    "phash": "bf1f61aa986590b2",
+    "dhash": "716c5a72291bc6ce"
+  },
+  {
+    "name": "Fami",
+    "element": "Light",
+    "file": "data/reference\\Fami__16714.png",
+    "phash": "de8ad03e4c993c6c",
+    "dhash": "31317179652c3426"
+  },
+  {
+    "name": "Natalie",
+    "element": "Light",
+    "file": "data/reference\\Natalie__19914.png",
+    "phash": "d72e41ae3b94a1b2",
+    "dhash": "73754874196ad4da"
+  },
+  {
+    "name": "Tanya",
+    "element": "Wind",
+    "file": "data/reference\\Tanya__19913.png",
+    "phash": "f59a40bd8a6591b3",
+    "dhash": "7365ca77191ac6cc"
+  },
+  {
+    "name": "Lisa",
+    "element": "Fire",
+    "file": "data/reference\\Lisa__20112.png",
+    "phash": "ab5ae5c668e41996",
+    "dhash": "6f6979b371694496"
+  },
+  {
+    "name": "Isabelle",
+    "element": "Dark",
+    "file": "data/reference\\Isabelle__19915.png",
+    "phash": "f79b60fa8a2191b2",
+    "dhash": "736c5a72381ac6ce"
+  },
+  {
+    "name": "Illianna",
+    "element": "Light",
+    "file": "data/reference\\Illianna__20114.png",
+    "phash": "e1aae4866cac9b96",
+    "dhash": "e6cb59933368d4d6"
+  },
+  {
+    "name": "Lupinus",
+    "element": "Wind",
+    "file": "data/reference\\Lupinus__19813.png",
+    "phash": "cd27e03c65da9a49",
+    "dhash": "47c7e9485635aab2"
+  },
+  {
+    "name": "Sylvia",
+    "element": "Dark",
+    "file": "data/reference\\Sylvia__20115.png",
+    "phash": "9f3a60c7686cd714",
+    "dhash": "6d79793171687496"
+  },
+  {
+    "name": "Emma",
+    "element": "Water",
+    "file": "data/reference\\Emma__20111.png",
+    "phash": "9f0ae58668e4d996",
+    "dhash": "676979b371684416"
+  },
+  {
+    "name": "Karl",
+    "element": "Dark",
+    "file": "data/reference\\Karl__20015.png",
+    "phash": "fa7a3e27644cd380",
+    "dhash": "3d3d29a79558eb32"
+  },
+  {
+    "name": "Olivia",
+    "element": "Wind",
+    "file": "data/reference\\Olivia__20113.png",
+    "phash": "cbea648668e89b96",
+    "dhash": "e74959137168c4c6"
+  },
+  {
+    "name": "Luan",
+    "element": "Water",
+    "file": "data/reference\\Luan__20211.png",
+    "phash": "ca2f913a7669d834",
+    "dhash": "6978936725b99384"
+  },
+  {
+    "name": "Lo",
+    "element": "Wind",
+    "file": "data/reference\\Lo__20213.png",
+    "phash": "c0fc93ba6ce15a34",
+    "dhash": "a9e093e3a5f9d9d0"
+  },
+  {
+    "name": "Nubia",
+    "element": "Water",
+    "file": "data/reference\\Nubia__20311.png",
+    "phash": "fd90c03646db383e",
+    "dhash": "9c82334e0e3a4a42"
+  },
+  {
+    "name": "Ryan",
+    "element": "Water",
+    "file": "data/reference\\Ryan__20011.png",
+    "phash": "f85e3f216c619bc0",
+    "dhash": "3d3c29a795dbcb12"
+  },
+  {
+    "name": "Sonora",
+    "element": "Fire",
+    "file": "data/reference\\Sonora__20312.png",
+    "phash": "fd90d03446db383b",
+    "dhash": "9486bb66063a0a42"
+  },
+  {
+    "name": "Amarna",
+    "element": "Light",
+    "file": "data/reference\\Amarna__20414.png",
+    "phash": "d9d541aa51a79c5a",
+    "dhash": "929a1c9e193d4b30"
+  },
+  {
+    "name": "Logan",
+    "element": "Wind",
+    "file": "data/reference\\Logan__20013.png",
+    "phash": "85c2f09564e9ddf0",
+    "dhash": "e0f9e1e76472c395"
+  },
+  {
+    "name": "Namib",
+    "element": "Wind",
+    "file": "data/reference\\Namib__20313.png",
+    "phash": "fd80803467d730f7",
+    "dhash": "9683bb44063a2842"
+  },
+  {
+    "name": "Sahara",
+    "element": "Light",
+    "file": "data/reference\\Sahara__20314.png",
+    "phash": "f180c13477db383b",
+    "dhash": "dcd6bb4e063a0842"
+  },
+  {
+    "name": "Thebae",
+    "element": "Dark",
+    "file": "data/reference\\Thebae__20415.png",
+    "phash": "fdbc983ac060c9ec",
+    "dhash": "323a16826b0b07b2"
+  },
+  {
+    "name": "Avaris",
+    "element": "Water",
+    "file": "data/reference\\Avaris__20411.png",
+    "phash": "fdd4d03ac4acc946",
+    "dhash": "b03816266b0b07b2"
+  },
+  {
+    "name": "Trevor",
+    "element": "Fire",
+    "file": "data/reference\\Trevor__20012.png",
+    "phash": "e85e7e2b7c458ac0",
+    "dhash": "3c3ca0b795dbcb9a"
+  },
+  {
+    "name": "Amduat",
+    "element": "Dark",
+    "file": "data/reference\\Amduat__20615.png",
+    "phash": "cf8cb85335310dcd",
+    "dhash": "b0316366624a5838"
+  },
+  {
+    "name": "Wedjat",
+    "element": "Light",
+    "file": "data/reference\\Wedjat__20614.png",
+    "phash": "c70c3843747145ff",
+    "dhash": "716162e6c4ca5838"
+  },
+  {
+    "name": "Duamutef",
+    "element": "Fire",
+    "file": "data/reference\\Duamutef__20612.png",
+    "phash": "c70cb853743505fd",
+    "dhash": "306162e640cad8b8"
+  },
+  {
+    "name": "Lucas",
+    "element": "Light",
+    "file": "data/reference\\Lucas__20014.png",
+    "phash": "80f0fb8764cb9792",
+    "dhash": "83b5e9a7a5f2cb93"
+  },
+  {
+    "name": "Isis",
+    "element": "Light",
+    "file": "data/reference\\Isis__20514.png",
+    "phash": "af33524f2c49c1bc",
+    "dhash": "4d091a6626623135"
+  },
+  {
+    "name": "Qebehsenuef",
+    "element": "Water",
+    "file": "data/reference\\Qebehsenuef__20611.png",
+    "phash": "cf0cb843743145fd",
+    "dhash": "31616266c4cad838"
+  },
+  {
+    "name": "Khmun",
+    "element": "Fire",
+    "file": "data/reference\\Khmun__20412.png",
+    "phash": "f9b5d17ac029c94c",
+    "dhash": "323a1303230d0792"
+  },
+  {
+    "name": "Iunu",
+    "element": "Wind",
+    "file": "data/reference\\Iunu__20413.png",
+    "phash": "fd95d03a8429c96e",
+    "dhash": "b23a16a32b0b07b2"
+  },
+  {
+    "name": "Hathor",
+    "element": "Wind",
+    "file": "data/reference\\Hathor__20513.png",
+    "phash": "ffa2a08d90bcd02f",
+    "dhash": "4d4d496163517339"
+  },
+  {
+    "name": "Imesety",
+    "element": "Wind",
+    "file": "data/reference\\Imesety__20613.png",
+    "phash": "c70cb8535431c5fd",
+    "dhash": "b16162e6c4cad838"
+  },
+  {
+    "name": "Bastet",
+    "element": "Water",
+    "file": "data/reference\\Bastet__20511.png",
+    "phash": "ef22b2c57419d13c",
+    "dhash": "4d4d496166627331"
+  },
+  {
+    "name": "Sekhmet",
+    "element": "Fire",
+    "file": "data/reference\\Sekhmet__20512.png",
+    "phash": "cf22b0c7b4b9d12c",
+    "dhash": "4d49496161617331"
+  },
+  {
+    "name": "Bulldozer",
+    "element": "Fire",
+    "file": "data/reference\\Bulldozer__20812.png",
+    "phash": "9eff1fa860d2c805",
+    "dhash": "397960150e2d7cf0"
+  },
+  {
+    "name": "Tractor",
+    "element": "Water",
+    "file": "data/reference\\Tractor__20811.png",
+    "phash": "ddd703f570d2c007",
+    "dhash": "5a6a60142e8e79f1"
+  },
+  {
+    "name": "Crane",
+    "element": "Wind",
+    "file": "data/reference\\Crane__20813.png",
+    "phash": "fe1f5aa160da410f",
+    "dhash": "3b7960352e8f3991"
+  },
+  {
+    "name": "Crawler",
+    "element": "Dark",
+    "file": "data/reference\\Crawler__20815.png",
+    "phash": "febf0bf060d8400f",
+    "dhash": "3b7b6025260c31e5"
+  },
+  {
+    "name": "Chilling",
+    "element": "Water",
+    "file": "data/reference\\Chilling__20711.png",
+    "phash": "ef4c34d1f144d88b",
+    "dhash": "327321434b79421f"
+  },
+  {
+    "name": "Misty",
+    "element": "Light",
+    "file": "data/reference\\Misty__20714.png",
+    "phash": "ebc834e172349e1b",
+    "dhash": "07c3794b493b461e"
+  },
+  {
+    "name": "Driller",
+    "element": "Light",
+    "file": "data/reference\\Driller__20814.png",
+    "phash": "f817cbb570d8c00f",
+    "dhash": "3a6b61950e9e3999"
+  },
+  {
+    "name": "Dusky",
+    "element": "Dark",
+    "file": "data/reference\\Dusky__20715.png",
+    "phash": "ed3c34d1f054d89a",
+    "dhash": "3653214349e9461e"
+  },
+  {
+    "name": "Smokey",
+    "element": "Fire",
+    "file": "data/reference\\Smokey__20712.png",
+    "phash": "ab5d34d0f144dcaa",
+    "dhash": "327321414979431f"
+  },
+  {
+    "name": "Nephthys",
+    "element": "Dark",
+    "file": "data/reference\\Nephthys__20515.png",
+    "phash": "cf22b0cf70b9d02e",
+    "dhash": "4d45496161617371"
+  },
+  {
+    "name": "Windy",
+    "element": "Wind",
+    "file": "data/reference\\Windy__20713.png",
+    "phash": "ef4834d1f154dc8a",
+    "dhash": "3273314b49794a1e"
+  },
+  {
+    "name": "Eluin",
+    "element": "Water",
+    "file": "data/reference\\Eluin__20911.png",
+    "phash": "bece29996202ad9d",
+    "dhash": "75652c2d2d38bc2f"
+  },
+  {
+    "name": "Erwin",
+    "element": "Wind",
+    "file": "data/reference\\Erwin__20913.png",
+    "phash": "9ece6999624689ad",
+    "dhash": "73742cad3c382ca7"
+  },
+  {
+    "name": "Racuni",
+    "element": "Fire",
+    "file": "data/reference\\Racuni__21012.png",
+    "phash": "bf14e95e47846952",
+    "dhash": "3c3cbc7c2c33595b"
+  },
+  {
+    "name": "Raviti",
+    "element": "Wind",
+    "file": "data/reference\\Raviti__21013.png",
+    "phash": "b71ce17e668c6852",
+    "dhash": "3c3cbe7c6c33585a"
+  },
+  {
+    "name": "Lucien",
+    "element": "Light",
+    "file": "data/reference\\Lucien__20914.png",
+    "phash": "becf09996a22899d",
+    "dhash": "71652c2d2d392d27"
+  },
+  {
+    "name": "Adrian",
+    "element": "Fire",
+    "file": "data/reference\\Adrian__20912.png",
+    "phash": "b8556bd864628d8f",
+    "dhash": "1b3a3cbc3c191d97"
+  },
+  {
+    "name": "Dova",
+    "element": "Light",
+    "file": "data/reference\\Dova__21014.png",
+    "phash": "971ce95e678c6852",
+    "dhash": "3c3cbc7c6c3d5a5a"
+  },
+  {
+    "name": "Remy",
+    "element": "Water",
+    "file": "data/reference\\Remy__21011.png",
+    "phash": "bf14e95e678c6842",
+    "dhash": "343cbc7c6c35585b"
+  },
+  {
+    "name": "Ganymede",
+    "element": "Wind",
+    "file": "data/reference\\Ganymede__21113.png",
+    "phash": "ce2a30ef452fcd41",
+    "dhash": "b98df16560720626"
+  },
+  {
+    "name": "Isillen",
+    "element": "Dark",
+    "file": "data/reference\\Isillen__20915.png",
+    "phash": "ee8e0999e214b99d",
+    "dhash": "f1652d2d2d292e87"
+  },
+  {
+    "name": "Kroa",
+    "element": "Dark",
+    "file": "data/reference\\Kroa__21015.png",
+    "phash": "9f94f97e66804952",
+    "dhash": "3c3cbe7c6c32785a"
+  },
+  {
+    "name": "Xiong Fei",
+    "element": "Fire",
+    "file": "data/reference\\Xiong Fei__21212.png",
+    "phash": "9a965ddc7a32a291",
+    "dhash": "3930d89999f59188"
+  },
+  {
+    "name": "Oberon",
+    "element": "Light",
+    "file": "data/reference\\Oberon__21114.png",
+    "phash": "d502a08f4dff8b23",
+    "dhash": "b28dc57462620eb6"
+  },
+  {
+    "name": "Psamathe",
+    "element": "Water",
+    "file": "data/reference\\Psamathe__21111.png",
+    "phash": "80ba318f8d0dcf57",
+    "dhash": "299de5a5e0f296b6"
+  },
+  {
+    "name": "Nyx",
+    "element": "Dark",
+    "file": "data/reference\\Nyx__21115.png",
+    "phash": "dab0307e066c8f4f",
+    "dhash": "9c8df1f571717060"
+  },
+  {
+    "name": "Feng Yan",
+    "element": "Wind",
+    "file": "data/reference\\Feng Yan__21213.png",
+    "phash": "9a945dda7a22a393",
+    "dhash": "3830d89d99f51109"
+  },
+  {
+    "name": "Tian Lang",
+    "element": "Light",
+    "file": "data/reference\\Tian Lang__21214.png",
+    "phash": "9a945dd87a32a393",
+    "dhash": "3830d89d19351109"
+  },
+  {
+    "name": "Daphnis",
+    "element": "Fire",
+    "file": "data/reference\\Daphnis__21112.png",
+    "phash": "ca3230cf4d2dcb47",
+    "dhash": "3d8dd1e56162a296"
+  },
+  {
+    "name": "Mi Ying",
+    "element": "Dark",
+    "file": "data/reference\\Mi Ying__21215.png",
+    "phash": "98945ddc7a72a493",
+    "dhash": "3870dc99d9f498c8"
+  },
+  {
+    "name": "Homunculus(Attack)",
+    "element": "Wind",
+    "file": "data/reference\\HomunculusAttack__1000113.png",
+    "phash": "ef94b0db236498e2",
+    "dhash": "f4e426236971468e"
+  },
+  {
+    "name": "Ludo",
+    "element": "Fire",
+    "file": "data/reference\\Ludo__21312.png",
+    "phash": "e8f8817ef486690e",
+    "dhash": "b39b13282f17ecda"
+  },
+  {
+    "name": "Homunculus(Attack)",
+    "element": "Water",
+    "file": "data/reference\\HomunculusAttack__1000111.png",
+    "phash": "ce80a19a226ddcf7",
+    "dhash": "f4b432336931120e"
+  },
+  {
+    "name": "Mo Long",
+    "element": "Water",
+    "file": "data/reference\\Mo Long__21211.png",
+    "phash": "9a945d9c7a7aa093",
+    "dhash": "3830dc9dd9771909"
+  },
+  {
+    "name": "Monte",
+    "element": "Dark",
+    "file": "data/reference\\Monte__21315.png",
+    "phash": "ade881fafc852887",
+    "dhash": "b3336b242f13f0f2"
+  },
+  {
+    "name": "Morris",
+    "element": "Wind",
+    "file": "data/reference\\Morris__21313.png",
+    "phash": "aa88812e97866f7e",
+    "dhash": "b3b313682d172d12"
+  },
+  {
+    "name": "Reno",
+    "element": "Water",
+    "file": "data/reference\\Reno__21311.png",
+    "phash": "a9f8816efd87080f",
+    "dhash": "bb1b132c2f17cad2"
+  },
+  {
+    "name": "Sonnet",
+    "element": "Water",
+    "file": "data/reference\\Sonnet__21411.png",
+    "phash": "fe3dc4ac93223c4c",
+    "dhash": "27232f1929216161"
+  },
+  {
+    "name": "Triana",
+    "element": "Wind",
+    "file": "data/reference\\Triana__21413.png",
+    "phash": "fe39858993e6384c",
+    "dhash": "2323270d29216565"
+  },
+  {
+    "name": "Harmonia",
+    "element": "Fire",
+    "file": "data/reference\\Harmonia__21412.png",
+    "phash": "fa3dc5ac9362384c",
+    "dhash": "2323250d29216101"
+  },
+  {
+    "name": "Tablo",
+    "element": "Light",
+    "file": "data/reference\\Tablo__21314.png",
+    "phash": "eac2812e85826ffe",
+    "dhash": "b33333282f172912"
+  },
+  {
+    "name": "Homunculus(Attack)",
+    "element": "Fire",
+    "file": "data/reference\\HomunculusAttack__1000112.png",
+    "phash": "cf98a0db3364d8a3",
+    "dhash": "f0a426236971468e"
+  },
+  {
+    "name": "Vivachel",
+    "element": "Dark",
+    "file": "data/reference\\Vivachel__21415.png",
+    "phash": "fe35c4089b6e3c4c",
+    "dhash": "6262270929216161"
+  },
+  {
+    "name": "Celia",
+    "element": "Light",
+    "file": "data/reference\\Celia__21414.png",
+    "phash": "ef89caa0b86e2d45",
+    "dhash": "69d1722a1e064121"
+  },
+  {
+    "name": "Amelia",
+    "element": "Water",
+    "file": "data/reference\\Amelia__21511.png",
+    "phash": "afd23004e337711f",
+    "dhash": "cc354d4f63276f1f"
+  },
+  {
+    "name": "Eleanor",
+    "element": "Light",
+    "file": "data/reference\\Eleanor__21514.png",
+    "phash": "b3c0b4c63337b515",
+    "dhash": "cde54d59d9ed4d1f"
+  },
+  {
+    "name": "Homunculus(Support)",
+    "element": "Dark",
+    "file": "data/reference\\HomunculusSupport__1000215.png",
+    "phash": "fee4e58f027d9220",
+    "dhash": "62233733697133a3"
+  },
+  {
+    "name": "Alexandra",
+    "element": "Dark",
+    "file": "data/reference\\Alexandra__21515.png",
+    "phash": "afd291056537311f",
+    "dhash": "cca14d4767074f1f"
+  },
+  {
+    "name": "Helena",
+    "element": "Fire",
+    "file": "data/reference\\Helena__21512.png",
+    "phash": "afd2b6442137701f",
+    "dhash": "cd654d4f53874f1f"
+  },
+  {
+    "name": "Homunculus(Support)",
+    "element": "Light",
+    "file": "data/reference\\HomunculusSupport__1000214.png",
+    "phash": "e8cda19733759e20",
+    "dhash": "f2a3233329799307"
+  },
+  {
+    "name": "Ophilia",
+    "element": "Fire",
+    "file": "data/reference\\Ophilia__21812.png",
+    "phash": "9b02631e656bd665",
+    "dhash": "d9d8e9bbf875d9da"
+  },
+  {
+    "name": "Diana",
+    "element": "Wind",
+    "file": "data/reference\\Diana__21513.png",
+    "phash": "a3c2b6c02337b61f",
+    "dhash": "cde54d4df3a70f1f"
+  },
+  {
+    "name": "Josephine",
+    "element": "Water",
+    "file": "data/reference\\Josephine__21811.png",
+    "phash": "9a0a635e6569e627",
+    "dhash": "d9f9e9b37871f9da"
+  },
+  {
+    "name": "Talia",
+    "element": "Water",
+    "file": "data/reference\\Talia__21911.png",
+    "phash": "ded2628e2da6c338",
+    "dhash": "69515c663260359a"
+  },
+  {
+    "name": "Shaina",
+    "element": "Fire",
+    "file": "data/reference\\Shaina__21912.png",
+    "phash": "cf23709f2c2ec338",
+    "dhash": "63d1cfe772613196"
+  },
+  {
+    "name": "Jeanne",
+    "element": "Light",
+    "file": "data/reference\\Jeanne__21814.png",
+    "phash": "d880679e256b9657",
+    "dhash": "c6d9d99398b5195a"
+  },
+  {
+    "name": "Deva",
+    "element": "Light",
+    "file": "data/reference\\Deva__21914.png",
+    "phash": "dedb68cc0d36c138",
+    "dhash": "6979586c6664adf3"
+  },
+  {
+    "name": "Melissa",
+    "element": "Wind",
+    "file": "data/reference\\Melissa__21913.png",
+    "phash": "cf23349f8c3c87e0",
+    "dhash": "67d3c3e7736131c6"
+  },
+  {
+    "name": "Louise",
+    "element": "Wind",
+    "file": "data/reference\\Louise__21813.png",
+    "phash": "d882679e256b9617",
+    "dhash": "c3d9f993983519da"
+  },
+  {
+    "name": "Maruna",
+    "element": "Fire",
+    "file": "data/reference\\Maruna__22012.png",
+    "phash": "907ea39a64f89f03",
+    "dhash": "85a92837b8d999df"
+  },
+  {
+    "name": "Martina",
+    "element": "Dark",
+    "file": "data/reference\\Martina__22015.png",
+    "phash": "906aa1986efd9713",
+    "dhash": "91a92827b89898fc"
+  },
+  {
+    "name": "Leona",
+    "element": "Dark",
+    "file": "data/reference\\Leona__21815.png",
+    "phash": "9a2b60de2169f627",
+    "dhash": "d9f9e9b37874b99c"
+  },
+  {
+    "name": "Sabrina",
+    "element": "Water",
+    "file": "data/reference\\Sabrina__22011.png",
+    "phash": "978f0c19749cd473",
+    "dhash": "6069c9494958b82c"
+  },
+  {
+    "name": "Herne",
+    "element": "Water",
+    "file": "data/reference\\Herne__22111.png",
+    "phash": "d3441b626f926d0f",
+    "dhash": "f5f070cc4e4a585b"
+  },
+  {
+    "name": "Felleria",
+    "element": "Light",
+    "file": "data/reference\\Felleria__22114.png",
+    "phash": "c1d61a632f926d0f",
+    "dhash": "e9e4e4c4c6cad853"
+  },
+  {
+    "name": "Mellia",
+    "element": "Wind",
+    "file": "data/reference\\Mellia__22113.png",
+    "phash": "c3441a766f926d0f",
+    "dhash": "e4e0d0ccc2cad85b"
+  },
+  {
+    "name": "Abellio",
+    "element": "Water",
+    "file": "data/reference\\Abellio__22211.png",
+    "phash": "ce8b34c50b6c6b6a",
+    "dhash": "7352616171a2b435"
+  },
+  {
+    "name": "Zenobia",
+    "element": "Wind",
+    "file": "data/reference\\Zenobia__22013.png",
+    "phash": "906ea1986cfb9f03",
+    "dhash": "81a26833b8dc98c6"
+  },
+  {
+    "name": "Nisha",
+    "element": "Fire",
+    "file": "data/reference\\Nisha__22112.png",
+    "phash": "d3640a722d926d5f",
+    "dhash": "35b150ccc648595b"
+  },
+  {
+    "name": "Bailey",
+    "element": "Light",
+    "file": "data/reference\\Bailey__22014.png",
+    "phash": "978b149b66d4e472",
+    "dhash": "6069c85949583824"
+  },
+  {
+    "name": "Belita",
+    "element": "Dark",
+    "file": "data/reference\\Belita__21915.png",
+    "phash": "cfa330df8d2c8730",
+    "dhash": "47d3c3e773613046"
+  },
+  {
+    "name": "Hyanes",
+    "element": "Dark",
+    "file": "data/reference\\Hyanes__22115.png",
+    "phash": "d3643b636e926d05",
+    "dhash": "edbcf0e4c448d85b"
+  },
+  {
+    "name": "Valantis",
+    "element": "Light",
+    "file": "data/reference\\Valantis__22214.png",
+    "phash": "ce8b34c50b6c6b6a",
+    "dhash": "7256e36371e2242d"
+  },
+  {
+    "name": "Pater",
+    "element": "Dark",
+    "file": "data/reference\\Pater__22215.png",
+    "phash": "cfc830c5cb307d2e",
+    "dhash": "72e169617372152d"
+  },
+  {
+    "name": "Vidurr",
+    "element": "Fire",
+    "file": "data/reference\\Vidurr__22412.png",
+    "phash": "de862ecf8931323c",
+    "dhash": "64643cd8f0607838"
+  },
+  {
+    "name": "Skogul",
+    "element": "Wind",
+    "file": "data/reference\\Skogul__22413.png",
+    "phash": "cae425cdc1b8b23e",
+    "dhash": "a0e42dd9f1f179d9"
+  },
+  {
+    "name": "Bellenus",
+    "element": "Fire",
+    "file": "data/reference\\Bellenus__22212.png",
+    "phash": "ce8b34c52b6c696a",
+    "dhash": "5254636151a2242d"
+  },
+  {
+    "name": "Bagir",
+    "element": "Water",
+    "file": "data/reference\\Bagir__22411.png",
+    "phash": "d8e430ccc9bb3a1e",
+    "dhash": "b0843cd1f07179f9"
+  },
+  {
+    "name": "Taranys",
+    "element": "Wind",
+    "file": "data/reference\\Taranys__22213.png",
+    "phash": "cc8b34c52b6c63ea",
+    "dhash": "5254e36171e2a42d"
+  },
+  {
+    "name": "Einheri",
+    "element": "Light",
+    "file": "data/reference\\Einheri__22414.png",
+    "phash": "cae431ccc1bbb21e",
+    "dhash": "b0e42dd9f1b139d9"
+  },
+  {
+    "name": "Herteit",
+    "element": "Dark",
+    "file": "data/reference\\Herteit__22615.png",
+    "phash": "d8e06f82dd325723",
+    "dhash": "919399b1b0b0bb32"
+  },
+  {
+    "name": "Odin",
+    "element": "Wind",
+    "file": "data/reference\\Odin__22613.png",
+    "phash": "d8a06dc69d3253b3",
+    "dhash": "b3a39bb3b0b03b32"
+  },
+  {
+    "name": "Belladeon",
+    "element": "Light",
+    "file": "data/reference\\Belladeon__11034.png",
+    "phash": "85d3658b5b0ac5da",
+    "dhash": "da96f4f8f2f6b7b6"
+  },
+  {
+    "name": "Trasar",
+    "element": "Dark",
+    "file": "data/reference\\Trasar__22415.png",
+    "phash": "c68627cf89313a3e",
+    "dhash": "64e43cd0f0607838"
+  },
+  {
+    "name": "Geldnir",
+    "element": "Light",
+    "file": "data/reference\\Geldnir__22614.png",
+    "phash": "f8c875805a33db33",
+    "dhash": "b2a3bbb9b3b73e34"
+  },
+  {
+    "name": "Covenant",
+    "element": "Water",
+    "file": "data/reference\\Covenant__22711.png",
+    "phash": "ad786202d7b92da6",
+    "dhash": "810716166e660647"
+  },
+  {
+    "name": "Bolverk",
+    "element": "Water",
+    "file": "data/reference\\Bolverk__22611.png",
+    "phash": "d8e06dc69d3a1333",
+    "dhash": "b3b39bb1b0b03332"
+  },
+  {
+    "name": "Baleygr",
+    "element": "Fire",
+    "file": "data/reference\\Baleygr__22612.png",
+    "phash": "d8e06fd49d325331",
+    "dhash": "b3a38bbbb2b03b32"
+  },
+  {
+    "name": "Dragunov",
+    "element": "Dark",
+    "file": "data/reference\\Dragunov__22715.png",
+    "phash": "ad7a624693b92ca6",
+    "dhash": "010717166e660607"
+  },
+  {
+    "name": "Carcano",
+    "element": "Fire",
+    "file": "data/reference\\Carcano__22712.png",
+    "phash": "ad786a06d7b90ca6",
+    "dhash": "010717166e660647"
+  },
+  {
+    "name": "Bella",
+    "element": "Dark",
+    "file": "data/reference\\Bella__22915.png",
+    "phash": "9863679863d6b5c4",
+    "dhash": "933b7429b3b0f0e1"
+  },
+  {
+    "name": "Carbine",
+    "element": "Wind",
+    "file": "data/reference\\Carbine__22713.png",
+    "phash": "a478421ed7b92da6",
+    "dhash": "818717166c66c6c6"
+  },
+  {
+    "name": "Christina",
+    "element": "Wind",
+    "file": "data/reference\\Christina__22913.png",
+    "phash": "d827677861c2b467",
+    "dhash": "9b78e49393b071c1"
+  },
+  {
+    "name": "Magnum",
+    "element": "Light",
+    "file": "data/reference\\Magnum__22714.png",
+    "phash": "a5386a52d3a92fa6",
+    "dhash": "19b366d66e66c6c6"
+  },
+  {
+    "name": "Abigail",
+    "element": "Water",
+    "file": "data/reference\\Abigail__22911.png",
+    "phash": "986577d863c6b584",
+    "dhash": "93397491b330f059"
+  },
+  {
+    "name": "Scarlett",
+    "element": "Fire",
+    "file": "data/reference\\Scarlett__22912.png",
+    "phash": "9a63679863c6b5c4",
+    "dhash": "93397401b330f161"
+  },
+  {
+    "name": "Eirgar",
+    "element": "Dark",
+    "file": "data/reference\\Eirgar__23015.png",
+    "phash": "d8f792c1699631c6",
+    "dhash": "38383c36a3b2b1b9"
+  },
+  {
+    "name": "Iselia",
+    "element": "Fire",
+    "file": "data/reference\\Iselia__10132.png",
+    "phash": "cb3b65d8a158c669",
+    "dhash": "1b63697171693303"
+  },
+  {
+    "name": "Emily",
+    "element": "Light",
+    "file": "data/reference\\Emily__22914.png",
+    "phash": "d82767f861c3b544",
+    "dhash": "9329f691b3b0f1e1"
+  },
+  {
+    "name": "Neal",
+    "element": "Light",
+    "file": "data/reference\\Neal__10134.png",
+    "phash": "d9d0e7d45148d665",
+    "dhash": "92ba2bb33269b34f"
+  },
+  {
+    "name": "Sorin",
+    "element": "Dark",
+    "file": "data/reference\\Sorin__10135.png",
+    "phash": "db6660d6a158c769",
+    "dhash": "3b23697170693313"
+  },
+  {
+    "name": "Kro",
+    "element": "Dark",
+    "file": "data/reference\\Kro__11035.png",
+    "phash": "9127b6929a17c6b3",
+    "dhash": "cd97e6fa99f4b695"
+  },
+  {
+    "name": "Cheryl",
+    "element": "Light",
+    "file": "data/reference\\Cheryl__10334.png",
+    "phash": "d955c610594fc6b6",
+    "dhash": "a8ba2c1b99f179ce"
+  },
+  {
+    "name": "Elucia",
+    "element": "Water",
+    "file": "data/reference\\Elucia__10131.png",
+    "phash": "dbf0e592a158c669",
+    "dhash": "933b6bb171693343"
+  },
+  {
+    "name": "Shannon",
+    "element": "Wind",
+    "file": "data/reference\\Shannon__10333.png",
+    "phash": "9b58e419294fc6b6",
+    "dhash": "b2bb251b9974798e"
+  },
+  {
+    "name": "Camaryn",
+    "element": "Dark",
+    "file": "data/reference\\Camaryn__10335.png",
+    "phash": "9f78ec1d616ac4a4",
+    "dhash": "3b3924595874792f"
+  },
+  {
+    "name": "Ursha",
+    "element": "Fire",
+    "file": "data/reference\\Ursha__10732.png",
+    "phash": "f0d8e130607f8e1f",
+    "dhash": "9190608089a116cf"
+  },
+  {
+    "name": "Gorgo",
+    "element": "Dark",
+    "file": "data/reference\\Gorgo__10735.png",
+    "phash": "f2d1f120407d0f3f",
+    "dhash": "909820008985062b"
+  },
+  {
+    "name": "Tatu",
+    "element": "Fire",
+    "file": "data/reference\\Tatu__10332.png",
+    "phash": "9a7de710214fc636",
+    "dhash": "2a3b6d53b9f1790e"
+  },
+  {
+    "name": "Dagora",
+    "element": "Water",
+    "file": "data/reference\\Dagora__10731.png",
+    "phash": "d29b0f0ee27c2e38",
+    "dhash": "61d810809961164e"
+  },
+  {
+    "name": "Lusha",
+    "element": "Light",
+    "file": "data/reference\\Lusha__10734.png",
+    "phash": "c0870f3fabee1c30",
+    "dhash": "63d8b0819b34858b"
+  },
+  {
+    "name": "Aeilene",
+    "element": "Wind",
+    "file": "data/reference\\Aeilene__10133.png",
+    "phash": "d990e7d5295886e9",
+    "dhash": "9abb29b33368334b"
+  },
+  {
+    "name": "Kacey",
+    "element": "Water",
+    "file": "data/reference\\Kacey__10331.png",
+    "phash": "9b7de510690bc636",
+    "dhash": "2a326973b1f1794e"
+  },
+  {
+    "name": "Ramagos",
+    "element": "Wind",
+    "file": "data/reference\\Ramagos__10733.png",
+    "phash": "c3d90f3a437c0e3c",
+    "dhash": "c1d830808b850ecb"
+  },
+  {
+    "name": "Raoq",
+    "element": "Fire",
+    "file": "data/reference\\Raoq__11032.png",
+    "phash": "814772d39b0786f6",
+    "dhash": "c898a6f3d9f6979d"
+  },
+  {
+    "name": "Icaru",
+    "element": "Water",
+    "file": "data/reference\\Icaru__11031.png",
+    "phash": "9147728b1b0fc66e",
+    "dhash": "c89cc4d2d9f6bf9c"
+  },
+  {
+    "name": "Lucifer",
+    "element": "Light",
+    "file": "data/reference\\Lucifer__23114.png",
+    "phash": "e5e0c68e3e9a9338",
+    "dhash": "c4868a9a476b6373"
+  },
+  {
+    "name": "Bael",
+    "element": "Fire",
+    "file": "data/reference\\Bael__23112.png",
+    "phash": "c5c0c69e3e9a9c35",
+    "dhash": "e4ca8a9233616373"
+  },
+  {
+    "name": "Kunite",
+    "element": "Fire",
+    "file": "data/reference\\Kunite__23312.png",
+    "phash": "926a3ea2651ca677",
+    "dhash": "a5393c54cafc7c1c"
+  },
+  {
+    "name": "Mephisto",
+    "element": "Wind",
+    "file": "data/reference\\Mephisto__23113.png",
+    "phash": "cdc1c69e3e9a9831",
+    "dhash": "e4ca8a9a37616333"
+  },
+  {
+    "name": "Ramahan",
+    "element": "Wind",
+    "file": "data/reference\\Ramahan__11033.png",
+    "phash": "815373931b07c5f6",
+    "dhash": "c999c6d2dbf6bf97"
+  },
+  {
+    "name": "Beelzebub",
+    "element": "Dark",
+    "file": "data/reference\\Beelzebub__23115.png",
+    "phash": "c5c0c68e3e9b9e34",
+    "dhash": "e48a8a9276616373"
+  },
+  {
+    "name": "Belial",
+    "element": "Water",
+    "file": "data/reference\\Belial__23111.png",
+    "phash": "cdc0c79e3e1a823d",
+    "dhash": "e48a8a9377617373"
+  },
+  {
+    "name": "Tanzaite",
+    "element": "Water",
+    "file": "data/reference\\Tanzaite__23311.png",
+    "phash": "95483caa6b1dae66",
+    "dhash": "d7b83c52ca7c3c1e"
+  },
+  {
+    "name": "Jultan",
+    "element": "Dark",
+    "file": "data/reference\\Jultan__14035.png",
+    "phash": "d7de3c65140d81e5",
+    "dhash": "446c68f88cce0e0c"
+  },
+  {
+    "name": "Phenaka",
+    "element": "Light",
+    "file": "data/reference\\Phenaka__23314.png",
+    "phash": "954436aa6d742e73",
+    "dhash": "96b83c74ca7d3c1c"
+  },
+  {
+    "name": "Malite",
+    "element": "Wind",
+    "file": "data/reference\\Malite__23313.png",
+    "phash": "95483e826b1dee66",
+    "dhash": "d6983cd2eb7c3e1e"
+  },
+  {
+    "name": "Onyx",
+    "element": "Dark",
+    "file": "data/reference\\Onyx__23315.png",
+    "phash": "97683c8a6b942e73",
+    "dhash": "95b83cd4c9ec7c1c"
+  },
+  {
+    "name": "Garoche",
+    "element": "Fire",
+    "file": "data/reference\\Garoche__14032.png",
+    "phash": "d79e3c65140da1e5",
+    "dhash": "466c687cccce0e0c"
+  },
+  {
+    "name": "Mei",
+    "element": "Fire",
+    "file": "data/reference\\Mei__15032.png",
+    "phash": "88a6470f1896cbfb",
+    "dhash": "c7c791b199f3f89a"
+  },
+  {
+    "name": "Naomi",
+    "element": "Wind",
+    "file": "data/reference\\Naomi__15033.png",
+    "phash": "88a2470f3896cfdb",
+    "dhash": "c7c791b193f3e8b2"
+  },
+  {
+    "name": "Shakan",
+    "element": "Wind",
+    "file": "data/reference\\Shakan__14033.png",
+    "phash": "d7de2c65140ca1f5",
+    "dhash": "6468e8f8cc9e0e8e"
+  },
+  {
+    "name": "Mina",
+    "element": "Water",
+    "file": "data/reference\\Mina__15031.png",
+    "phash": "89a0470f3896cfdb",
+    "dhash": "c7c391b19370e8fa"
+  },
+  {
+    "name": "Vigor",
+    "element": "Water",
+    "file": "data/reference\\Vigor__14031.png",
+    "phash": "f71e3c21148de1e5",
+    "dhash": "466c68f8cc8e0e0e"
+  },
+  {
+    "name": "Xiao Ling",
+    "element": "Light",
+    "file": "data/reference\\Xiao Ling__15034.png",
+    "phash": "88e7e64f3096c559",
+    "dhash": "e7c7d1b899f1f9b9"
+  },
+  {
+    "name": "Barbara",
+    "element": "Water",
+    "file": "data/reference\\Barbara__23511.png",
+    "phash": "fa0777e00ef46912",
+    "dhash": "695c9939b1999d19"
+  },
+  {
+    "name": "Narsha",
+    "element": "Light",
+    "file": "data/reference\\Narsha__23514.png",
+    "phash": "e28366ec0efc6994",
+    "dhash": "e3c9d99939131419"
+  },
+  {
+    "name": "Miho",
+    "element": "Dark",
+    "file": "data/reference\\Miho__15035.png",
+    "phash": "9aeb67444094d3db",
+    "dhash": "c7cb59b9f9e8fce8"
+  },
+  {
+    "name": "Bernard",
+    "element": "Wind",
+    "file": "data/reference\\Bernard__11533.png",
+    "phash": "a0c3837f60272fdc",
+    "dhash": "d0f0e3c7363f3cae"
+  },
+  {
+    "name": "Xiana",
+    "element": "Dark",
+    "file": "data/reference\\Xiana__23515.png",
+    "phash": "da1775e00eed6b02",
+    "dhash": "58183879b993941d"
+  },
+  {
+    "name": "Eshir",
+    "element": "Light",
+    "file": "data/reference\\Eshir__14034.png",
+    "phash": "d19b2c65d60ce1d5",
+    "dhash": "6ce8c8d8c8dea6ac"
+  },
+  {
+    "name": "Kahn",
+    "element": "Water",
+    "file": "data/reference\\Kahn__11531.png",
+    "phash": "e9c7033f20272fd8",
+    "dhash": "4ad0e34717363eb3"
+  },
+  {
+    "name": "Savannah",
+    "element": "Wind",
+    "file": "data/reference\\Savannah__23513.png",
+    "phash": "fa8346e40efe2992",
+    "dhash": "49d9993993161d19"
+  },
+  {
+    "name": "Masha",
+    "element": "Fire",
+    "file": "data/reference\\Masha__23512.png",
+    "phash": "da0777e80e756912",
+    "dhash": "59599979b9931d19"
+  },
+  {
+    "name": "Spectra",
+    "element": "Fire",
+    "file": "data/reference\\Spectra__11532.png",
+    "phash": "e8c8907fe4272f8c",
+    "dhash": "b0b1a347373b3eae"
+  },
+  {
+    "name": "Jeogun",
+    "element": "Fire",
+    "file": "data/reference\\Jeogun__23712.png",
+    "phash": "85bd72c52c1e93e4",
+    "dhash": "444a6832e6e0f4ed"
+  },
+  {
+    "name": "Shamann",
+    "element": "Light",
+    "file": "data/reference\\Shamann__11534.png",
+    "phash": "80c71f5d2326679e",
+    "dhash": "c8d1e7cf96b2bece"
+  },
+  {
+    "name": "Varus",
+    "element": "Dark",
+    "file": "data/reference\\Varus__11535.png",
+    "phash": "fcf28053a5e70f88",
+    "dhash": "94352347171933b2"
+  },
+  {
+    "name": "Haegang",
+    "element": "Water",
+    "file": "data/reference\\Haegang__23711.png",
+    "phash": "c5b572c52c1e93e4",
+    "dhash": "ccce6836e6e0f0ed"
+  },
+  {
+    "name": "Hanwul",
+    "element": "Light",
+    "file": "data/reference\\Hanwul__23714.png",
+    "phash": "84ad72c52c9ed3e4",
+    "dhash": "e6ca6836e6e0f4cd"
+  },
+  {
+    "name": "Hongyeon",
+    "element": "Fire",
+    "file": "data/reference\\Hongyeon__23912.png",
+    "phash": "8b39753d833c92c6",
+    "dhash": "727171f9697162c9"
+  },
+  {
+    "name": "Cheongpung",
+    "element": "Wind",
+    "file": "data/reference\\Cheongpung__23713.png",
+    "phash": "85bd72c52c1e93e4",
+    "dhash": "cece6832e6e0f0ed"
+  },
+  {
+    "name": "Yeonhwa",
+    "element": "Wind",
+    "file": "data/reference\\Yeonhwa__23913.png",
+    "phash": "9b3d752c833cd246",
+    "dhash": "7373717969713349"
+  },
+  {
+    "name": "Dongbaek",
+    "element": "Light",
+    "file": "data/reference\\Dongbaek__23914.png",
+    "phash": "9b3d752c832cd266",
+    "dhash": "7373717969713349"
+  },
+  {
+    "name": "Mookwol",
+    "element": "Dark",
+    "file": "data/reference\\Mookwol__23715.png",
+    "phash": "cff33ccd240c8366",
+    "dhash": "567069f1e0e072a5"
+  },
+  {
+    "name": "Mirinae",
+    "element": "Dark",
+    "file": "data/reference\\Mirinae__23915.png",
+    "phash": "9b39752c833c92ce",
+    "dhash": "737171f9697133c9"
+  },
+  {
+    "name": "Songseol",
+    "element": "Water",
+    "file": "data/reference\\Songseol__23911.png",
+    "phash": "9f3d752c833c9246",
+    "dhash": "737171f969713349"
+  },
+  {
+    "name": "M. BISON",
+    "element": "Fire",
+    "file": "data/reference\\M. BISON__24212.png",
+    "phash": "aa027cef6181369f",
+    "dhash": "8b25e9d953633383"
+  },
+  {
+    "name": "KEN",
+    "element": "Fire",
+    "file": "data/reference\\KEN__24112.png",
+    "phash": "9be5c1be4528f494",
+    "dhash": "4a5b5dcb603539d9"
+  },
+  {
+    "name": "M. BISON",
+    "element": "Water",
+    "file": "data/reference\\M. BISON__24211.png",
+    "phash": "ca0268ff638136dd",
+    "dhash": "61e5fcd973623393"
+  },
+  {
+    "name": "M. BISON",
+    "element": "Light",
+    "file": "data/reference\\M. BISON__24214.png",
+    "phash": "fa2e60ade3d1849c",
+    "dhash": "0f357d496b623383"
+  },
+  {
+    "name": "M. BISON",
+    "element": "Dark",
+    "file": "data/reference\\M. BISON__24215.png",
+    "phash": "da0268ffa381b29e",
+    "dhash": "a125fdd97a643293"
+  },
+  {
+    "name": "DHALSIM",
+    "element": "Water",
+    "file": "data/reference\\DHALSIM__24311.png",
+    "phash": "bcd201e41f92f927",
+    "dhash": "b0b238342626373a"
+  },
+  {
+    "name": "M. BISON",
+    "element": "Wind",
+    "file": "data/reference\\M. BISON__24213.png",
+    "phash": "fa2268fda381969c",
+    "dhash": "0f257dd96b66338b"
+  },
+  {
+    "name": "DHALSIM",
+    "element": "Light",
+    "file": "data/reference\\DHALSIM__24314.png",
+    "phash": "9c8009f47f96e867",
+    "dhash": "b2b2b53c2e363633"
+  },
+  {
+    "name": "DHALSIM",
+    "element": "Fire",
+    "file": "data/reference\\DHALSIM__24312.png",
+    "phash": "b8d401e45f0ff827",
+    "dhash": "adadb9352737333b"
+  },
+  {
+    "name": "DHALSIM",
+    "element": "Wind",
+    "file": "data/reference\\DHALSIM__24313.png",
+    "phash": "9c8009542f9fd96f",
+    "dhash": "f3b3b33526b6333b"
+  },
+  {
+    "name": "DHALSIM",
+    "element": "Dark",
+    "file": "data/reference\\DHALSIM__24315.png",
+    "phash": "fcfa00e44f07f825",
+    "dhash": "292939252626363a"
+  },
+  {
+    "name": "CHUN-LI",
+    "element": "Fire",
+    "file": "data/reference\\CHUN-LI__24412.png",
+    "phash": "8b3ab0e782d931ad",
+    "dhash": "0fc7b3f1636bc2ee"
+  },
+  {
+    "name": "CHUN-LI",
+    "element": "Water",
+    "file": "data/reference\\CHUN-LI__24411.png",
+    "phash": "8d38b4679ad835c5",
+    "dhash": "0bcf33f3e34ac2a6"
+  },
+  {
+    "name": "CHUN-LI",
+    "element": "Dark",
+    "file": "data/reference\\CHUN-LI__24415.png",
+    "phash": "c53a70e706d9391d",
+    "dhash": "8cc0b0f1636ac2fc"
+  },
+  {
+    "name": "CHUN-LI",
+    "element": "Light",
+    "file": "data/reference\\CHUN-LI__24414.png",
+    "phash": "8a3ae0e696993da9",
+    "dhash": "0fc719f16163c3a6"
+  },
+  {
+    "name": "CHUN-LI",
+    "element": "Wind",
+    "file": "data/reference\\CHUN-LI__24413.png",
+    "phash": "8b38b0e796d93d09",
+    "dhash": "0fc793f1616bc3ec"
+  },
+  {
+    "name": "Douglas",
+    "element": "Fire",
+    "file": "data/reference\\Douglas__24512.png",
+    "phash": "ab40c5fa709c9b33",
+    "dhash": "81c343635979737b"
+  },
+  {
+    "name": "Moore",
+    "element": "Water",
+    "file": "data/reference\\Moore__24511.png",
+    "phash": "ab60c5da709c9b33",
+    "dhash": "c1c363735979737b"
+  },
+  {
+    "name": "Kashmir",
+    "element": "Wind",
+    "file": "data/reference\\Kashmir__24513.png",
+    "phash": "8a40d9f3279f9332",
+    "dhash": "d1b1f1634979717b"
+  },
+  {
+    "name": "Talisman",
+    "element": "Light",
+    "file": "data/reference\\Talisman__24514.png",
+    "phash": "8b41c0d2771d9b73",
+    "dhash": "c1c363735939717b"
+  },
+  {
+    "name": "Vancliffe",
+    "element": "Dark",
+    "file": "data/reference\\Vancliffe__24515.png",
+    "phash": "d879d89a338711b3",
+    "dhash": "d031b2e659b17171"
+  },
+  {
+    "name": "Bernadotte",
+    "element": "Fire",
+    "file": "data/reference\\Bernadotte__24612.png",
+    "phash": "e12f079c54992bd5",
+    "dhash": "634fdb9a8e9b9ecc"
+  },
+  {
+    "name": "Borgnine",
+    "element": "Water",
+    "file": "data/reference\\Borgnine__24711.png",
+    "phash": "fbbb11778a20e262",
+    "dhash": "59380951110a2619"
+  },
+  {
+    "name": "Sagar",
+    "element": "Wind",
+    "file": "data/reference\\Sagar__24713.png",
+    "phash": "fbbb1077ba20e260",
+    "dhash": "1918895b312aa699"
+  },
+  {
+    "name": "Karnal",
+    "element": "Fire",
+    "file": "data/reference\\Karnal__24712.png",
+    "phash": "fbbb1077ba20e260",
+    "dhash": "58188953112aa619"
+  },
+  {
+    "name": "Craig",
+    "element": "Light",
+    "file": "data/reference\\Craig__24714.png",
+    "phash": "fb9b94379a22e260",
+    "dhash": "591889d3314e2698"
+  },
+  {
+    "name": "Gurkha",
+    "element": "Dark",
+    "file": "data/reference\\Gurkha__24715.png",
+    "phash": "fbbb90759b20a262",
+    "dhash": "18182953112eaa99"
+  },
+  {
+    "name": "Kyle",
+    "element": "Water",
+    "file": "data/reference\\Kyle__24811.png",
+    "phash": "fead929090b2729e",
+    "dhash": "9c726156348c2d2d"
+  },
+  {
+    "name": "Todd",
+    "element": "Fire",
+    "file": "data/reference\\Todd__24812.png",
+    "phash": "feadb49010b2729e",
+    "dhash": "1c732557159c2d2d"
+  },
+  {
+    "name": "Jarrett",
+    "element": "Wind",
+    "file": "data/reference\\Jarrett__24813.png",
+    "phash": "fead969080b2729e",
+    "dhash": "bc626d16b4ac2d2d"
+  },
+  {
+    "name": "Hekerson",
+    "element": "Light",
+    "file": "data/reference\\Hekerson__24814.png",
+    "phash": "ec8d869490f6729e",
+    "dhash": "e4636596b48d2d2d"
+  },
+  {
+    "name": "Cayde",
+    "element": "Dark",
+    "file": "data/reference\\Cayde__24815.png",
+    "phash": "fead969090b2729a",
+    "dhash": "1c726357b5bc2d6d"
+  },
+  {
+    "name": "Lariel",
+    "element": "Water",
+    "file": "data/reference\\Lariel__24911.png",
+    "phash": "de632678649332d5",
+    "dhash": "8d4350f030313566"
+  },
+  {
+    "name": "Berenice",
+    "element": "Fire",
+    "file": "data/reference\\Berenice__24912.png",
+    "phash": "ca63a67a649213bd",
+    "dhash": "8f4350f030317566"
+  },
+  {
+    "name": "Cordelia",
+    "element": "Wind",
+    "file": "data/reference\\Cordelia__24913.png",
+    "phash": "e2d2263822db9b79",
+    "dhash": "8d4c50c131333466"
+  },
+  {
+    "name": "Leah",
+    "element": "Light",
+    "file": "data/reference\\Leah__24914.png",
+    "phash": "da63a67a649292d5",
+    "dhash": "8f42d0d030317566"
+  },
+  {
+    "name": "Vereesa",
+    "element": "Dark",
+    "file": "data/reference\\Vereesa__24915.png",
+    "phash": "dae127382490b7dd",
+    "dhash": "8f4350f03031b064"
+  },
+  {
+    "name": "Chichi and Friends",
+    "element": "Wind",
+    "file": "data/reference\\Chichi and Friends__13233.png",
+    "phash": "a7ec8338ec592b31",
+    "dhash": "6766ca67a71edc4a"
+  },
+  {
+    "name": "Lala and Friends",
+    "element": "Fire",
+    "file": "data/reference\\Lala and Friends__13232.png",
+    "phash": "874cd3346c52bb33",
+    "dhash": "6766c2e7a71edc4a"
+  },
+  {
+    "name": "Lulu and Friends",
+    "element": "Water",
+    "file": "data/reference\\Lulu and Friends__13231.png",
+    "phash": "a74c8334ec52bb33",
+    "dhash": "6766c367a71edc4a"
+  },
+  {
+    "name": "Shushu and Friends",
+    "element": "Light",
+    "file": "data/reference\\Shushu and Friends__13234.png",
+    "phash": "a7ec933cec113b30",
+    "dhash": "6766ca67271edc4a"
+  },
+  {
+    "name": "Chacha and Friends",
+    "element": "Dark",
+    "file": "data/reference\\Chacha and Friends__13235.png",
+    "phash": "a74c17386a133b73",
+    "dhash": "6766cae7a71edc4a"
+  },
+  {
+    "name": "Hemos",
+    "element": "Water",
+    "file": "data/reference\\Hemos__16031.png",
+    "phash": "c4b3b19bc991ca72",
+    "dhash": "1c0ca6e267678484"
+  },
+  {
+    "name": "Hiva",
+    "element": "Wind",
+    "file": "data/reference\\Hiva__16033.png",
+    "phash": "e4b1b10bc9b1cf32",
+    "dhash": "1e8ca6e2a7678484"
+  },
+  {
+    "name": "Sath",
+    "element": "Fire",
+    "file": "data/reference\\Sath__16032.png",
+    "phash": "e4b7b0bac9918b32",
+    "dhash": "1c2ca6e26767a6a4"
+  },
+  {
+    "name": "Prom",
+    "element": "Light",
+    "file": "data/reference\\Prom__16034.png",
+    "phash": "f4d9b10ac9954e72",
+    "dhash": "9288242227260e84"
+  },
+  {
+    "name": "Thrain",
+    "element": "Dark",
+    "file": "data/reference\\Thrain__16035.png",
+    "phash": "e4b7b09bc9918b32",
+    "dhash": "1c2ca6e267678684"
+  },
+  {
+    "name": "ROBO-G92",
+    "element": "Wind",
+    "file": "data/reference\\ROBO-G92__25413.png",
+    "phash": "ae2d543234cfd334",
+    "dhash": "8e2753732d59e0e4"
+  },
+  {
+    "name": "Shizuka",
+    "element": "Water",
+    "file": "data/reference\\Shizuka__25011.png",
+    "phash": "ccf2e28e7405d31d",
+    "dhash": "cca592b232697396"
+  },
+  {
+    "name": "Tomoe",
+    "element": "Fire",
+    "file": "data/reference\\Tomoe__25012.png",
+    "phash": "8cf2d38b7405939d",
+    "dhash": "cca1b2b637e9f294"
+  },
+  {
+    "name": "Seimei",
+    "element": "Light",
+    "file": "data/reference\\Seimei__25014.png",
+    "phash": "8b39edc63437131c",
+    "dhash": "73d35971f1696332"
+  },
+  {
+    "name": "Giou",
+    "element": "Wind",
+    "file": "data/reference\\Giou__25013.png",
+    "phash": "84f2a29f7427931d",
+    "dhash": "cca1b2b636e97396"
+  },
+  {
+    "name": "Douman",
+    "element": "Dark",
+    "file": "data/reference\\Douman__25015.png",
+    "phash": "c4e2a39f7483931d",
+    "dhash": "cca5b0a636e8e296"
+  },
+  {
+    "name": "Suiki",
+    "element": "Water",
+    "file": "data/reference\\Suiki__25111.png",
+    "phash": "94d69d9fae041c99",
+    "dhash": "6c6c94858da69696"
+  },
+  {
+    "name": "Kaki",
+    "element": "Fire",
+    "file": "data/reference\\Kaki__25112.png",
+    "phash": "ded62ddf2f040498",
+    "dhash": "2c2cb4a52922d327"
+  },
+  {
+    "name": "Fuuki",
+    "element": "Wind",
+    "file": "data/reference\\Fuuki__25113.png",
+    "phash": "b4da8d9daa04dc99",
+    "dhash": "6c6c94858ea69696"
+  },
+  {
+    "name": "Kinki",
+    "element": "Light",
+    "file": "data/reference\\Kinki__25114.png",
+    "phash": "b4d68d9daa04dc99",
+    "dhash": "6c6c94858ea69696"
+  },
+  {
+    "name": "Coco",
+    "element": "Fire",
+    "file": "data/reference\\Coco__25212.png",
+    "phash": "c1463eb96f92b14c",
+    "dhash": "63e4c0e0e3dab933"
+  },
+  {
+    "name": "Nana",
+    "element": "Water",
+    "file": "data/reference\\Nana__25211.png",
+    "phash": "c9463ab96e92b16c",
+    "dhash": "c3e4c4e8e39abb33"
+  },
+  {
+    "name": "Momo",
+    "element": "Wind",
+    "file": "data/reference\\Momo__25213.png",
+    "phash": "c9463ebb6e92a548",
+    "dhash": "63e4c4e8e3dab933"
+  },
+  {
+    "name": "Dorothy",
+    "element": "Light",
+    "file": "data/reference\\Dorothy__25214.png",
+    "phash": "c1463ab96f92b54c",
+    "dhash": "3de5c4e0e3dab933"
+  },
+  {
+    "name": "Miles",
+    "element": "Water",
+    "file": "data/reference\\Miles__25311.png",
+    "phash": "dfa038d2a54d839b",
+    "dhash": "8339716270682032"
+  },
+  {
+    "name": "Kiki",
+    "element": "Dark",
+    "file": "data/reference\\Kiki__25215.png",
+    "phash": "c1463bbb6e92a54c",
+    "dhash": "63e4c4e0e3dab933"
+  },
+  {
+    "name": "John",
+    "element": "Fire",
+    "file": "data/reference\\John__25312.png",
+    "phash": "cf283873254dc1db",
+    "dhash": "031de36270692012"
+  },
+  {
+    "name": "Oliver",
+    "element": "Wind",
+    "file": "data/reference\\Oliver__25313.png",
+    "phash": "ef28205a854dcbdb",
+    "dhash": "833d63627069244e"
+  },
+  {
+    "name": "Daniel",
+    "element": "Light",
+    "file": "data/reference\\Daniel__25314.png",
+    "phash": "cf8a2150a55d8bf5",
+    "dhash": "83a971623069344e"
+  },
+  {
+    "name": "ROBO-P27",
+    "element": "Fire",
+    "file": "data/reference\\ROBO-P27__25412.png",
+    "phash": "ae6df47230cdc1b0",
+    "dhash": "0e2753770d59278e"
+  },
+  {
+    "name": "ROBO-R40",
+    "element": "Water",
+    "file": "data/reference\\ROBO-R40__25411.png",
+    "phash": "ff65f4323089c332",
+    "dhash": "8e2653538d59279e"
+  },
+  {
+    "name": "Jackson",
+    "element": "Dark",
+    "file": "data/reference\\Jackson__25315.png",
+    "phash": "ef2a38526555c1d9",
+    "dhash": "031d736270602002"
+  },
+  {
+    "name": "ROBO-E65",
+    "element": "Light",
+    "file": "data/reference\\ROBO-E65__25414.png",
+    "phash": "ec2d543234cbd3b4",
+    "dhash": "8e275353255926a4"
+  },
+  {
+    "name": "ROBO-F29",
+    "element": "Dark",
+    "file": "data/reference\\ROBO-F29__25415.png",
+    "phash": "ae6df43610c5c3f0",
+    "dhash": "8e2753538d59268c"
+  },
+  {
+    "name": "Nora",
+    "element": "Fire",
+    "file": "data/reference\\Nora__25612.png",
+    "phash": "8ac5e989d1c2b8cf",
+    "dhash": "f2e36dedf0f9e5d3"
+  },
+  {
+    "name": "Aaliyah",
+    "element": "Water",
+    "file": "data/reference\\Aaliyah__25611.png",
+    "phash": "8ac5e988d1d2b8cf",
+    "dhash": "f0e22dfdf0f9e5d3"
+  },
+  {
+    "name": "Riley",
+    "element": "Wind",
+    "file": "data/reference\\Riley__25613.png",
+    "phash": "d5dd43112acc70eb",
+    "dhash": "f06426333a9aa6cf"
+  },
+  {
+    "name": "Maya",
+    "element": "Dark",
+    "file": "data/reference\\Maya__25615.png",
+    "phash": "8ae1e988d1f2386f",
+    "dhash": "f3e32dfdf0f9e5d3"
+  },
+  {
+    "name": "Ella",
+    "element": "Light",
+    "file": "data/reference\\Ella__25614.png",
+    "phash": "f5b726102b4c49cf",
+    "dhash": "660c26333b98a60b"
+  },
+  {
+    "name": "Liam",
+    "element": "Water",
+    "file": "data/reference\\Liam__25711.png",
+    "phash": "c9b9c585ee68d18a",
+    "dhash": "c69291932bb2a1c3"
+  },
+  {
+    "name": "Carlos",
+    "element": "Fire",
+    "file": "data/reference\\Carlos__25712.png",
+    "phash": "c9b9c785ee68918a",
+    "dhash": "c6d291932bb2a1c3"
+  },
+  {
+    "name": "Dominic",
+    "element": "Wind",
+    "file": "data/reference\\Dominic__25713.png",
+    "phash": "c9b9c784ee78918a",
+    "dhash": "c6d291932bb2a1c1"
+  },
+  {
+    "name": "Benedict",
+    "element": "Light",
+    "file": "data/reference\\Benedict__25714.png",
+    "phash": "c9b9c705ee78918a",
+    "dhash": "c6d291932bb2a1c3"
+  },
+  {
+    "name": "Susan",
+    "element": "Water",
+    "file": "data/reference\\Susan__25811.png",
+    "phash": "ddc1e690306726cf",
+    "dhash": "143222323870610d"
+  },
+  {
+    "name": "Maximilian",
+    "element": "Dark",
+    "file": "data/reference\\Maximilian__25715.png",
+    "phash": "c999e585efe0918a",
+    "dhash": "c6d291936bb2a143"
+  },
+  {
+    "name": "Miriam",
+    "element": "Fire",
+    "file": "data/reference\\Miriam__25812.png",
+    "phash": "dde16692306336ce",
+    "dhash": "143222323870620d"
+  },
+  {
+    "name": "Celine",
+    "element": "Wind",
+    "file": "data/reference\\Celine__25813.png",
+    "phash": "dce56292306b26cf",
+    "dhash": "943222323830610d"
+  },
+  {
+    "name": "Madeleine",
+    "element": "Light",
+    "file": "data/reference\\Madeleine__25814.png",
+    "phash": "dce5e2923263268f",
+    "dhash": "949222323830220d"
+  },
+  {
+    "name": "Deborah",
+    "element": "Dark",
+    "file": "data/reference\\Deborah__25815.png",
+    "phash": "dcfde690302126cf",
+    "dhash": "153222323830610d"
+  },
+  {
+    "name": "Kai'en",
+    "element": "Fire",
+    "file": "data/reference\\Kaien__15232.png",
+    "phash": "d8b3cbdf6d9c2040",
+    "dhash": "39498d941639b9b3"
+  },
+  {
+    "name": "Allen",
+    "element": "Water",
+    "file": "data/reference\\Allen__15231.png",
+    "phash": "d0f7cbdf6d8c3000",
+    "dhash": "71498c941638b9b3"
+  },
+  {
+    "name": "Roid",
+    "element": "Wind",
+    "file": "data/reference\\Roid__15233.png",
+    "phash": "d8f3cbdd6d8c3040",
+    "dhash": "31598d941638b9b3"
+  },
+  {
+    "name": "Jubelle",
+    "element": "Dark",
+    "file": "data/reference\\Jubelle__15235.png",
+    "phash": "d8e78bdf6d8c3040",
+    "dhash": "79498d941438b9b3"
+  },
+  {
+    "name": "Darion",
+    "element": "Light",
+    "file": "data/reference\\Darion__15234.png",
+    "phash": "d8f3cbdd6d9c2040",
+    "dhash": "79498c941638b9b3"
+  },
+  {
+    "name": "Megan",
+    "element": "Water",
+    "file": "data/reference\\Megan__15931.png",
+    "phash": "9a2e54dd3122fc35",
+    "dhash": "ace9e57333b8d198"
+  },
+  {
+    "name": "Silia",
+    "element": "Wind",
+    "file": "data/reference\\Silia__15933.png",
+    "phash": "d02f149d6d4adc35",
+    "dhash": "a4e9f0e312b8959c"
+  },
+  {
+    "name": "Rebecca",
+    "element": "Fire",
+    "file": "data/reference\\Rebecca__15932.png",
+    "phash": "9b6674ddb2209635",
+    "dhash": "8ce965f17178b1b9"
+  },
+  {
+    "name": "Usha",
+    "element": "Wind",
+    "file": "data/reference\\Usha__28513.png",
+    "phash": "9dc3f00f12b5789a",
+    "dhash": "d2d092ce696a76b4"
+  },
+  {
+    "name": "Linda",
+    "element": "Light",
+    "file": "data/reference\\Linda__15934.png",
+    "phash": "d0af161d694adc35",
+    "dhash": "e4ecf8e313b8d59c"
+  },
+  {
+    "name": "Gina",
+    "element": "Dark",
+    "file": "data/reference\\Gina__15935.png",
+    "phash": "d82e54dd3122fc35",
+    "dhash": "8ce9677333b8d198"
+  },
+  {
+    "name": "Ren",
+    "element": "Fire",
+    "file": "data/reference\\Ren__25912.png",
+    "phash": "80e25e9b2b0e6e6e",
+    "dhash": "e1e8e4d0f8f8f0d0"
+  },
+  {
+    "name": "Minato",
+    "element": "Water",
+    "file": "data/reference\\Minato__25911.png",
+    "phash": "80a21f9a6a0e6eef",
+    "dhash": "f1e8e0d8d8f8f2d0"
+  },
+  {
+    "name": "Zen",
+    "element": "Wind",
+    "file": "data/reference\\Zen__25913.png",
+    "phash": "81a25f982b0e6e6f",
+    "dhash": "f1e8e0c09ab8f0d0"
+  },
+  {
+    "name": "Shun",
+    "element": "Light",
+    "file": "data/reference\\Shun__25914.png",
+    "phash": "80825fb82b8e6e7b",
+    "dhash": "e1e8e0d4dab2f0d0"
+  },
+  {
+    "name": "Birman",
+    "element": "Water",
+    "file": "data/reference\\Birman__26011.png",
+    "phash": "c14b0a2b3f7d6d24",
+    "dhash": "7bf1d4f8e862f4f4"
+  },
+  {
+    "name": "Manx",
+    "element": "Fire",
+    "file": "data/reference\\Manx__26012.png",
+    "phash": "c14a0aab3b7d6da4",
+    "dhash": "f3f1d4f8e862f4f4"
+  },
+  {
+    "name": "Ritsu",
+    "element": "Dark",
+    "file": "data/reference\\Ritsu__25915.png",
+    "phash": "81e64d9b2e2c6c6e",
+    "dhash": "f1e8e0e8e8f8f0d0"
+  },
+  {
+    "name": "Nebelung",
+    "element": "Wind",
+    "file": "data/reference\\Nebelung__26013.png",
+    "phash": "c14b0aab3f7d6d20",
+    "dhash": "d3f1d4f8e862f4e4"
+  },
+  {
+    "name": "Siamese",
+    "element": "Light",
+    "file": "data/reference\\Siamese__26014.png",
+    "phash": "c14b0aab1f7f6d20",
+    "dhash": "7bd1d478e862f0b4"
+  },
+  {
+    "name": "Bombay",
+    "element": "Dark",
+    "file": "data/reference\\Bombay__26015.png",
+    "phash": "c14a0aab3b7d6de0",
+    "dhash": "f3f1d4f8e862f0f4"
+  },
+  {
+    "name": "Amber",
+    "element": "Water",
+    "file": "data/reference\\Amber__26111.png",
+    "phash": "ddd4259e218ab669",
+    "dhash": "c4c680a81a3c7146"
+  },
+  {
+    "name": "Sonia",
+    "element": "Wind",
+    "file": "data/reference\\Sonia__26113.png",
+    "phash": "ddd42f98238ab629",
+    "dhash": "f4c484a81a3c7147"
+  },
+  {
+    "name": "Claire",
+    "element": "Fire",
+    "file": "data/reference\\Claire__26112.png",
+    "phash": "ddd4259823cab669",
+    "dhash": "94e6a4a81a3d7147"
+  },
+  {
+    "name": "Veronica",
+    "element": "Light",
+    "file": "data/reference\\Veronica__26114.png",
+    "phash": "d5d4279a61cab629",
+    "dhash": "e4c684a8923d7147"
+  },
+  {
+    "name": "Thomas",
+    "element": "Wind",
+    "file": "data/reference\\Thomas__26213.png",
+    "phash": "c4c3011b166de7db",
+    "dhash": "d0a245252143a286"
+  },
+  {
+    "name": "Destiny",
+    "element": "Dark",
+    "file": "data/reference\\Destiny__26115.png",
+    "phash": "d4d52d903f8ab269",
+    "dhash": "c6c684e89abcf146"
+  },
+  {
+    "name": "Lucia",
+    "element": "Water",
+    "file": "data/reference\\Lucia__26311.png",
+    "phash": "97a1127c232297fd",
+    "dhash": "ccccc8cc72707868"
+  },
+  {
+    "name": "Lucia",
+    "element": "Wind",
+    "file": "data/reference\\Lucia__26313.png",
+    "phash": "96a71e2921e3e3e1",
+    "dhash": "cc2cccccd270f9e8"
+  },
+  {
+    "name": "Lucia",
+    "element": "Fire",
+    "file": "data/reference\\Lucia__26312.png",
+    "phash": "93e172e96122979d",
+    "dhash": "cccc6ccc7270f968"
+  },
+  {
+    "name": "Lucia",
+    "element": "Light",
+    "file": "data/reference\\Lucia__26314.png",
+    "phash": "97f05a6971223739",
+    "dhash": "8cec6cccd670f9e8"
+  },
+  {
+    "name": "Lucia",
+    "element": "Dark",
+    "file": "data/reference\\Lucia__26315.png",
+    "phash": "97a512693120befd",
+    "dhash": "ecec6cec507079f8"
+  },
+  {
+    "name": "Alice",
+    "element": "Water",
+    "file": "data/reference\\Alice__26411.png",
+    "phash": "9da56726a5e293c8",
+    "dhash": "4e72f1f0f2f8913a"
+  },
+  {
+    "name": "Alice",
+    "element": "Wind",
+    "file": "data/reference\\Alice__26413.png",
+    "phash": "9fa72507ad8a9788",
+    "dhash": "4e4631f17278b132"
+  },
+  {
+    "name": "Alice",
+    "element": "Fire",
+    "file": "data/reference\\Alice__26412.png",
+    "phash": "8dbd2726a5e293c8",
+    "dhash": "4e7271f0f2f8b17a"
+  },
+  {
+    "name": "Alice",
+    "element": "Dark",
+    "file": "data/reference\\Alice__26415.png",
+    "phash": "952d68f6a5e2c349",
+    "dhash": "4e32d3f4706c9556"
+  },
+  {
+    "name": "Alice",
+    "element": "Light",
+    "file": "data/reference\\Alice__26414.png",
+    "phash": "9f952787a98297c8",
+    "dhash": "4e6631317378b93b"
+  },
+  {
+    "name": "Hibiscus",
+    "element": "Fire",
+    "file": "data/reference\\Hibiscus__26512.png",
+    "phash": "fa95e98a542cf21a",
+    "dhash": "175a4876f88dc31d"
+  },
+  {
+    "name": "Hibiscus",
+    "element": "Water",
+    "file": "data/reference\\Hibiscus__26511.png",
+    "phash": "d39de982b42cf21a",
+    "dhash": "57535876f88dd31d"
+  },
+  {
+    "name": "Hibiscus",
+    "element": "Wind",
+    "file": "data/reference\\Hibiscus__26513.png",
+    "phash": "d38d698abc2df20a",
+    "dhash": "97d24876f8adc31d"
+  },
+  {
+    "name": "Hibiscus",
+    "element": "Light",
+    "file": "data/reference\\Hibiscus__26514.png",
+    "phash": "e2ce7983e20de01f",
+    "dhash": "a1219185c9cd131d"
+  },
+  {
+    "name": "Hibiscus",
+    "element": "Dark",
+    "file": "data/reference\\Hibiscus__26515.png",
+    "phash": "d39d6982bc25e29a",
+    "dhash": "175a487ef88dc31d"
+  },
+  {
+    "name": "Pavé",
+    "element": "Fire",
+    "file": "data/reference\\Pavé__26612.png",
+    "phash": "8b6c7d88501f24fe",
+    "dhash": "376b63c9f1f37b2d"
+  },
+  {
+    "name": "Pavé",
+    "element": "Water",
+    "file": "data/reference\\Pavé__26611.png",
+    "phash": "8f647c89501b21ff",
+    "dhash": "26226bc9f1f3792e"
+  },
+  {
+    "name": "Pavé",
+    "element": "Wind",
+    "file": "data/reference\\Pavé__26613.png",
+    "phash": "8f657d8cc00ba57a",
+    "dhash": "266e4bc9f1f37b2d"
+  },
+  {
+    "name": "Pavé",
+    "element": "Dark",
+    "file": "data/reference\\Pavé__26615.png",
+    "phash": "8f587cac502b21f7",
+    "dhash": "37634bc9e9f37b0c"
+  },
+  {
+    "name": "Pavé",
+    "element": "Light",
+    "file": "data/reference\\Pavé__26614.png",
+    "phash": "afa575c9509b245a",
+    "dhash": "c6c66f6971737b2e"
+  },
+  {
+    "name": "Adriana",
+    "element": "Water",
+    "file": "data/reference\\Adriana__26811.png",
+    "phash": "d852ca6d3fd56882",
+    "dhash": "6161b03633b26855"
+  },
+  {
+    "name": "Thomas",
+    "element": "Wind",
+    "file": "data/reference\\Thomas__26713.png",
+    "phash": "88d6824a3bc37d2f",
+    "dhash": "c9f4f47373b3e8b2"
+  },
+  {
+    "name": "Lucia",
+    "element": "Fire",
+    "file": "data/reference\\Lucia__26812.png",
+    "phash": "d8424a6f3fd5688a",
+    "dhash": "61f1b03633b26855"
+  },
+  {
+    "name": "Angela",
+    "element": "Wind",
+    "file": "data/reference\\Angela__26813.png",
+    "phash": "c8028b6f3ed578d2",
+    "dhash": "e1f0b03633b26855"
+  },
+  {
+    "name": "Ariana",
+    "element": "Light",
+    "file": "data/reference\\Ariana__26814.png",
+    "phash": "dcc2826f3fd56882",
+    "dhash": "e1e0b03633b26055"
+  },
+  {
+    "name": "Elena",
+    "element": "Dark",
+    "file": "data/reference\\Elena__26815.png",
+    "phash": "c86a422f75d7c8ca",
+    "dhash": "41f1b11633f3e0d4"
+  },
+  {
+    "name": "Manon",
+    "element": "Water",
+    "file": "data/reference\\Manon__26911.png",
+    "phash": "d8e162cf2cc62c9e",
+    "dhash": "c19992a2327261b5"
+  },
+  {
+    "name": "Jade",
+    "element": "Wind",
+    "file": "data/reference\\Jade__26913.png",
+    "phash": "d8e16acf24c62c9e",
+    "dhash": "c19990a2327261b5"
+  },
+  {
+    "name": "Alice",
+    "element": "Fire",
+    "file": "data/reference\\Alice__26912.png",
+    "phash": "d8e162cf2ec62c9c",
+    "dhash": "c19992a2327261b5"
+  },
+  {
+    "name": "Audrey",
+    "element": "Light",
+    "file": "data/reference\\Audrey__26914.png",
+    "phash": "d8d16ac76dc42c8e",
+    "dhash": "c199b0b22a726135"
+  },
+  {
+    "name": "Giselle",
+    "element": "Dark",
+    "file": "data/reference\\Giselle__26915.png",
+    "phash": "c0e102df3ccf6d19",
+    "dhash": "c78f8ba232f0e9b1"
+  },
+  {
+    "name": "Rosemary",
+    "element": "Water",
+    "file": "data/reference\\Rosemary__27011.png",
+    "phash": "8e2f2db5f19a4582",
+    "dhash": "1f676179e0f2f1e3"
+  },
+  {
+    "name": "Hibiscus",
+    "element": "Fire",
+    "file": "data/reference\\Hibiscus__27012.png",
+    "phash": "8e2f2db5b19a6582",
+    "dhash": "1f636179e0f2f1e3"
+  },
+  {
+    "name": "Jasmine",
+    "element": "Light",
+    "file": "data/reference\\Jasmine__27014.png",
+    "phash": "8e2b2d95d1da4d83",
+    "dhash": "4b276179e0f2f1e3"
+  },
+  {
+    "name": "Chamomile",
+    "element": "Wind",
+    "file": "data/reference\\Chamomile__27013.png",
+    "phash": "8e2f2db5f1924583",
+    "dhash": "1f636179e0f2f9e3"
+  },
+  {
+    "name": "Lavender",
+    "element": "Dark",
+    "file": "data/reference\\Lavender__27015.png",
+    "phash": "8e2f2db5b19a6582",
+    "dhash": "1f636179e0f2f1e3"
+  },
+  {
+    "name": "Pavé",
+    "element": "Fire",
+    "file": "data/reference\\Pavé__27112.png",
+    "phash": "d4db70313b7cb424",
+    "dhash": "14d0e468c2a6a6a6"
+  },
+  {
+    "name": "Ganache",
+    "element": "Water",
+    "file": "data/reference\\Ganache__27111.png",
+    "phash": "d4db70313f7c2624",
+    "dhash": "9cd0e468c6a6a6a6"
+  },
+  {
+    "name": "Praline",
+    "element": "Wind",
+    "file": "data/reference\\Praline__27113.png",
+    "phash": "d4db70313f7c24a4",
+    "dhash": "94d0e46ac2a6b686"
+  },
+  {
+    "name": "Truffle",
+    "element": "Dark",
+    "file": "data/reference\\Truffle__27115.png",
+    "phash": "cffb218ae6c88338",
+    "dhash": "2b27196165696167"
+  },
+  {
+    "name": "Fudge",
+    "element": "Light",
+    "file": "data/reference\\Fudge__27114.png",
+    "phash": "c4d730317f3c27a4",
+    "dhash": "94d0e46ac2a6b5a7"
+  },
+  {
+    "name": "Zima",
+    "element": "Fire",
+    "file": "data/reference\\Zima__27212.png",
+    "phash": "c27671ac4f349873",
+    "dhash": "4c4d8c6561a38eca"
+  },
+  {
+    "name": "Zibala",
+    "element": "Water",
+    "file": "data/reference\\Zibala__27211.png",
+    "phash": "c37671ac4f348873",
+    "dhash": "4c4d846561a386ca"
+  },
+  {
+    "name": "Smicer",
+    "element": "Wind",
+    "file": "data/reference\\Smicer__27213.png",
+    "phash": "c67671ec4f348a43",
+    "dhash": "4c4cc46561a38eca"
+  },
+  {
+    "name": "Kovarci",
+    "element": "Light",
+    "file": "data/reference\\Kovarci__27214.png",
+    "phash": "e3f671cc47308ac3",
+    "dhash": "cc8e9f6561a38eca"
+  },
+  {
+    "name": "Zenisek",
+    "element": "Dark",
+    "file": "data/reference\\Zenisek__27215.png",
+    "phash": "c75631ac4f348a73",
+    "dhash": "6c4d846463a386ca"
+  },
+  {
+    "name": "Douglas",
+    "element": "Light",
+    "file": "data/reference\\Douglas__24014.png",
+    "phash": "fa2e5387205ddf10",
+    "dhash": "79652b37f569b890"
+  },
+  {
+    "name": "Douglas",
+    "element": "Dark",
+    "file": "data/reference\\Douglas__24015.png",
+    "phash": "be6b0b82005fff12",
+    "dhash": "796d3b37f5696830"
+  },
+  {
+    "name": "Douglas",
+    "element": "Fire",
+    "file": "data/reference\\Douglas__24012.png",
+    "phash": "be6a1182285fff12",
+    "dhash": "694d7137b5696832"
+  },
+  {
+    "name": "Douglas",
+    "element": "Water",
+    "file": "data/reference\\Douglas__24011.png",
+    "phash": "be6b1b82005ffb12",
+    "dhash": "794d7b37b5696830"
+  },
+  {
+    "name": "Ashour",
+    "element": "Water",
+    "file": "data/reference\\Ashour__27511.png",
+    "phash": "f5c7d05e6430869b",
+    "dhash": "e0d0dd96222cb894"
+  },
+  {
+    "name": "Ashour",
+    "element": "Fire",
+    "file": "data/reference\\Ashour__27512.png",
+    "phash": "f1c7805e7570869b",
+    "dhash": "62d3dd96222cb894"
+  },
+  {
+    "name": "Ashour",
+    "element": "Wind",
+    "file": "data/reference\\Ashour__27513.png",
+    "phash": "f1c7805e7530879b",
+    "dhash": "e2d3d596222cb894"
+  },
+  {
+    "name": "Ashour",
+    "element": "Light",
+    "file": "data/reference\\Ashour__27514.png",
+    "phash": "f1c5c05e7570869b",
+    "dhash": "e2d2d796222cb894"
+  },
+  {
+    "name": "Ashour",
+    "element": "Dark",
+    "file": "data/reference\\Ashour__27515.png",
+    "phash": "cfef20df7408b302",
+    "dhash": "636353556968b296"
+  },
+  {
+    "name": "Federica",
+    "element": "Wind",
+    "file": "data/reference\\Federica__27613.png",
+    "phash": "cb1e20fe3a619aca",
+    "dhash": "19307151712b9393"
+  },
+  {
+    "name": "Federica",
+    "element": "Light",
+    "file": "data/reference\\Federica__27614.png",
+    "phash": "d996a0da3b619acc",
+    "dhash": "99b43213312b9293"
+  },
+  {
+    "name": "Federica",
+    "element": "Dark",
+    "file": "data/reference\\Federica__27615.png",
+    "phash": "db1e20f63ae19ac8",
+    "dhash": "19707151712b93d3"
+  },
+  {
+    "name": "Brita",
+    "element": "Water",
+    "file": "data/reference\\Brita__27711.png",
+    "phash": "cdcb10f53cc8d3c8",
+    "dhash": "f66271337262f2b5"
+  },
+  {
+    "name": "Federica",
+    "element": "Fire",
+    "file": "data/reference\\Federica__27712.png",
+    "phash": "cfeb00f53c88cbc8",
+    "dhash": "f66371337262e2b4"
+  },
+  {
+    "name": "Cordelia",
+    "element": "Wind",
+    "file": "data/reference\\Cordelia__27713.png",
+    "phash": "cfeb20f53c40d3c8",
+    "dhash": "f66371337262f2b5"
+  },
+  {
+    "name": "Varin",
+    "element": "Light",
+    "file": "data/reference\\Varin__27714.png",
+    "phash": "cdc330d53cc8d3ca",
+    "dhash": "d662f13372626237"
+  },
+  {
+    "name": "Havi",
+    "element": "Dark",
+    "file": "data/reference\\Havi__27715.png",
+    "phash": "cfab21753c08d3c5",
+    "dhash": "5b41e175746062b4"
+  },
+  {
+    "name": "Frederic",
+    "element": "Light",
+    "file": "data/reference\\Frederic__27814.png",
+    "phash": "dbede59410d98730",
+    "dhash": "d66353593c7018ca"
+  },
+  {
+    "name": "Lionel",
+    "element": "Water",
+    "file": "data/reference\\Lionel__27911.png",
+    "phash": "fa1fa0c826619e4f",
+    "dhash": "3571505a21b1938d"
+  },
+  {
+    "name": "Patrick",
+    "element": "Fire",
+    "file": "data/reference\\Patrick__27912.png",
+    "phash": "fa5fa0d826619a0f",
+    "dhash": "3571505a2131938d"
+  },
+  {
+    "name": "Hector",
+    "element": "Wind",
+    "file": "data/reference\\Hector__27913.png",
+    "phash": "fa1fa0d826219e4f",
+    "dhash": "3571505a2131938f"
+  },
+  {
+    "name": "Ian",
+    "element": "Light",
+    "file": "data/reference\\Ian__27914.png",
+    "phash": "fa1fa0d826619a4f",
+    "dhash": "3571505a2131938f"
+  },
+  {
+    "name": "Evan",
+    "element": "Dark",
+    "file": "data/reference\\Evan__27915.png",
+    "phash": "fa7fe0c826619a45",
+    "dhash": "3571501d21b1d3cd"
+  },
+  {
+    "name": "Douglas",
+    "element": "Wind",
+    "file": "data/reference\\Douglas__24013.png",
+    "phash": "fe2a5382205dff12",
+    "dhash": "79452937f56968b0"
+  },
+  {
+    "name": "Omar",
+    "element": "Water",
+    "file": "data/reference\\Omar__28011.png",
+    "phash": "9dd64aab6c0b8b70",
+    "dhash": "7154d436365b71b1"
+  },
+  {
+    "name": "Ashour",
+    "element": "Fire",
+    "file": "data/reference\\Ashour__28012.png",
+    "phash": "ddd64aab6c0b8370",
+    "dhash": "71545436365b71b0"
+  },
+  {
+    "name": "Shahat",
+    "element": "Wind",
+    "file": "data/reference\\Shahat__28013.png",
+    "phash": "9dd64aab6c0b8b70",
+    "dhash": "7154d436365b7190"
+  },
+  {
+    "name": "Ahmed",
+    "element": "Light",
+    "file": "data/reference\\Ahmed__28014.png",
+    "phash": "9dccc2affc088374",
+    "dhash": "b154d436365bb09c"
+  },
+  {
+    "name": "Salah",
+    "element": "Dark",
+    "file": "data/reference\\Salah__28015.png",
+    "phash": "9dd64aab6c0b8b70",
+    "dhash": "7154d436365b71b1"
+  },
+  {
+    "name": "Kalantatze",
+    "element": "Water",
+    "file": "data/reference\\Kalantatze__28111.png",
+    "phash": "8aad622761efdc50",
+    "dhash": "2fb13053d3f35199"
+  },
+  {
+    "name": "Federica",
+    "element": "Fire",
+    "file": "data/reference\\Federica__28112.png",
+    "phash": "8aaf762c61cddc41",
+    "dhash": "2f6d7252d3b3d189"
+  },
+  {
+    "name": "Aurelia",
+    "element": "Light",
+    "file": "data/reference\\Aurelia__28114.png",
+    "phash": "8aa7722461bfdc61",
+    "dhash": "2fe57052d3a17199"
+  },
+  {
+    "name": "Eleni",
+    "element": "Wind",
+    "file": "data/reference\\Eleni__28113.png",
+    "phash": "aaaf762c218ddc61",
+    "dhash": "2f6d7253d3b35199"
+  },
+  {
+    "name": "Kiara",
+    "element": "Dark",
+    "file": "data/reference\\Kiara__28115.png",
+    "phash": "caece22723affc00",
+    "dhash": "27b13153d1f15199"
+  },
+  {
+    "name": "Brita",
+    "element": "Water",
+    "file": "data/reference\\Brita__28211.png",
+    "phash": "d7d3998e44e74305",
+    "dhash": "70184a466465679e"
+  },
+  {
+    "name": "Solveig",
+    "element": "Fire",
+    "file": "data/reference\\Solveig__28212.png",
+    "phash": "d7d3998e44e7420d",
+    "dhash": "701848466465669e"
+  },
+  {
+    "name": "Astrid",
+    "element": "Wind",
+    "file": "data/reference\\Astrid__28213.png",
+    "phash": "d7d3998e44c7130d",
+    "dhash": "301848446465679e"
+  },
+  {
+    "name": "Berghild",
+    "element": "Light",
+    "file": "data/reference\\Berghild__28214.png",
+    "phash": "d7d3b88e44c75305",
+    "dhash": "3018484464652616"
+  },
+  {
+    "name": "Sigrid",
+    "element": "Dark",
+    "file": "data/reference\\Sigrid__28215.png",
+    "phash": "cf5b389c4de7c404",
+    "dhash": "7238c4c266656236"
+  },
+  {
+    "name": "Parjanya",
+    "element": "Water",
+    "file": "data/reference\\Parjanya__28311.png",
+    "phash": "e183b118f1db9e61",
+    "dhash": "cacacb593339939d"
+  },
+  {
+    "name": "Vendhan",
+    "element": "Fire",
+    "file": "data/reference\\Vendhan__28312.png",
+    "phash": "ab83a118a3fb5ea1",
+    "dhash": "ca8e0b5993399387"
+  },
+  {
+    "name": "Patric",
+    "element": "Water",
+    "file": "data/reference\\Patric__27411.png",
+    "phash": "cbd3b00dc62b7661",
+    "dhash": "c3c1494142636366"
+  },
+  {
+    "name": "Dyeus",
+    "element": "Light",
+    "file": "data/reference\\Dyeus__28314.png",
+    "phash": "eba3f51a01da9a61",
+    "dhash": "8a8e0b5133391b94"
+  },
+  {
+    "name": "Chakra",
+    "element": "Wind",
+    "file": "data/reference\\Chakra__28313.png",
+    "phash": "ab83f19801fb1e65",
+    "dhash": "8b8f0b59733993c6"
+  },
+  {
+    "name": "Mayasura",
+    "element": "Water",
+    "file": "data/reference\\Mayasura__28511.png",
+    "phash": "95c3d00f52b579aa",
+    "dhash": "d0d012cc6b6a76b4"
+  },
+  {
+    "name": "Devaraja",
+    "element": "Dark",
+    "file": "data/reference\\Devaraja__28315.png",
+    "phash": "e3a3b19821d3ba65",
+    "dhash": "8a8a0b59f339924c"
+  },
+  {
+    "name": "Varuna",
+    "element": "Fire",
+    "file": "data/reference\\Varuna__28512.png",
+    "phash": "85c3d42f02f5799a",
+    "dhash": "d2d092ce6b6a76b4"
+  },
+  {
+    "name": "Danu",
+    "element": "Light",
+    "file": "data/reference\\Danu__28514.png",
+    "phash": "9dc3d02f52f5688a",
+    "dhash": "d2d096cc6b6b76b4"
+  },
+  {
+    "name": "Vritra",
+    "element": "Dark",
+    "file": "data/reference\\Vritra__28515.png",
+    "phash": "95c3d00f52f5798a",
+    "dhash": "d2d056ce6b6a76b4"
+  },
+  {
+    "name": "Nickel",
+    "element": "Water",
+    "file": "data/reference\\Nickel__16531.png",
+    "phash": "8d98c0bbf2343be2",
+    "dhash": "99f2e2225b5be2d1"
+  },
+  {
+    "name": "Iron",
+    "element": "Fire",
+    "file": "data/reference\\Iron__16532.png",
+    "phash": "89b8c0bbfa2433d6",
+    "dhash": "99b3e2235b5be2d1"
+  },
+  {
+    "name": "Copper",
+    "element": "Wind",
+    "file": "data/reference\\Copper__16533.png",
+    "phash": "89b8c0bbfa3433c6",
+    "dhash": "99b3e2225b5be2d1"
+  },
+  {
+    "name": "Silver",
+    "element": "Light",
+    "file": "data/reference\\Silver__16534.png",
+    "phash": "8998c0bbfa343bc6",
+    "dhash": "19b2e2235b5be2d1"
+  },
+  {
+    "name": "Zinc",
+    "element": "Dark",
+    "file": "data/reference\\Zinc__16535.png",
+    "phash": "8d9880bbfa343be2",
+    "dhash": "99f2e2225b5be2c1"
+  },
+  {
+    "name": "Bulldozer",
+    "element": "Fire",
+    "file": "data/reference\\Bulldozer__20832.png",
+    "phash": "adb526d6f2092574",
+    "dhash": "7666323b2871732c"
+  },
+  {
+    "name": "Tractor",
+    "element": "Water",
+    "file": "data/reference\\Tractor__20831.png",
+    "phash": "dd35279ef0091574",
+    "dhash": "7666323a3971f30c"
+  },
+  {
+    "name": "Crane",
+    "element": "Wind",
+    "file": "data/reference\\Crane__20833.png",
+    "phash": "afb52496f2892574",
+    "dhash": "7667333b6971732c"
+  },
+  {
+    "name": "Crawler",
+    "element": "Dark",
+    "file": "data/reference\\Crawler__20835.png",
+    "phash": "fdb5269ef2090534",
+    "dhash": "7667323a3973f30d"
+  },
+  {
+    "name": "Driller",
+    "element": "Light",
+    "file": "data/reference\\Driller__20834.png",
+    "phash": "9af0348bf2c9c3d4",
+    "dhash": "0c3d34a97971630e"
+  },
+  {
+    "name": "Layla",
+    "element": "Wind",
+    "file": "data/reference\\Layla__28613.png",
+    "phash": "9ebe1010cb299b6f",
+    "dhash": "bc2c6f7379981e69"
+  },
+  {
+    "name": "Irène",
+    "element": "Water",
+    "file": "data/reference\\Irène__28611.png",
+    "phash": "9ebc9111ca2c8b6f",
+    "dhash": "3c2c672779187969"
+  },
+  {
+    "name": "Bloodya",
+    "element": "Fire",
+    "file": "data/reference\\Bloodya__28612.png",
+    "phash": "9af4d051ca298b6f",
+    "dhash": "9c2c6f2779987969"
+  },
+  {
+    "name": "Jeongnam",
+    "element": "Water",
+    "file": "data/reference\\Jeongnam__28911.png",
+    "phash": "aa4382b7daa358d3",
+    "dhash": "c9c5b1333b0f2bb3"
+  },
+  {
+    "name": "Liliana",
+    "element": "Dark",
+    "file": "data/reference\\Liliana__28615.png",
+    "phash": "dde86030cb2d896f",
+    "dhash": "9d0c767278981e68"
+  },
+  {
+    "name": "Jessica",
+    "element": "Light",
+    "file": "data/reference\\Jessica__28614.png",
+    "phash": "9a961411cb2d9b6f",
+    "dhash": "3cac697379981e69"
+  },
+  {
+    "name": "Moogwang",
+    "element": "Fire",
+    "file": "data/reference\\Moogwang__28912.png",
+    "phash": "aa4782b7d8a358d3",
+    "dhash": "c9c5b1333b2f2bb3"
+  },
+  {
+    "name": "Byungchul",
+    "element": "Wind",
+    "file": "data/reference\\Byungchul__28913.png",
+    "phash": "aa4382b7d89758d3",
+    "dhash": "c9c5b1233b0f2bb3"
+  },
+  {
+    "name": "Euldong",
+    "element": "Light",
+    "file": "data/reference\\Euldong__28914.png",
+    "phash": "aa4382a7d897d8d3",
+    "dhash": "c9c5b1333b0f29b1"
+  },
+  {
+    "name": "Gapsoo",
+    "element": "Dark",
+    "file": "data/reference\\Gapsoo__28915.png",
+    "phash": "9aa6213377ecc8c9",
+    "dhash": "4f4d712969b33332"
+  },
+  {
+    "name": "Minji and Sapsaree",
+    "element": "Water",
+    "file": "data/reference\\Minji and Sapsaree__29011.png",
+    "phash": "9aaebc926a6c6362",
+    "dhash": "6df26972c9d8b839"
+  },
+  {
+    "name": "Yeji and Sapsaree",
+    "element": "Fire",
+    "file": "data/reference\\Yeji and Sapsaree__29012.png",
+    "phash": "9b8cbcd26a6c43e2",
+    "dhash": "65f2697ac9d8b839"
+  },
+  {
+    "name": "Yuna and Sapsaree",
+    "element": "Wind",
+    "file": "data/reference\\Yuna and Sapsaree__29013.png",
+    "phash": "9b8dbcd26a6c4362",
+    "dhash": "69f2697ac9d8bd39"
+  },
+  {
+    "name": "Eunbee and Sapsaree",
+    "element": "Light",
+    "file": "data/reference\\Eunbee and Sapsaree__29014.png",
+    "phash": "9b8cbcd26a6d4362",
+    "dhash": "65f2697ac9d83879"
+  },
+  {
+    "name": "Damee and Sapsaree",
+    "element": "Dark",
+    "file": "data/reference\\Damee and Sapsaree__29015.png",
+    "phash": "9366ae92aa6c3ae2",
+    "dhash": "6de849d699d8b839"
+  },
+  {
+    "name": "Ramael and Judiah",
+    "element": "Water",
+    "file": "data/reference\\Ramael and Judiah__29111.png",
+    "phash": "989cf239d974eb02",
+    "dhash": "35f6f4b4d21b8c04"
+  },
+  {
+    "name": "Karuel and Lanoah",
+    "element": "Fire",
+    "file": "data/reference\\Karuel and Lanoah__29112.png",
+    "phash": "b09db62bf954cb02",
+    "dhash": "35b6b4b4db8b8c04"
+  },
+  {
+    "name": "Sadiel and Zeryah",
+    "element": "Wind",
+    "file": "data/reference\\Sadiel and Zeryah__29113.png",
+    "phash": "909d362bfd74ab02",
+    "dhash": "31b6b4b0db8b8c04"
+  },
+  {
+    "name": "Miruel and Graciah",
+    "element": "Light",
+    "file": "data/reference\\Miruel and Graciah__29114.png",
+    "phash": "b0993e2bf9568b0a",
+    "dhash": "31b6f4909b8b8d05"
+  },
+  {
+    "name": "Jaduel and Aepiah",
+    "element": "Dark",
+    "file": "data/reference\\Jaduel and Aepiah__29115.png",
+    "phash": "b09cf229d954f64a",
+    "dhash": "39fefcb6d30e0d04"
+  },
+  {
+    "name": "Magnus",
+    "element": "Water",
+    "file": "data/reference\\Magnus__29211.png",
+    "phash": "c88340fe7d29cd87",
+    "dhash": "b3e1e1b36121abb2"
+  },
+  {
+    "name": "Magnus",
+    "element": "Fire",
+    "file": "data/reference\\Magnus__29212.png",
+    "phash": "c88341f77528cf87",
+    "dhash": "b3e1e1b36121abb2"
+  },
+  {
+    "name": "Magnus",
+    "element": "Wind",
+    "file": "data/reference\\Magnus__29213.png",
+    "phash": "c88341f77d28cd87",
+    "dhash": "b3e1e1b36121abb2"
+  },
+  {
+    "name": "Magnus",
+    "element": "Light",
+    "file": "data/reference\\Magnus__29214.png",
+    "phash": "c88341f77528cf87",
+    "dhash": "b3e1e1b36121abb2"
+  },
+  {
+    "name": "Magnus",
+    "element": "Dark",
+    "file": "data/reference\\Magnus__29215.png",
+    "phash": "c88360f77d28cd87",
+    "dhash": "b3e1e1b36121abb2"
+  },
+  {
+    "name": "Reyka",
+    "element": "Water",
+    "file": "data/reference\\Reyka__29311.png",
+    "phash": "9d918319398ecf71",
+    "dhash": "dcd62a3512333953"
+  },
+  {
+    "name": "Reyka",
+    "element": "Fire",
+    "file": "data/reference\\Reyka__29312.png",
+    "phash": "9990e7197986cb71",
+    "dhash": "dc96aa35123b3953"
+  },
+  {
+    "name": "Reyka",
+    "element": "Wind",
+    "file": "data/reference\\Reyka__29313.png",
+    "phash": "9990e3593986cf71",
+    "dhash": "dc96aa3512323853"
+  },
+  {
+    "name": "Reyka",
+    "element": "Light",
+    "file": "data/reference\\Reyka__29314.png",
+    "phash": "9980c7197b86cf71",
+    "dhash": "dc96aa35923a3a52"
+  },
+  {
+    "name": "Reyka",
+    "element": "Dark",
+    "file": "data/reference\\Reyka__29315.png",
+    "phash": "9d91c3197986cf31",
+    "dhash": "dc96aa3592327852"
+  },
+  {
+    "name": "Tarnisha",
+    "element": "Water",
+    "file": "data/reference\\Tarnisha__29411.png",
+    "phash": "9bff62cce4696804",
+    "dhash": "2838383834311959"
+  },
+  {
+    "name": "Tarnisha",
+    "element": "Wind",
+    "file": "data/reference\\Tarnisha__29413.png",
+    "phash": "9bfc62cee4696844",
+    "dhash": "2938383834311b59"
+  },
+  {
+    "name": "Tarnisha",
+    "element": "Fire",
+    "file": "data/reference\\Tarnisha__29412.png",
+    "phash": "9bfc62eee4696804",
+    "dhash": "2938383834311b59"
+  },
+  {
+    "name": "Tarnisha",
+    "element": "Light",
+    "file": "data/reference\\Tarnisha__29414.png",
+    "phash": "9bfd62cee4696804",
+    "dhash": "2938383834311b59"
+  },
+  {
+    "name": "Tarnisha",
+    "element": "Dark",
+    "file": "data/reference\\Tarnisha__29415.png",
+    "phash": "9bfc62cce4696864",
+    "dhash": "2838383834311b59"
+  },
+  {
+    "name": "Enshia",
+    "element": "Water",
+    "file": "data/reference\\Enshia__29511.png",
+    "phash": "ef31b25c9e39b840",
+    "dhash": "5ac6c64261230349"
+  },
+  {
+    "name": "Enshia",
+    "element": "Fire",
+    "file": "data/reference\\Enshia__29512.png",
+    "phash": "e731b25c9e39b8c0",
+    "dhash": "5ac6c64261234349"
+  },
+  {
+    "name": "Enshia",
+    "element": "Light",
+    "file": "data/reference\\Enshia__29514.png",
+    "phash": "c735b25c9e39b8c0",
+    "dhash": "5ac6c64b6133c3c9"
+  },
+  {
+    "name": "Enshia",
+    "element": "Wind",
+    "file": "data/reference\\Enshia__29513.png",
+    "phash": "c735b25c9e39a8c4",
+    "dhash": "5bc6c64b612343c9"
+  },
+  {
+    "name": "K1D",
+    "element": "Water",
+    "file": "data/reference\\K1D__30011.png",
+    "phash": "8f847c13649fd075",
+    "dhash": "2667e060cef96ba7"
+  },
+  {
+    "name": "Enshia",
+    "element": "Dark",
+    "file": "data/reference\\Enshia__29515.png",
+    "phash": "cf37325c9e39b840",
+    "dhash": "5ac6c64a6163e3c9"
+  },
+  {
+    "name": "7R1X",
+    "element": "Fire",
+    "file": "data/reference\\7R1X__30012.png",
+    "phash": "8f952853649fd075",
+    "dhash": "6667e060caf96ba7"
+  },
+  {
+    "name": "51LV3R",
+    "element": "Light",
+    "file": "data/reference\\51LV3R__30014.png",
+    "phash": "8786647b64d9d171",
+    "dhash": "86e7e0644e796aa6"
+  },
+  {
+    "name": "570RM",
+    "element": "Wind",
+    "file": "data/reference\\570RM__30013.png",
+    "phash": "87842c7364dfd075",
+    "dhash": "2667e068caf86ba7"
+  },
+  {
+    "name": "N1X",
+    "element": "Dark",
+    "file": "data/reference\\N1X__30015.png",
+    "phash": "8f843c7364d9d075",
+    "dhash": "2e65f060cef86aa6"
+  },
+  {
+    "name": "Lorenza",
+    "element": "Water",
+    "file": "data/reference\\Lorenza__30111.png",
+    "phash": "d8c5954b71cc6b58",
+    "dhash": "cab893b59939341c"
+  },
+  {
+    "name": "Carmella",
+    "element": "Fire",
+    "file": "data/reference\\Carmella__30112.png",
+    "phash": "d8c5855a71c66b78",
+    "dhash": "cab893b599393519"
+  },
+  {
+    "name": "Alesia",
+    "element": "Light",
+    "file": "data/reference\\Alesia__30114.png",
+    "phash": "9885757b51c66b58",
+    "dhash": "e8b8ebb4b939b418"
+  },
+  {
+    "name": "Eliza",
+    "element": "Wind",
+    "file": "data/reference\\Eliza__30113.png",
+    "phash": "d8c5b75a51c46b58",
+    "dhash": "c8b8b3b499193418"
+  },
+  {
+    "name": "Roberta",
+    "element": "Dark",
+    "file": "data/reference\\Roberta__30115.png",
+    "phash": "f845d5c671646b58",
+    "dhash": "c2b893a79939341a"
+  },
+  {
+    "name": "Rigna",
+    "element": "Water",
+    "file": "data/reference\\Rigna__29711.png",
+    "phash": "dec0934a31cb742f",
+    "dhash": "d8a824223125796c"
+  },
+  {
+    "name": "Reyka",
+    "element": "Fire",
+    "file": "data/reference\\Reyka__29712.png",
+    "phash": "ded093fa39c9202d",
+    "dhash": "18a8a4223125796c"
+  },
+  {
+    "name": "Tirsa",
+    "element": "Wind",
+    "file": "data/reference\\Tirsa__29713.png",
+    "phash": "dec0930a3dcb343d",
+    "dhash": "d8a8a42231a5797c"
+  },
+  {
+    "name": "Birgitta",
+    "element": "Light",
+    "file": "data/reference\\Birgitta__29714.png",
+    "phash": "ded0930a3dcb342d",
+    "dhash": "d8e8a42231a5717e"
+  },
+  {
+    "name": "Fiona",
+    "element": "Dark",
+    "file": "data/reference\\Fiona__29715.png",
+    "phash": "ded0935a318b742d",
+    "dhash": "98a8a4233125797e"
+  },
+  {
+    "name": "Johanna",
+    "element": "Water",
+    "file": "data/reference\\Johanna__29811.png",
+    "phash": "cf3310d83ec8e729",
+    "dhash": "394c4b637521a363"
+  },
+  {
+    "name": "Tarnisha",
+    "element": "Fire",
+    "file": "data/reference\\Tarnisha__29812.png",
+    "phash": "ce3311d83ac8e769",
+    "dhash": "394ccb617561a363"
+  },
+  {
+    "name": "Hexarina",
+    "element": "Wind",
+    "file": "data/reference\\Hexarina__29813.png",
+    "phash": "ce2311d83ac8e76d",
+    "dhash": "394d4b617521a363"
+  },
+  {
+    "name": "Arcana",
+    "element": "Light",
+    "file": "data/reference\\Arcana__29814.png",
+    "phash": "8ed343bd3cc2c30b",
+    "dhash": "4d91c92537a3e3e4"
+  },
+  {
+    "name": "Hilda",
+    "element": "Dark",
+    "file": "data/reference\\Hilda__29815.png",
+    "phash": "cf3310d83cc8e36d",
+    "dhash": "394c4b617562a363"
+  },
+  {
+    "name": "Lumina",
+    "element": "Water",
+    "file": "data/reference\\Lumina__29911.png",
+    "phash": "dfd7224f291882e5",
+    "dhash": "d270283072617357"
+  },
+  {
+    "name": "Enshia",
+    "element": "Fire",
+    "file": "data/reference\\Enshia__29912.png",
+    "phash": "dfd6214f291886f4",
+    "dhash": "d070283172617017"
+  },
+  {
+    "name": "Nobella",
+    "element": "Wind",
+    "file": "data/reference\\Nobella__29913.png",
+    "phash": "dfd4234f291882f5",
+    "dhash": "d27028307261715f"
+  },
+  {
+    "name": "Groa",
+    "element": "Light",
+    "file": "data/reference\\Groa__29914.png",
+    "phash": "cdc423df79988265",
+    "dhash": "ccc4acb23223334f"
+  },
+  {
+    "name": "Celestara",
+    "element": "Dark",
+    "file": "data/reference\\Celestara__29915.png",
+    "phash": "dfd6224f291886e5",
+    "dhash": "d070683072617017"
+  },
+  {
+    "name": "Ryomen Sukuna",
+    "element": "Dark",
+    "file": "data/reference\\Ryomen Sukuna__30215.png",
+    "phash": "9f9320c06ffc740d",
+    "dhash": "eec9557972313373"
+  },
+  {
+    "name": "Qilin Slasher",
+    "element": "Water",
+    "file": "data/reference\\Qilin Slasher__32211.png",
+    "phash": "dce7f59a215f0218",
+    "dhash": "882e222231792996"
+  },
+  {
+    "name": "Werner",
+    "element": "Water",
+    "file": "data/reference\\Werner__30311.png",
+    "phash": "c9f08fc46118b76b",
+    "dhash": "c060239382627153"
+  },
+  {
+    "name": "Werner",
+    "element": "Wind",
+    "file": "data/reference\\Werner__30313.png",
+    "phash": "cbf09fc5611aa44b",
+    "dhash": "c061239383627153"
+  },
+  {
+    "name": "Werner",
+    "element": "Fire",
+    "file": "data/reference\\Werner__30312.png",
+    "phash": "ebf09fc5610aa44b",
+    "dhash": "c061239383627173"
+  },
+  {
+    "name": "Werner",
+    "element": "Light",
+    "file": "data/reference\\Werner__30314.png",
+    "phash": "c9e297c5e118a66b",
+    "dhash": "c061239383623352"
+  },
+  {
+    "name": "Werner",
+    "element": "Dark",
+    "file": "data/reference\\Werner__30315.png",
+    "phash": "cff08bc46118ae6b",
+    "dhash": "c061231382607153"
+  },
+  {
+    "name": "Rick",
+    "element": "Water",
+    "file": "data/reference\\Rick__30411.png",
+    "phash": "dfc030dbf287c988",
+    "dhash": "f8b4f26a61526424"
+  },
+  {
+    "name": "Rick",
+    "element": "Fire",
+    "file": "data/reference\\Rick__30412.png",
+    "phash": "cfa034d2b68fc9c8",
+    "dhash": "f8b5f36b61506026"
+  },
+  {
+    "name": "Rick",
+    "element": "Wind",
+    "file": "data/reference\\Rick__30413.png",
+    "phash": "cfa010d3f287c9da",
+    "dhash": "f9b5f36b61526434"
+  },
+  {
+    "name": "Rick",
+    "element": "Light",
+    "file": "data/reference\\Rick__30414.png",
+    "phash": "cf8030d3f287c9da",
+    "dhash": "f9b5f36b61526430"
+  },
+  {
+    "name": "Rick",
+    "element": "Dark",
+    "file": "data/reference\\Rick__30415.png",
+    "phash": "cfa020d3f687c9cc",
+    "dhash": "f9b5f26a61506026"
+  },
+  {
+    "name": "Tetsuya",
+    "element": "Water",
+    "file": "data/reference\\Tetsuya__30511.png",
+    "phash": "df2336c0e20ff01d",
+    "dhash": "697c5063a8f07020"
+  },
+  {
+    "name": "Tetsuya",
+    "element": "Fire",
+    "file": "data/reference\\Tetsuya__30512.png",
+    "phash": "df2334d2620fd05d",
+    "dhash": "697c506328707020"
+  },
+  {
+    "name": "Tetsuya",
+    "element": "Wind",
+    "file": "data/reference\\Tetsuya__30513.png",
+    "phash": "df2334c2e20ff01d",
+    "dhash": "697c506328707028"
+  },
+  {
+    "name": "Tetsuya",
+    "element": "Light",
+    "file": "data/reference\\Tetsuya__30514.png",
+    "phash": "df2334c2e62fc215",
+    "dhash": "697c506328f13232"
+  },
+  {
+    "name": "Tetsuya",
+    "element": "Dark",
+    "file": "data/reference\\Tetsuya__30515.png",
+    "phash": "df2134d2e20ff01d",
+    "dhash": "697c506328707020"
+  },
+  {
+    "name": "Aya",
+    "element": "Water",
+    "file": "data/reference\\Aya__30611.png",
+    "phash": "9f59e41ae529c691",
+    "dhash": "647871727871398e"
+  },
+  {
+    "name": "Aya",
+    "element": "Fire",
+    "file": "data/reference\\Aya__30612.png",
+    "phash": "9e5de61ae568c690",
+    "dhash": "25787173787939ee"
+  },
+  {
+    "name": "Aya",
+    "element": "Wind",
+    "file": "data/reference\\Aya__30613.png",
+    "phash": "9e78e61a2569c693",
+    "dhash": "65787173787139ce"
+  },
+  {
+    "name": "Aya",
+    "element": "Light",
+    "file": "data/reference\\Aya__30614.png",
+    "phash": "9e09e60ee56dc691",
+    "dhash": "65787173787139ae"
+  },
+  {
+    "name": "Aya",
+    "element": "Dark",
+    "file": "data/reference\\Aya__30615.png",
+    "phash": "9f18e61ee569c690",
+    "dhash": "657871727871398e"
+  },
+  {
+    "name": "Sisroo",
+    "element": "Water",
+    "file": "data/reference\\Sisroo__12131.png",
+    "phash": "c875c8b5739264cb",
+    "dhash": "9432a14d19b6e1b3"
+  },
+  {
+    "name": "Seal",
+    "element": "Wind",
+    "file": "data/reference\\Seal__12133.png",
+    "phash": "c8778db5729224cb",
+    "dhash": "9432a14d19a6e1b3"
+  },
+  {
+    "name": "Colleen",
+    "element": "Fire",
+    "file": "data/reference\\Colleen__12132.png",
+    "phash": "c875c8b5739264cb",
+    "dhash": "9432a14d1da6e1b3"
+  },
+  {
+    "name": "Sia",
+    "element": "Light",
+    "file": "data/reference\\Sia__12134.png",
+    "phash": "c8d7c8a47e9724ca",
+    "dhash": "24f8e85c31b6e1b3"
+  },
+  {
+    "name": "Seren",
+    "element": "Dark",
+    "file": "data/reference\\Seren__12135.png",
+    "phash": "c874fdb3309264cb",
+    "dhash": "9422a1eddde6e1b3"
+  },
+  {
+    "name": "Solvark",
+    "element": "Water",
+    "file": "data/reference\\Solvark__30711.png",
+    "phash": "9b99da5ad046e364",
+    "dhash": "b9799b7ab84968d0"
+  },
+  {
+    "name": "Deragron",
+    "element": "Fire",
+    "file": "data/reference\\Deragron__30712.png",
+    "phash": "9b99da4ad446e364",
+    "dhash": "b93bdb7ab84964d0"
+  },
+  {
+    "name": "Fridrion",
+    "element": "Light",
+    "file": "data/reference\\Fridrion__30714.png",
+    "phash": "9b99ec5ad04ce364",
+    "dhash": "b95b5b3ab8796816"
+  },
+  {
+    "name": "Ereshion",
+    "element": "Wind",
+    "file": "data/reference\\Ereshion__30713.png",
+    "phash": "9b99dadad044e364",
+    "dhash": "b979db7ab84960d0"
+  },
+  {
+    "name": "Drakar",
+    "element": "Dark",
+    "file": "data/reference\\Drakar__30715.png",
+    "phash": "9bb9c8c2d846e36c",
+    "dhash": "b8db5b3ab84964d0"
+  },
+  {
+    "name": "Hayato",
+    "element": "Dark",
+    "file": "data/reference\\Hayato__30815.png",
+    "phash": "dfa033b261c7c60e",
+    "dhash": "d898e0b231217172"
+  },
+  {
+    "name": "Werner",
+    "element": "Water",
+    "file": "data/reference\\Werner__30911.png",
+    "phash": "cd87c4ad3894db26",
+    "dhash": "d6e2e9197372a2b1"
+  },
+  {
+    "name": "Werner",
+    "element": "Fire",
+    "file": "data/reference\\Werner__30912.png",
+    "phash": "c987e4ad2a94db26",
+    "dhash": "d662e919737222b1"
+  },
+  {
+    "name": "Werner",
+    "element": "Light",
+    "file": "data/reference\\Werner__30914.png",
+    "phash": "8f13ede529f0132a",
+    "dhash": "f662d919e5722333"
+  },
+  {
+    "name": "Werner",
+    "element": "Wind",
+    "file": "data/reference\\Werner__30913.png",
+    "phash": "cd87c48d3a94db26",
+    "dhash": "d6e24919337222b1"
+  },
+  {
+    "name": "Werner",
+    "element": "Dark",
+    "file": "data/reference\\Werner__30915.png",
+    "phash": "dda5c4cd3894d326",
+    "dhash": "d6e2e919317222b1"
+  },
+  {
+    "name": "Rick",
+    "element": "Fire",
+    "file": "data/reference\\Rick__31012.png",
+    "phash": "9ed285ca3996ec64",
+    "dhash": "31b0643d51616eb2"
+  },
+  {
+    "name": "Rick",
+    "element": "Water",
+    "file": "data/reference\\Rick__31011.png",
+    "phash": "9cd285ca7996eca4",
+    "dhash": "3070643d51616eb2"
+  },
+  {
+    "name": "Rick",
+    "element": "Wind",
+    "file": "data/reference\\Rick__31013.png",
+    "phash": "9cda85ca3996ec64",
+    "dhash": "31b0643d51616eb2"
+  },
+  {
+    "name": "Rick",
+    "element": "Dark",
+    "file": "data/reference\\Rick__31015.png",
+    "phash": "9f7225ca59966c64",
+    "dhash": "3170641c51616eb2"
+  },
+  {
+    "name": "Rick",
+    "element": "Light",
+    "file": "data/reference\\Rick__31014.png",
+    "phash": "8df285ca7996ec24",
+    "dhash": "30b0263d51616ef2"
+  },
+  {
+    "name": "Tetsuya",
+    "element": "Water",
+    "file": "data/reference\\Tetsuya__31111.png",
+    "phash": "9a17680c65d8a7db",
+    "dhash": "d598d959782db19b"
+  },
+  {
+    "name": "Tetsuya",
+    "element": "Wind",
+    "file": "data/reference\\Tetsuya__31113.png",
+    "phash": "9b17610c67d8a799",
+    "dhash": "5599d87978adb19b"
+  },
+  {
+    "name": "Tetsuya",
+    "element": "Fire",
+    "file": "data/reference\\Tetsuya__31112.png",
+    "phash": "9a17680c67d8a79b",
+    "dhash": "d599d959782db19b"
+  },
+  {
+    "name": "Tetsuya",
+    "element": "Dark",
+    "file": "data/reference\\Tetsuya__31115.png",
+    "phash": "9a17680e65d8a79b",
+    "dhash": "d5999959782db19b"
+  },
+  {
+    "name": "Aya",
+    "element": "Water",
+    "file": "data/reference\\Aya__31211.png",
+    "phash": "df75b8982802d6e9",
+    "dhash": "382a4c6d70607b56"
+  },
+  {
+    "name": "Tetsuya",
+    "element": "Light",
+    "file": "data/reference\\Tetsuya__31114.png",
+    "phash": "9a17617c658ea6b1",
+    "dhash": "75f8e9e132adb1db"
+  },
+  {
+    "name": "Aya",
+    "element": "Fire",
+    "file": "data/reference\\Aya__31212.png",
+    "phash": "df75b1983002d6e9",
+    "dhash": "382a4c6d70617b56"
+  },
+  {
+    "name": "Aya",
+    "element": "Light",
+    "file": "data/reference\\Aya__31214.png",
+    "phash": "df7fb0982003d6c9",
+    "dhash": "382a4c4570607bd6"
+  },
+  {
+    "name": "Aya",
+    "element": "Wind",
+    "file": "data/reference\\Aya__31213.png",
+    "phash": "9f7db0981823c6e9",
+    "dhash": "382a4c6570617b56"
+  },
+  {
+    "name": "Aya",
+    "element": "Dark",
+    "file": "data/reference\\Aya__31215.png",
+    "phash": "df75b8982002d7e9",
+    "dhash": "382a4c6d7060f9df"
+  },
+  {
+    "name": "Lamiella",
+    "element": "Water",
+    "file": "data/reference\\Lamiella__31311.png",
+    "phash": "922bc98e69ccb6cc",
+    "dhash": "b3d91c3d3d7cf0b8"
+  },
+  {
+    "name": "Theodora",
+    "element": "Fire",
+    "file": "data/reference\\Theodora__31312.png",
+    "phash": "9a2bc98a698cb65e",
+    "dhash": "b3d91c3d3d7cf0b8"
+  },
+  {
+    "name": "Orphina",
+    "element": "Wind",
+    "file": "data/reference\\Orphina__31313.png",
+    "phash": "922ae98e61ccb6dc",
+    "dhash": "f3d99d3c7d7cf098"
+  },
+  {
+    "name": "Mortera",
+    "element": "Light",
+    "file": "data/reference\\Mortera__31314.png",
+    "phash": "922bc98a6dccb6d4",
+    "dhash": "b3d99d1d1dfcb498"
+  },
+  {
+    "name": "Velaska",
+    "element": "Dark",
+    "file": "data/reference\\Velaska__31315.png",
+    "phash": "922bc98e698cb6dc",
+    "dhash": "b3d91c3c7d7cf0b8"
+  },
+  {
+    "name": "Mork",
+    "element": "Water",
+    "file": "data/reference\\Mork__31411.png",
+    "phash": "c7703ec027c33e39",
+    "dhash": "81a042c0c0c0c161"
+  },
+  {
+    "name": "Rex",
+    "element": "Fire",
+    "file": "data/reference\\Rex__31412.png",
+    "phash": "c7783ec027833e39",
+    "dhash": "01a042c0c0c1c161"
+  },
+  {
+    "name": "Gronn",
+    "element": "Wind",
+    "file": "data/reference\\Gronn__31413.png",
+    "phash": "c7703ec02f833e39",
+    "dhash": "01a262c0c0c1c161"
+  },
+  {
+    "name": "Volg",
+    "element": "Dark",
+    "file": "data/reference\\Volg__31415.png",
+    "phash": "c7703ec027c33e39",
+    "dhash": "81a042c0c0c0c161"
+  },
+  {
+    "name": "Ramon",
+    "element": "Light",
+    "file": "data/reference\\Ramon__31414.png",
+    "phash": "c7703ec027c33e39",
+    "dhash": "01a042c0c0c1c161"
+  },
+  {
+    "name": "Black Tortoise Champion",
+    "element": "Wind",
+    "file": "data/reference\\Black Tortoise Champion__31713.png",
+    "phash": "de077e4763286938",
+    "dhash": "6968335568a83135"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "element": "Water",
+    "file": "data/reference\\Azure Dragon Swordsman__31811.png",
+    "phash": "ce26393e348371ea",
+    "dhash": "2d66e2e4257079b1"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "element": "Wind",
+    "file": "data/reference\\Azure Dragon Swordsman__31813.png",
+    "phash": "ce27393e348331ea",
+    "dhash": "2d66e2e4257179b1"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "element": "Fire",
+    "file": "data/reference\\Azure Dragon Swordsman__31812.png",
+    "phash": "ce27393e348331ea",
+    "dhash": "2d66e2e4257179b1"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "element": "Light",
+    "file": "data/reference\\Azure Dragon Swordsman__31814.png",
+    "phash": "ce27393e348331ea",
+    "dhash": "2d66e2e4257079b1"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "element": "Dark",
+    "file": "data/reference\\Azure Dragon Swordsman__31815.png",
+    "phash": "ce26393e348371ea",
+    "dhash": "2d66e2e4257079b1"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "element": "Water",
+    "file": "data/reference\\Vermilion Bird Dancer__31911.png",
+    "phash": "c2e23e063f72b899",
+    "dhash": "6dc391c1e0e0c039"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "element": "Fire",
+    "file": "data/reference\\Vermilion Bird Dancer__31912.png",
+    "phash": "c2e23e073772b899",
+    "dhash": "6dc391c1e0e0c039"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "element": "Wind",
+    "file": "data/reference\\Vermilion Bird Dancer__31913.png",
+    "phash": "c2e23e1737729899",
+    "dhash": "6dc391c1e0e0c039"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "element": "Dark",
+    "file": "data/reference\\Vermilion Bird Dancer__31915.png",
+    "phash": "c2e03e073772b999",
+    "dhash": "6dc391c1e0e0c139"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "element": "Light",
+    "file": "data/reference\\Vermilion Bird Dancer__31914.png",
+    "phash": "c2e23e0737729999",
+    "dhash": "6dc391c1e0e0c139"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "element": "Water",
+    "file": "data/reference\\White Tiger Blade Master__32111.png",
+    "phash": "9491df3d42738963",
+    "dhash": "78b8f4c4e4f62ee4"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "element": "Fire",
+    "file": "data/reference\\White Tiger Blade Master__32112.png",
+    "phash": "849bdb3d42738963",
+    "dhash": "78b8f4c4e4f62ee4"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "element": "Wind",
+    "file": "data/reference\\White Tiger Blade Master__32113.png",
+    "phash": "849bdb3d42f38962",
+    "dhash": "78f8fcc4e4f62ee4"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "element": "Light",
+    "file": "data/reference\\White Tiger Blade Master__32114.png",
+    "phash": "849bdb1d42f38963",
+    "dhash": "78b8f4c4e4f62ee4"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "element": "Dark",
+    "file": "data/reference\\White Tiger Blade Master__32115.png",
+    "phash": "9491db1f42f38963",
+    "dhash": "78b8f4c4e4f60ee2"
+  },
+  {
+    "name": "Qilin Slasher",
+    "element": "Fire",
+    "file": "data/reference\\Qilin Slasher__32212.png",
+    "phash": "dcf7a59a215f2218",
+    "dhash": "0c2e222231792996"
+  },
+  {
+    "name": "Qilin Slasher",
+    "element": "Wind",
+    "file": "data/reference\\Qilin Slasher__32213.png",
+    "phash": "dcf5a39a21dd0358",
+    "dhash": "882e2222317929d3"
+  },
+  {
+    "name": "Qilin Slasher",
+    "element": "Light",
+    "file": "data/reference\\Qilin Slasher__32214.png",
+    "phash": "dcf5839221df2a58",
+    "dhash": "882e222231792993"
+  },
+  {
+    "name": "Qilin Slasher",
+    "element": "Dark",
+    "file": "data/reference\\Qilin Slasher__32215.png",
+    "phash": "dce5829629d73d48",
+    "dhash": "0c2e22223070e8f1"
+  },
+  {
+    "name": "Black Tortoise Champion",
+    "element": "Wind",
+    "file": "data/reference\\Black Tortoise Champion__32413.png",
+    "phash": "eb97949d363ae0c0",
+    "dhash": "2c46c32953d38385"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "element": "Water",
+    "file": "data/reference\\Azure Dragon Swordsman__32511.png",
+    "phash": "df1218692ee4c3e5",
+    "dhash": "f0786c6462622223"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "element": "Wind",
+    "file": "data/reference\\Azure Dragon Swordsman__32513.png",
+    "phash": "cf9251692ec4c3e5",
+    "dhash": "f0786c656362a2a3"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "element": "Fire",
+    "file": "data/reference\\Azure Dragon Swordsman__32512.png",
+    "phash": "8f1651a92ee4c3e5",
+    "dhash": "f0786c6563632323"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "element": "Dark",
+    "file": "data/reference\\Azure Dragon Swordsman__32515.png",
+    "phash": "df9219692e04cbe5",
+    "dhash": "f0786c646262a222"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "element": "Light",
+    "file": "data/reference\\Azure Dragon Swordsman__32514.png",
+    "phash": "cf9251692ec4c3e5",
+    "dhash": "f0f86c646262a2a2"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "element": "Water",
+    "file": "data/reference\\Vermilion Bird Dancer__32611.png",
+    "phash": "8b326765641ec4dd",
+    "dhash": "6779f979b3f17333"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "element": "Fire",
+    "file": "data/reference\\Vermilion Bird Dancer__32612.png",
+    "phash": "8b3a6765651684dd",
+    "dhash": "6379f979b3f17133"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "element": "Light",
+    "file": "data/reference\\Vermilion Bird Dancer__32614.png",
+    "phash": "8b3a65656516c4dd",
+    "dhash": "6779f979b3f17133"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "element": "Wind",
+    "file": "data/reference\\Vermilion Bird Dancer__32613.png",
+    "phash": "8b3a67656416c4dd",
+    "dhash": "6379f979b3f17133"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "element": "Water",
+    "file": "data/reference\\White Tiger Blade Master__32811.png",
+    "phash": "c8e3c51f389a356c",
+    "dhash": "68c0c999b271e9b2"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "element": "Dark",
+    "file": "data/reference\\Vermilion Bird Dancer__32615.png",
+    "phash": "9b3a6765641e845d",
+    "dhash": "6779f979b3f07131"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "element": "Light",
+    "file": "data/reference\\White Tiger Blade Master__32814.png",
+    "phash": "cae2d59f1892b724",
+    "dhash": "68c1c9f9b371e8b2"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "element": "Fire",
+    "file": "data/reference\\White Tiger Blade Master__32812.png",
+    "phash": "cae3c51f1892376c",
+    "dhash": "68c0c999b37169b2"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "element": "Wind",
+    "file": "data/reference\\White Tiger Blade Master__32813.png",
+    "phash": "cae2c51f3892376c",
+    "dhash": "68c0c999b37168b2"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "element": "Dark",
+    "file": "data/reference\\White Tiger Blade Master__32815.png",
+    "phash": "db226c8f3892b96c",
+    "dhash": "68c4c99831796832"
+  },
+  {
+    "name": "Gideon",
+    "element": "Water",
+    "file": "data/reference\\Gideon__32311.png",
+    "phash": "f8dba77a32650701",
+    "dhash": "5939d1a49d2b378f"
+  },
+  {
+    "name": "Elephas",
+    "element": "Wind",
+    "file": "data/reference\\Elephas__32313.png",
+    "phash": "facb81fb56650740",
+    "dhash": "593b71241d2b378f"
+  },
+  {
+    "name": "Tityus",
+    "element": "Fire",
+    "file": "data/reference\\Tityus__32312.png",
+    "phash": "badba17b16458741",
+    "dhash": "593bf1241d2b378f"
+  },
+  {
+    "name": "Hyllus",
+    "element": "Light",
+    "file": "data/reference\\Hyllus__32314.png",
+    "phash": "fadba17b06648703",
+    "dhash": "593bd1a41d2b378f"
+  },
+  {
+    "name": "Actaeon",
+    "element": "Dark",
+    "file": "data/reference\\Actaeon__32315.png",
+    "phash": "fadba17b16648701",
+    "dhash": "5939f1241d2b378f"
+  },
+  {
+    "name": "Daimon",
+    "element": "Fire",
+    "file": "data/reference\\Daimon__33012.png",
+    "phash": "daa1ddb22f648932",
+    "dhash": "3b92f3735da92970"
+  },
+  {
+    "name": "Kai",
+    "element": "Water",
+    "file": "data/reference\\Kai__33111.png",
+    "phash": "9a2b45e4695a9ba9",
+    "dhash": "276b7939397471f8"
+  },
+  {
+    "name": "Kai",
+    "element": "Fire",
+    "file": "data/reference\\Kai__33112.png",
+    "phash": "9a2b45e4695a97a9",
+    "dhash": "376979393b7471f8"
+  },
+  {
+    "name": "Kai",
+    "element": "Wind",
+    "file": "data/reference\\Kai__33113.png",
+    "phash": "9a2b45ed695a93a1",
+    "dhash": "676979393b7471f8"
+  },
+  {
+    "name": "Kai",
+    "element": "Light",
+    "file": "data/reference\\Kai__33114.png",
+    "phash": "9a2b45ec695a9b91",
+    "dhash": "676d7939397471f8"
+  },
+  {
+    "name": "Taebaek",
+    "element": "Water",
+    "file": "data/reference\\Taebaek__33211.png",
+    "phash": "9e6931f025ce83da",
+    "dhash": "2b5971733479397b"
+  },
+  {
+    "name": "Kai",
+    "element": "Dark",
+    "file": "data/reference\\Kai__33115.png",
+    "phash": "9a2b45ec695a9b91",
+    "dhash": "276b7939387471f8"
+  },
+  {
+    "name": "Taebaek",
+    "element": "Fire",
+    "file": "data/reference\\Taebaek__33212.png",
+    "phash": "9e6931b225ce83da",
+    "dhash": "2b5b717335793979"
+  },
+  {
+    "name": "Taebaek",
+    "element": "Wind",
+    "file": "data/reference\\Taebaek__33213.png",
+    "phash": "9e6921b225ce83fa",
+    "dhash": "2b5b71733579397b"
+  },
+  {
+    "name": "Taebaek",
+    "element": "Dark",
+    "file": "data/reference\\Taebaek__33215.png",
+    "phash": "9e6b31b225cac3d2",
+    "dhash": "2b59717334793979"
+  },
+  {
+    "name": "Taebaek",
+    "element": "Light",
+    "file": "data/reference\\Taebaek__33214.png",
+    "phash": "9e6931f225ce83d2",
+    "dhash": "2b5b717335793938"
+  },
+  {
+    "name": "Duke",
+    "element": "Water",
+    "file": "data/reference\\Duke__33311.png",
+    "phash": "954774993323c3c7",
+    "dhash": "c666e24a7ab3b2a6"
+  },
+  {
+    "name": "Duke",
+    "element": "Fire",
+    "file": "data/reference\\Duke__33312.png",
+    "phash": "ad0f74993323c3c5",
+    "dhash": "4e66634b7b3332a6"
+  },
+  {
+    "name": "Duke",
+    "element": "Wind",
+    "file": "data/reference\\Duke__33313.png",
+    "phash": "bd4734993323c3c5",
+    "dhash": "4e66624b7bb3b2a6"
+  },
+  {
+    "name": "Duke",
+    "element": "Light",
+    "file": "data/reference\\Duke__33314.png",
+    "phash": "856734997333c3c5",
+    "dhash": "c6e6e25bfaf3b2a6"
+  },
+  {
+    "name": "Duke",
+    "element": "Dark",
+    "file": "data/reference\\Duke__33315.png",
+    "phash": "854774993723c3c7",
+    "dhash": "c666e24b7ab3b2a6"
+  },
+  {
+    "name": "Shasha",
+    "element": "Water",
+    "file": "data/reference\\Shasha__33411.png",
+    "phash": "d1c4490b623fb5d3",
+    "dhash": "c9880c045cb8389b"
+  },
+  {
+    "name": "Shasha",
+    "element": "Fire",
+    "file": "data/reference\\Shasha__33412.png",
+    "phash": "d0c64a8b623f35b3",
+    "dhash": "c9880c045cb83999"
+  },
+  {
+    "name": "Shasha",
+    "element": "Wind",
+    "file": "data/reference\\Shasha__33413.png",
+    "phash": "d0c64a9a622fb5b3",
+    "dhash": "c9880c045cb8799b"
+  },
+  {
+    "name": "Shasha",
+    "element": "Light",
+    "file": "data/reference\\Shasha__33414.png",
+    "phash": "d0c0498b673fb593",
+    "dhash": "c9888c045cb83898"
+  },
+  {
+    "name": "Shasha",
+    "element": "Dark",
+    "file": "data/reference\\Shasha__33415.png",
+    "phash": "d0c64a9b623f3593",
+    "dhash": "c9880c045cb83899"
+  },
+  {
+    "name": "Cecilia",
+    "element": "Water",
+    "file": "data/reference\\Cecilia__34011.png",
+    "phash": "e06fc43d648dbe48",
+    "dhash": "c78d9d8593189095"
+  },
+  {
+    "name": "Cynthia",
+    "element": "Fire",
+    "file": "data/reference\\Cynthia__34012.png",
+    "phash": "e06fc41d648dbe49",
+    "dhash": "c78d9d85939c9095"
+  },
+  {
+    "name": "Daisy",
+    "element": "Wind",
+    "file": "data/reference\\Daisy__34013.png",
+    "phash": "e06f843d648dbe49",
+    "dhash": "c78d9d85931ad395"
+  },
+  {
+    "name": "Christine",
+    "element": "Light",
+    "file": "data/reference\\Christine__34014.png",
+    "phash": "e06fc42d648dbf48",
+    "dhash": "c78d9d8593189095"
+  },
+  {
+    "name": "Elise",
+    "element": "Dark",
+    "file": "data/reference\\Elise__34015.png",
+    "phash": "e06fc40d648dbec9",
+    "dhash": "c78d9d8593189094"
+  },
+  {
+    "name": "Rhoetus",
+    "element": "Water",
+    "file": "data/reference\\Rhoetus__34111.png",
+    "phash": "b4c2a05e13a76bd6",
+    "dhash": "ce9488e87c2f26be"
+  },
+  {
+    "name": "Agrius",
+    "element": "Fire",
+    "file": "data/reference\\Agrius__34112.png",
+    "phash": "b4c2e04e13a773d6",
+    "dhash": "8c9488e87c2d26ba"
+  },
+  {
+    "name": "Chiron",
+    "element": "Light",
+    "file": "data/reference\\Chiron__34114.png",
+    "phash": "b4c0a05e13a77bd6",
+    "dhash": "c69488e87c2d263e"
+  },
+  {
+    "name": "Pholus",
+    "element": "Wind",
+    "file": "data/reference\\Pholus__34113.png",
+    "phash": "b4c2a05e13a77b96",
+    "dhash": "8e948ae87c2d26be"
+  },
+  {
+    "name": "Asbolus",
+    "element": "Dark",
+    "file": "data/reference\\Asbolus__34115.png",
+    "phash": "b4c2ac4e13a763d6",
+    "dhash": "2eb40ac87c2f26be"
+  },
+  {
+    "name": "Kai",
+    "element": "Water",
+    "file": "data/reference\\Kai__33611.png",
+    "phash": "da66351e3dcad700",
+    "dhash": "25a1e1713179b1d2"
+  },
+  {
+    "name": "Daimon",
+    "element": "Fire",
+    "file": "data/reference\\Daimon__33512.png",
+    "phash": "cfb036b8a3aad0ca",
+    "dhash": "2f66634b53736162"
+  },
+  {
+    "name": "Kai",
+    "element": "Light",
+    "file": "data/reference\\Kai__33614.png",
+    "phash": "8d76729e698dc1a4",
+    "dhash": "696dd672727a72d2"
+  },
+  {
+    "name": "Kai",
+    "element": "Wind",
+    "file": "data/reference\\Kai__33613.png",
+    "phash": "caea251e3dda9720",
+    "dhash": "2521e1713179f1d2"
+  },
+  {
+    "name": "Kai",
+    "element": "Dark",
+    "file": "data/reference\\Kai__33615.png",
+    "phash": "dae6251e3d5a9704",
+    "dhash": "25a9e9713179f0d2"
+  },
+  {
+    "name": "Taebaek",
+    "element": "Fire",
+    "file": "data/reference\\Taebaek__33712.png",
+    "phash": "949d9b997232b1a3",
+    "dhash": "18706e2cbcbab9ad"
+  },
+  {
+    "name": "Taebaek",
+    "element": "Water",
+    "file": "data/reference\\Taebaek__33711.png",
+    "phash": "9c9d9b997222b1a3",
+    "dhash": "18706e0cbc3ab83d"
+  },
+  {
+    "name": "Taebaek",
+    "element": "Dark",
+    "file": "data/reference\\Taebaek__33715.png",
+    "phash": "976f4ac96e66b0a0",
+    "dhash": "695a3e7c78bab83d"
+  },
+  {
+    "name": "Taebaek",
+    "element": "Wind",
+    "file": "data/reference\\Taebaek__33713.png",
+    "phash": "9c9d8b997232b1a3",
+    "dhash": "18706e0c9cba392d"
+  },
+  {
+    "name": "Taebaek",
+    "element": "Light",
+    "file": "data/reference\\Taebaek__33714.png",
+    "phash": "9c9d9b917222b5a3",
+    "dhash": "18302e0cbcba392d"
+  },
+  {
+    "name": "Duke",
+    "element": "Water",
+    "file": "data/reference\\Duke__33811.png",
+    "phash": "da6578815dc2b770",
+    "dhash": "32334d7133ada929"
+  },
+  {
+    "name": "Duke",
+    "element": "Fire",
+    "file": "data/reference\\Duke__33812.png",
+    "phash": "da657da558c2b630",
+    "dhash": "33334d71336da929"
+  },
+  {
+    "name": "Duke",
+    "element": "Wind",
+    "file": "data/reference\\Duke__33813.png",
+    "phash": "da2d4d85c9c3b730",
+    "dhash": "73334d31336da929"
+  },
+  {
+    "name": "Duke",
+    "element": "Dark",
+    "file": "data/reference\\Duke__33815.png",
+    "phash": "de6570055d82f770",
+    "dhash": "32374d71336da939"
+  },
+  {
+    "name": "Duke",
+    "element": "Light",
+    "file": "data/reference\\Duke__33814.png",
+    "phash": "da455c815dc2f770",
+    "dhash": "32334d71336da929"
+  },
+  {
+    "name": "Shasha",
+    "element": "Fire",
+    "file": "data/reference\\Shasha__33912.png",
+    "phash": "b3ed611c7a994263",
+    "dhash": "165e4a784dac189c"
+  },
+  {
+    "name": "Shasha",
+    "element": "Wind",
+    "file": "data/reference\\Shasha__33913.png",
+    "phash": "b3ed211c2a99626f",
+    "dhash": "979f4a594dac188f"
+  },
+  {
+    "name": "Shasha",
+    "element": "Water",
+    "file": "data/reference\\Shasha__33911.png",
+    "phash": "b3cd611c7299446f",
+    "dhash": "965a4a784dac188e"
+  },
+  {
+    "name": "Shasha",
+    "element": "Light",
+    "file": "data/reference\\Shasha__33914.png",
+    "phash": "9e69690cf89d6263",
+    "dhash": "33137c386c6c7c9c"
+  },
+  {
+    "name": "Shasha",
+    "element": "Dark",
+    "file": "data/reference\\Shasha__33915.png",
+    "phash": "b3ed613c3a98446b",
+    "dhash": "165a4a784dac18ce"
+  },
+  {
+    "name": "Gollum",
+    "element": "Dark",
+    "file": "data/reference\\Gollum__34815.png",
+    "phash": "cc727f32e2982ad1",
+    "dhash": "1151f0f0d1f17062"
+  },
+  {
+    "name": "Agrenia",
+    "element": "Fire",
+    "file": "data/reference\\Agrenia__34212.png",
+    "phash": "9b0d6c78f29aa269",
+    "dhash": "3466f9d9d9f9b9cd"
+  },
+  {
+    "name": "Neriope",
+    "element": "Water",
+    "file": "data/reference\\Neriope__34211.png",
+    "phash": "9105ec78f39ae269",
+    "dhash": "7476fad8d8b9b9cd"
+  },
+  {
+    "name": "Driana",
+    "element": "Wind",
+    "file": "data/reference\\Driana__34213.png",
+    "phash": "910f6c78a3bae269",
+    "dhash": "34f6f8d9d998b98d"
+  },
+  {
+    "name": "Arella",
+    "element": "Light",
+    "file": "data/reference\\Arella__34214.png",
+    "phash": "810dec78f39ae269",
+    "dhash": "3476fad8d999b1cd"
+  },
+  {
+    "name": "Theonia",
+    "element": "Dark",
+    "file": "data/reference\\Theonia__34215.png",
+    "phash": "9b3dec699292709a",
+    "dhash": "3772d9d8d99bd9e9"
+  },
+  {
+    "name": "Frodo",
+    "element": "Water",
+    "file": "data/reference\\Frodo__34311.png",
+    "phash": "8b72b58a29f320ed",
+    "dhash": "4970366971716932"
+  },
+  {
+    "name": "Gandalf",
+    "element": "Fire",
+    "file": "data/reference\\Gandalf__34412.png",
+    "phash": "9e7dd5fcba640090",
+    "dhash": "3c7efe79f9717468"
+  },
+  {
+    "name": "Gandalf",
+    "element": "Water",
+    "file": "data/reference\\Gandalf__34411.png",
+    "phash": "9e7fdff8026c0890",
+    "dhash": "3c7e7e79b9707468"
+  },
+  {
+    "name": "Gandalf",
+    "element": "Wind",
+    "file": "data/reference\\Gandalf__34413.png",
+    "phash": "9e7dd5f9ba640090",
+    "dhash": "3c7e7e79b9707468"
+  },
+  {
+    "name": "Gandalf",
+    "element": "Light",
+    "file": "data/reference\\Gandalf__34414.png",
+    "phash": "9f3db578424d28ca",
+    "dhash": "3e7e7f7bf91574e8"
+  },
+  {
+    "name": "Gandalf",
+    "element": "Dark",
+    "file": "data/reference\\Gandalf__34415.png",
+    "phash": "9f79d7fcb2640090",
+    "dhash": "3c7efe79b9746468"
+  },
+  {
+    "name": "Aragorn",
+    "element": "Water",
+    "file": "data/reference\\Aragorn__34611.png",
+    "phash": "9a6e698d27635692",
+    "dhash": "797139c8dcf0b9d9"
+  },
+  {
+    "name": "Aragorn",
+    "element": "Fire",
+    "file": "data/reference\\Aragorn__34612.png",
+    "phash": "9a2a6d8d23737692",
+    "dhash": "797139c9d8f0f999"
+  },
+  {
+    "name": "Aragorn",
+    "element": "Wind",
+    "file": "data/reference\\Aragorn__34613.png",
+    "phash": "9aae6a8d23635696",
+    "dhash": "797929c8dc70d9d9"
+  },
+  {
+    "name": "Aragorn",
+    "element": "Light",
+    "file": "data/reference\\Aragorn__34614.png",
+    "phash": "9aee6a9d23725492",
+    "dhash": "7971a9c8dc70d999"
+  },
+  {
+    "name": "Aragorn",
+    "element": "Dark",
+    "file": "data/reference\\Aragorn__34615.png",
+    "phash": "9aea6b9d27634492",
+    "dhash": "717129e8fcf0f9d9"
+  },
+  {
+    "name": "Legolas",
+    "element": "Water",
+    "file": "data/reference\\Legolas__34711.png",
+    "phash": "dfba10da32cbc087",
+    "dhash": "90346269695172e6"
+  },
+  {
+    "name": "Legolas",
+    "element": "Fire",
+    "file": "data/reference\\Legolas__34712.png",
+    "phash": "ccba34fa32cbc087",
+    "dhash": "1035e26b695172e6"
+  },
+  {
+    "name": "Legolas",
+    "element": "Wind",
+    "file": "data/reference\\Legolas__34713.png",
+    "phash": "ccba309a32cbc1cf",
+    "dhash": "9135e36b69d172e6"
+  },
+  {
+    "name": "Legolas",
+    "element": "Light",
+    "file": "data/reference\\Legolas__34714.png",
+    "phash": "d49a31ba32cbc1c7",
+    "dhash": "9cb5e2696d517286"
+  },
+  {
+    "name": "Legolas",
+    "element": "Dark",
+    "file": "data/reference\\Legolas__34715.png",
+    "phash": "cdfa30da32cbc185",
+    "dhash": "1034e269615072e6"
+  },
+  {
+    "name": "Gollum",
+    "element": "Water",
+    "file": "data/reference\\Gollum__34811.png",
+    "phash": "ca73bf22e09b6095",
+    "dhash": "1951f0f0d1e17322"
+  },
+  {
+    "name": "Gollum",
+    "element": "Fire",
+    "file": "data/reference\\Gollum__34812.png",
+    "phash": "c872bf72e09a60b9",
+    "dhash": "115170f0d1e17323"
+  },
+  {
+    "name": "Gollum",
+    "element": "Wind",
+    "file": "data/reference\\Gollum__34813.png",
+    "phash": "ca723f22e09f20d7",
+    "dhash": "995170f0d1e17322"
+  },
+  {
+    "name": "Gollum",
+    "element": "Light",
+    "file": "data/reference\\Gollum__34814.png",
+    "phash": "ca723f22e09f60d5",
+    "dhash": "9d5170f0d1e17222"
+  },
+  {
+    "name": "Frederic",
+    "element": "Light",
+    "file": "data/reference\\Frederic__27314.png",
+    "phash": "d193051877abde51",
+    "dhash": "d8d8c8cb99b193c6"
+  },
+  {
+    "name": "Patric",
+    "element": "Fire",
+    "file": "data/reference\\Patric__27412.png",
+    "phash": "abc3b44dd62a3661",
+    "dhash": "c3c1494153636366"
+  },
+  {
+    "name": "Patric",
+    "element": "Wind",
+    "file": "data/reference\\Patric__27413.png",
+    "phash": "abc3b00dc72b7661",
+    "dhash": "c3d9494143636366"
+  },
+  {
+    "name": "Patric",
+    "element": "Light",
+    "file": "data/reference\\Patric__27414.png",
+    "phash": "ebd2f08d552a3721",
+    "dhash": "c1894d4552636366"
+  },
+  {
+    "name": "Patric",
+    "element": "Dark",
+    "file": "data/reference\\Patric__27415.png",
+    "phash": "ebebbc0dc4287641",
+    "dhash": "531b49c1c3636366"
+  }
+]

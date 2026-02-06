@@ -1,0 +1,392 @@
+/* Siege Defenses Styles */
+
+.siege-container {
+    padding: 15px 10px;
+    color: #e0e0e0;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Header & Controls - Common */
+.siege-header {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.page-title {
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 0;
+    background: linear-gradient(45deg, #ff6b6b, #fca5a5);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.add-defense-btn {
+    width: 100%;
+    padding: 12px;
+    font-size: 1rem;
+    background: linear-gradient(135deg, #27ae60 0%, #2ecc71 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 700;
+}
+
+.controls-bar {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+
+.siege-search {
+    width: 100%;
+}
+
+.siege-search input {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    background: #1f1f1f;
+    border: 1px solid #333;
+    border-radius: 8px;
+    color: #fff;
+    box-sizing: border-box;
+}
+
+/* Base Table Styles (Default/Desktop) */
+.defenses-table-wrapper {
+    background: #1e1e1e;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    width: 100%;
+}
+
+.defenses-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.defenses-table th {
+    text-align: left;
+    padding: 15px;
+    border-bottom: 2px solid #333;
+    color: #888;
+    font-weight: 600;
+}
+
+.defenses-table td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #333;
+    vertical-align: middle;
+}
+
+.defenses-table tr:last-child td {
+    border-bottom: none;
+}
+
+.team-cell {
+    width: 40%;
+}
+
+/* Desktop: Monster Team */
+.team-monsters {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.monster-portrait-wrapper {
+    width: 42px;
+    height: 42px;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.monster-portrait img {
+    width: 100%;
+    height: 100%;
+    border-radius: 4px;
+    object-fit: cover;
+}
+
+.leader-badge-icon {
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    background: #ffd700;
+    color: #000;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 1px 4px;
+    border-radius: 4px;
+    z-index: 2;
+}
+
+.defense-note {
+    font-size: 0.8rem;
+    color: #888;
+    margin-top: 4px;
+}
+
+.win-rate {
+    font-weight: bold;
+}
+
+.win-rate.high {
+    color: #4ade80;
+}
+
+.win-rate.medium {
+    color: #fbbf24;
+}
+
+.win-rate.low {
+    color: #f87171;
+}
+
+.actions-cell {
+    text-align: right;
+}
+
+.row-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+}
+
+.edit-btn,
+.del-btn {
+    background: transparent;
+    border: none;
+    color: #888;
+    cursor: pointer;
+    padding: 4px;
+    transition: color 0.2s;
+}
+
+.edit-btn:hover {
+    color: #60a5fa;
+}
+
+.del-btn:hover {
+    color: #f87171;
+}
+
+/* =========================================
+   MOBILE OVERRIDES (Max-Width: 767px) 
+   ========================================= */
+@media (max-width: 767px) {
+
+    /* Header Adjustments */
+    .siege-header,
+    .controls-bar {
+        flex-direction: column;
+    }
+
+    .add-defense-btn {
+        width: 100%;
+    }
+
+    /* Table -> Cards Transformation */
+    .defenses-table-wrapper {
+        background: transparent;
+        box-shadow: none;
+    }
+
+    .defenses-table,
+    .defenses-table tbody,
+    .defenses-table tr,
+    .defenses-table td {
+        display: block;
+        width: 100%;
+    }
+
+    .defenses-table thead {
+        display: none;
+        /* Hide headers */
+    }
+
+    .defenses-table tbody {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .defenses-table tr {
+        background: #1e1e1e;
+        border: 1px solid #333;
+        border-radius: 12px;
+        padding: 12px;
+        position: relative;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+        box-sizing: border-box;
+    }
+
+    .defenses-table td {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 2px 0;
+        border: none;
+        min-height: 24px;
+        box-sizing: border-box;
+    }
+
+    .defenses-table td::before {
+        content: attr(data-label);
+        font-weight: 600;
+        color: #888;
+        font-size: 0.85rem;
+        margin-right: 15px;
+    }
+
+    /* First Cell (Team) Special Handling */
+    .defenses-table td:first-child {
+        margin-bottom: 15px;
+        justify-content: center;
+        padding-bottom: 15px;
+        border-bottom: 1px solid #333;
+    }
+
+    .defenses-table td:first-child::before {
+        display: none;
+    }
+
+    /* Mobile Monster Spacing */
+    .team-monsters {
+        display: flex !important;
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+        justify-content: space-between !important;
+        width: 100%;
+        max-width: 320px;
+        margin: 0 auto;
+        gap: 0;
+    }
+
+    .monster-portrait-wrapper {
+        width: 60px;
+        height: 60px;
+        margin: 0;
+    }
+
+    .defense-note {
+        display: none;
+        /* Hide note on mobile */
+    }
+
+    .actions-cell {
+        margin-top: 10px;
+        padding-top: 10px;
+        border-top: 1px solid #333;
+    }
+}
+
+/* =========================================
+   DESKTOP TWEAKS (Min-Width: 768px) 
+   ========================================= */
+@media (min-width: 768px) {
+    .siege-header {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .page-title {
+        text-align: left;
+        font-size: 2rem;
+    }
+
+    .add-defense-btn {
+        width: auto;
+    }
+
+    .controls-bar {
+        flex-direction: row;
+        align-items: center;
+    }
+
+    .siege-search {
+        max-width: 300px;
+    }
+
+    /* Ensure table rows behave like table rows on desktop */
+    .defenses-table tr {
+        display: table-row;
+    }
+
+    .defenses-table td {
+        display: table-cell;
+    }
+}
+
+/* Collab Hint Styles (Shared) */
+.collab-hint {
+    margin-bottom: 16px;
+    padding: 10px 12px;
+    border-radius: 10px;
+    background: #1b1b1b;
+    border: 1px solid #2d2d2d;
+}
+
+.collab-title {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #fca5a5;
+    margin-bottom: 8px;
+}
+
+.collab-variants {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.collab-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px 10px;
+    border-radius: 999px;
+    background: #242424;
+    border: 1px solid #333;
+    font-size: 0.75rem;
+    color: #e5e7eb;
+}
+
+.collab-element {
+    font-size: 0.62rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #9ca3af;
+}
+
+.collab-name {
+    font-weight: 600;
+}
+
+.collab-chip.element-fire {
+    border-color: #ef4444;
+}
+
+.collab-chip.element-water {
+    border-color: #3b82f6;
+}
+
+.collab-chip.element-wind {
+    border-color: #f59e0b;
+}
+
+.collab-chip.element-light {
+    border-color: #fde68a;
+}
+
+.collab-chip.element-dark {
+    border-color: #a855f7;
+}

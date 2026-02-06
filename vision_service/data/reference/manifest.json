@@ -1,0 +1,7499 @@
+[
+  {
+    "name": "Elucia",
+    "file": "data/reference\\Elucia__10111.png",
+    "com2us_id": 10111,
+    "image_filename": "unit_icon_0000_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Kuhn",
+    "file": "data/reference\\Kuhn__11411.png",
+    "com2us_id": 11411,
+    "image_filename": "unit_icon_0005_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Mihyang",
+    "file": "data/reference\\Mihyang__18311.png",
+    "com2us_id": 18311,
+    "image_filename": "unit_icon_0029_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Karakum",
+    "file": "data/reference\\Karakum__20315.png",
+    "com2us_id": 20315,
+    "image_filename": "unit_icon_0038_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Rina",
+    "file": "data/reference\\Rina__15311.png",
+    "com2us_id": 15311,
+    "image_filename": "unit_icon_0020_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Ongyouki",
+    "file": "data/reference\\Ongyouki__25115.png",
+    "com2us_id": 25115,
+    "image_filename": "unit_icon_0073_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Kaz",
+    "file": "data/reference\\Kaz__16911.png",
+    "com2us_id": 16911,
+    "image_filename": "unit_icon_0026_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Tyron",
+    "file": "data/reference\\Tyron__11811.png",
+    "com2us_id": 11811,
+    "image_filename": "unit_icon_0007_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Kahli",
+    "file": "data/reference\\Kahli__12032.png",
+    "com2us_id": 12032,
+    "image_filename": "unit_icon_0074_3_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Izaria",
+    "file": "data/reference\\Izaria__13311.png",
+    "com2us_id": 13311,
+    "image_filename": "unit_icon_0011_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Kahn",
+    "file": "data/reference\\Kahn__11511.png",
+    "com2us_id": 11511,
+    "image_filename": "unit_icon_0005_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Sin",
+    "file": "data/reference\\Sin__20212.png",
+    "com2us_id": 20212,
+    "image_filename": "unit_icon_0037_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Hemos",
+    "file": "data/reference\\Hemos__16011.png",
+    "com2us_id": 16011,
+    "image_filename": "unit_icon_0018_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Ellena",
+    "file": "data/reference\\Ellena__12031.png",
+    "com2us_id": 12031,
+    "image_filename": "unit_icon_0074_3_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Moria",
+    "file": "data/reference\\Moria__12033.png",
+    "com2us_id": 12033,
+    "image_filename": "unit_icon_0074_3_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Shren",
+    "file": "data/reference\\Shren__12034.png",
+    "com2us_id": 12034,
+    "image_filename": "unit_icon_0074_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Federica",
+    "file": "data/reference\\Federica__27611.png",
+    "com2us_id": 27611,
+    "image_filename": "unit_icon_0108_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Federica",
+    "file": "data/reference\\Federica__27612.png",
+    "com2us_id": 27612,
+    "image_filename": "unit_icon_0108_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Anders",
+    "file": "data/reference\\Anders__29611.png",
+    "com2us_id": 29611,
+    "image_filename": "unit_icon_0150_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Jumaline",
+    "file": "data/reference\\Jumaline__12035.png",
+    "com2us_id": 12035,
+    "image_filename": "unit_icon_0074_3_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Magnus",
+    "file": "data/reference\\Magnus__29612.png",
+    "com2us_id": 29612,
+    "image_filename": "unit_icon_0150_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Lars",
+    "file": "data/reference\\Lars__29614.png",
+    "com2us_id": 29614,
+    "image_filename": "unit_icon_0150_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Valdemar",
+    "file": "data/reference\\Valdemar__29615.png",
+    "com2us_id": 29615,
+    "image_filename": "unit_icon_0150_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Kai",
+    "file": "data/reference\\Kai__33612.png",
+    "com2us_id": 33612,
+    "image_filename": "unit_icon_0200_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Qilin Slasher",
+    "file": "data/reference\\Qilin Slasher__32911.png",
+    "com2us_id": 32911,
+    "image_filename": "unit_icon_0181_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Qilin Slasher",
+    "file": "data/reference\\Qilin Slasher__32914.png",
+    "com2us_id": 32914,
+    "image_filename": "unit_icon_0181_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Qilin Slasher",
+    "file": "data/reference\\Qilin Slasher__32912.png",
+    "com2us_id": 32912,
+    "image_filename": "unit_icon_0181_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Qilin Slasher",
+    "file": "data/reference\\Qilin Slasher__32913.png",
+    "com2us_id": 32913,
+    "image_filename": "unit_icon_0181_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Colleen",
+    "file": "data/reference\\Colleen__12112.png",
+    "com2us_id": 12112,
+    "image_filename": "unit_icon_0009_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Cogma",
+    "file": "data/reference\\Cogma__10212.png",
+    "com2us_id": 10212,
+    "image_filename": "unit_icon_0000_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Sieq",
+    "file": "data/reference\\Sieq__10612.png",
+    "com2us_id": 10612,
+    "image_filename": "unit_icon_0002_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Henrik",
+    "file": "data/reference\\Henrik__29613.png",
+    "com2us_id": 29613,
+    "image_filename": "unit_icon_0150_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Lala",
+    "file": "data/reference\\Lala__13212.png",
+    "com2us_id": 13212,
+    "image_filename": "unit_icon_0013_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Qilin Slasher",
+    "file": "data/reference\\Qilin Slasher__32915.png",
+    "com2us_id": 32915,
+    "image_filename": "unit_icon_0181_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Cahule",
+    "file": "data/reference\\Cahule__10912.png",
+    "com2us_id": 10912,
+    "image_filename": "unit_icon_0003_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Ursha",
+    "file": "data/reference\\Ursha__10712.png",
+    "com2us_id": 10712,
+    "image_filename": "unit_icon_0002_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Tatu",
+    "file": "data/reference\\Tatu__10312.png",
+    "com2us_id": 10312,
+    "image_filename": "unit_icon_0001_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Tarq",
+    "file": "data/reference\\Tarq__10611.png",
+    "com2us_id": 10611,
+    "image_filename": "unit_icon_0002_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Sisroo",
+    "file": "data/reference\\Sisroo__12111.png",
+    "com2us_id": 12111,
+    "image_filename": "unit_icon_0009_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Konamiya",
+    "file": "data/reference\\Konamiya__10911.png",
+    "com2us_id": 10911,
+    "image_filename": "unit_icon_0003_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Lulu",
+    "file": "data/reference\\Lulu__13211.png",
+    "com2us_id": 13211,
+    "image_filename": "unit_icon_0013_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Daharenos",
+    "file": "data/reference\\Daharenos__10811.png",
+    "com2us_id": 10811,
+    "image_filename": "unit_icon_0003_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Tantra",
+    "file": "data/reference\\Tantra__10412.png",
+    "com2us_id": 10412,
+    "image_filename": "unit_icon_0001_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Kacey",
+    "file": "data/reference\\Kacey__10311.png",
+    "com2us_id": 10311,
+    "image_filename": "unit_icon_0001_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Taharus",
+    "file": "data/reference\\Taharus__10813.png",
+    "com2us_id": 10813,
+    "image_filename": "unit_icon_0003_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Bremis",
+    "file": "data/reference\\Bremis__10812.png",
+    "com2us_id": 10812,
+    "image_filename": "unit_icon_0003_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Fynn",
+    "file": "data/reference\\Fynn__10211.png",
+    "com2us_id": 10211,
+    "image_filename": "unit_icon_0000_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Aeilene",
+    "file": "data/reference\\Aeilene__10113.png",
+    "com2us_id": 10113,
+    "image_filename": "unit_icon_0000_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Lindermen",
+    "file": "data/reference\\Lindermen__10913.png",
+    "com2us_id": 10913,
+    "image_filename": "unit_icon_0003_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Allen",
+    "file": "data/reference\\Allen__15211.png",
+    "com2us_id": 15211,
+    "image_filename": "unit_icon_0021_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Kaimann",
+    "file": "data/reference\\Kaimann__11111.png",
+    "com2us_id": 11111,
+    "image_filename": "unit_icon_0004_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Gamir",
+    "file": "data/reference\\Gamir__10613.png",
+    "com2us_id": 10613,
+    "image_filename": "unit_icon_0002_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Kunda",
+    "file": "data/reference\\Kunda__10411.png",
+    "com2us_id": 10411,
+    "image_filename": "unit_icon_0001_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Seal",
+    "file": "data/reference\\Seal__12113.png",
+    "com2us_id": 12113,
+    "image_filename": "unit_icon_0009_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Roid",
+    "file": "data/reference\\Roid__15213.png",
+    "com2us_id": 15213,
+    "image_filename": "unit_icon_0021_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Chichi",
+    "file": "data/reference\\Chichi__13213.png",
+    "com2us_id": 13213,
+    "image_filename": "unit_icon_0013_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Ralph",
+    "file": "data/reference\\Ralph__10213.png",
+    "com2us_id": 10213,
+    "image_filename": "unit_icon_0000_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Shannon",
+    "file": "data/reference\\Shannon__10313.png",
+    "com2us_id": 10313,
+    "image_filename": "unit_icon_0001_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Rakaja",
+    "file": "data/reference\\Rakaja__10413.png",
+    "com2us_id": 10413,
+    "image_filename": "unit_icon_0001_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Ramagos",
+    "file": "data/reference\\Ramagos__10713.png",
+    "com2us_id": 10713,
+    "image_filename": "unit_icon_0002_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Sorin",
+    "file": "data/reference\\Sorin__10115.png",
+    "com2us_id": 10115,
+    "image_filename": "unit_icon_0000_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Rizak",
+    "file": "data/reference\\Rizak__10915.png",
+    "com2us_id": 10915,
+    "image_filename": "unit_icon_0003_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Garok",
+    "file": "data/reference\\Garok__10215.png",
+    "com2us_id": 10215,
+    "image_filename": "unit_icon_0000_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Gorgo",
+    "file": "data/reference\\Gorgo__10715.png",
+    "com2us_id": 10715,
+    "image_filename": "unit_icon_0002_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Chacha",
+    "file": "data/reference\\Chacha__13215.png",
+    "com2us_id": 13215,
+    "image_filename": "unit_icon_0013_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Shamar",
+    "file": "data/reference\\Shamar__10614.png",
+    "com2us_id": 10614,
+    "image_filename": "unit_icon_0002_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Lukan",
+    "file": "data/reference\\Lukan__11113.png",
+    "com2us_id": 11113,
+    "image_filename": "unit_icon_0004_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Shushu",
+    "file": "data/reference\\Shushu__13214.png",
+    "com2us_id": 13214,
+    "image_filename": "unit_icon_0013_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Camaryn",
+    "file": "data/reference\\Camaryn__10315.png",
+    "com2us_id": 10315,
+    "image_filename": "unit_icon_0001_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Cheryl",
+    "file": "data/reference\\Cheryl__10314.png",
+    "com2us_id": 10314,
+    "image_filename": "unit_icon_0001_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Jansson",
+    "file": "data/reference\\Jansson__14814.png",
+    "com2us_id": 14814,
+    "image_filename": "unit_icon_0017_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Granite",
+    "file": "data/reference\\Granite__19012.png",
+    "com2us_id": 19012,
+    "image_filename": "unit_icon_0033_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Sharman",
+    "file": "data/reference\\Sharman__11114.png",
+    "com2us_id": 11114,
+    "image_filename": "unit_icon_0004_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Arkajan",
+    "file": "data/reference\\Arkajan__10414.png",
+    "com2us_id": 10414,
+    "image_filename": "unit_icon_0001_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Decamaron",
+    "file": "data/reference\\Decamaron__11115.png",
+    "com2us_id": 11115,
+    "image_filename": "unit_icon_0004_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Anne",
+    "file": "data/reference\\Anne__19312.png",
+    "com2us_id": 19312,
+    "image_filename": "unit_icon_0032_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Randy",
+    "file": "data/reference\\Randy__15612.png",
+    "com2us_id": 15612,
+    "image_filename": "unit_icon_0021_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Ceres",
+    "file": "data/reference\\Ceres__14912.png",
+    "com2us_id": 14912,
+    "image_filename": "unit_icon_0018_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Taru",
+    "file": "data/reference\\Taru__10214.png",
+    "com2us_id": 10214,
+    "image_filename": "unit_icon_0000_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Xiao Chun",
+    "file": "data/reference\\Xiao Chun__17212.png",
+    "com2us_id": 17212,
+    "image_filename": "unit_icon_0026_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Sath",
+    "file": "data/reference\\Sath__16012.png",
+    "com2us_id": 16012,
+    "image_filename": "unit_icon_0018_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Kungen",
+    "file": "data/reference\\Kungen__13712.png",
+    "com2us_id": 13712,
+    "image_filename": "unit_icon_0014_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Iselia",
+    "file": "data/reference\\Iselia__10112.png",
+    "com2us_id": 10112,
+    "image_filename": "unit_icon_0000_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Kugo",
+    "file": "data/reference\\Kugo__11412.png",
+    "com2us_id": 11412,
+    "image_filename": "unit_icon_0005_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Lucasha",
+    "file": "data/reference\\Lucasha__10512.png",
+    "com2us_id": 10512,
+    "image_filename": "unit_icon_0001_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Nangrim",
+    "file": "data/reference\\Nangrim__18512.png",
+    "com2us_id": 18512,
+    "image_filename": "unit_icon_0030_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Kahli",
+    "file": "data/reference\\Kahli__12012.png",
+    "com2us_id": 12012,
+    "image_filename": "unit_icon_0007_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Raoq",
+    "file": "data/reference\\Raoq__11012.png",
+    "com2us_id": 11012,
+    "image_filename": "unit_icon_0003_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Amanda",
+    "file": "data/reference\\Amanda__15412.png",
+    "com2us_id": 15412,
+    "image_filename": "unit_icon_0020_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Burentau",
+    "file": "data/reference\\Burentau__17712.png",
+    "com2us_id": 17712,
+    "image_filename": "unit_icon_0027_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Iron",
+    "file": "data/reference\\Iron__16512.png",
+    "com2us_id": 16512,
+    "image_filename": "unit_icon_0025_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Mei",
+    "file": "data/reference\\Mei__15012.png",
+    "com2us_id": 15012,
+    "image_filename": "unit_icon_0018_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Spectra",
+    "file": "data/reference\\Spectra__11512.png",
+    "com2us_id": 11512,
+    "image_filename": "unit_icon_0005_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Fairo",
+    "file": "data/reference\\Fairo__15812.png",
+    "com2us_id": 15812,
+    "image_filename": "unit_icon_0007_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Krakdon",
+    "file": "data/reference\\Krakdon__11112.png",
+    "com2us_id": 11112,
+    "image_filename": "unit_icon_0004_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Igmanodon",
+    "file": "data/reference\\Igmanodon__17812.png",
+    "com2us_id": 17812,
+    "image_filename": "unit_icon_0028_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Rebecca",
+    "file": "data/reference\\Rebecca__15912.png",
+    "com2us_id": 15912,
+    "image_filename": "unit_icon_0023_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Fao",
+    "file": "data/reference\\Fao__11312.png",
+    "com2us_id": 11312,
+    "image_filename": "unit_icon_0005_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Naki",
+    "file": "data/reference\\Naki__18712.png",
+    "com2us_id": 18712,
+    "image_filename": "unit_icon_0031_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Geoffrey",
+    "file": "data/reference\\Geoffrey__14812.png",
+    "com2us_id": 14812,
+    "image_filename": "unit_icon_0017_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Gunpyeong",
+    "file": "data/reference\\Gunpyeong__18412.png",
+    "com2us_id": 18412,
+    "image_filename": "unit_icon_0030_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Surtr",
+    "file": "data/reference\\Surtr__18812.png",
+    "com2us_id": 18812,
+    "image_filename": "unit_icon_0032_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Kai'en",
+    "file": "data/reference\\Kaien__15212.png",
+    "com2us_id": 15212,
+    "image_filename": "unit_icon_0021_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Draco",
+    "file": "data/reference\\Draco__18012.png",
+    "com2us_id": 18012,
+    "image_filename": "unit_icon_0028_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Garoche",
+    "file": "data/reference\\Garoche__14012.png",
+    "com2us_id": 14012,
+    "image_filename": "unit_icon_0015_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Tagaros",
+    "file": "data/reference\\Tagaros__11712.png",
+    "com2us_id": 11712,
+    "image_filename": "unit_icon_0006_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Chloe",
+    "file": "data/reference\\Chloe__15312.png",
+    "com2us_id": 15312,
+    "image_filename": "unit_icon_0020_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Hong Hua",
+    "file": "data/reference\\Hong Hua__17312.png",
+    "com2us_id": 17312,
+    "image_filename": "unit_icon_0008_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Shihwa",
+    "file": "data/reference\\Shihwa__11212.png",
+    "com2us_id": 11212,
+    "image_filename": "unit_icon_0004_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Arnold",
+    "file": "data/reference\\Arnold__16212.png",
+    "com2us_id": 16212,
+    "image_filename": "unit_icon_0024_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Zibrolta",
+    "file": "data/reference\\Zibrolta__18112.png",
+    "com2us_id": 18112,
+    "image_filename": "unit_icon_0029_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Antares",
+    "file": "data/reference\\Antares__16312.png",
+    "com2us_id": 16312,
+    "image_filename": "unit_icon_0024_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Jojo",
+    "file": "data/reference\\Jojo__13412.png",
+    "com2us_id": 13412,
+    "image_filename": "unit_icon_0011_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Clara",
+    "file": "data/reference\\Clara__13912.png",
+    "com2us_id": 13912,
+    "image_filename": "unit_icon_0014_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Ramira",
+    "file": "data/reference\\Ramira__10511.png",
+    "com2us_id": 10511,
+    "image_filename": "unit_icon_0001_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Hwahee",
+    "file": "data/reference\\Hwahee__18312.png",
+    "com2us_id": 18312,
+    "image_filename": "unit_icon_0029_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Hwa",
+    "file": "data/reference\\Hwa__15512.png",
+    "com2us_id": 15512,
+    "image_filename": "unit_icon_0021_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Jean",
+    "file": "data/reference\\Jean__14112.png",
+    "com2us_id": 14112,
+    "image_filename": "unit_icon_0015_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Garo",
+    "file": "data/reference\\Garo__13512.png",
+    "com2us_id": 13512,
+    "image_filename": "unit_icon_0013_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Jun",
+    "file": "data/reference\\Jun__16912.png",
+    "com2us_id": 16912,
+    "image_filename": "unit_icon_0026_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Fria",
+    "file": "data/reference\\Fria__11912.png",
+    "com2us_id": 11912,
+    "image_filename": "unit_icon_0009_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Akia",
+    "file": "data/reference\\Akia__13312.png",
+    "com2us_id": 13312,
+    "image_filename": "unit_icon_0011_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Baretta",
+    "file": "data/reference\\Baretta__11812.png",
+    "com2us_id": 11812,
+    "image_filename": "unit_icon_0007_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Rakan",
+    "file": "data/reference\\Rakan__14612.png",
+    "com2us_id": 14612,
+    "image_filename": "unit_icon_0017_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Kumar",
+    "file": "data/reference\\Kumar__17412.png",
+    "com2us_id": 17412,
+    "image_filename": "unit_icon_0027_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Atenai",
+    "file": "data/reference\\Atenai__11612.png",
+    "com2us_id": 11612,
+    "image_filename": "unit_icon_0006_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Velajuel",
+    "file": "data/reference\\Velajuel__17012.png",
+    "com2us_id": 17012,
+    "image_filename": "unit_icon_0019_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Verdehile",
+    "file": "data/reference\\Verdehile__14712.png",
+    "com2us_id": 14712,
+    "image_filename": "unit_icon_0016_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Raki",
+    "file": "data/reference\\Raki__17912.png",
+    "com2us_id": 17912,
+    "image_filename": "unit_icon_0023_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Zaiross",
+    "file": "data/reference\\Zaiross__14412.png",
+    "com2us_id": 14412,
+    "image_filename": "unit_icon_0016_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Tesarion",
+    "file": "data/reference\\Tesarion__19212.png",
+    "com2us_id": 19212,
+    "image_filename": "unit_icon_0032_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Laika",
+    "file": "data/reference\\Laika__16612.png",
+    "com2us_id": 16612,
+    "image_filename": "unit_icon_0025_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Juno",
+    "file": "data/reference\\Juno__15712.png",
+    "com2us_id": 15712,
+    "image_filename": "unit_icon_0022_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Mei Hou Wang",
+    "file": "data/reference\\Mei Hou Wang__16812.png",
+    "com2us_id": 16812,
+    "image_filename": "unit_icon_0025_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Rica",
+    "file": "data/reference\\Rica__16112.png",
+    "com2us_id": 16112,
+    "image_filename": "unit_icon_0022_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Perna",
+    "file": "data/reference\\Perna__14512.png",
+    "com2us_id": 14512,
+    "image_filename": "unit_icon_0017_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Brandia",
+    "file": "data/reference\\Brandia__18912.png",
+    "com2us_id": 18912,
+    "image_filename": "unit_icon_0033_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Vanessa",
+    "file": "data/reference\\Vanessa__13812.png",
+    "com2us_id": 13812,
+    "image_filename": "unit_icon_0014_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Ellin",
+    "file": "data/reference\\Ellin__14911.png",
+    "com2us_id": 14911,
+    "image_filename": "unit_icon_0018_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Gruda",
+    "file": "data/reference\\Gruda__13711.png",
+    "com2us_id": 13711,
+    "image_filename": "unit_icon_0014_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Chiwu",
+    "file": "data/reference\\Chiwu__18612.png",
+    "com2us_id": 18612,
+    "image_filename": "unit_icon_0031_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Talc",
+    "file": "data/reference\\Talc__19011.png",
+    "com2us_id": 19011,
+    "image_filename": "unit_icon_0033_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Wayne",
+    "file": "data/reference\\Wayne__15611.png",
+    "com2us_id": 15611,
+    "image_filename": "unit_icon_0021_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Gangchun",
+    "file": "data/reference\\Gangchun__18511.png",
+    "com2us_id": 18511,
+    "image_filename": "unit_icon_0030_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Ellena",
+    "file": "data/reference\\Ellena__12011.png",
+    "com2us_id": 12011,
+    "image_filename": "unit_icon_0007_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Yaku",
+    "file": "data/reference\\Yaku__15811.png",
+    "com2us_id": 15811,
+    "image_filename": "unit_icon_0007_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Kernodon",
+    "file": "data/reference\\Kernodon__17811.png",
+    "com2us_id": 17811,
+    "image_filename": "unit_icon_0028_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Icaru",
+    "file": "data/reference\\Icaru__11011.png",
+    "com2us_id": 11011,
+    "image_filename": "unit_icon_0003_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Nickel",
+    "file": "data/reference\\Nickel__16511.png",
+    "com2us_id": 16511,
+    "image_filename": "unit_icon_0025_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Sharron",
+    "file": "data/reference\\Sharron__15411.png",
+    "com2us_id": 15411,
+    "image_filename": "unit_icon_0020_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Megan",
+    "file": "data/reference\\Megan__15911.png",
+    "com2us_id": 15911,
+    "image_filename": "unit_icon_0023_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Toma",
+    "file": "data/reference\\Toma__18711.png",
+    "com2us_id": 18711,
+    "image_filename": "unit_icon_0031_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Urtau",
+    "file": "data/reference\\Urtau__17711.png",
+    "com2us_id": 17711,
+    "image_filename": "unit_icon_0027_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Vigor",
+    "file": "data/reference\\Vigor__14011.png",
+    "com2us_id": 14011,
+    "image_filename": "unit_icon_0015_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Purian",
+    "file": "data/reference\\Purian__11711.png",
+    "com2us_id": 11711,
+    "image_filename": "unit_icon_0006_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Mina",
+    "file": "data/reference\\Mina__15011.png",
+    "com2us_id": 15011,
+    "image_filename": "unit_icon_0018_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Sera",
+    "file": "data/reference\\Sera__19311.png",
+    "com2us_id": 19311,
+    "image_filename": "unit_icon_0032_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Mao",
+    "file": "data/reference\\Mao__17211.png",
+    "com2us_id": 17211,
+    "image_filename": "unit_icon_0026_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Hina",
+    "file": "data/reference\\Hina__14913.png",
+    "com2us_id": 14913,
+    "image_filename": "unit_icon_0018_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Dagora",
+    "file": "data/reference\\Dagora__10711.png",
+    "com2us_id": 10711,
+    "image_filename": "unit_icon_0002_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Shailoq",
+    "file": "data/reference\\Shailoq__11311.png",
+    "com2us_id": 11311,
+    "image_filename": "unit_icon_0005_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Suri",
+    "file": "data/reference\\Suri__18513.png",
+    "com2us_id": 18513,
+    "image_filename": "unit_icon_0030_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Hannah",
+    "file": "data/reference\\Hannah__19313.png",
+    "com2us_id": 19313,
+    "image_filename": "unit_icon_0032_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Huan",
+    "file": "data/reference\\Huan__17213.png",
+    "com2us_id": 17213,
+    "image_filename": "unit_icon_0026_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Roger",
+    "file": "data/reference\\Roger__15613.png",
+    "com2us_id": 15613,
+    "image_filename": "unit_icon_0021_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Olivine",
+    "file": "data/reference\\Olivine__19013.png",
+    "com2us_id": 19013,
+    "image_filename": "unit_icon_0033_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Dagorr",
+    "file": "data/reference\\Dagorr__13713.png",
+    "com2us_id": 13713,
+    "image_filename": "unit_icon_0014_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Michelle",
+    "file": "data/reference\\Michelle__15313.png",
+    "com2us_id": 15313,
+    "image_filename": "unit_icon_0020_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Hiva",
+    "file": "data/reference\\Hiva__16013.png",
+    "com2us_id": 16013,
+    "image_filename": "unit_icon_0018_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Prilea",
+    "file": "data/reference\\Prilea__10513.png",
+    "com2us_id": 10513,
+    "image_filename": "unit_icon_0001_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Ragion",
+    "file": "data/reference\\Ragion__11413.png",
+    "com2us_id": 11413,
+    "image_filename": "unit_icon_0005_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Moria",
+    "file": "data/reference\\Moria__12013.png",
+    "com2us_id": 12013,
+    "image_filename": "unit_icon_0007_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Anduril",
+    "file": "data/reference\\Anduril__11713.png",
+    "com2us_id": 11713,
+    "image_filename": "unit_icon_0006_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Velfinodon",
+    "file": "data/reference\\Velfinodon__17813.png",
+    "com2us_id": 17813,
+    "image_filename": "unit_icon_0028_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Pigma",
+    "file": "data/reference\\Pigma__15813.png",
+    "com2us_id": 15813,
+    "image_filename": "unit_icon_0007_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Bernard",
+    "file": "data/reference\\Bernard__11513.png",
+    "com2us_id": 11513,
+    "image_filename": "unit_icon_0005_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Ramahan",
+    "file": "data/reference\\Ramahan__11013.png",
+    "com2us_id": 11013,
+    "image_filename": "unit_icon_0003_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Copper",
+    "file": "data/reference\\Copper__16513.png",
+    "com2us_id": 16513,
+    "image_filename": "unit_icon_0025_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Ardella",
+    "file": "data/reference\\Ardella__15413.png",
+    "com2us_id": 15413,
+    "image_filename": "unit_icon_0020_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Lyn",
+    "file": "data/reference\\Lyn__14914.png",
+    "com2us_id": 14914,
+    "image_filename": "unit_icon_0018_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Ermeda",
+    "file": "data/reference\\Ermeda__11313.png",
+    "com2us_id": 11313,
+    "image_filename": "unit_icon_0005_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Silia",
+    "file": "data/reference\\Silia__15913.png",
+    "com2us_id": 15913,
+    "image_filename": "unit_icon_0023_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Naomi",
+    "file": "data/reference\\Naomi__15013.png",
+    "com2us_id": 15013,
+    "image_filename": "unit_icon_0018_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Shakan",
+    "file": "data/reference\\Shakan__14013.png",
+    "com2us_id": 14013,
+    "image_filename": "unit_icon_0015_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Eintau",
+    "file": "data/reference\\Eintau__17713.png",
+    "com2us_id": 17713,
+    "image_filename": "unit_icon_0027_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Ahman",
+    "file": "data/reference\\Ahman__13714.png",
+    "com2us_id": 13714,
+    "image_filename": "unit_icon_0014_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Mav",
+    "file": "data/reference\\Mav__18713.png",
+    "com2us_id": 18713,
+    "image_filename": "unit_icon_0031_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Baekdu",
+    "file": "data/reference\\Baekdu__18514.png",
+    "com2us_id": 18514,
+    "image_filename": "unit_icon_0030_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Marble",
+    "file": "data/reference\\Marble__19014.png",
+    "com2us_id": 19014,
+    "image_filename": "unit_icon_0033_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Loren",
+    "file": "data/reference\\Loren__19314.png",
+    "com2us_id": 19314,
+    "image_filename": "unit_icon_0032_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Priz",
+    "file": "data/reference\\Priz__10814.png",
+    "com2us_id": 10814,
+    "image_filename": "unit_icon_0003_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Walkers",
+    "file": "data/reference\\Walkers__15614.png",
+    "com2us_id": 15614,
+    "image_filename": "unit_icon_0021_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Sia",
+    "file": "data/reference\\Sia__12114.png",
+    "com2us_id": 12114,
+    "image_filename": "unit_icon_0009_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Teon",
+    "file": "data/reference\\Teon__10914.png",
+    "com2us_id": 10914,
+    "image_filename": "unit_icon_0003_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Shamann",
+    "file": "data/reference\\Shamann__11514.png",
+    "com2us_id": 11514,
+    "image_filename": "unit_icon_0005_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Groggo",
+    "file": "data/reference\\Groggo__11414.png",
+    "com2us_id": 11414,
+    "image_filename": "unit_icon_0005_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Neal",
+    "file": "data/reference\\Neal__10114.png",
+    "com2us_id": 10114,
+    "image_filename": "unit_icon_0000_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Tien Qin",
+    "file": "data/reference\\Tien Qin__17214.png",
+    "com2us_id": 17214,
+    "image_filename": "unit_icon_0026_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Prom",
+    "file": "data/reference\\Prom__16014.png",
+    "com2us_id": 16014,
+    "image_filename": "unit_icon_0018_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Fran",
+    "file": "data/reference\\Fran__19114.png",
+    "com2us_id": 19114,
+    "image_filename": "unit_icon_0028_4_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Belladeon",
+    "file": "data/reference\\Belladeon__11014.png",
+    "com2us_id": 11014,
+    "image_filename": "unit_icon_0003_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Kabilla",
+    "file": "data/reference\\Kabilla__10514.png",
+    "com2us_id": 10514,
+    "image_filename": "unit_icon_0001_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Eludain",
+    "file": "data/reference\\Eludain__11714.png",
+    "com2us_id": 11714,
+    "image_filename": "unit_icon_0006_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Grotau",
+    "file": "data/reference\\Grotau__17714.png",
+    "com2us_id": 17714,
+    "image_filename": "unit_icon_0027_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Shaffron",
+    "file": "data/reference\\Shaffron__15814.png",
+    "com2us_id": 15814,
+    "image_filename": "unit_icon_0007_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Silver",
+    "file": "data/reference\\Silver__16514.png",
+    "com2us_id": 16514,
+    "image_filename": "unit_icon_0025_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Glinodon",
+    "file": "data/reference\\Glinodon__17814.png",
+    "com2us_id": 17814,
+    "image_filename": "unit_icon_0028_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Eshir",
+    "file": "data/reference\\Eshir__14014.png",
+    "com2us_id": 14014,
+    "image_filename": "unit_icon_0015_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Linda",
+    "file": "data/reference\\Linda__15914.png",
+    "com2us_id": 15914,
+    "image_filename": "unit_icon_0023_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Darion",
+    "file": "data/reference\\Darion__15214.png",
+    "com2us_id": 15214,
+    "image_filename": "unit_icon_0021_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Xiao Ling",
+    "file": "data/reference\\Xiao Ling__15014.png",
+    "com2us_id": 15014,
+    "image_filename": "unit_icon_0018_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Lusha",
+    "file": "data/reference\\Lusha__10714.png",
+    "com2us_id": 10714,
+    "image_filename": "unit_icon_0002_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Dona",
+    "file": "data/reference\\Dona__18714.png",
+    "com2us_id": 18714,
+    "image_filename": "unit_icon_0031_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Elpuria",
+    "file": "data/reference\\Elpuria__11314.png",
+    "com2us_id": 11314,
+    "image_filename": "unit_icon_0005_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Shren",
+    "file": "data/reference\\Shren__12014.png",
+    "com2us_id": 12014,
+    "image_filename": "unit_icon_0007_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Mara",
+    "file": "data/reference\\Mara__14915.png",
+    "com2us_id": 14915,
+    "image_filename": "unit_icon_0018_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Camules",
+    "file": "data/reference\\Camules__10815.png",
+    "com2us_id": 10815,
+    "image_filename": "unit_icon_0003_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Basalt",
+    "file": "data/reference\\Basalt__19015.png",
+    "com2us_id": 19015,
+    "image_filename": "unit_icon_0033_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Jamie",
+    "file": "data/reference\\Jamie__15615.png",
+    "com2us_id": 15615,
+    "image_filename": "unit_icon_0021_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Cassie",
+    "file": "data/reference\\Cassie__19315.png",
+    "com2us_id": 19315,
+    "image_filename": "unit_icon_0032_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Hanra",
+    "file": "data/reference\\Hanra__18515.png",
+    "com2us_id": 18515,
+    "image_filename": "unit_icon_0030_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Thrain",
+    "file": "data/reference\\Thrain__16015.png",
+    "com2us_id": 16015,
+    "image_filename": "unit_icon_0018_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Rasheed",
+    "file": "data/reference\\Rasheed__15315.png",
+    "com2us_id": 15315,
+    "image_filename": "unit_icon_0020_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Wei Shin",
+    "file": "data/reference\\Wei Shin__17215.png",
+    "com2us_id": 17215,
+    "image_filename": "unit_icon_0026_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Haken",
+    "file": "data/reference\\Haken__13715.png",
+    "com2us_id": 13715,
+    "image_filename": "unit_icon_0014_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Maggi",
+    "file": "data/reference\\Maggi__11415.png",
+    "com2us_id": 11415,
+    "image_filename": "unit_icon_0005_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Hellea",
+    "file": "data/reference\\Hellea__10515.png",
+    "com2us_id": 10515,
+    "image_filename": "unit_icon_0001_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Shumar",
+    "file": "data/reference\\Shumar__10615.png",
+    "com2us_id": 10615,
+    "image_filename": "unit_icon_0002_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Drogan",
+    "file": "data/reference\\Drogan__11715.png",
+    "com2us_id": 11715,
+    "image_filename": "unit_icon_0006_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Varus",
+    "file": "data/reference\\Varus__11515.png",
+    "com2us_id": 11515,
+    "image_filename": "unit_icon_0005_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Devinodon",
+    "file": "data/reference\\Devinodon__17815.png",
+    "com2us_id": 17815,
+    "image_filename": "unit_icon_0028_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Seren",
+    "file": "data/reference\\Seren__12115.png",
+    "com2us_id": 12115,
+    "image_filename": "unit_icon_0009_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Loque",
+    "file": "data/reference\\Loque__15815.png",
+    "com2us_id": 15815,
+    "image_filename": "unit_icon_0007_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Kro",
+    "file": "data/reference\\Kro__11015.png",
+    "com2us_id": 11015,
+    "image_filename": "unit_icon_0003_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Miho",
+    "file": "data/reference\\Miho__15015.png",
+    "com2us_id": 15015,
+    "image_filename": "unit_icon_0018_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Gina",
+    "file": "data/reference\\Gina__15915.png",
+    "com2us_id": 15915,
+    "image_filename": "unit_icon_0023_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Woonhak",
+    "file": "data/reference\\Woonhak__18415.png",
+    "com2us_id": 18415,
+    "image_filename": "unit_icon_0030_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Kamatau",
+    "file": "data/reference\\Kamatau__17715.png",
+    "com2us_id": 17715,
+    "image_filename": "unit_icon_0027_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Zinc",
+    "file": "data/reference\\Zinc__16515.png",
+    "com2us_id": 16515,
+    "image_filename": "unit_icon_0025_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Jumaline",
+    "file": "data/reference\\Jumaline__12015.png",
+    "com2us_id": 12015,
+    "image_filename": "unit_icon_0007_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Mantura",
+    "file": "data/reference\\Mantura__11315.png",
+    "com2us_id": 11315,
+    "image_filename": "unit_icon_0005_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Janssen",
+    "file": "data/reference\\Janssen__14815.png",
+    "com2us_id": 14815,
+    "image_filename": "unit_icon_0017_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Jubelle",
+    "file": "data/reference\\Jubelle__15215.png",
+    "com2us_id": 15215,
+    "image_filename": "unit_icon_0021_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Fuco",
+    "file": "data/reference\\Fuco__16313.png",
+    "com2us_id": 16313,
+    "image_filename": "unit_icon_0024_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Lushen",
+    "file": "data/reference\\Lushen__13413.png",
+    "com2us_id": 13413,
+    "image_filename": "unit_icon_0011_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Briand",
+    "file": "data/reference\\Briand__16213.png",
+    "com2us_id": 16213,
+    "image_filename": "unit_icon_0024_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Jultan",
+    "file": "data/reference\\Jultan__14015.png",
+    "com2us_id": 14015,
+    "image_filename": "unit_icon_0015_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Hraesvelg",
+    "file": "data/reference\\Hraesvelg__18813.png",
+    "com2us_id": 18813,
+    "image_filename": "unit_icon_0032_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Ling Ling",
+    "file": "data/reference\\Ling Ling__17313.png",
+    "com2us_id": 17313,
+    "image_filename": "unit_icon_0008_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Taurus",
+    "file": "data/reference\\Taurus__18113.png",
+    "com2us_id": 18113,
+    "image_filename": "unit_icon_0029_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Sophia",
+    "file": "data/reference\\Sophia__13913.png",
+    "com2us_id": 13913,
+    "image_filename": "unit_icon_0014_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Orochi",
+    "file": "data/reference\\Orochi__13513.png",
+    "com2us_id": 13513,
+    "image_filename": "unit_icon_0013_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Aquila",
+    "file": "data/reference\\Aquila__18013.png",
+    "com2us_id": 18013,
+    "image_filename": "unit_icon_0028_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Arang",
+    "file": "data/reference\\Arang__11213.png",
+    "com2us_id": 11213,
+    "image_filename": "unit_icon_0004_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Yen",
+    "file": "data/reference\\Yen__15513.png",
+    "com2us_id": 15513,
+    "image_filename": "unit_icon_0021_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Hiro",
+    "file": "data/reference\\Hiro__20214.png",
+    "com2us_id": 20214,
+    "image_filename": "unit_icon_0037_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Shimitae",
+    "file": "data/reference\\Shimitae__11813.png",
+    "com2us_id": 11813,
+    "image_filename": "unit_icon_0007_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Kaito",
+    "file": "data/reference\\Kaito__16913.png",
+    "com2us_id": 16913,
+    "image_filename": "unit_icon_0026_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Acasis",
+    "file": "data/reference\\Acasis__11913.png",
+    "com2us_id": 11913,
+    "image_filename": "unit_icon_0009_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Chasun",
+    "file": "data/reference\\Chasun__18313.png",
+    "com2us_id": 18313,
+    "image_filename": "unit_icon_0029_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Lagmaron",
+    "file": "data/reference\\Lagmaron__14613.png",
+    "com2us_id": 14613,
+    "image_filename": "unit_icon_0017_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Woochi",
+    "file": "data/reference\\Woochi__18413.png",
+    "com2us_id": 18413,
+    "image_filename": "unit_icon_0030_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Delphoi",
+    "file": "data/reference\\Delphoi__11613.png",
+    "com2us_id": 11613,
+    "image_filename": "unit_icon_0006_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Argen",
+    "file": "data/reference\\Argen__14713.png",
+    "com2us_id": 14713,
+    "image_filename": "unit_icon_0016_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Leo",
+    "file": "data/reference\\Leo__16613.png",
+    "com2us_id": 16613,
+    "image_filename": "unit_icon_0025_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Ritesh",
+    "file": "data/reference\\Ritesh__17413.png",
+    "com2us_id": 17413,
+    "image_filename": "unit_icon_0027_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Jamire",
+    "file": "data/reference\\Jamire__14413.png",
+    "com2us_id": 14413,
+    "image_filename": "unit_icon_0016_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Eladriel",
+    "file": "data/reference\\Eladriel__17013.png",
+    "com2us_id": 17013,
+    "image_filename": "unit_icon_0019_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Julien",
+    "file": "data/reference\\Julien__14113.png",
+    "com2us_id": 14113,
+    "image_filename": "unit_icon_0015_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Ethna",
+    "file": "data/reference\\Ethna__17913.png",
+    "com2us_id": 17913,
+    "image_filename": "unit_icon_0023_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Teshar",
+    "file": "data/reference\\Teshar__14513.png",
+    "com2us_id": 14513,
+    "image_filename": "unit_icon_0017_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Charlotte",
+    "file": "data/reference\\Charlotte__16113.png",
+    "com2us_id": 16113,
+    "image_filename": "unit_icon_0022_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Akhamamir",
+    "file": "data/reference\\Akhamamir__19213.png",
+    "com2us_id": 19213,
+    "image_filename": "unit_icon_0032_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Seara",
+    "file": "data/reference\\Seara__15713.png",
+    "com2us_id": 15713,
+    "image_filename": "unit_icon_0022_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Pungbaek",
+    "file": "data/reference\\Pungbaek__18613.png",
+    "com2us_id": 18613,
+    "image_filename": "unit_icon_0031_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Tiana",
+    "file": "data/reference\\Tiana__18913.png",
+    "com2us_id": 18913,
+    "image_filename": "unit_icon_0033_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Katarina",
+    "file": "data/reference\\Katarina__13813.png",
+    "com2us_id": 13813,
+    "image_filename": "unit_icon_0014_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Orion",
+    "file": "data/reference\\Orion__18011.png",
+    "com2us_id": 18011,
+    "image_filename": "unit_icon_0028_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Xiao Lin",
+    "file": "data/reference\\Xiao Lin__17311.png",
+    "com2us_id": 17311,
+    "image_filename": "unit_icon_0008_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Malaka",
+    "file": "data/reference\\Malaka__18111.png",
+    "com2us_id": 18111,
+    "image_filename": "unit_icon_0029_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Aegir",
+    "file": "data/reference\\Aegir__18811.png",
+    "com2us_id": 18811,
+    "image_filename": "unit_icon_0032_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Xing Zhe",
+    "file": "data/reference\\Xing Zhe__16813.png",
+    "com2us_id": 16813,
+    "image_filename": "unit_icon_0025_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Sian",
+    "file": "data/reference\\Sian__13411.png",
+    "com2us_id": 13411,
+    "image_filename": "unit_icon_0011_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Su",
+    "file": "data/reference\\Su__15511.png",
+    "com2us_id": 15511,
+    "image_filename": "unit_icon_0021_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Luer",
+    "file": "data/reference\\Luer__14111.png",
+    "com2us_id": 14111,
+    "image_filename": "unit_icon_0015_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Soha",
+    "file": "data/reference\\Soha__11211.png",
+    "com2us_id": 11211,
+    "image_filename": "unit_icon_0004_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Gildong",
+    "file": "data/reference\\Gildong__18411.png",
+    "com2us_id": 18411,
+    "image_filename": "unit_icon_0030_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Rigel",
+    "file": "data/reference\\Rigel__16311.png",
+    "com2us_id": 16311,
+    "image_filename": "unit_icon_0024_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Julie",
+    "file": "data/reference\\Julie__13911.png",
+    "com2us_id": 13911,
+    "image_filename": "unit_icon_0014_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Susano",
+    "file": "data/reference\\Susano__13511.png",
+    "com2us_id": 13511,
+    "image_filename": "unit_icon_0013_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Fedora",
+    "file": "data/reference\\Fedora__16211.png",
+    "com2us_id": 16211,
+    "image_filename": "unit_icon_0024_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Mikene",
+    "file": "data/reference\\Mikene__11611.png",
+    "com2us_id": 11611,
+    "image_filename": "unit_icon_0006_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Lumirecia",
+    "file": "data/reference\\Lumirecia__11911.png",
+    "com2us_id": 11911,
+    "image_filename": "unit_icon_0009_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Liesel",
+    "file": "data/reference\\Liesel__14711.png",
+    "com2us_id": 14711,
+    "image_filename": "unit_icon_0016_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Taor",
+    "file": "data/reference\\Taor__14611.png",
+    "com2us_id": 14611,
+    "image_filename": "unit_icon_0017_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Verad",
+    "file": "data/reference\\Verad__14411.png",
+    "com2us_id": 14411,
+    "image_filename": "unit_icon_0016_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Chandra",
+    "file": "data/reference\\Chandra__17411.png",
+    "com2us_id": 17411,
+    "image_filename": "unit_icon_0027_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Chow",
+    "file": "data/reference\\Chow__16611.png",
+    "com2us_id": 16611,
+    "image_filename": "unit_icon_0025_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Beth",
+    "file": "data/reference\\Beth__17911.png",
+    "com2us_id": 17911,
+    "image_filename": "unit_icon_0023_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Praha",
+    "file": "data/reference\\Praha__15711.png",
+    "com2us_id": 15711,
+    "image_filename": "unit_icon_0022_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Anavel",
+    "file": "data/reference\\Anavel__16111.png",
+    "com2us_id": 16111,
+    "image_filename": "unit_icon_0022_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Jackie",
+    "file": "data/reference\\Jackie__20215.png",
+    "com2us_id": 20215,
+    "image_filename": "unit_icon_0037_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Woosa",
+    "file": "data/reference\\Woosa__18611.png",
+    "com2us_id": 18611,
+    "image_filename": "unit_icon_0031_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Theomars",
+    "file": "data/reference\\Theomars__19211.png",
+    "com2us_id": 19211,
+    "image_filename": "unit_icon_0032_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Shi Hou",
+    "file": "data/reference\\Shi Hou__16811.png",
+    "com2us_id": 16811,
+    "image_filename": "unit_icon_0025_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Sigmarus",
+    "file": "data/reference\\Sigmarus__14511.png",
+    "com2us_id": 14511,
+    "image_filename": "unit_icon_0017_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Camilla",
+    "file": "data/reference\\Camilla__13811.png",
+    "com2us_id": 13811,
+    "image_filename": "unit_icon_0014_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Mimirr",
+    "file": "data/reference\\Mimirr__18814.png",
+    "com2us_id": 18814,
+    "image_filename": "unit_icon_0032_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Ariel",
+    "file": "data/reference\\Ariel__17011.png",
+    "com2us_id": 17011,
+    "image_filename": "unit_icon_0019_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Dover",
+    "file": "data/reference\\Dover__18114.png",
+    "com2us_id": 18114,
+    "image_filename": "unit_icon_0029_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Alicia",
+    "file": "data/reference\\Alicia__18911.png",
+    "com2us_id": 18911,
+    "image_filename": "unit_icon_0033_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Gemini",
+    "file": "data/reference\\Gemini__18014.png",
+    "com2us_id": 18014,
+    "image_filename": "unit_icon_0028_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Iona",
+    "file": "data/reference\\Iona__15314.png",
+    "com2us_id": 15314,
+    "image_filename": "unit_icon_0020_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Chris",
+    "file": "data/reference\\Chris__15414.png",
+    "com2us_id": 15414,
+    "image_filename": "unit_icon_0020_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Conrad",
+    "file": "data/reference\\Conrad__16214.png",
+    "com2us_id": 16214,
+    "image_filename": "unit_icon_0024_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Liu Mei",
+    "file": "data/reference\\Liu Mei__17314.png",
+    "com2us_id": 17314,
+    "image_filename": "unit_icon_0008_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Figaro",
+    "file": "data/reference\\Figaro__13414.png",
+    "com2us_id": 13414,
+    "image_filename": "unit_icon_0011_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Gin",
+    "file": "data/reference\\Gin__13514.png",
+    "com2us_id": 13514,
+    "image_filename": "unit_icon_0013_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Halphas",
+    "file": "data/reference\\Halphas__16314.png",
+    "com2us_id": 16314,
+    "image_filename": "unit_icon_0024_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Chamie",
+    "file": "data/reference\\Chamie__11214.png",
+    "com2us_id": 11214,
+    "image_filename": "unit_icon_0004_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Tosi",
+    "file": "data/reference\\Tosi__16914.png",
+    "com2us_id": 16914,
+    "image_filename": "unit_icon_0026_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Louis",
+    "file": "data/reference\\Louis__14114.png",
+    "com2us_id": 14114,
+    "image_filename": "unit_icon_0015_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Eva",
+    "file": "data/reference\\Eva__13914.png",
+    "com2us_id": 13914,
+    "image_filename": "unit_icon_0014_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Pang",
+    "file": "data/reference\\Pang__15514.png",
+    "com2us_id": 15514,
+    "image_filename": "unit_icon_0021_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Aria",
+    "file": "data/reference\\Aria__13314.png",
+    "com2us_id": 13314,
+    "image_filename": "unit_icon_0011_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Eredas",
+    "file": "data/reference\\Eredas__11814.png",
+    "com2us_id": 11814,
+    "image_filename": "unit_icon_0007_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Shan",
+    "file": "data/reference\\Shan__14614.png",
+    "com2us_id": 14614,
+    "image_filename": "unit_icon_0017_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Icasha",
+    "file": "data/reference\\Icasha__11614.png",
+    "com2us_id": 11614,
+    "image_filename": "unit_icon_0006_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Mihael",
+    "file": "data/reference\\Mihael__11914.png",
+    "com2us_id": 11914,
+    "image_filename": "unit_icon_0009_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Shazam",
+    "file": "data/reference\\Shazam__17414.png",
+    "com2us_id": 17414,
+    "image_filename": "unit_icon_0027_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Hwadam",
+    "file": "data/reference\\Hwadam__18414.png",
+    "com2us_id": 18414,
+    "image_filename": "unit_icon_0030_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Lora",
+    "file": "data/reference\\Lora__16114.png",
+    "com2us_id": 16114,
+    "image_filename": "unit_icon_0022_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Artamiel",
+    "file": "data/reference\\Artamiel__17014.png",
+    "com2us_id": 17014,
+    "image_filename": "unit_icon_0019_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Zerath",
+    "file": "data/reference\\Zerath__14414.png",
+    "com2us_id": 14414,
+    "image_filename": "unit_icon_0016_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Elsharion",
+    "file": "data/reference\\Elsharion__19214.png",
+    "com2us_id": 19214,
+    "image_filename": "unit_icon_0032_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Jager",
+    "file": "data/reference\\Jager__16614.png",
+    "com2us_id": 16614,
+    "image_filename": "unit_icon_0025_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Qitian Dasheng",
+    "file": "data/reference\\Qitian Dasheng__16814.png",
+    "com2us_id": 16814,
+    "image_filename": "unit_icon_0025_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Elenoa",
+    "file": "data/reference\\Elenoa__18914.png",
+    "com2us_id": 18914,
+    "image_filename": "unit_icon_0033_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Yeonhong",
+    "file": "data/reference\\Yeonhong__18314.png",
+    "com2us_id": 18314,
+    "image_filename": "unit_icon_0029_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Hrungnir",
+    "file": "data/reference\\Hrungnir__18815.png",
+    "com2us_id": 18815,
+    "image_filename": "unit_icon_0032_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Eludia",
+    "file": "data/reference\\Eludia__14514.png",
+    "com2us_id": 14514,
+    "image_filename": "unit_icon_0017_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Asima",
+    "file": "data/reference\\Asima__17914.png",
+    "com2us_id": 17914,
+    "image_filename": "unit_icon_0023_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Dias",
+    "file": "data/reference\\Dias__16215.png",
+    "com2us_id": 16215,
+    "image_filename": "unit_icon_0024_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Julianne",
+    "file": "data/reference\\Julianne__14714.png",
+    "com2us_id": 14714,
+    "image_filename": "unit_icon_0016_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Laima",
+    "file": "data/reference\\Laima__15714.png",
+    "com2us_id": 15714,
+    "image_filename": "unit_icon_0022_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Liebli",
+    "file": "data/reference\\Liebli__13415.png",
+    "com2us_id": 13415,
+    "image_filename": "unit_icon_0011_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Akroma",
+    "file": "data/reference\\Akroma__13814.png",
+    "com2us_id": 13814,
+    "image_filename": "unit_icon_0014_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Bering",
+    "file": "data/reference\\Bering__18115.png",
+    "com2us_id": 18115,
+    "image_filename": "unit_icon_0029_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Grego",
+    "file": "data/reference\\Grego__16315.png",
+    "com2us_id": 16315,
+    "image_filename": "unit_icon_0024_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Korona",
+    "file": "data/reference\\Korona__18015.png",
+    "com2us_id": 18015,
+    "image_filename": "unit_icon_0028_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Fei",
+    "file": "data/reference\\Fei__17315.png",
+    "com2us_id": 17315,
+    "image_filename": "unit_icon_0008_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Guillaume",
+    "file": "data/reference\\Guillaume__14115.png",
+    "com2us_id": 14115,
+    "image_filename": "unit_icon_0015_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Luna",
+    "file": "data/reference\\Luna__13915.png",
+    "com2us_id": 13915,
+    "image_filename": "unit_icon_0014_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Bethony",
+    "file": "data/reference\\Bethony__15415.png",
+    "com2us_id": 15415,
+    "image_filename": "unit_icon_0020_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Kamiya",
+    "file": "data/reference\\Kamiya__11215.png",
+    "com2us_id": 11215,
+    "image_filename": "unit_icon_0004_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Nigong",
+    "file": "data/reference\\Nigong__18614.png",
+    "com2us_id": 18614,
+    "image_filename": "unit_icon_0031_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Wolyung",
+    "file": "data/reference\\Wolyung__18315.png",
+    "com2us_id": 18315,
+    "image_filename": "unit_icon_0029_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Ran",
+    "file": "data/reference\\Ran__15515.png",
+    "com2us_id": 15515,
+    "image_filename": "unit_icon_0021_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Zeratu",
+    "file": "data/reference\\Zeratu__14615.png",
+    "com2us_id": 14615,
+    "image_filename": "unit_icon_0017_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Isael",
+    "file": "data/reference\\Isael__13315.png",
+    "com2us_id": 13315,
+    "image_filename": "unit_icon_0011_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Rahul",
+    "file": "data/reference\\Rahul__17415.png",
+    "com2us_id": 17415,
+    "image_filename": "unit_icon_0027_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Aschubel",
+    "file": "data/reference\\Aschubel__11815.png",
+    "com2us_id": 11815,
+    "image_filename": "unit_icon_0007_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Sige",
+    "file": "data/reference\\Sige__16915.png",
+    "com2us_id": 16915,
+    "image_filename": "unit_icon_0026_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Tilasha",
+    "file": "data/reference\\Tilasha__11615.png",
+    "com2us_id": 11615,
+    "image_filename": "unit_icon_0006_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Icares",
+    "file": "data/reference\\Icares__11915.png",
+    "com2us_id": 11915,
+    "image_filename": "unit_icon_0009_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Craka",
+    "file": "data/reference\\Craka__17915.png",
+    "com2us_id": 17915,
+    "image_filename": "unit_icon_0023_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Ragdoll",
+    "file": "data/reference\\Ragdoll__16615.png",
+    "com2us_id": 16615,
+    "image_filename": "unit_icon_0025_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Son Zhang Lao",
+    "file": "data/reference\\Son Zhang Lao__16815.png",
+    "com2us_id": 16815,
+    "image_filename": "unit_icon_0025_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Giana",
+    "file": "data/reference\\Giana__15715.png",
+    "com2us_id": 15715,
+    "image_filename": "unit_icon_0022_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Nicki",
+    "file": "data/reference\\Nicki__16115.png",
+    "com2us_id": 16115,
+    "image_filename": "unit_icon_0022_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Veromos",
+    "file": "data/reference\\Veromos__19215.png",
+    "com2us_id": 19215,
+    "image_filename": "unit_icon_0032_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Grogen",
+    "file": "data/reference\\Grogen__14415.png",
+    "com2us_id": 14415,
+    "image_filename": "unit_icon_0016_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Woonsa",
+    "file": "data/reference\\Woonsa__18615.png",
+    "com2us_id": 18615,
+    "image_filename": "unit_icon_0031_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Han",
+    "file": "data/reference\\Han__13515.png",
+    "com2us_id": 13515,
+    "image_filename": "unit_icon_0013_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Lydia",
+    "file": "data/reference\\Lydia__18915.png",
+    "com2us_id": 18915,
+    "image_filename": "unit_icon_0033_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Trinity",
+    "file": "data/reference\\Trinity__13815.png",
+    "com2us_id": 13815,
+    "image_filename": "unit_icon_0014_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Kumae",
+    "file": "data/reference\\Kumae__10415.png",
+    "com2us_id": 10415,
+    "image_filename": "unit_icon_0001_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Kuna",
+    "file": "data/reference\\Kuna__18715.png",
+    "com2us_id": 18715,
+    "image_filename": "unit_icon_0031_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Cadiz",
+    "file": "data/reference\\Cadiz__14715.png",
+    "com2us_id": 14715,
+    "image_filename": "unit_icon_0016_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Fermion",
+    "file": "data/reference\\Fermion__17015.png",
+    "com2us_id": 17015,
+    "image_filename": "unit_icon_0019_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Selena",
+    "file": "data/reference\\Selena__13313.png",
+    "com2us_id": 13313,
+    "image_filename": "unit_icon_0011_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Jaara",
+    "file": "data/reference\\Jaara__14515.png",
+    "com2us_id": 14515,
+    "image_filename": "unit_icon_0017_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Ignicus",
+    "file": "data/reference\\Ignicus__19512.png",
+    "com2us_id": 19512,
+    "image_filename": "unit_icon_0034_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Walter",
+    "file": "data/reference\\Walter__14813.png",
+    "com2us_id": 14813,
+    "image_filename": "unit_icon_0017_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Zephicus",
+    "file": "data/reference\\Zephicus__19513.png",
+    "com2us_id": 19513,
+    "image_filename": "unit_icon_0034_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Aqcus",
+    "file": "data/reference\\Aqcus__19511.png",
+    "com2us_id": 19511,
+    "image_filename": "unit_icon_0034_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Carrack",
+    "file": "data/reference\\Carrack__19412.png",
+    "com2us_id": 19412,
+    "image_filename": "unit_icon_0034_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Galleon",
+    "file": "data/reference\\Galleon__19411.png",
+    "com2us_id": 19411,
+    "image_filename": "unit_icon_0034_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Calicus",
+    "file": "data/reference\\Calicus__19515.png",
+    "com2us_id": 19515,
+    "image_filename": "unit_icon_0034_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Barque",
+    "file": "data/reference\\Barque__19413.png",
+    "com2us_id": 19413,
+    "image_filename": "unit_icon_0034_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Frigate",
+    "file": "data/reference\\Frigate__19415.png",
+    "com2us_id": 19415,
+    "image_filename": "unit_icon_0034_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Rumicus",
+    "file": "data/reference\\Rumicus__19514.png",
+    "com2us_id": 19514,
+    "image_filename": "unit_icon_0034_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Huga",
+    "file": "data/reference\\Huga__14811.png",
+    "com2us_id": 14811,
+    "image_filename": "unit_icon_0017_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Tetra",
+    "file": "data/reference\\Tetra__19611.png",
+    "com2us_id": 19611,
+    "image_filename": "unit_icon_0035_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Cichlid",
+    "file": "data/reference\\Cichlid__19613.png",
+    "com2us_id": 19613,
+    "image_filename": "unit_icon_0035_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Platy",
+    "file": "data/reference\\Platy__19612.png",
+    "com2us_id": 19612,
+    "image_filename": "unit_icon_0035_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Brig",
+    "file": "data/reference\\Brig__19414.png",
+    "com2us_id": 19414,
+    "image_filename": "unit_icon_0034_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Molly",
+    "file": "data/reference\\Molly__19614.png",
+    "com2us_id": 19614,
+    "image_filename": "unit_icon_0035_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Triton",
+    "file": "data/reference\\Triton__19713.png",
+    "com2us_id": 19713,
+    "image_filename": "unit_icon_0035_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Betta",
+    "file": "data/reference\\Betta__19615.png",
+    "com2us_id": 19615,
+    "image_filename": "unit_icon_0035_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Okeanos",
+    "file": "data/reference\\Okeanos__19712.png",
+    "com2us_id": 19712,
+    "image_filename": "unit_icon_0035_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Poseidon",
+    "file": "data/reference\\Poseidon__19711.png",
+    "com2us_id": 19711,
+    "image_filename": "unit_icon_0035_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Astar",
+    "file": "data/reference\\Astar__19812.png",
+    "com2us_id": 19812,
+    "image_filename": "unit_icon_0036_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Pontos",
+    "file": "data/reference\\Pontos__19714.png",
+    "com2us_id": 19714,
+    "image_filename": "unit_icon_0035_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Manannan",
+    "file": "data/reference\\Manannan__19715.png",
+    "com2us_id": 19715,
+    "image_filename": "unit_icon_0035_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Lapis",
+    "file": "data/reference\\Lapis__19811.png",
+    "com2us_id": 19811,
+    "image_filename": "unit_icon_0036_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Iris",
+    "file": "data/reference\\Iris__19814.png",
+    "com2us_id": 19814,
+    "image_filename": "unit_icon_0036_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Stella",
+    "file": "data/reference\\Stella__19911.png",
+    "com2us_id": 19911,
+    "image_filename": "unit_icon_0036_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Lanett",
+    "file": "data/reference\\Lanett__19815.png",
+    "com2us_id": 19815,
+    "image_filename": "unit_icon_0036_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Lexy",
+    "file": "data/reference\\Lexy__19912.png",
+    "com2us_id": 19912,
+    "image_filename": "unit_icon_0036_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Fami",
+    "file": "data/reference\\Fami__16714.png",
+    "com2us_id": 16714,
+    "image_filename": "unit_icon_0023_4_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Natalie",
+    "file": "data/reference\\Natalie__19914.png",
+    "com2us_id": 19914,
+    "image_filename": "unit_icon_0036_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Tanya",
+    "file": "data/reference\\Tanya__19913.png",
+    "com2us_id": 19913,
+    "image_filename": "unit_icon_0036_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Lisa",
+    "file": "data/reference\\Lisa__20112.png",
+    "com2us_id": 20112,
+    "image_filename": "unit_icon_0037_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Isabelle",
+    "file": "data/reference\\Isabelle__19915.png",
+    "com2us_id": 19915,
+    "image_filename": "unit_icon_0036_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Illianna",
+    "file": "data/reference\\Illianna__20114.png",
+    "com2us_id": 20114,
+    "image_filename": "unit_icon_0037_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Lupinus",
+    "file": "data/reference\\Lupinus__19813.png",
+    "com2us_id": 19813,
+    "image_filename": "unit_icon_0036_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Sylvia",
+    "file": "data/reference\\Sylvia__20115.png",
+    "com2us_id": 20115,
+    "image_filename": "unit_icon_0037_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Emma",
+    "file": "data/reference\\Emma__20111.png",
+    "com2us_id": 20111,
+    "image_filename": "unit_icon_0037_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Karl",
+    "file": "data/reference\\Karl__20015.png",
+    "com2us_id": 20015,
+    "image_filename": "unit_icon_0036_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Olivia",
+    "file": "data/reference\\Olivia__20113.png",
+    "com2us_id": 20113,
+    "image_filename": "unit_icon_0037_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Luan",
+    "file": "data/reference\\Luan__20211.png",
+    "com2us_id": 20211,
+    "image_filename": "unit_icon_0037_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Lo",
+    "file": "data/reference\\Lo__20213.png",
+    "com2us_id": 20213,
+    "image_filename": "unit_icon_0037_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Nubia",
+    "file": "data/reference\\Nubia__20311.png",
+    "com2us_id": 20311,
+    "image_filename": "unit_icon_0038_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Ryan",
+    "file": "data/reference\\Ryan__20011.png",
+    "com2us_id": 20011,
+    "image_filename": "unit_icon_0036_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Sonora",
+    "file": "data/reference\\Sonora__20312.png",
+    "com2us_id": 20312,
+    "image_filename": "unit_icon_0038_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Amarna",
+    "file": "data/reference\\Amarna__20414.png",
+    "com2us_id": 20414,
+    "image_filename": "unit_icon_0038_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Logan",
+    "file": "data/reference\\Logan__20013.png",
+    "com2us_id": 20013,
+    "image_filename": "unit_icon_0036_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Namib",
+    "file": "data/reference\\Namib__20313.png",
+    "com2us_id": 20313,
+    "image_filename": "unit_icon_0038_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Sahara",
+    "file": "data/reference\\Sahara__20314.png",
+    "com2us_id": 20314,
+    "image_filename": "unit_icon_0038_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Thebae",
+    "file": "data/reference\\Thebae__20415.png",
+    "com2us_id": 20415,
+    "image_filename": "unit_icon_0038_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Avaris",
+    "file": "data/reference\\Avaris__20411.png",
+    "com2us_id": 20411,
+    "image_filename": "unit_icon_0038_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Trevor",
+    "file": "data/reference\\Trevor__20012.png",
+    "com2us_id": 20012,
+    "image_filename": "unit_icon_0036_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Amduat",
+    "file": "data/reference\\Amduat__20615.png",
+    "com2us_id": 20615,
+    "image_filename": "unit_icon_0039_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Wedjat",
+    "file": "data/reference\\Wedjat__20614.png",
+    "com2us_id": 20614,
+    "image_filename": "unit_icon_0039_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Duamutef",
+    "file": "data/reference\\Duamutef__20612.png",
+    "com2us_id": 20612,
+    "image_filename": "unit_icon_0039_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Lucas",
+    "file": "data/reference\\Lucas__20014.png",
+    "com2us_id": 20014,
+    "image_filename": "unit_icon_0036_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Isis",
+    "file": "data/reference\\Isis__20514.png",
+    "com2us_id": 20514,
+    "image_filename": "unit_icon_0039_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Qebehsenuef",
+    "file": "data/reference\\Qebehsenuef__20611.png",
+    "com2us_id": 20611,
+    "image_filename": "unit_icon_0039_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Khmun",
+    "file": "data/reference\\Khmun__20412.png",
+    "com2us_id": 20412,
+    "image_filename": "unit_icon_0038_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Iunu",
+    "file": "data/reference\\Iunu__20413.png",
+    "com2us_id": 20413,
+    "image_filename": "unit_icon_0038_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Hathor",
+    "file": "data/reference\\Hathor__20513.png",
+    "com2us_id": 20513,
+    "image_filename": "unit_icon_0039_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Imesety",
+    "file": "data/reference\\Imesety__20613.png",
+    "com2us_id": 20613,
+    "image_filename": "unit_icon_0039_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Bastet",
+    "file": "data/reference\\Bastet__20511.png",
+    "com2us_id": 20511,
+    "image_filename": "unit_icon_0039_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Sekhmet",
+    "file": "data/reference\\Sekhmet__20512.png",
+    "com2us_id": 20512,
+    "image_filename": "unit_icon_0039_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Bulldozer",
+    "file": "data/reference\\Bulldozer__20812.png",
+    "com2us_id": 20812,
+    "image_filename": "unit_icon_0039_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Tractor",
+    "file": "data/reference\\Tractor__20811.png",
+    "com2us_id": 20811,
+    "image_filename": "unit_icon_0039_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Crane",
+    "file": "data/reference\\Crane__20813.png",
+    "com2us_id": 20813,
+    "image_filename": "unit_icon_0039_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Crawler",
+    "file": "data/reference\\Crawler__20815.png",
+    "com2us_id": 20815,
+    "image_filename": "unit_icon_0039_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Chilling",
+    "file": "data/reference\\Chilling__20711.png",
+    "com2us_id": 20711,
+    "image_filename": "unit_icon_0040_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Misty",
+    "file": "data/reference\\Misty__20714.png",
+    "com2us_id": 20714,
+    "image_filename": "unit_icon_0040_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Driller",
+    "file": "data/reference\\Driller__20814.png",
+    "com2us_id": 20814,
+    "image_filename": "unit_icon_0039_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Dusky",
+    "file": "data/reference\\Dusky__20715.png",
+    "com2us_id": 20715,
+    "image_filename": "unit_icon_0040_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Smokey",
+    "file": "data/reference\\Smokey__20712.png",
+    "com2us_id": 20712,
+    "image_filename": "unit_icon_0040_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Nephthys",
+    "file": "data/reference\\Nephthys__20515.png",
+    "com2us_id": 20515,
+    "image_filename": "unit_icon_0039_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Windy",
+    "file": "data/reference\\Windy__20713.png",
+    "com2us_id": 20713,
+    "image_filename": "unit_icon_0040_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Eluin",
+    "file": "data/reference\\Eluin__20911.png",
+    "com2us_id": 20911,
+    "image_filename": "unit_icon_0041_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Erwin",
+    "file": "data/reference\\Erwin__20913.png",
+    "com2us_id": 20913,
+    "image_filename": "unit_icon_0041_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Racuni",
+    "file": "data/reference\\Racuni__21012.png",
+    "com2us_id": 21012,
+    "image_filename": "unit_icon_0041_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Raviti",
+    "file": "data/reference\\Raviti__21013.png",
+    "com2us_id": 21013,
+    "image_filename": "unit_icon_0041_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Lucien",
+    "file": "data/reference\\Lucien__20914.png",
+    "com2us_id": 20914,
+    "image_filename": "unit_icon_0041_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Adrian",
+    "file": "data/reference\\Adrian__20912.png",
+    "com2us_id": 20912,
+    "image_filename": "unit_icon_0041_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Dova",
+    "file": "data/reference\\Dova__21014.png",
+    "com2us_id": 21014,
+    "image_filename": "unit_icon_0041_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Remy",
+    "file": "data/reference\\Remy__21011.png",
+    "com2us_id": 21011,
+    "image_filename": "unit_icon_0041_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Ganymede",
+    "file": "data/reference\\Ganymede__21113.png",
+    "com2us_id": 21113,
+    "image_filename": "unit_icon_0040_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Isillen",
+    "file": "data/reference\\Isillen__20915.png",
+    "com2us_id": 20915,
+    "image_filename": "unit_icon_0041_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Kroa",
+    "file": "data/reference\\Kroa__21015.png",
+    "com2us_id": 21015,
+    "image_filename": "unit_icon_0041_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Xiong Fei",
+    "file": "data/reference\\Xiong Fei__21212.png",
+    "com2us_id": 21212,
+    "image_filename": "unit_icon_0041_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Oberon",
+    "file": "data/reference\\Oberon__21114.png",
+    "com2us_id": 21114,
+    "image_filename": "unit_icon_0040_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Psamathe",
+    "file": "data/reference\\Psamathe__21111.png",
+    "com2us_id": 21111,
+    "image_filename": "unit_icon_0040_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Nyx",
+    "file": "data/reference\\Nyx__21115.png",
+    "com2us_id": 21115,
+    "image_filename": "unit_icon_0040_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Feng Yan",
+    "file": "data/reference\\Feng Yan__21213.png",
+    "com2us_id": 21213,
+    "image_filename": "unit_icon_0041_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Tian Lang",
+    "file": "data/reference\\Tian Lang__21214.png",
+    "com2us_id": 21214,
+    "image_filename": "unit_icon_0041_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Daphnis",
+    "file": "data/reference\\Daphnis__21112.png",
+    "com2us_id": 21112,
+    "image_filename": "unit_icon_0040_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Mi Ying",
+    "file": "data/reference\\Mi Ying__21215.png",
+    "com2us_id": 21215,
+    "image_filename": "unit_icon_0041_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Homunculus(Attack)",
+    "file": "data/reference\\HomunculusAttack__1000113.png",
+    "com2us_id": 1000113,
+    "image_filename": "unit_icon_0042_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Ludo",
+    "file": "data/reference\\Ludo__21312.png",
+    "com2us_id": 21312,
+    "image_filename": "unit_icon_0043_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Homunculus(Attack)",
+    "file": "data/reference\\HomunculusAttack__1000111.png",
+    "com2us_id": 1000111,
+    "image_filename": "unit_icon_0042_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Mo Long",
+    "file": "data/reference\\Mo Long__21211.png",
+    "com2us_id": 21211,
+    "image_filename": "unit_icon_0041_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Monte",
+    "file": "data/reference\\Monte__21315.png",
+    "com2us_id": 21315,
+    "image_filename": "unit_icon_0043_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Morris",
+    "file": "data/reference\\Morris__21313.png",
+    "com2us_id": 21313,
+    "image_filename": "unit_icon_0043_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Reno",
+    "file": "data/reference\\Reno__21311.png",
+    "com2us_id": 21311,
+    "image_filename": "unit_icon_0043_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Sonnet",
+    "file": "data/reference\\Sonnet__21411.png",
+    "com2us_id": 21411,
+    "image_filename": "unit_icon_0043_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Triana",
+    "file": "data/reference\\Triana__21413.png",
+    "com2us_id": 21413,
+    "image_filename": "unit_icon_0043_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Harmonia",
+    "file": "data/reference\\Harmonia__21412.png",
+    "com2us_id": 21412,
+    "image_filename": "unit_icon_0043_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Tablo",
+    "file": "data/reference\\Tablo__21314.png",
+    "com2us_id": 21314,
+    "image_filename": "unit_icon_0043_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Homunculus(Attack)",
+    "file": "data/reference\\HomunculusAttack__1000112.png",
+    "com2us_id": 1000112,
+    "image_filename": "unit_icon_0042_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Vivachel",
+    "file": "data/reference\\Vivachel__21415.png",
+    "com2us_id": 21415,
+    "image_filename": "unit_icon_0043_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Celia",
+    "file": "data/reference\\Celia__21414.png",
+    "com2us_id": 21414,
+    "image_filename": "unit_icon_0043_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Amelia",
+    "file": "data/reference\\Amelia__21511.png",
+    "com2us_id": 21511,
+    "image_filename": "unit_icon_0043_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Eleanor",
+    "file": "data/reference\\Eleanor__21514.png",
+    "com2us_id": 21514,
+    "image_filename": "unit_icon_0043_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Homunculus(Support)",
+    "file": "data/reference\\HomunculusSupport__1000215.png",
+    "com2us_id": 1000215,
+    "image_filename": "unit_icon_0044_3_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Alexandra",
+    "file": "data/reference\\Alexandra__21515.png",
+    "com2us_id": 21515,
+    "image_filename": "unit_icon_0043_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Helena",
+    "file": "data/reference\\Helena__21512.png",
+    "com2us_id": 21512,
+    "image_filename": "unit_icon_0043_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Homunculus(Support)",
+    "file": "data/reference\\HomunculusSupport__1000214.png",
+    "com2us_id": 1000214,
+    "image_filename": "unit_icon_0044_2_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Ophilia",
+    "file": "data/reference\\Ophilia__21812.png",
+    "com2us_id": 21812,
+    "image_filename": "unit_icon_0044_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Diana",
+    "file": "data/reference\\Diana__21513.png",
+    "com2us_id": 21513,
+    "image_filename": "unit_icon_0043_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Josephine",
+    "file": "data/reference\\Josephine__21811.png",
+    "com2us_id": 21811,
+    "image_filename": "unit_icon_0044_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Talia",
+    "file": "data/reference\\Talia__21911.png",
+    "com2us_id": 21911,
+    "image_filename": "unit_icon_0045_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Shaina",
+    "file": "data/reference\\Shaina__21912.png",
+    "com2us_id": 21912,
+    "image_filename": "unit_icon_0045_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Jeanne",
+    "file": "data/reference\\Jeanne__21814.png",
+    "com2us_id": 21814,
+    "image_filename": "unit_icon_0044_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Deva",
+    "file": "data/reference\\Deva__21914.png",
+    "com2us_id": 21914,
+    "image_filename": "unit_icon_0045_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Melissa",
+    "file": "data/reference\\Melissa__21913.png",
+    "com2us_id": 21913,
+    "image_filename": "unit_icon_0045_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Louise",
+    "file": "data/reference\\Louise__21813.png",
+    "com2us_id": 21813,
+    "image_filename": "unit_icon_0044_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Maruna",
+    "file": "data/reference\\Maruna__22012.png",
+    "com2us_id": 22012,
+    "image_filename": "unit_icon_0045_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Martina",
+    "file": "data/reference\\Martina__22015.png",
+    "com2us_id": 22015,
+    "image_filename": "unit_icon_0045_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Leona",
+    "file": "data/reference\\Leona__21815.png",
+    "com2us_id": 21815,
+    "image_filename": "unit_icon_0044_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Sabrina",
+    "file": "data/reference\\Sabrina__22011.png",
+    "com2us_id": 22011,
+    "image_filename": "unit_icon_0045_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Herne",
+    "file": "data/reference\\Herne__22111.png",
+    "com2us_id": 22111,
+    "image_filename": "unit_icon_0046_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Felleria",
+    "file": "data/reference\\Felleria__22114.png",
+    "com2us_id": 22114,
+    "image_filename": "unit_icon_0046_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Mellia",
+    "file": "data/reference\\Mellia__22113.png",
+    "com2us_id": 22113,
+    "image_filename": "unit_icon_0046_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Abellio",
+    "file": "data/reference\\Abellio__22211.png",
+    "com2us_id": 22211,
+    "image_filename": "unit_icon_0046_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Zenobia",
+    "file": "data/reference\\Zenobia__22013.png",
+    "com2us_id": 22013,
+    "image_filename": "unit_icon_0045_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Nisha",
+    "file": "data/reference\\Nisha__22112.png",
+    "com2us_id": 22112,
+    "image_filename": "unit_icon_0046_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Bailey",
+    "file": "data/reference\\Bailey__22014.png",
+    "com2us_id": 22014,
+    "image_filename": "unit_icon_0045_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Belita",
+    "file": "data/reference\\Belita__21915.png",
+    "com2us_id": 21915,
+    "image_filename": "unit_icon_0045_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Hyanes",
+    "file": "data/reference\\Hyanes__22115.png",
+    "com2us_id": 22115,
+    "image_filename": "unit_icon_0046_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Valantis",
+    "file": "data/reference\\Valantis__22214.png",
+    "com2us_id": 22214,
+    "image_filename": "unit_icon_0046_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Pater",
+    "file": "data/reference\\Pater__22215.png",
+    "com2us_id": 22215,
+    "image_filename": "unit_icon_0046_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Vidurr",
+    "file": "data/reference\\Vidurr__22412.png",
+    "com2us_id": 22412,
+    "image_filename": "unit_icon_0047_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Skogul",
+    "file": "data/reference\\Skogul__22413.png",
+    "com2us_id": 22413,
+    "image_filename": "unit_icon_0047_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Bellenus",
+    "file": "data/reference\\Bellenus__22212.png",
+    "com2us_id": 22212,
+    "image_filename": "unit_icon_0046_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Bagir",
+    "file": "data/reference\\Bagir__22411.png",
+    "com2us_id": 22411,
+    "image_filename": "unit_icon_0047_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Taranys",
+    "file": "data/reference\\Taranys__22213.png",
+    "com2us_id": 22213,
+    "image_filename": "unit_icon_0046_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Einheri",
+    "file": "data/reference\\Einheri__22414.png",
+    "com2us_id": 22414,
+    "image_filename": "unit_icon_0047_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Herteit",
+    "file": "data/reference\\Herteit__22615.png",
+    "com2us_id": 22615,
+    "image_filename": "unit_icon_0047_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Odin",
+    "file": "data/reference\\Odin__22613.png",
+    "com2us_id": 22613,
+    "image_filename": "unit_icon_0047_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Belladeon",
+    "file": "data/reference\\Belladeon__11034.png",
+    "com2us_id": 11034,
+    "image_filename": "unit_icon_0051_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Trasar",
+    "file": "data/reference\\Trasar__22415.png",
+    "com2us_id": 22415,
+    "image_filename": "unit_icon_0047_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Geldnir",
+    "file": "data/reference\\Geldnir__22614.png",
+    "com2us_id": 22614,
+    "image_filename": "unit_icon_0047_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Covenant",
+    "file": "data/reference\\Covenant__22711.png",
+    "com2us_id": 22711,
+    "image_filename": "unit_icon_0048_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Bolverk",
+    "file": "data/reference\\Bolverk__22611.png",
+    "com2us_id": 22611,
+    "image_filename": "unit_icon_0047_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Baleygr",
+    "file": "data/reference\\Baleygr__22612.png",
+    "com2us_id": 22612,
+    "image_filename": "unit_icon_0047_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Dragunov",
+    "file": "data/reference\\Dragunov__22715.png",
+    "com2us_id": 22715,
+    "image_filename": "unit_icon_0048_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Carcano",
+    "file": "data/reference\\Carcano__22712.png",
+    "com2us_id": 22712,
+    "image_filename": "unit_icon_0048_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Bella",
+    "file": "data/reference\\Bella__22915.png",
+    "com2us_id": 22915,
+    "image_filename": "unit_icon_0049_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Carbine",
+    "file": "data/reference\\Carbine__22713.png",
+    "com2us_id": 22713,
+    "image_filename": "unit_icon_0048_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Christina",
+    "file": "data/reference\\Christina__22913.png",
+    "com2us_id": 22913,
+    "image_filename": "unit_icon_0049_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Magnum",
+    "file": "data/reference\\Magnum__22714.png",
+    "com2us_id": 22714,
+    "image_filename": "unit_icon_0048_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Abigail",
+    "file": "data/reference\\Abigail__22911.png",
+    "com2us_id": 22911,
+    "image_filename": "unit_icon_0049_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Scarlett",
+    "file": "data/reference\\Scarlett__22912.png",
+    "com2us_id": 22912,
+    "image_filename": "unit_icon_0049_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Eirgar",
+    "file": "data/reference\\Eirgar__23015.png",
+    "com2us_id": 23015,
+    "image_filename": "unit_icon_0050_0_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Iselia",
+    "file": "data/reference\\Iselia__10132.png",
+    "com2us_id": 10132,
+    "image_filename": "unit_icon_0051_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Emily",
+    "file": "data/reference\\Emily__22914.png",
+    "com2us_id": 22914,
+    "image_filename": "unit_icon_0049_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Neal",
+    "file": "data/reference\\Neal__10134.png",
+    "com2us_id": 10134,
+    "image_filename": "unit_icon_0051_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Sorin",
+    "file": "data/reference\\Sorin__10135.png",
+    "com2us_id": 10135,
+    "image_filename": "unit_icon_0051_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Kro",
+    "file": "data/reference\\Kro__11035.png",
+    "com2us_id": 11035,
+    "image_filename": "unit_icon_0051_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Cheryl",
+    "file": "data/reference\\Cheryl__10334.png",
+    "com2us_id": 10334,
+    "image_filename": "unit_icon_0051_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Elucia",
+    "file": "data/reference\\Elucia__10131.png",
+    "com2us_id": 10131,
+    "image_filename": "unit_icon_0051_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Shannon",
+    "file": "data/reference\\Shannon__10333.png",
+    "com2us_id": 10333,
+    "image_filename": "unit_icon_0051_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Camaryn",
+    "file": "data/reference\\Camaryn__10335.png",
+    "com2us_id": 10335,
+    "image_filename": "unit_icon_0051_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Ursha",
+    "file": "data/reference\\Ursha__10732.png",
+    "com2us_id": 10732,
+    "image_filename": "unit_icon_0051_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Gorgo",
+    "file": "data/reference\\Gorgo__10735.png",
+    "com2us_id": 10735,
+    "image_filename": "unit_icon_0051_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Tatu",
+    "file": "data/reference\\Tatu__10332.png",
+    "com2us_id": 10332,
+    "image_filename": "unit_icon_0051_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Dagora",
+    "file": "data/reference\\Dagora__10731.png",
+    "com2us_id": 10731,
+    "image_filename": "unit_icon_0051_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Lusha",
+    "file": "data/reference\\Lusha__10734.png",
+    "com2us_id": 10734,
+    "image_filename": "unit_icon_0051_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Aeilene",
+    "file": "data/reference\\Aeilene__10133.png",
+    "com2us_id": 10133,
+    "image_filename": "unit_icon_0051_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Kacey",
+    "file": "data/reference\\Kacey__10331.png",
+    "com2us_id": 10331,
+    "image_filename": "unit_icon_0051_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Ramagos",
+    "file": "data/reference\\Ramagos__10733.png",
+    "com2us_id": 10733,
+    "image_filename": "unit_icon_0051_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Raoq",
+    "file": "data/reference\\Raoq__11032.png",
+    "com2us_id": 11032,
+    "image_filename": "unit_icon_0051_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Icaru",
+    "file": "data/reference\\Icaru__11031.png",
+    "com2us_id": 11031,
+    "image_filename": "unit_icon_0051_0_3.png",
+    "element": "Water"
+  },
+  {
+    "name": "Lucifer",
+    "file": "data/reference\\Lucifer__23114.png",
+    "com2us_id": 23114,
+    "image_filename": "unit_icon_0052_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Bael",
+    "file": "data/reference\\Bael__23112.png",
+    "com2us_id": 23112,
+    "image_filename": "unit_icon_0052_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Kunite",
+    "file": "data/reference\\Kunite__23312.png",
+    "com2us_id": 23312,
+    "image_filename": "unit_icon_0052_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Mephisto",
+    "file": "data/reference\\Mephisto__23113.png",
+    "com2us_id": 23113,
+    "image_filename": "unit_icon_0052_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Ramahan",
+    "file": "data/reference\\Ramahan__11033.png",
+    "com2us_id": 11033,
+    "image_filename": "unit_icon_0051_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Beelzebub",
+    "file": "data/reference\\Beelzebub__23115.png",
+    "com2us_id": 23115,
+    "image_filename": "unit_icon_0052_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Belial",
+    "file": "data/reference\\Belial__23111.png",
+    "com2us_id": 23111,
+    "image_filename": "unit_icon_0052_0_4.png",
+    "element": "Water"
+  },
+  {
+    "name": "Tanzaite",
+    "file": "data/reference\\Tanzaite__23311.png",
+    "com2us_id": 23311,
+    "image_filename": "unit_icon_0052_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Jultan",
+    "file": "data/reference\\Jultan__14035.png",
+    "com2us_id": 14035,
+    "image_filename": "unit_icon_0053_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Phenaka",
+    "file": "data/reference\\Phenaka__23314.png",
+    "com2us_id": 23314,
+    "image_filename": "unit_icon_0052_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Malite",
+    "file": "data/reference\\Malite__23313.png",
+    "com2us_id": 23313,
+    "image_filename": "unit_icon_0052_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Onyx",
+    "file": "data/reference\\Onyx__23315.png",
+    "com2us_id": 23315,
+    "image_filename": "unit_icon_0052_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Garoche",
+    "file": "data/reference\\Garoche__14032.png",
+    "com2us_id": 14032,
+    "image_filename": "unit_icon_0053_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Mei",
+    "file": "data/reference\\Mei__15032.png",
+    "com2us_id": 15032,
+    "image_filename": "unit_icon_0053_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Naomi",
+    "file": "data/reference\\Naomi__15033.png",
+    "com2us_id": 15033,
+    "image_filename": "unit_icon_0053_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Shakan",
+    "file": "data/reference\\Shakan__14033.png",
+    "com2us_id": 14033,
+    "image_filename": "unit_icon_0053_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Mina",
+    "file": "data/reference\\Mina__15031.png",
+    "com2us_id": 15031,
+    "image_filename": "unit_icon_0053_0_2.png",
+    "element": "Water"
+  },
+  {
+    "name": "Vigor",
+    "file": "data/reference\\Vigor__14031.png",
+    "com2us_id": 14031,
+    "image_filename": "unit_icon_0053_0_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Xiao Ling",
+    "file": "data/reference\\Xiao Ling__15034.png",
+    "com2us_id": 15034,
+    "image_filename": "unit_icon_0053_3_2.png",
+    "element": "Light"
+  },
+  {
+    "name": "Barbara",
+    "file": "data/reference\\Barbara__23511.png",
+    "com2us_id": 23511,
+    "image_filename": "unit_icon_0054_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Narsha",
+    "file": "data/reference\\Narsha__23514.png",
+    "com2us_id": 23514,
+    "image_filename": "unit_icon_0054_3_0.png",
+    "element": "Light"
+  },
+  {
+    "name": "Miho",
+    "file": "data/reference\\Miho__15035.png",
+    "com2us_id": 15035,
+    "image_filename": "unit_icon_0053_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Bernard",
+    "file": "data/reference\\Bernard__11533.png",
+    "com2us_id": 11533,
+    "image_filename": "unit_icon_0055_0_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Xiana",
+    "file": "data/reference\\Xiana__23515.png",
+    "com2us_id": 23515,
+    "image_filename": "unit_icon_0054_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Eshir",
+    "file": "data/reference\\Eshir__14034.png",
+    "com2us_id": 14034,
+    "image_filename": "unit_icon_0053_3_1.png",
+    "element": "Light"
+  },
+  {
+    "name": "Kahn",
+    "file": "data/reference\\Kahn__11531.png",
+    "com2us_id": 11531,
+    "image_filename": "unit_icon_0055_0_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Savannah",
+    "file": "data/reference\\Savannah__23513.png",
+    "com2us_id": 23513,
+    "image_filename": "unit_icon_0054_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Masha",
+    "file": "data/reference\\Masha__23512.png",
+    "com2us_id": 23512,
+    "image_filename": "unit_icon_0054_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Spectra",
+    "file": "data/reference\\Spectra__11532.png",
+    "com2us_id": 11532,
+    "image_filename": "unit_icon_0055_0_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Jeogun",
+    "file": "data/reference\\Jeogun__23712.png",
+    "com2us_id": 23712,
+    "image_filename": "unit_icon_0056_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Shamann",
+    "file": "data/reference\\Shamann__11534.png",
+    "com2us_id": 11534,
+    "image_filename": "unit_icon_0055_0_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Varus",
+    "file": "data/reference\\Varus__11535.png",
+    "com2us_id": 11535,
+    "image_filename": "unit_icon_0055_0_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Haegang",
+    "file": "data/reference\\Haegang__23711.png",
+    "com2us_id": 23711,
+    "image_filename": "unit_icon_0056_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Hanwul",
+    "file": "data/reference\\Hanwul__23714.png",
+    "com2us_id": 23714,
+    "image_filename": "unit_icon_0056_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Hongyeon",
+    "file": "data/reference\\Hongyeon__23912.png",
+    "com2us_id": 23912,
+    "image_filename": "unit_icon_0057_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Cheongpung",
+    "file": "data/reference\\Cheongpung__23713.png",
+    "com2us_id": 23713,
+    "image_filename": "unit_icon_0056_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Yeonhwa",
+    "file": "data/reference\\Yeonhwa__23913.png",
+    "com2us_id": 23913,
+    "image_filename": "unit_icon_0057_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Dongbaek",
+    "file": "data/reference\\Dongbaek__23914.png",
+    "com2us_id": 23914,
+    "image_filename": "unit_icon_0057_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Mookwol",
+    "file": "data/reference\\Mookwol__23715.png",
+    "com2us_id": 23715,
+    "image_filename": "unit_icon_0056_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Mirinae",
+    "file": "data/reference\\Mirinae__23915.png",
+    "com2us_id": 23915,
+    "image_filename": "unit_icon_0057_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Songseol",
+    "file": "data/reference\\Songseol__23911.png",
+    "com2us_id": 23911,
+    "image_filename": "unit_icon_0057_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "M. BISON",
+    "file": "data/reference\\M. BISON__24212.png",
+    "com2us_id": 24212,
+    "image_filename": "unit_icon_0061_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "KEN",
+    "file": "data/reference\\KEN__24112.png",
+    "com2us_id": 24112,
+    "image_filename": "unit_icon_0060_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "M. BISON",
+    "file": "data/reference\\M. BISON__24211.png",
+    "com2us_id": 24211,
+    "image_filename": "unit_icon_0061_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "M. BISON",
+    "file": "data/reference\\M. BISON__24214.png",
+    "com2us_id": 24214,
+    "image_filename": "unit_icon_0061_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "M. BISON",
+    "file": "data/reference\\M. BISON__24215.png",
+    "com2us_id": 24215,
+    "image_filename": "unit_icon_0061_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "DHALSIM",
+    "file": "data/reference\\DHALSIM__24311.png",
+    "com2us_id": 24311,
+    "image_filename": "unit_icon_0063_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "M. BISON",
+    "file": "data/reference\\M. BISON__24213.png",
+    "com2us_id": 24213,
+    "image_filename": "unit_icon_0061_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "DHALSIM",
+    "file": "data/reference\\DHALSIM__24314.png",
+    "com2us_id": 24314,
+    "image_filename": "unit_icon_0063_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "DHALSIM",
+    "file": "data/reference\\DHALSIM__24312.png",
+    "com2us_id": 24312,
+    "image_filename": "unit_icon_0063_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "DHALSIM",
+    "file": "data/reference\\DHALSIM__24313.png",
+    "com2us_id": 24313,
+    "image_filename": "unit_icon_0063_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "DHALSIM",
+    "file": "data/reference\\DHALSIM__24315.png",
+    "com2us_id": 24315,
+    "image_filename": "unit_icon_0063_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "CHUN-LI",
+    "file": "data/reference\\CHUN-LI__24412.png",
+    "com2us_id": 24412,
+    "image_filename": "unit_icon_0062_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "CHUN-LI",
+    "file": "data/reference\\CHUN-LI__24411.png",
+    "com2us_id": 24411,
+    "image_filename": "unit_icon_0062_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "CHUN-LI",
+    "file": "data/reference\\CHUN-LI__24415.png",
+    "com2us_id": 24415,
+    "image_filename": "unit_icon_0062_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "CHUN-LI",
+    "file": "data/reference\\CHUN-LI__24414.png",
+    "com2us_id": 24414,
+    "image_filename": "unit_icon_0062_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "CHUN-LI",
+    "file": "data/reference\\CHUN-LI__24413.png",
+    "com2us_id": 24413,
+    "image_filename": "unit_icon_0062_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Douglas",
+    "file": "data/reference\\Douglas__24512.png",
+    "com2us_id": 24512,
+    "image_filename": "unit_icon_0066_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Moore",
+    "file": "data/reference\\Moore__24511.png",
+    "com2us_id": 24511,
+    "image_filename": "unit_icon_0066_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Kashmir",
+    "file": "data/reference\\Kashmir__24513.png",
+    "com2us_id": 24513,
+    "image_filename": "unit_icon_0066_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Talisman",
+    "file": "data/reference\\Talisman__24514.png",
+    "com2us_id": 24514,
+    "image_filename": "unit_icon_0066_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Vancliffe",
+    "file": "data/reference\\Vancliffe__24515.png",
+    "com2us_id": 24515,
+    "image_filename": "unit_icon_0066_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Bernadotte",
+    "file": "data/reference\\Bernadotte__24612.png",
+    "com2us_id": 24612,
+    "image_filename": "unit_icon_0067_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Borgnine",
+    "file": "data/reference\\Borgnine__24711.png",
+    "com2us_id": 24711,
+    "image_filename": "unit_icon_0068_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Sagar",
+    "file": "data/reference\\Sagar__24713.png",
+    "com2us_id": 24713,
+    "image_filename": "unit_icon_0068_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Karnal",
+    "file": "data/reference\\Karnal__24712.png",
+    "com2us_id": 24712,
+    "image_filename": "unit_icon_0068_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Craig",
+    "file": "data/reference\\Craig__24714.png",
+    "com2us_id": 24714,
+    "image_filename": "unit_icon_0068_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Gurkha",
+    "file": "data/reference\\Gurkha__24715.png",
+    "com2us_id": 24715,
+    "image_filename": "unit_icon_0068_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Kyle",
+    "file": "data/reference\\Kyle__24811.png",
+    "com2us_id": 24811,
+    "image_filename": "unit_icon_0064_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Todd",
+    "file": "data/reference\\Todd__24812.png",
+    "com2us_id": 24812,
+    "image_filename": "unit_icon_0064_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Jarrett",
+    "file": "data/reference\\Jarrett__24813.png",
+    "com2us_id": 24813,
+    "image_filename": "unit_icon_0064_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Hekerson",
+    "file": "data/reference\\Hekerson__24814.png",
+    "com2us_id": 24814,
+    "image_filename": "unit_icon_0064_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Cayde",
+    "file": "data/reference\\Cayde__24815.png",
+    "com2us_id": 24815,
+    "image_filename": "unit_icon_0064_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Lariel",
+    "file": "data/reference\\Lariel__24911.png",
+    "com2us_id": 24911,
+    "image_filename": "unit_icon_0065_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Berenice",
+    "file": "data/reference\\Berenice__24912.png",
+    "com2us_id": 24912,
+    "image_filename": "unit_icon_0065_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Cordelia",
+    "file": "data/reference\\Cordelia__24913.png",
+    "com2us_id": 24913,
+    "image_filename": "unit_icon_0065_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Leah",
+    "file": "data/reference\\Leah__24914.png",
+    "com2us_id": 24914,
+    "image_filename": "unit_icon_0065_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Vereesa",
+    "file": "data/reference\\Vereesa__24915.png",
+    "com2us_id": 24915,
+    "image_filename": "unit_icon_0065_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Chichi and Friends",
+    "file": "data/reference\\Chichi and Friends__13233.png",
+    "com2us_id": 13233,
+    "image_filename": "unit_icon_0070_3_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Lala and Friends",
+    "file": "data/reference\\Lala and Friends__13232.png",
+    "com2us_id": 13232,
+    "image_filename": "unit_icon_0070_3_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Lulu and Friends",
+    "file": "data/reference\\Lulu and Friends__13231.png",
+    "com2us_id": 13231,
+    "image_filename": "unit_icon_0070_3_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Shushu and Friends",
+    "file": "data/reference\\Shushu and Friends__13234.png",
+    "com2us_id": 13234,
+    "image_filename": "unit_icon_0070_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Chacha and Friends",
+    "file": "data/reference\\Chacha and Friends__13235.png",
+    "com2us_id": 13235,
+    "image_filename": "unit_icon_0070_3_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Hemos",
+    "file": "data/reference\\Hemos__16031.png",
+    "com2us_id": 16031,
+    "image_filename": "unit_icon_0071_3_0.png",
+    "element": "Water"
+  },
+  {
+    "name": "Hiva",
+    "file": "data/reference\\Hiva__16033.png",
+    "com2us_id": 16033,
+    "image_filename": "unit_icon_0071_3_2.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Sath",
+    "file": "data/reference\\Sath__16032.png",
+    "com2us_id": 16032,
+    "image_filename": "unit_icon_0071_3_1.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Prom",
+    "file": "data/reference\\Prom__16034.png",
+    "com2us_id": 16034,
+    "image_filename": "unit_icon_0071_3_3.png",
+    "element": "Light"
+  },
+  {
+    "name": "Thrain",
+    "file": "data/reference\\Thrain__16035.png",
+    "com2us_id": 16035,
+    "image_filename": "unit_icon_0071_3_4.png",
+    "element": "Dark"
+  },
+  {
+    "name": "ROBO-G92",
+    "file": "data/reference\\ROBO-G92__25413.png",
+    "com2us_id": 25413,
+    "image_filename": "unit_icon_0077_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Shizuka",
+    "file": "data/reference\\Shizuka__25011.png",
+    "com2us_id": 25011,
+    "image_filename": "unit_icon_0072_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Tomoe",
+    "file": "data/reference\\Tomoe__25012.png",
+    "com2us_id": 25012,
+    "image_filename": "unit_icon_0072_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Seimei",
+    "file": "data/reference\\Seimei__25014.png",
+    "com2us_id": 25014,
+    "image_filename": "unit_icon_0072_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Giou",
+    "file": "data/reference\\Giou__25013.png",
+    "com2us_id": 25013,
+    "image_filename": "unit_icon_0072_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Douman",
+    "file": "data/reference\\Douman__25015.png",
+    "com2us_id": 25015,
+    "image_filename": "unit_icon_0072_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Suiki",
+    "file": "data/reference\\Suiki__25111.png",
+    "com2us_id": 25111,
+    "image_filename": "unit_icon_0073_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Kaki",
+    "file": "data/reference\\Kaki__25112.png",
+    "com2us_id": 25112,
+    "image_filename": "unit_icon_0073_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Fuuki",
+    "file": "data/reference\\Fuuki__25113.png",
+    "com2us_id": 25113,
+    "image_filename": "unit_icon_0073_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Kinki",
+    "file": "data/reference\\Kinki__25114.png",
+    "com2us_id": 25114,
+    "image_filename": "unit_icon_0073_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Coco",
+    "file": "data/reference\\Coco__25212.png",
+    "com2us_id": 25212,
+    "image_filename": "unit_icon_0075_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Nana",
+    "file": "data/reference\\Nana__25211.png",
+    "com2us_id": 25211,
+    "image_filename": "unit_icon_0075_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Momo",
+    "file": "data/reference\\Momo__25213.png",
+    "com2us_id": 25213,
+    "image_filename": "unit_icon_0075_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Dorothy",
+    "file": "data/reference\\Dorothy__25214.png",
+    "com2us_id": 25214,
+    "image_filename": "unit_icon_0075_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Miles",
+    "file": "data/reference\\Miles__25311.png",
+    "com2us_id": 25311,
+    "image_filename": "unit_icon_0076_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Kiki",
+    "file": "data/reference\\Kiki__25215.png",
+    "com2us_id": 25215,
+    "image_filename": "unit_icon_0075_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "John",
+    "file": "data/reference\\John__25312.png",
+    "com2us_id": 25312,
+    "image_filename": "unit_icon_0076_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Oliver",
+    "file": "data/reference\\Oliver__25313.png",
+    "com2us_id": 25313,
+    "image_filename": "unit_icon_0076_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Daniel",
+    "file": "data/reference\\Daniel__25314.png",
+    "com2us_id": 25314,
+    "image_filename": "unit_icon_0076_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "ROBO-P27",
+    "file": "data/reference\\ROBO-P27__25412.png",
+    "com2us_id": 25412,
+    "image_filename": "unit_icon_0077_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "ROBO-R40",
+    "file": "data/reference\\ROBO-R40__25411.png",
+    "com2us_id": 25411,
+    "image_filename": "unit_icon_0077_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Jackson",
+    "file": "data/reference\\Jackson__25315.png",
+    "com2us_id": 25315,
+    "image_filename": "unit_icon_0076_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "ROBO-E65",
+    "file": "data/reference\\ROBO-E65__25414.png",
+    "com2us_id": 25414,
+    "image_filename": "unit_icon_0077_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "ROBO-F29",
+    "file": "data/reference\\ROBO-F29__25415.png",
+    "com2us_id": 25415,
+    "image_filename": "unit_icon_0077_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Nora",
+    "file": "data/reference\\Nora__25612.png",
+    "com2us_id": 25612,
+    "image_filename": "unit_icon_0078_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Aaliyah",
+    "file": "data/reference\\Aaliyah__25611.png",
+    "com2us_id": 25611,
+    "image_filename": "unit_icon_0078_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Riley",
+    "file": "data/reference\\Riley__25613.png",
+    "com2us_id": 25613,
+    "image_filename": "unit_icon_0078_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Maya",
+    "file": "data/reference\\Maya__25615.png",
+    "com2us_id": 25615,
+    "image_filename": "unit_icon_0078_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Ella",
+    "file": "data/reference\\Ella__25614.png",
+    "com2us_id": 25614,
+    "image_filename": "unit_icon_0078_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Liam",
+    "file": "data/reference\\Liam__25711.png",
+    "com2us_id": 25711,
+    "image_filename": "unit_icon_0080_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Carlos",
+    "file": "data/reference\\Carlos__25712.png",
+    "com2us_id": 25712,
+    "image_filename": "unit_icon_0080_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Dominic",
+    "file": "data/reference\\Dominic__25713.png",
+    "com2us_id": 25713,
+    "image_filename": "unit_icon_0080_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Benedict",
+    "file": "data/reference\\Benedict__25714.png",
+    "com2us_id": 25714,
+    "image_filename": "unit_icon_0080_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Susan",
+    "file": "data/reference\\Susan__25811.png",
+    "com2us_id": 25811,
+    "image_filename": "unit_icon_0081_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Maximilian",
+    "file": "data/reference\\Maximilian__25715.png",
+    "com2us_id": 25715,
+    "image_filename": "unit_icon_0080_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Miriam",
+    "file": "data/reference\\Miriam__25812.png",
+    "com2us_id": 25812,
+    "image_filename": "unit_icon_0081_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Celine",
+    "file": "data/reference\\Celine__25813.png",
+    "com2us_id": 25813,
+    "image_filename": "unit_icon_0081_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Madeleine",
+    "file": "data/reference\\Madeleine__25814.png",
+    "com2us_id": 25814,
+    "image_filename": "unit_icon_0081_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Deborah",
+    "file": "data/reference\\Deborah__25815.png",
+    "com2us_id": 25815,
+    "image_filename": "unit_icon_0081_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Kai'en",
+    "file": "data/reference\\Kaien__15232.png",
+    "com2us_id": 15232,
+    "image_filename": "unit_icon_0082_3_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Allen",
+    "file": "data/reference\\Allen__15231.png",
+    "com2us_id": 15231,
+    "image_filename": "unit_icon_0082_3_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Roid",
+    "file": "data/reference\\Roid__15233.png",
+    "com2us_id": 15233,
+    "image_filename": "unit_icon_0082_3_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Jubelle",
+    "file": "data/reference\\Jubelle__15235.png",
+    "com2us_id": 15235,
+    "image_filename": "unit_icon_0082_3_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Darion",
+    "file": "data/reference\\Darion__15234.png",
+    "com2us_id": 15234,
+    "image_filename": "unit_icon_0082_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Megan",
+    "file": "data/reference\\Megan__15931.png",
+    "com2us_id": 15931,
+    "image_filename": "unit_icon_0083_3_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Silia",
+    "file": "data/reference\\Silia__15933.png",
+    "com2us_id": 15933,
+    "image_filename": "unit_icon_0083_3_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Rebecca",
+    "file": "data/reference\\Rebecca__15932.png",
+    "com2us_id": 15932,
+    "image_filename": "unit_icon_0083_3_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Usha",
+    "file": "data/reference\\Usha__28513.png",
+    "com2us_id": 28513,
+    "image_filename": "unit_icon_0119_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Linda",
+    "file": "data/reference\\Linda__15934.png",
+    "com2us_id": 15934,
+    "image_filename": "unit_icon_0083_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Gina",
+    "file": "data/reference\\Gina__15935.png",
+    "com2us_id": 15935,
+    "image_filename": "unit_icon_0083_3_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Ren",
+    "file": "data/reference\\Ren__25912.png",
+    "com2us_id": 25912,
+    "image_filename": "unit_icon_0086_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Minato",
+    "file": "data/reference\\Minato__25911.png",
+    "com2us_id": 25911,
+    "image_filename": "unit_icon_0086_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Zen",
+    "file": "data/reference\\Zen__25913.png",
+    "com2us_id": 25913,
+    "image_filename": "unit_icon_0086_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Shun",
+    "file": "data/reference\\Shun__25914.png",
+    "com2us_id": 25914,
+    "image_filename": "unit_icon_0086_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Birman",
+    "file": "data/reference\\Birman__26011.png",
+    "com2us_id": 26011,
+    "image_filename": "unit_icon_0085_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Manx",
+    "file": "data/reference\\Manx__26012.png",
+    "com2us_id": 26012,
+    "image_filename": "unit_icon_0085_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Ritsu",
+    "file": "data/reference\\Ritsu__25915.png",
+    "com2us_id": 25915,
+    "image_filename": "unit_icon_0086_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Nebelung",
+    "file": "data/reference\\Nebelung__26013.png",
+    "com2us_id": 26013,
+    "image_filename": "unit_icon_0085_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Siamese",
+    "file": "data/reference\\Siamese__26014.png",
+    "com2us_id": 26014,
+    "image_filename": "unit_icon_0085_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Bombay",
+    "file": "data/reference\\Bombay__26015.png",
+    "com2us_id": 26015,
+    "image_filename": "unit_icon_0085_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Amber",
+    "file": "data/reference\\Amber__26111.png",
+    "com2us_id": 26111,
+    "image_filename": "unit_icon_0087_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Sonia",
+    "file": "data/reference\\Sonia__26113.png",
+    "com2us_id": 26113,
+    "image_filename": "unit_icon_0087_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Claire",
+    "file": "data/reference\\Claire__26112.png",
+    "com2us_id": 26112,
+    "image_filename": "unit_icon_0087_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Veronica",
+    "file": "data/reference\\Veronica__26114.png",
+    "com2us_id": 26114,
+    "image_filename": "unit_icon_0087_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Thomas",
+    "file": "data/reference\\Thomas__26213.png",
+    "com2us_id": 26213,
+    "image_filename": "unit_icon_0089_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Destiny",
+    "file": "data/reference\\Destiny__26115.png",
+    "com2us_id": 26115,
+    "image_filename": "unit_icon_0087_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Lucia",
+    "file": "data/reference\\Lucia__26311.png",
+    "com2us_id": 26311,
+    "image_filename": "unit_icon_0093_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Lucia",
+    "file": "data/reference\\Lucia__26313.png",
+    "com2us_id": 26313,
+    "image_filename": "unit_icon_0093_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Lucia",
+    "file": "data/reference\\Lucia__26312.png",
+    "com2us_id": 26312,
+    "image_filename": "unit_icon_0093_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Lucia",
+    "file": "data/reference\\Lucia__26314.png",
+    "com2us_id": 26314,
+    "image_filename": "unit_icon_0093_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Lucia",
+    "file": "data/reference\\Lucia__26315.png",
+    "com2us_id": 26315,
+    "image_filename": "unit_icon_0093_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Alice",
+    "file": "data/reference\\Alice__26411.png",
+    "com2us_id": 26411,
+    "image_filename": "unit_icon_0092_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Alice",
+    "file": "data/reference\\Alice__26413.png",
+    "com2us_id": 26413,
+    "image_filename": "unit_icon_0092_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Alice",
+    "file": "data/reference\\Alice__26412.png",
+    "com2us_id": 26412,
+    "image_filename": "unit_icon_0092_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Alice",
+    "file": "data/reference\\Alice__26415.png",
+    "com2us_id": 26415,
+    "image_filename": "unit_icon_0092_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Alice",
+    "file": "data/reference\\Alice__26414.png",
+    "com2us_id": 26414,
+    "image_filename": "unit_icon_0092_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Hibiscus",
+    "file": "data/reference\\Hibiscus__26512.png",
+    "com2us_id": 26512,
+    "image_filename": "unit_icon_0090_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Hibiscus",
+    "file": "data/reference\\Hibiscus__26511.png",
+    "com2us_id": 26511,
+    "image_filename": "unit_icon_0090_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Hibiscus",
+    "file": "data/reference\\Hibiscus__26513.png",
+    "com2us_id": 26513,
+    "image_filename": "unit_icon_0090_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Hibiscus",
+    "file": "data/reference\\Hibiscus__26514.png",
+    "com2us_id": 26514,
+    "image_filename": "unit_icon_0090_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Hibiscus",
+    "file": "data/reference\\Hibiscus__26515.png",
+    "com2us_id": 26515,
+    "image_filename": "unit_icon_0090_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Pavé",
+    "file": "data/reference\\Pavé__26612.png",
+    "com2us_id": 26612,
+    "image_filename": "unit_icon_0091_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Pavé",
+    "file": "data/reference\\Pavé__26611.png",
+    "com2us_id": 26611,
+    "image_filename": "unit_icon_0091_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Pavé",
+    "file": "data/reference\\Pavé__26613.png",
+    "com2us_id": 26613,
+    "image_filename": "unit_icon_0091_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Pavé",
+    "file": "data/reference\\Pavé__26615.png",
+    "com2us_id": 26615,
+    "image_filename": "unit_icon_0091_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Pavé",
+    "file": "data/reference\\Pavé__26614.png",
+    "com2us_id": 26614,
+    "image_filename": "unit_icon_0091_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Adriana",
+    "file": "data/reference\\Adriana__26811.png",
+    "com2us_id": 26811,
+    "image_filename": "unit_icon_0099_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Thomas",
+    "file": "data/reference\\Thomas__26713.png",
+    "com2us_id": 26713,
+    "image_filename": "unit_icon_0096_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Lucia",
+    "file": "data/reference\\Lucia__26812.png",
+    "com2us_id": 26812,
+    "image_filename": "unit_icon_0099_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Angela",
+    "file": "data/reference\\Angela__26813.png",
+    "com2us_id": 26813,
+    "image_filename": "unit_icon_0099_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Ariana",
+    "file": "data/reference\\Ariana__26814.png",
+    "com2us_id": 26814,
+    "image_filename": "unit_icon_0099_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Elena",
+    "file": "data/reference\\Elena__26815.png",
+    "com2us_id": 26815,
+    "image_filename": "unit_icon_0099_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Manon",
+    "file": "data/reference\\Manon__26911.png",
+    "com2us_id": 26911,
+    "image_filename": "unit_icon_0097_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Jade",
+    "file": "data/reference\\Jade__26913.png",
+    "com2us_id": 26913,
+    "image_filename": "unit_icon_0097_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Alice",
+    "file": "data/reference\\Alice__26912.png",
+    "com2us_id": 26912,
+    "image_filename": "unit_icon_0097_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Audrey",
+    "file": "data/reference\\Audrey__26914.png",
+    "com2us_id": 26914,
+    "image_filename": "unit_icon_0097_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Giselle",
+    "file": "data/reference\\Giselle__26915.png",
+    "com2us_id": 26915,
+    "image_filename": "unit_icon_0097_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Rosemary",
+    "file": "data/reference\\Rosemary__27011.png",
+    "com2us_id": 27011,
+    "image_filename": "unit_icon_0100_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Hibiscus",
+    "file": "data/reference\\Hibiscus__27012.png",
+    "com2us_id": 27012,
+    "image_filename": "unit_icon_0100_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Jasmine",
+    "file": "data/reference\\Jasmine__27014.png",
+    "com2us_id": 27014,
+    "image_filename": "unit_icon_0100_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Chamomile",
+    "file": "data/reference\\Chamomile__27013.png",
+    "com2us_id": 27013,
+    "image_filename": "unit_icon_0100_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Lavender",
+    "file": "data/reference\\Lavender__27015.png",
+    "com2us_id": 27015,
+    "image_filename": "unit_icon_0100_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Pavé",
+    "file": "data/reference\\Pavé__27112.png",
+    "com2us_id": 27112,
+    "image_filename": "unit_icon_0098_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Ganache",
+    "file": "data/reference\\Ganache__27111.png",
+    "com2us_id": 27111,
+    "image_filename": "unit_icon_0098_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Praline",
+    "file": "data/reference\\Praline__27113.png",
+    "com2us_id": 27113,
+    "image_filename": "unit_icon_0098_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Truffle",
+    "file": "data/reference\\Truffle__27115.png",
+    "com2us_id": 27115,
+    "image_filename": "unit_icon_0098_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Fudge",
+    "file": "data/reference\\Fudge__27114.png",
+    "com2us_id": 27114,
+    "image_filename": "unit_icon_0098_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Zima",
+    "file": "data/reference\\Zima__27212.png",
+    "com2us_id": 27212,
+    "image_filename": "unit_icon_0106_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Zibala",
+    "file": "data/reference\\Zibala__27211.png",
+    "com2us_id": 27211,
+    "image_filename": "unit_icon_0106_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Smicer",
+    "file": "data/reference\\Smicer__27213.png",
+    "com2us_id": 27213,
+    "image_filename": "unit_icon_0106_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Kovarci",
+    "file": "data/reference\\Kovarci__27214.png",
+    "com2us_id": 27214,
+    "image_filename": "unit_icon_0106_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Zenisek",
+    "file": "data/reference\\Zenisek__27215.png",
+    "com2us_id": 27215,
+    "image_filename": "unit_icon_0106_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Douglas",
+    "file": "data/reference\\Douglas__24014.png",
+    "com2us_id": 24014,
+    "image_filename": "unit_icon_0059_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Douglas",
+    "file": "data/reference\\Douglas__24015.png",
+    "com2us_id": 24015,
+    "image_filename": "unit_icon_0059_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Douglas",
+    "file": "data/reference\\Douglas__24012.png",
+    "com2us_id": 24012,
+    "image_filename": "unit_icon_0059_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Douglas",
+    "file": "data/reference\\Douglas__24011.png",
+    "com2us_id": 24011,
+    "image_filename": "unit_icon_0059_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Ashour",
+    "file": "data/reference\\Ashour__27511.png",
+    "com2us_id": 27511,
+    "image_filename": "unit_icon_0110_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Ashour",
+    "file": "data/reference\\Ashour__27512.png",
+    "com2us_id": 27512,
+    "image_filename": "unit_icon_0110_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Ashour",
+    "file": "data/reference\\Ashour__27513.png",
+    "com2us_id": 27513,
+    "image_filename": "unit_icon_0110_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Ashour",
+    "file": "data/reference\\Ashour__27514.png",
+    "com2us_id": 27514,
+    "image_filename": "unit_icon_0110_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Ashour",
+    "file": "data/reference\\Ashour__27515.png",
+    "com2us_id": 27515,
+    "image_filename": "unit_icon_0110_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Federica",
+    "file": "data/reference\\Federica__27613.png",
+    "com2us_id": 27613,
+    "image_filename": "unit_icon_0108_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Federica",
+    "file": "data/reference\\Federica__27614.png",
+    "com2us_id": 27614,
+    "image_filename": "unit_icon_0108_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Federica",
+    "file": "data/reference\\Federica__27615.png",
+    "com2us_id": 27615,
+    "image_filename": "unit_icon_0108_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Brita",
+    "file": "data/reference\\Brita__27711.png",
+    "com2us_id": 27711,
+    "image_filename": "unit_icon_0107_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Federica",
+    "file": "data/reference\\Federica__27712.png",
+    "com2us_id": 27712,
+    "image_filename": "unit_icon_0107_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Cordelia",
+    "file": "data/reference\\Cordelia__27713.png",
+    "com2us_id": 27713,
+    "image_filename": "unit_icon_0107_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Varin",
+    "file": "data/reference\\Varin__27714.png",
+    "com2us_id": 27714,
+    "image_filename": "unit_icon_0107_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Havi",
+    "file": "data/reference\\Havi__27715.png",
+    "com2us_id": 27715,
+    "image_filename": "unit_icon_0107_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Frederic",
+    "file": "data/reference\\Frederic__27814.png",
+    "com2us_id": 27814,
+    "image_filename": "unit_icon_0113_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Lionel",
+    "file": "data/reference\\Lionel__27911.png",
+    "com2us_id": 27911,
+    "image_filename": "unit_icon_0114_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Patrick",
+    "file": "data/reference\\Patrick__27912.png",
+    "com2us_id": 27912,
+    "image_filename": "unit_icon_0114_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Hector",
+    "file": "data/reference\\Hector__27913.png",
+    "com2us_id": 27913,
+    "image_filename": "unit_icon_0114_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Ian",
+    "file": "data/reference\\Ian__27914.png",
+    "com2us_id": 27914,
+    "image_filename": "unit_icon_0114_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Evan",
+    "file": "data/reference\\Evan__27915.png",
+    "com2us_id": 27915,
+    "image_filename": "unit_icon_0114_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Douglas",
+    "file": "data/reference\\Douglas__24013.png",
+    "com2us_id": 24013,
+    "image_filename": "unit_icon_0059_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Omar",
+    "file": "data/reference\\Omar__28011.png",
+    "com2us_id": 28011,
+    "image_filename": "unit_icon_0115_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Ashour",
+    "file": "data/reference\\Ashour__28012.png",
+    "com2us_id": 28012,
+    "image_filename": "unit_icon_0115_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Shahat",
+    "file": "data/reference\\Shahat__28013.png",
+    "com2us_id": 28013,
+    "image_filename": "unit_icon_0115_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Ahmed",
+    "file": "data/reference\\Ahmed__28014.png",
+    "com2us_id": 28014,
+    "image_filename": "unit_icon_0115_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Salah",
+    "file": "data/reference\\Salah__28015.png",
+    "com2us_id": 28015,
+    "image_filename": "unit_icon_0115_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Kalantatze",
+    "file": "data/reference\\Kalantatze__28111.png",
+    "com2us_id": 28111,
+    "image_filename": "unit_icon_0116_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Federica",
+    "file": "data/reference\\Federica__28112.png",
+    "com2us_id": 28112,
+    "image_filename": "unit_icon_0116_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Aurelia",
+    "file": "data/reference\\Aurelia__28114.png",
+    "com2us_id": 28114,
+    "image_filename": "unit_icon_0116_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Eleni",
+    "file": "data/reference\\Eleni__28113.png",
+    "com2us_id": 28113,
+    "image_filename": "unit_icon_0116_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Kiara",
+    "file": "data/reference\\Kiara__28115.png",
+    "com2us_id": 28115,
+    "image_filename": "unit_icon_0116_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Brita",
+    "file": "data/reference\\Brita__28211.png",
+    "com2us_id": 28211,
+    "image_filename": "unit_icon_0117_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Solveig",
+    "file": "data/reference\\Solveig__28212.png",
+    "com2us_id": 28212,
+    "image_filename": "unit_icon_0117_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Astrid",
+    "file": "data/reference\\Astrid__28213.png",
+    "com2us_id": 28213,
+    "image_filename": "unit_icon_0117_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Berghild",
+    "file": "data/reference\\Berghild__28214.png",
+    "com2us_id": 28214,
+    "image_filename": "unit_icon_0117_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Sigrid",
+    "file": "data/reference\\Sigrid__28215.png",
+    "com2us_id": 28215,
+    "image_filename": "unit_icon_0117_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Parjanya",
+    "file": "data/reference\\Parjanya__28311.png",
+    "com2us_id": 28311,
+    "image_filename": "unit_icon_0118_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Vendhan",
+    "file": "data/reference\\Vendhan__28312.png",
+    "com2us_id": 28312,
+    "image_filename": "unit_icon_0118_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Patric",
+    "file": "data/reference\\Patric__27411.png",
+    "com2us_id": 27411,
+    "image_filename": "unit_icon_0109_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Dyeus",
+    "file": "data/reference\\Dyeus__28314.png",
+    "com2us_id": 28314,
+    "image_filename": "unit_icon_0118_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Chakra",
+    "file": "data/reference\\Chakra__28313.png",
+    "com2us_id": 28313,
+    "image_filename": "unit_icon_0118_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Mayasura",
+    "file": "data/reference\\Mayasura__28511.png",
+    "com2us_id": 28511,
+    "image_filename": "unit_icon_0119_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Devaraja",
+    "file": "data/reference\\Devaraja__28315.png",
+    "com2us_id": 28315,
+    "image_filename": "unit_icon_0118_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Varuna",
+    "file": "data/reference\\Varuna__28512.png",
+    "com2us_id": 28512,
+    "image_filename": "unit_icon_0119_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Danu",
+    "file": "data/reference\\Danu__28514.png",
+    "com2us_id": 28514,
+    "image_filename": "unit_icon_0119_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Vritra",
+    "file": "data/reference\\Vritra__28515.png",
+    "com2us_id": 28515,
+    "image_filename": "unit_icon_0119_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Nickel",
+    "file": "data/reference\\Nickel__16531.png",
+    "com2us_id": 16531,
+    "image_filename": "unit_icon_0125_3_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Iron",
+    "file": "data/reference\\Iron__16532.png",
+    "com2us_id": 16532,
+    "image_filename": "unit_icon_0125_3_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Copper",
+    "file": "data/reference\\Copper__16533.png",
+    "com2us_id": 16533,
+    "image_filename": "unit_icon_0125_3_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Silver",
+    "file": "data/reference\\Silver__16534.png",
+    "com2us_id": 16534,
+    "image_filename": "unit_icon_0125_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Zinc",
+    "file": "data/reference\\Zinc__16535.png",
+    "com2us_id": 16535,
+    "image_filename": "unit_icon_0125_3_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Bulldozer",
+    "file": "data/reference\\Bulldozer__20832.png",
+    "com2us_id": 20832,
+    "image_filename": "unit_icon_0126_3_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Tractor",
+    "file": "data/reference\\Tractor__20831.png",
+    "com2us_id": 20831,
+    "image_filename": "unit_icon_0126_3_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Crane",
+    "file": "data/reference\\Crane__20833.png",
+    "com2us_id": 20833,
+    "image_filename": "unit_icon_0126_3_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Crawler",
+    "file": "data/reference\\Crawler__20835.png",
+    "com2us_id": 20835,
+    "image_filename": "unit_icon_0126_3_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Driller",
+    "file": "data/reference\\Driller__20834.png",
+    "com2us_id": 20834,
+    "image_filename": "unit_icon_0126_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Layla",
+    "file": "data/reference\\Layla__28613.png",
+    "com2us_id": 28613,
+    "image_filename": "unit_icon_0127_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Irène",
+    "file": "data/reference\\Irène__28611.png",
+    "com2us_id": 28611,
+    "image_filename": "unit_icon_0127_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Bloodya",
+    "file": "data/reference\\Bloodya__28612.png",
+    "com2us_id": 28612,
+    "image_filename": "unit_icon_0127_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Jeongnam",
+    "file": "data/reference\\Jeongnam__28911.png",
+    "com2us_id": 28911,
+    "image_filename": "unit_icon_0133_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Liliana",
+    "file": "data/reference\\Liliana__28615.png",
+    "com2us_id": 28615,
+    "image_filename": "unit_icon_0127_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Jessica",
+    "file": "data/reference\\Jessica__28614.png",
+    "com2us_id": 28614,
+    "image_filename": "unit_icon_0127_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Moogwang",
+    "file": "data/reference\\Moogwang__28912.png",
+    "com2us_id": 28912,
+    "image_filename": "unit_icon_0133_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Byungchul",
+    "file": "data/reference\\Byungchul__28913.png",
+    "com2us_id": 28913,
+    "image_filename": "unit_icon_0133_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Euldong",
+    "file": "data/reference\\Euldong__28914.png",
+    "com2us_id": 28914,
+    "image_filename": "unit_icon_0133_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Gapsoo",
+    "file": "data/reference\\Gapsoo__28915.png",
+    "com2us_id": 28915,
+    "image_filename": "unit_icon_0133_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Minji and Sapsaree",
+    "file": "data/reference\\Minji and Sapsaree__29011.png",
+    "com2us_id": 29011,
+    "image_filename": "unit_icon_0132_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Yeji and Sapsaree",
+    "file": "data/reference\\Yeji and Sapsaree__29012.png",
+    "com2us_id": 29012,
+    "image_filename": "unit_icon_0132_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Yuna and Sapsaree",
+    "file": "data/reference\\Yuna and Sapsaree__29013.png",
+    "com2us_id": 29013,
+    "image_filename": "unit_icon_0132_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Eunbee and Sapsaree",
+    "file": "data/reference\\Eunbee and Sapsaree__29014.png",
+    "com2us_id": 29014,
+    "image_filename": "unit_icon_0132_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Damee and Sapsaree",
+    "file": "data/reference\\Damee and Sapsaree__29015.png",
+    "com2us_id": 29015,
+    "image_filename": "unit_icon_0132_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Ramael and Judiah",
+    "file": "data/reference\\Ramael and Judiah__29111.png",
+    "com2us_id": 29111,
+    "image_filename": "unit_icon_0136_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Karuel and Lanoah",
+    "file": "data/reference\\Karuel and Lanoah__29112.png",
+    "com2us_id": 29112,
+    "image_filename": "unit_icon_0136_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Sadiel and Zeryah",
+    "file": "data/reference\\Sadiel and Zeryah__29113.png",
+    "com2us_id": 29113,
+    "image_filename": "unit_icon_0136_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Miruel and Graciah",
+    "file": "data/reference\\Miruel and Graciah__29114.png",
+    "com2us_id": 29114,
+    "image_filename": "unit_icon_0136_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Jaduel and Aepiah",
+    "file": "data/reference\\Jaduel and Aepiah__29115.png",
+    "com2us_id": 29115,
+    "image_filename": "unit_icon_0136_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Magnus",
+    "file": "data/reference\\Magnus__29211.png",
+    "com2us_id": 29211,
+    "image_filename": "unit_icon_0141_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Magnus",
+    "file": "data/reference\\Magnus__29212.png",
+    "com2us_id": 29212,
+    "image_filename": "unit_icon_0141_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Magnus",
+    "file": "data/reference\\Magnus__29213.png",
+    "com2us_id": 29213,
+    "image_filename": "unit_icon_0141_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Magnus",
+    "file": "data/reference\\Magnus__29214.png",
+    "com2us_id": 29214,
+    "image_filename": "unit_icon_0141_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Magnus",
+    "file": "data/reference\\Magnus__29215.png",
+    "com2us_id": 29215,
+    "image_filename": "unit_icon_0141_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Reyka",
+    "file": "data/reference\\Reyka__29311.png",
+    "com2us_id": 29311,
+    "image_filename": "unit_icon_0142_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Reyka",
+    "file": "data/reference\\Reyka__29312.png",
+    "com2us_id": 29312,
+    "image_filename": "unit_icon_0142_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Reyka",
+    "file": "data/reference\\Reyka__29313.png",
+    "com2us_id": 29313,
+    "image_filename": "unit_icon_0142_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Reyka",
+    "file": "data/reference\\Reyka__29314.png",
+    "com2us_id": 29314,
+    "image_filename": "unit_icon_0142_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Reyka",
+    "file": "data/reference\\Reyka__29315.png",
+    "com2us_id": 29315,
+    "image_filename": "unit_icon_0142_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Tarnisha",
+    "file": "data/reference\\Tarnisha__29411.png",
+    "com2us_id": 29411,
+    "image_filename": "unit_icon_0143_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Tarnisha",
+    "file": "data/reference\\Tarnisha__29413.png",
+    "com2us_id": 29413,
+    "image_filename": "unit_icon_0143_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Tarnisha",
+    "file": "data/reference\\Tarnisha__29412.png",
+    "com2us_id": 29412,
+    "image_filename": "unit_icon_0143_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Tarnisha",
+    "file": "data/reference\\Tarnisha__29414.png",
+    "com2us_id": 29414,
+    "image_filename": "unit_icon_0143_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Tarnisha",
+    "file": "data/reference\\Tarnisha__29415.png",
+    "com2us_id": 29415,
+    "image_filename": "unit_icon_0143_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Enshia",
+    "file": "data/reference\\Enshia__29511.png",
+    "com2us_id": 29511,
+    "image_filename": "unit_icon_0144_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Enshia",
+    "file": "data/reference\\Enshia__29512.png",
+    "com2us_id": 29512,
+    "image_filename": "unit_icon_0144_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Enshia",
+    "file": "data/reference\\Enshia__29514.png",
+    "com2us_id": 29514,
+    "image_filename": "unit_icon_0144_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Enshia",
+    "file": "data/reference\\Enshia__29513.png",
+    "com2us_id": 29513,
+    "image_filename": "unit_icon_0144_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "K1D",
+    "file": "data/reference\\K1D__30011.png",
+    "com2us_id": 30011,
+    "image_filename": "unit_icon_0146_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Enshia",
+    "file": "data/reference\\Enshia__29515.png",
+    "com2us_id": 29515,
+    "image_filename": "unit_icon_0144_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "7R1X",
+    "file": "data/reference\\7R1X__30012.png",
+    "com2us_id": 30012,
+    "image_filename": "unit_icon_0146_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "51LV3R",
+    "file": "data/reference\\51LV3R__30014.png",
+    "com2us_id": 30014,
+    "image_filename": "unit_icon_0146_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "570RM",
+    "file": "data/reference\\570RM__30013.png",
+    "com2us_id": 30013,
+    "image_filename": "unit_icon_0146_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "N1X",
+    "file": "data/reference\\N1X__30015.png",
+    "com2us_id": 30015,
+    "image_filename": "unit_icon_0146_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Lorenza",
+    "file": "data/reference\\Lorenza__30111.png",
+    "com2us_id": 30111,
+    "image_filename": "unit_icon_0145_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Carmella",
+    "file": "data/reference\\Carmella__30112.png",
+    "com2us_id": 30112,
+    "image_filename": "unit_icon_0145_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Alesia",
+    "file": "data/reference\\Alesia__30114.png",
+    "com2us_id": 30114,
+    "image_filename": "unit_icon_0145_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Eliza",
+    "file": "data/reference\\Eliza__30113.png",
+    "com2us_id": 30113,
+    "image_filename": "unit_icon_0145_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Roberta",
+    "file": "data/reference\\Roberta__30115.png",
+    "com2us_id": 30115,
+    "image_filename": "unit_icon_0145_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Rigna",
+    "file": "data/reference\\Rigna__29711.png",
+    "com2us_id": 29711,
+    "image_filename": "unit_icon_0151_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Reyka",
+    "file": "data/reference\\Reyka__29712.png",
+    "com2us_id": 29712,
+    "image_filename": "unit_icon_0151_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Tirsa",
+    "file": "data/reference\\Tirsa__29713.png",
+    "com2us_id": 29713,
+    "image_filename": "unit_icon_0151_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Birgitta",
+    "file": "data/reference\\Birgitta__29714.png",
+    "com2us_id": 29714,
+    "image_filename": "unit_icon_0151_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Fiona",
+    "file": "data/reference\\Fiona__29715.png",
+    "com2us_id": 29715,
+    "image_filename": "unit_icon_0151_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Johanna",
+    "file": "data/reference\\Johanna__29811.png",
+    "com2us_id": 29811,
+    "image_filename": "unit_icon_0152_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Tarnisha",
+    "file": "data/reference\\Tarnisha__29812.png",
+    "com2us_id": 29812,
+    "image_filename": "unit_icon_0152_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Hexarina",
+    "file": "data/reference\\Hexarina__29813.png",
+    "com2us_id": 29813,
+    "image_filename": "unit_icon_0152_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Arcana",
+    "file": "data/reference\\Arcana__29814.png",
+    "com2us_id": 29814,
+    "image_filename": "unit_icon_0152_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Hilda",
+    "file": "data/reference\\Hilda__29815.png",
+    "com2us_id": 29815,
+    "image_filename": "unit_icon_0152_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Lumina",
+    "file": "data/reference\\Lumina__29911.png",
+    "com2us_id": 29911,
+    "image_filename": "unit_icon_0153_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Enshia",
+    "file": "data/reference\\Enshia__29912.png",
+    "com2us_id": 29912,
+    "image_filename": "unit_icon_0153_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Nobella",
+    "file": "data/reference\\Nobella__29913.png",
+    "com2us_id": 29913,
+    "image_filename": "unit_icon_0153_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Groa",
+    "file": "data/reference\\Groa__29914.png",
+    "com2us_id": 29914,
+    "image_filename": "unit_icon_0153_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Celestara",
+    "file": "data/reference\\Celestara__29915.png",
+    "com2us_id": 29915,
+    "image_filename": "unit_icon_0153_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Ryomen Sukuna",
+    "file": "data/reference\\Ryomen Sukuna__30215.png",
+    "com2us_id": 30215,
+    "image_filename": "unit_icon_0154_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Qilin Slasher",
+    "file": "data/reference\\Qilin Slasher__32211.png",
+    "com2us_id": 32211,
+    "image_filename": "unit_icon_0169_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Werner",
+    "file": "data/reference\\Werner__30311.png",
+    "com2us_id": 30311,
+    "image_filename": "unit_icon_0158_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Werner",
+    "file": "data/reference\\Werner__30313.png",
+    "com2us_id": 30313,
+    "image_filename": "unit_icon_0158_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Werner",
+    "file": "data/reference\\Werner__30312.png",
+    "com2us_id": 30312,
+    "image_filename": "unit_icon_0158_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Werner",
+    "file": "data/reference\\Werner__30314.png",
+    "com2us_id": 30314,
+    "image_filename": "unit_icon_0158_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Werner",
+    "file": "data/reference\\Werner__30315.png",
+    "com2us_id": 30315,
+    "image_filename": "unit_icon_0158_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Rick",
+    "file": "data/reference\\Rick__30411.png",
+    "com2us_id": 30411,
+    "image_filename": "unit_icon_0155_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Rick",
+    "file": "data/reference\\Rick__30412.png",
+    "com2us_id": 30412,
+    "image_filename": "unit_icon_0155_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Rick",
+    "file": "data/reference\\Rick__30413.png",
+    "com2us_id": 30413,
+    "image_filename": "unit_icon_0155_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Rick",
+    "file": "data/reference\\Rick__30414.png",
+    "com2us_id": 30414,
+    "image_filename": "unit_icon_0155_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Rick",
+    "file": "data/reference\\Rick__30415.png",
+    "com2us_id": 30415,
+    "image_filename": "unit_icon_0155_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Tetsuya",
+    "file": "data/reference\\Tetsuya__30511.png",
+    "com2us_id": 30511,
+    "image_filename": "unit_icon_0157_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Tetsuya",
+    "file": "data/reference\\Tetsuya__30512.png",
+    "com2us_id": 30512,
+    "image_filename": "unit_icon_0157_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Tetsuya",
+    "file": "data/reference\\Tetsuya__30513.png",
+    "com2us_id": 30513,
+    "image_filename": "unit_icon_0157_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Tetsuya",
+    "file": "data/reference\\Tetsuya__30514.png",
+    "com2us_id": 30514,
+    "image_filename": "unit_icon_0157_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Tetsuya",
+    "file": "data/reference\\Tetsuya__30515.png",
+    "com2us_id": 30515,
+    "image_filename": "unit_icon_0157_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Aya",
+    "file": "data/reference\\Aya__30611.png",
+    "com2us_id": 30611,
+    "image_filename": "unit_icon_0156_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Aya",
+    "file": "data/reference\\Aya__30612.png",
+    "com2us_id": 30612,
+    "image_filename": "unit_icon_0156_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Aya",
+    "file": "data/reference\\Aya__30613.png",
+    "com2us_id": 30613,
+    "image_filename": "unit_icon_0156_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Aya",
+    "file": "data/reference\\Aya__30614.png",
+    "com2us_id": 30614,
+    "image_filename": "unit_icon_0156_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Aya",
+    "file": "data/reference\\Aya__30615.png",
+    "com2us_id": 30615,
+    "image_filename": "unit_icon_0156_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Sisroo",
+    "file": "data/reference\\Sisroo__12131.png",
+    "com2us_id": 12131,
+    "image_filename": "unit_icon_0160_3_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Seal",
+    "file": "data/reference\\Seal__12133.png",
+    "com2us_id": 12133,
+    "image_filename": "unit_icon_0160_3_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Colleen",
+    "file": "data/reference\\Colleen__12132.png",
+    "com2us_id": 12132,
+    "image_filename": "unit_icon_0160_3_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Sia",
+    "file": "data/reference\\Sia__12134.png",
+    "com2us_id": 12134,
+    "image_filename": "unit_icon_0160_3_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Seren",
+    "file": "data/reference\\Seren__12135.png",
+    "com2us_id": 12135,
+    "image_filename": "unit_icon_0160_3_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Solvark",
+    "file": "data/reference\\Solvark__30711.png",
+    "com2us_id": 30711,
+    "image_filename": "unit_icon_0161_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Deragron",
+    "file": "data/reference\\Deragron__30712.png",
+    "com2us_id": 30712,
+    "image_filename": "unit_icon_0161_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Fridrion",
+    "file": "data/reference\\Fridrion__30714.png",
+    "com2us_id": 30714,
+    "image_filename": "unit_icon_0161_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Ereshion",
+    "file": "data/reference\\Ereshion__30713.png",
+    "com2us_id": 30713,
+    "image_filename": "unit_icon_0161_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Drakar",
+    "file": "data/reference\\Drakar__30715.png",
+    "com2us_id": 30715,
+    "image_filename": "unit_icon_0161_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Hayato",
+    "file": "data/reference\\Hayato__30815.png",
+    "com2us_id": 30815,
+    "image_filename": "unit_icon_0162_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Werner",
+    "file": "data/reference\\Werner__30911.png",
+    "com2us_id": 30911,
+    "image_filename": "unit_icon_0166_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Werner",
+    "file": "data/reference\\Werner__30912.png",
+    "com2us_id": 30912,
+    "image_filename": "unit_icon_0166_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Werner",
+    "file": "data/reference\\Werner__30914.png",
+    "com2us_id": 30914,
+    "image_filename": "unit_icon_0166_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Werner",
+    "file": "data/reference\\Werner__30913.png",
+    "com2us_id": 30913,
+    "image_filename": "unit_icon_0166_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Werner",
+    "file": "data/reference\\Werner__30915.png",
+    "com2us_id": 30915,
+    "image_filename": "unit_icon_0166_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Rick",
+    "file": "data/reference\\Rick__31012.png",
+    "com2us_id": 31012,
+    "image_filename": "unit_icon_0163_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Rick",
+    "file": "data/reference\\Rick__31011.png",
+    "com2us_id": 31011,
+    "image_filename": "unit_icon_0163_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Rick",
+    "file": "data/reference\\Rick__31013.png",
+    "com2us_id": 31013,
+    "image_filename": "unit_icon_0163_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Rick",
+    "file": "data/reference\\Rick__31015.png",
+    "com2us_id": 31015,
+    "image_filename": "unit_icon_0163_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Rick",
+    "file": "data/reference\\Rick__31014.png",
+    "com2us_id": 31014,
+    "image_filename": "unit_icon_0163_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Tetsuya",
+    "file": "data/reference\\Tetsuya__31111.png",
+    "com2us_id": 31111,
+    "image_filename": "unit_icon_0165_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Tetsuya",
+    "file": "data/reference\\Tetsuya__31113.png",
+    "com2us_id": 31113,
+    "image_filename": "unit_icon_0165_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Tetsuya",
+    "file": "data/reference\\Tetsuya__31112.png",
+    "com2us_id": 31112,
+    "image_filename": "unit_icon_0165_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Tetsuya",
+    "file": "data/reference\\Tetsuya__31115.png",
+    "com2us_id": 31115,
+    "image_filename": "unit_icon_0165_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Aya",
+    "file": "data/reference\\Aya__31211.png",
+    "com2us_id": 31211,
+    "image_filename": "unit_icon_0164_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Tetsuya",
+    "file": "data/reference\\Tetsuya__31114.png",
+    "com2us_id": 31114,
+    "image_filename": "unit_icon_0165_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Aya",
+    "file": "data/reference\\Aya__31212.png",
+    "com2us_id": 31212,
+    "image_filename": "unit_icon_0164_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Aya",
+    "file": "data/reference\\Aya__31214.png",
+    "com2us_id": 31214,
+    "image_filename": "unit_icon_0164_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Aya",
+    "file": "data/reference\\Aya__31213.png",
+    "com2us_id": 31213,
+    "image_filename": "unit_icon_0164_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Aya",
+    "file": "data/reference\\Aya__31215.png",
+    "com2us_id": 31215,
+    "image_filename": "unit_icon_0164_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Lamiella",
+    "file": "data/reference\\Lamiella__31311.png",
+    "com2us_id": 31311,
+    "image_filename": "unit_icon_0175_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Theodora",
+    "file": "data/reference\\Theodora__31312.png",
+    "com2us_id": 31312,
+    "image_filename": "unit_icon_0175_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Orphina",
+    "file": "data/reference\\Orphina__31313.png",
+    "com2us_id": 31313,
+    "image_filename": "unit_icon_0175_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Mortera",
+    "file": "data/reference\\Mortera__31314.png",
+    "com2us_id": 31314,
+    "image_filename": "unit_icon_0175_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Velaska",
+    "file": "data/reference\\Velaska__31315.png",
+    "com2us_id": 31315,
+    "image_filename": "unit_icon_0175_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Mork",
+    "file": "data/reference\\Mork__31411.png",
+    "com2us_id": 31411,
+    "image_filename": "unit_icon_0176_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Rex",
+    "file": "data/reference\\Rex__31412.png",
+    "com2us_id": 31412,
+    "image_filename": "unit_icon_0176_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Gronn",
+    "file": "data/reference\\Gronn__31413.png",
+    "com2us_id": 31413,
+    "image_filename": "unit_icon_0176_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Volg",
+    "file": "data/reference\\Volg__31415.png",
+    "com2us_id": 31415,
+    "image_filename": "unit_icon_0176_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Ramon",
+    "file": "data/reference\\Ramon__31414.png",
+    "com2us_id": 31414,
+    "image_filename": "unit_icon_0176_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Black Tortoise Champion",
+    "file": "data/reference\\Black Tortoise Champion__31713.png",
+    "com2us_id": 31713,
+    "image_filename": "unit_icon_0171_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "file": "data/reference\\Azure Dragon Swordsman__31811.png",
+    "com2us_id": 31811,
+    "image_filename": "unit_icon_0167_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "file": "data/reference\\Azure Dragon Swordsman__31813.png",
+    "com2us_id": 31813,
+    "image_filename": "unit_icon_0167_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "file": "data/reference\\Azure Dragon Swordsman__31812.png",
+    "com2us_id": 31812,
+    "image_filename": "unit_icon_0167_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "file": "data/reference\\Azure Dragon Swordsman__31814.png",
+    "com2us_id": 31814,
+    "image_filename": "unit_icon_0167_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "file": "data/reference\\Azure Dragon Swordsman__31815.png",
+    "com2us_id": 31815,
+    "image_filename": "unit_icon_0167_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "file": "data/reference\\Vermilion Bird Dancer__31911.png",
+    "com2us_id": 31911,
+    "image_filename": "unit_icon_0168_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "file": "data/reference\\Vermilion Bird Dancer__31912.png",
+    "com2us_id": 31912,
+    "image_filename": "unit_icon_0168_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "file": "data/reference\\Vermilion Bird Dancer__31913.png",
+    "com2us_id": 31913,
+    "image_filename": "unit_icon_0168_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "file": "data/reference\\Vermilion Bird Dancer__31915.png",
+    "com2us_id": 31915,
+    "image_filename": "unit_icon_0168_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "file": "data/reference\\Vermilion Bird Dancer__31914.png",
+    "com2us_id": 31914,
+    "image_filename": "unit_icon_0168_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "file": "data/reference\\White Tiger Blade Master__32111.png",
+    "com2us_id": 32111,
+    "image_filename": "unit_icon_0170_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "file": "data/reference\\White Tiger Blade Master__32112.png",
+    "com2us_id": 32112,
+    "image_filename": "unit_icon_0170_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "file": "data/reference\\White Tiger Blade Master__32113.png",
+    "com2us_id": 32113,
+    "image_filename": "unit_icon_0170_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "file": "data/reference\\White Tiger Blade Master__32114.png",
+    "com2us_id": 32114,
+    "image_filename": "unit_icon_0170_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "file": "data/reference\\White Tiger Blade Master__32115.png",
+    "com2us_id": 32115,
+    "image_filename": "unit_icon_0170_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Qilin Slasher",
+    "file": "data/reference\\Qilin Slasher__32212.png",
+    "com2us_id": 32212,
+    "image_filename": "unit_icon_0169_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Qilin Slasher",
+    "file": "data/reference\\Qilin Slasher__32213.png",
+    "com2us_id": 32213,
+    "image_filename": "unit_icon_0169_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Qilin Slasher",
+    "file": "data/reference\\Qilin Slasher__32214.png",
+    "com2us_id": 32214,
+    "image_filename": "unit_icon_0169_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Qilin Slasher",
+    "file": "data/reference\\Qilin Slasher__32215.png",
+    "com2us_id": 32215,
+    "image_filename": "unit_icon_0169_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Black Tortoise Champion",
+    "file": "data/reference\\Black Tortoise Champion__32413.png",
+    "com2us_id": 32413,
+    "image_filename": "unit_icon_0183_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "file": "data/reference\\Azure Dragon Swordsman__32511.png",
+    "com2us_id": 32511,
+    "image_filename": "unit_icon_0179_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "file": "data/reference\\Azure Dragon Swordsman__32513.png",
+    "com2us_id": 32513,
+    "image_filename": "unit_icon_0179_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "file": "data/reference\\Azure Dragon Swordsman__32512.png",
+    "com2us_id": 32512,
+    "image_filename": "unit_icon_0179_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "file": "data/reference\\Azure Dragon Swordsman__32515.png",
+    "com2us_id": 32515,
+    "image_filename": "unit_icon_0179_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Azure Dragon Swordsman",
+    "file": "data/reference\\Azure Dragon Swordsman__32514.png",
+    "com2us_id": 32514,
+    "image_filename": "unit_icon_0179_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "file": "data/reference\\Vermilion Bird Dancer__32611.png",
+    "com2us_id": 32611,
+    "image_filename": "unit_icon_0180_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "file": "data/reference\\Vermilion Bird Dancer__32612.png",
+    "com2us_id": 32612,
+    "image_filename": "unit_icon_0180_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "file": "data/reference\\Vermilion Bird Dancer__32614.png",
+    "com2us_id": 32614,
+    "image_filename": "unit_icon_0180_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "file": "data/reference\\Vermilion Bird Dancer__32613.png",
+    "com2us_id": 32613,
+    "image_filename": "unit_icon_0180_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "file": "data/reference\\White Tiger Blade Master__32811.png",
+    "com2us_id": 32811,
+    "image_filename": "unit_icon_0182_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Vermilion Bird Dancer",
+    "file": "data/reference\\Vermilion Bird Dancer__32615.png",
+    "com2us_id": 32615,
+    "image_filename": "unit_icon_0180_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "file": "data/reference\\White Tiger Blade Master__32814.png",
+    "com2us_id": 32814,
+    "image_filename": "unit_icon_0182_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "file": "data/reference\\White Tiger Blade Master__32812.png",
+    "com2us_id": 32812,
+    "image_filename": "unit_icon_0182_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "file": "data/reference\\White Tiger Blade Master__32813.png",
+    "com2us_id": 32813,
+    "image_filename": "unit_icon_0182_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "White Tiger Blade Master",
+    "file": "data/reference\\White Tiger Blade Master__32815.png",
+    "com2us_id": 32815,
+    "image_filename": "unit_icon_0182_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Gideon",
+    "file": "data/reference\\Gideon__32311.png",
+    "com2us_id": 32311,
+    "image_filename": "unit_icon_0177_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Elephas",
+    "file": "data/reference\\Elephas__32313.png",
+    "com2us_id": 32313,
+    "image_filename": "unit_icon_0177_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Tityus",
+    "file": "data/reference\\Tityus__32312.png",
+    "com2us_id": 32312,
+    "image_filename": "unit_icon_0177_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Hyllus",
+    "file": "data/reference\\Hyllus__32314.png",
+    "com2us_id": 32314,
+    "image_filename": "unit_icon_0177_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Actaeon",
+    "file": "data/reference\\Actaeon__32315.png",
+    "com2us_id": 32315,
+    "image_filename": "unit_icon_0177_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Daimon",
+    "file": "data/reference\\Daimon__33012.png",
+    "com2us_id": 33012,
+    "image_filename": "unit_icon_0188_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Kai",
+    "file": "data/reference\\Kai__33111.png",
+    "com2us_id": 33111,
+    "image_filename": "unit_icon_0187_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Kai",
+    "file": "data/reference\\Kai__33112.png",
+    "com2us_id": 33112,
+    "image_filename": "unit_icon_0187_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Kai",
+    "file": "data/reference\\Kai__33113.png",
+    "com2us_id": 33113,
+    "image_filename": "unit_icon_0187_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Kai",
+    "file": "data/reference\\Kai__33114.png",
+    "com2us_id": 33114,
+    "image_filename": "unit_icon_0187_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Taebaek",
+    "file": "data/reference\\Taebaek__33211.png",
+    "com2us_id": 33211,
+    "image_filename": "unit_icon_0185_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Kai",
+    "file": "data/reference\\Kai__33115.png",
+    "com2us_id": 33115,
+    "image_filename": "unit_icon_0187_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Taebaek",
+    "file": "data/reference\\Taebaek__33212.png",
+    "com2us_id": 33212,
+    "image_filename": "unit_icon_0185_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Taebaek",
+    "file": "data/reference\\Taebaek__33213.png",
+    "com2us_id": 33213,
+    "image_filename": "unit_icon_0185_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Taebaek",
+    "file": "data/reference\\Taebaek__33215.png",
+    "com2us_id": 33215,
+    "image_filename": "unit_icon_0185_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Taebaek",
+    "file": "data/reference\\Taebaek__33214.png",
+    "com2us_id": 33214,
+    "image_filename": "unit_icon_0185_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Duke",
+    "file": "data/reference\\Duke__33311.png",
+    "com2us_id": 33311,
+    "image_filename": "unit_icon_0186_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Duke",
+    "file": "data/reference\\Duke__33312.png",
+    "com2us_id": 33312,
+    "image_filename": "unit_icon_0186_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Duke",
+    "file": "data/reference\\Duke__33313.png",
+    "com2us_id": 33313,
+    "image_filename": "unit_icon_0186_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Duke",
+    "file": "data/reference\\Duke__33314.png",
+    "com2us_id": 33314,
+    "image_filename": "unit_icon_0186_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Duke",
+    "file": "data/reference\\Duke__33315.png",
+    "com2us_id": 33315,
+    "image_filename": "unit_icon_0186_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Shasha",
+    "file": "data/reference\\Shasha__33411.png",
+    "com2us_id": 33411,
+    "image_filename": "unit_icon_0184_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Shasha",
+    "file": "data/reference\\Shasha__33412.png",
+    "com2us_id": 33412,
+    "image_filename": "unit_icon_0184_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Shasha",
+    "file": "data/reference\\Shasha__33413.png",
+    "com2us_id": 33413,
+    "image_filename": "unit_icon_0184_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Shasha",
+    "file": "data/reference\\Shasha__33414.png",
+    "com2us_id": 33414,
+    "image_filename": "unit_icon_0184_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Shasha",
+    "file": "data/reference\\Shasha__33415.png",
+    "com2us_id": 33415,
+    "image_filename": "unit_icon_0184_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Cecilia",
+    "file": "data/reference\\Cecilia__34011.png",
+    "com2us_id": 34011,
+    "image_filename": "unit_icon_0192_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Cynthia",
+    "file": "data/reference\\Cynthia__34012.png",
+    "com2us_id": 34012,
+    "image_filename": "unit_icon_0192_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Daisy",
+    "file": "data/reference\\Daisy__34013.png",
+    "com2us_id": 34013,
+    "image_filename": "unit_icon_0192_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Christine",
+    "file": "data/reference\\Christine__34014.png",
+    "com2us_id": 34014,
+    "image_filename": "unit_icon_0192_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Elise",
+    "file": "data/reference\\Elise__34015.png",
+    "com2us_id": 34015,
+    "image_filename": "unit_icon_0192_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Rhoetus",
+    "file": "data/reference\\Rhoetus__34111.png",
+    "com2us_id": 34111,
+    "image_filename": "unit_icon_0193_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Agrius",
+    "file": "data/reference\\Agrius__34112.png",
+    "com2us_id": 34112,
+    "image_filename": "unit_icon_0193_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Chiron",
+    "file": "data/reference\\Chiron__34114.png",
+    "com2us_id": 34114,
+    "image_filename": "unit_icon_0193_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Pholus",
+    "file": "data/reference\\Pholus__34113.png",
+    "com2us_id": 34113,
+    "image_filename": "unit_icon_0193_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Asbolus",
+    "file": "data/reference\\Asbolus__34115.png",
+    "com2us_id": 34115,
+    "image_filename": "unit_icon_0193_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Kai",
+    "file": "data/reference\\Kai__33611.png",
+    "com2us_id": 33611,
+    "image_filename": "unit_icon_0200_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Daimon",
+    "file": "data/reference\\Daimon__33512.png",
+    "com2us_id": 33512,
+    "image_filename": "unit_icon_0201_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Kai",
+    "file": "data/reference\\Kai__33614.png",
+    "com2us_id": 33614,
+    "image_filename": "unit_icon_0200_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Kai",
+    "file": "data/reference\\Kai__33613.png",
+    "com2us_id": 33613,
+    "image_filename": "unit_icon_0200_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Kai",
+    "file": "data/reference\\Kai__33615.png",
+    "com2us_id": 33615,
+    "image_filename": "unit_icon_0200_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Taebaek",
+    "file": "data/reference\\Taebaek__33712.png",
+    "com2us_id": 33712,
+    "image_filename": "unit_icon_0198_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Taebaek",
+    "file": "data/reference\\Taebaek__33711.png",
+    "com2us_id": 33711,
+    "image_filename": "unit_icon_0198_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Taebaek",
+    "file": "data/reference\\Taebaek__33715.png",
+    "com2us_id": 33715,
+    "image_filename": "unit_icon_0198_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Taebaek",
+    "file": "data/reference\\Taebaek__33713.png",
+    "com2us_id": 33713,
+    "image_filename": "unit_icon_0198_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Taebaek",
+    "file": "data/reference\\Taebaek__33714.png",
+    "com2us_id": 33714,
+    "image_filename": "unit_icon_0198_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Duke",
+    "file": "data/reference\\Duke__33811.png",
+    "com2us_id": 33811,
+    "image_filename": "unit_icon_0199_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Duke",
+    "file": "data/reference\\Duke__33812.png",
+    "com2us_id": 33812,
+    "image_filename": "unit_icon_0199_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Duke",
+    "file": "data/reference\\Duke__33813.png",
+    "com2us_id": 33813,
+    "image_filename": "unit_icon_0199_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Duke",
+    "file": "data/reference\\Duke__33815.png",
+    "com2us_id": 33815,
+    "image_filename": "unit_icon_0199_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Duke",
+    "file": "data/reference\\Duke__33814.png",
+    "com2us_id": 33814,
+    "image_filename": "unit_icon_0199_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Shasha",
+    "file": "data/reference\\Shasha__33912.png",
+    "com2us_id": 33912,
+    "image_filename": "unit_icon_0197_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Shasha",
+    "file": "data/reference\\Shasha__33913.png",
+    "com2us_id": 33913,
+    "image_filename": "unit_icon_0197_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Shasha",
+    "file": "data/reference\\Shasha__33911.png",
+    "com2us_id": 33911,
+    "image_filename": "unit_icon_0197_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Shasha",
+    "file": "data/reference\\Shasha__33914.png",
+    "com2us_id": 33914,
+    "image_filename": "unit_icon_0197_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Shasha",
+    "file": "data/reference\\Shasha__33915.png",
+    "com2us_id": 33915,
+    "image_filename": "unit_icon_0197_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Gollum",
+    "file": "data/reference\\Gollum__34815.png",
+    "com2us_id": 34815,
+    "image_filename": "unit_icon_0207_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Agrenia",
+    "file": "data/reference\\Agrenia__34212.png",
+    "com2us_id": 34212,
+    "image_filename": "unit_icon_0202_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Neriope",
+    "file": "data/reference\\Neriope__34211.png",
+    "com2us_id": 34211,
+    "image_filename": "unit_icon_0202_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Driana",
+    "file": "data/reference\\Driana__34213.png",
+    "com2us_id": 34213,
+    "image_filename": "unit_icon_0202_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Arella",
+    "file": "data/reference\\Arella__34214.png",
+    "com2us_id": 34214,
+    "image_filename": "unit_icon_0202_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Theonia",
+    "file": "data/reference\\Theonia__34215.png",
+    "com2us_id": 34215,
+    "image_filename": "unit_icon_0202_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Frodo",
+    "file": "data/reference\\Frodo__34311.png",
+    "com2us_id": 34311,
+    "image_filename": "unit_icon_0203_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Gandalf",
+    "file": "data/reference\\Gandalf__34412.png",
+    "com2us_id": 34412,
+    "image_filename": "unit_icon_0204_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Gandalf",
+    "file": "data/reference\\Gandalf__34411.png",
+    "com2us_id": 34411,
+    "image_filename": "unit_icon_0204_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Gandalf",
+    "file": "data/reference\\Gandalf__34413.png",
+    "com2us_id": 34413,
+    "image_filename": "unit_icon_0204_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Gandalf",
+    "file": "data/reference\\Gandalf__34414.png",
+    "com2us_id": 34414,
+    "image_filename": "unit_icon_0204_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Gandalf",
+    "file": "data/reference\\Gandalf__34415.png",
+    "com2us_id": 34415,
+    "image_filename": "unit_icon_0204_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Aragorn",
+    "file": "data/reference\\Aragorn__34611.png",
+    "com2us_id": 34611,
+    "image_filename": "unit_icon_0206_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Aragorn",
+    "file": "data/reference\\Aragorn__34612.png",
+    "com2us_id": 34612,
+    "image_filename": "unit_icon_0206_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Aragorn",
+    "file": "data/reference\\Aragorn__34613.png",
+    "com2us_id": 34613,
+    "image_filename": "unit_icon_0206_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Aragorn",
+    "file": "data/reference\\Aragorn__34614.png",
+    "com2us_id": 34614,
+    "image_filename": "unit_icon_0206_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Aragorn",
+    "file": "data/reference\\Aragorn__34615.png",
+    "com2us_id": 34615,
+    "image_filename": "unit_icon_0206_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Legolas",
+    "file": "data/reference\\Legolas__34711.png",
+    "com2us_id": 34711,
+    "image_filename": "unit_icon_0205_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Legolas",
+    "file": "data/reference\\Legolas__34712.png",
+    "com2us_id": 34712,
+    "image_filename": "unit_icon_0205_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Legolas",
+    "file": "data/reference\\Legolas__34713.png",
+    "com2us_id": 34713,
+    "image_filename": "unit_icon_0205_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Legolas",
+    "file": "data/reference\\Legolas__34714.png",
+    "com2us_id": 34714,
+    "image_filename": "unit_icon_0205_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Legolas",
+    "file": "data/reference\\Legolas__34715.png",
+    "com2us_id": 34715,
+    "image_filename": "unit_icon_0205_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "name": "Gollum",
+    "file": "data/reference\\Gollum__34811.png",
+    "com2us_id": 34811,
+    "image_filename": "unit_icon_0207_1_1.png",
+    "element": "Water"
+  },
+  {
+    "name": "Gollum",
+    "file": "data/reference\\Gollum__34812.png",
+    "com2us_id": 34812,
+    "image_filename": "unit_icon_0207_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Gollum",
+    "file": "data/reference\\Gollum__34813.png",
+    "com2us_id": 34813,
+    "image_filename": "unit_icon_0207_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Gollum",
+    "file": "data/reference\\Gollum__34814.png",
+    "com2us_id": 34814,
+    "image_filename": "unit_icon_0207_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Frederic",
+    "file": "data/reference\\Frederic__27314.png",
+    "com2us_id": 27314,
+    "image_filename": "unit_icon_0111_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Patric",
+    "file": "data/reference\\Patric__27412.png",
+    "com2us_id": 27412,
+    "image_filename": "unit_icon_0109_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "name": "Patric",
+    "file": "data/reference\\Patric__27413.png",
+    "com2us_id": 27413,
+    "image_filename": "unit_icon_0109_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "name": "Patric",
+    "file": "data/reference\\Patric__27414.png",
+    "com2us_id": 27414,
+    "image_filename": "unit_icon_0109_1_4.png",
+    "element": "Light"
+  },
+  {
+    "name": "Patric",
+    "file": "data/reference\\Patric__27415.png",
+    "com2us_id": 27415,
+    "image_filename": "unit_icon_0109_1_5.png",
+    "element": "Dark"
+  }
+]

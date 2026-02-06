@@ -1,0 +1,40 @@
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  min-height: 100vh;
+  background-color: #121212;
+}
+
+/* Mobile First Defaults */
+.main-content {
+  padding-top: 60px;
+  /* Smaller header on mobile */
+  padding-left: 10px;
+  padding-right: 10px;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+/* Desktop override */
+@media (min-width: 768px) {
+  .main-content {
+    padding-top: 70px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+/* Global resets for this app */
+h1,
+h2,
+h3 {
+  color: #eee;
+}
+
+button:focus {
+  outline: none;
+}

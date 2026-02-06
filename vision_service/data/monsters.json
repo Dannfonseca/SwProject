@@ -1,0 +1,6428 @@
+[
+  {
+    "com2us_id": 15311,
+    "name": "Rina",
+    "image_filename": "unit_icon_0020_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 10111,
+    "name": "Elucia",
+    "image_filename": "unit_icon_0000_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 11411,
+    "name": "Kuhn",
+    "image_filename": "unit_icon_0005_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 11511,
+    "name": "Kahn",
+    "image_filename": "unit_icon_0005_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 16011,
+    "name": "Hemos",
+    "image_filename": "unit_icon_0018_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 20212,
+    "name": "Sin",
+    "image_filename": "unit_icon_0037_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 16911,
+    "name": "Kaz",
+    "image_filename": "unit_icon_0026_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 18311,
+    "name": "Mihyang",
+    "image_filename": "unit_icon_0029_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 13311,
+    "name": "Izaria",
+    "image_filename": "unit_icon_0011_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 11811,
+    "name": "Tyron",
+    "image_filename": "unit_icon_0007_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 20315,
+    "name": "Karakum",
+    "image_filename": "unit_icon_0038_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 25115,
+    "name": "Ongyouki",
+    "image_filename": "unit_icon_0073_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 12031,
+    "name": "Ellena",
+    "image_filename": "unit_icon_0074_3_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 12032,
+    "name": "Kahli",
+    "image_filename": "unit_icon_0074_3_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 12033,
+    "name": "Moria",
+    "image_filename": "unit_icon_0074_3_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 12034,
+    "name": "Shren",
+    "image_filename": "unit_icon_0074_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 12035,
+    "name": "Jumaline",
+    "image_filename": "unit_icon_0074_3_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 27611,
+    "name": "Federica",
+    "image_filename": "unit_icon_0108_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 27612,
+    "name": "Federica",
+    "image_filename": "unit_icon_0108_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 29611,
+    "name": "Anders",
+    "image_filename": "unit_icon_0150_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 29612,
+    "name": "Magnus",
+    "image_filename": "unit_icon_0150_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 29613,
+    "name": "Henrik",
+    "image_filename": "unit_icon_0150_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 29614,
+    "name": "Lars",
+    "image_filename": "unit_icon_0150_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 29615,
+    "name": "Valdemar",
+    "image_filename": "unit_icon_0150_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 33612,
+    "name": "Kai",
+    "image_filename": "unit_icon_0200_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 32911,
+    "name": "Qilin Slasher",
+    "image_filename": "unit_icon_0181_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 32912,
+    "name": "Qilin Slasher",
+    "image_filename": "unit_icon_0181_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 32913,
+    "name": "Qilin Slasher",
+    "image_filename": "unit_icon_0181_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 32914,
+    "name": "Qilin Slasher",
+    "image_filename": "unit_icon_0181_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 32915,
+    "name": "Qilin Slasher",
+    "image_filename": "unit_icon_0181_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 10812,
+    "name": "Bremis",
+    "image_filename": "unit_icon_0003_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 10912,
+    "name": "Cahule",
+    "image_filename": "unit_icon_0003_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 12112,
+    "name": "Colleen",
+    "image_filename": "unit_icon_0009_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 10612,
+    "name": "Sieq",
+    "image_filename": "unit_icon_0002_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 13212,
+    "name": "Lala",
+    "image_filename": "unit_icon_0013_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 10212,
+    "name": "Cogma",
+    "image_filename": "unit_icon_0000_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 10312,
+    "name": "Tatu",
+    "image_filename": "unit_icon_0001_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 10712,
+    "name": "Ursha",
+    "image_filename": "unit_icon_0002_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 10412,
+    "name": "Tantra",
+    "image_filename": "unit_icon_0001_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 10811,
+    "name": "Daharenos",
+    "image_filename": "unit_icon_0003_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 10911,
+    "name": "Konamiya",
+    "image_filename": "unit_icon_0003_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 12111,
+    "name": "Sisroo",
+    "image_filename": "unit_icon_0009_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 10611,
+    "name": "Tarq",
+    "image_filename": "unit_icon_0002_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 13211,
+    "name": "Lulu",
+    "image_filename": "unit_icon_0013_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 10211,
+    "name": "Fynn",
+    "image_filename": "unit_icon_0000_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 10311,
+    "name": "Kacey",
+    "image_filename": "unit_icon_0001_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 11111,
+    "name": "Kaimann",
+    "image_filename": "unit_icon_0004_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 15211,
+    "name": "Allen",
+    "image_filename": "unit_icon_0021_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 10411,
+    "name": "Kunda",
+    "image_filename": "unit_icon_0001_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 10813,
+    "name": "Taharus",
+    "image_filename": "unit_icon_0003_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 10113,
+    "name": "Aeilene",
+    "image_filename": "unit_icon_0000_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 10913,
+    "name": "Lindermen",
+    "image_filename": "unit_icon_0003_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 12113,
+    "name": "Seal",
+    "image_filename": "unit_icon_0009_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 10613,
+    "name": "Gamir",
+    "image_filename": "unit_icon_0002_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 13213,
+    "name": "Chichi",
+    "image_filename": "unit_icon_0013_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 10213,
+    "name": "Ralph",
+    "image_filename": "unit_icon_0000_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 10313,
+    "name": "Shannon",
+    "image_filename": "unit_icon_0001_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 11113,
+    "name": "Lukan",
+    "image_filename": "unit_icon_0004_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 15213,
+    "name": "Roid",
+    "image_filename": "unit_icon_0021_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 10713,
+    "name": "Ramagos",
+    "image_filename": "unit_icon_0002_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 10413,
+    "name": "Rakaja",
+    "image_filename": "unit_icon_0001_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 10115,
+    "name": "Sorin",
+    "image_filename": "unit_icon_0000_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 10915,
+    "name": "Rizak",
+    "image_filename": "unit_icon_0003_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 13215,
+    "name": "Chacha",
+    "image_filename": "unit_icon_0013_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 10215,
+    "name": "Garok",
+    "image_filename": "unit_icon_0000_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 10315,
+    "name": "Camaryn",
+    "image_filename": "unit_icon_0001_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 11115,
+    "name": "Decamaron",
+    "image_filename": "unit_icon_0004_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 10715,
+    "name": "Gorgo",
+    "image_filename": "unit_icon_0002_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 10614,
+    "name": "Shamar",
+    "image_filename": "unit_icon_0002_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 13214,
+    "name": "Shushu",
+    "image_filename": "unit_icon_0013_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 10214,
+    "name": "Taru",
+    "image_filename": "unit_icon_0000_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 10314,
+    "name": "Cheryl",
+    "image_filename": "unit_icon_0001_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 11114,
+    "name": "Sharman",
+    "image_filename": "unit_icon_0004_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 14814,
+    "name": "Jansson",
+    "image_filename": "unit_icon_0017_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 10414,
+    "name": "Arkajan",
+    "image_filename": "unit_icon_0001_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 14912,
+    "name": "Ceres",
+    "image_filename": "unit_icon_0018_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 19012,
+    "name": "Granite",
+    "image_filename": "unit_icon_0033_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 13712,
+    "name": "Kungen",
+    "image_filename": "unit_icon_0014_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 18512,
+    "name": "Nangrim",
+    "image_filename": "unit_icon_0030_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 15612,
+    "name": "Randy",
+    "image_filename": "unit_icon_0021_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 19312,
+    "name": "Anne",
+    "image_filename": "unit_icon_0032_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 17212,
+    "name": "Xiao Chun",
+    "image_filename": "unit_icon_0026_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 10112,
+    "name": "Iselia",
+    "image_filename": "unit_icon_0000_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 11412,
+    "name": "Kugo",
+    "image_filename": "unit_icon_0005_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 11512,
+    "name": "Spectra",
+    "image_filename": "unit_icon_0005_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 16012,
+    "name": "Sath",
+    "image_filename": "unit_icon_0018_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 10512,
+    "name": "Lucasha",
+    "image_filename": "unit_icon_0001_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 12012,
+    "name": "Kahli",
+    "image_filename": "unit_icon_0007_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 15812,
+    "name": "Fairo",
+    "image_filename": "unit_icon_0007_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 11712,
+    "name": "Tagaros",
+    "image_filename": "unit_icon_0006_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 11012,
+    "name": "Raoq",
+    "image_filename": "unit_icon_0003_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 16512,
+    "name": "Iron",
+    "image_filename": "unit_icon_0025_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 17812,
+    "name": "Igmanodon",
+    "image_filename": "unit_icon_0028_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 15412,
+    "name": "Amanda",
+    "image_filename": "unit_icon_0020_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 15012,
+    "name": "Mei",
+    "image_filename": "unit_icon_0018_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 17712,
+    "name": "Burentau",
+    "image_filename": "unit_icon_0027_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 15912,
+    "name": "Rebecca",
+    "image_filename": "unit_icon_0023_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 18712,
+    "name": "Naki",
+    "image_filename": "unit_icon_0031_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 11112,
+    "name": "Krakdon",
+    "image_filename": "unit_icon_0004_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 11312,
+    "name": "Fao",
+    "image_filename": "unit_icon_0005_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 18412,
+    "name": "Gunpyeong",
+    "image_filename": "unit_icon_0030_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 15212,
+    "name": "Kai'en",
+    "image_filename": "unit_icon_0021_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 14812,
+    "name": "Geoffrey",
+    "image_filename": "unit_icon_0017_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 14012,
+    "name": "Garoche",
+    "image_filename": "unit_icon_0015_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 18812,
+    "name": "Surtr",
+    "image_filename": "unit_icon_0032_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 18012,
+    "name": "Draco",
+    "image_filename": "unit_icon_0028_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 16212,
+    "name": "Arnold",
+    "image_filename": "unit_icon_0024_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 15312,
+    "name": "Chloe",
+    "image_filename": "unit_icon_0020_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 13412,
+    "name": "Jojo",
+    "image_filename": "unit_icon_0011_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 18112,
+    "name": "Zibrolta",
+    "image_filename": "unit_icon_0029_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 10511,
+    "name": "Ramira",
+    "image_filename": "unit_icon_0001_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 17312,
+    "name": "Hong Hua",
+    "image_filename": "unit_icon_0008_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 16312,
+    "name": "Antares",
+    "image_filename": "unit_icon_0024_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 11212,
+    "name": "Shihwa",
+    "image_filename": "unit_icon_0004_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 13512,
+    "name": "Garo",
+    "image_filename": "unit_icon_0013_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 14112,
+    "name": "Jean",
+    "image_filename": "unit_icon_0015_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 13912,
+    "name": "Clara",
+    "image_filename": "unit_icon_0014_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 15512,
+    "name": "Hwa",
+    "image_filename": "unit_icon_0021_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 16912,
+    "name": "Jun",
+    "image_filename": "unit_icon_0026_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 18312,
+    "name": "Hwahee",
+    "image_filename": "unit_icon_0029_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 13312,
+    "name": "Akia",
+    "image_filename": "unit_icon_0011_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 11812,
+    "name": "Baretta",
+    "image_filename": "unit_icon_0007_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 11912,
+    "name": "Fria",
+    "image_filename": "unit_icon_0009_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 11612,
+    "name": "Atenai",
+    "image_filename": "unit_icon_0006_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 14712,
+    "name": "Verdehile",
+    "image_filename": "unit_icon_0016_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 17012,
+    "name": "Velajuel",
+    "image_filename": "unit_icon_0019_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 17412,
+    "name": "Kumar",
+    "image_filename": "unit_icon_0027_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 14612,
+    "name": "Rakan",
+    "image_filename": "unit_icon_0017_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 14412,
+    "name": "Zaiross",
+    "image_filename": "unit_icon_0016_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 16612,
+    "name": "Laika",
+    "image_filename": "unit_icon_0025_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 17912,
+    "name": "Raki",
+    "image_filename": "unit_icon_0023_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 19212,
+    "name": "Tesarion",
+    "image_filename": "unit_icon_0032_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 16812,
+    "name": "Mei Hou Wang",
+    "image_filename": "unit_icon_0025_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 16112,
+    "name": "Rica",
+    "image_filename": "unit_icon_0022_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 15712,
+    "name": "Juno",
+    "image_filename": "unit_icon_0022_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 14512,
+    "name": "Perna",
+    "image_filename": "unit_icon_0017_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 18612,
+    "name": "Chiwu",
+    "image_filename": "unit_icon_0031_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 18912,
+    "name": "Brandia",
+    "image_filename": "unit_icon_0033_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 13812,
+    "name": "Vanessa",
+    "image_filename": "unit_icon_0014_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 14911,
+    "name": "Ellin",
+    "image_filename": "unit_icon_0018_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 19011,
+    "name": "Talc",
+    "image_filename": "unit_icon_0033_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 13711,
+    "name": "Gruda",
+    "image_filename": "unit_icon_0014_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 18511,
+    "name": "Gangchun",
+    "image_filename": "unit_icon_0030_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 15611,
+    "name": "Wayne",
+    "image_filename": "unit_icon_0021_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 19311,
+    "name": "Sera",
+    "image_filename": "unit_icon_0032_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 17211,
+    "name": "Mao",
+    "image_filename": "unit_icon_0026_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 12011,
+    "name": "Ellena",
+    "image_filename": "unit_icon_0007_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 15811,
+    "name": "Yaku",
+    "image_filename": "unit_icon_0007_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 11711,
+    "name": "Purian",
+    "image_filename": "unit_icon_0006_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 11011,
+    "name": "Icaru",
+    "image_filename": "unit_icon_0003_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 16511,
+    "name": "Nickel",
+    "image_filename": "unit_icon_0025_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 17811,
+    "name": "Kernodon",
+    "image_filename": "unit_icon_0028_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 15411,
+    "name": "Sharron",
+    "image_filename": "unit_icon_0020_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 15011,
+    "name": "Mina",
+    "image_filename": "unit_icon_0018_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 17711,
+    "name": "Urtau",
+    "image_filename": "unit_icon_0027_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 15911,
+    "name": "Megan",
+    "image_filename": "unit_icon_0023_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 18711,
+    "name": "Toma",
+    "image_filename": "unit_icon_0031_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 11311,
+    "name": "Shailoq",
+    "image_filename": "unit_icon_0005_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 10711,
+    "name": "Dagora",
+    "image_filename": "unit_icon_0002_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 14011,
+    "name": "Vigor",
+    "image_filename": "unit_icon_0015_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 14913,
+    "name": "Hina",
+    "image_filename": "unit_icon_0018_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 19013,
+    "name": "Olivine",
+    "image_filename": "unit_icon_0033_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 13713,
+    "name": "Dagorr",
+    "image_filename": "unit_icon_0014_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 18513,
+    "name": "Suri",
+    "image_filename": "unit_icon_0030_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 15613,
+    "name": "Roger",
+    "image_filename": "unit_icon_0021_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 19313,
+    "name": "Hannah",
+    "image_filename": "unit_icon_0032_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 17213,
+    "name": "Huan",
+    "image_filename": "unit_icon_0026_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 15313,
+    "name": "Michelle",
+    "image_filename": "unit_icon_0020_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 11413,
+    "name": "Ragion",
+    "image_filename": "unit_icon_0005_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 11513,
+    "name": "Bernard",
+    "image_filename": "unit_icon_0005_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 16013,
+    "name": "Hiva",
+    "image_filename": "unit_icon_0018_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 10513,
+    "name": "Prilea",
+    "image_filename": "unit_icon_0001_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 12013,
+    "name": "Moria",
+    "image_filename": "unit_icon_0007_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 15813,
+    "name": "Pigma",
+    "image_filename": "unit_icon_0007_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 11713,
+    "name": "Anduril",
+    "image_filename": "unit_icon_0006_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 11013,
+    "name": "Ramahan",
+    "image_filename": "unit_icon_0003_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 16513,
+    "name": "Copper",
+    "image_filename": "unit_icon_0025_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 17813,
+    "name": "Velfinodon",
+    "image_filename": "unit_icon_0028_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 15413,
+    "name": "Ardella",
+    "image_filename": "unit_icon_0020_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 15013,
+    "name": "Naomi",
+    "image_filename": "unit_icon_0018_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 17713,
+    "name": "Eintau",
+    "image_filename": "unit_icon_0027_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 15913,
+    "name": "Silia",
+    "image_filename": "unit_icon_0023_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 18713,
+    "name": "Mav",
+    "image_filename": "unit_icon_0031_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 11313,
+    "name": "Ermeda",
+    "image_filename": "unit_icon_0005_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 14013,
+    "name": "Shakan",
+    "image_filename": "unit_icon_0015_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 14914,
+    "name": "Lyn",
+    "image_filename": "unit_icon_0018_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 19014,
+    "name": "Marble",
+    "image_filename": "unit_icon_0033_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 13714,
+    "name": "Ahman",
+    "image_filename": "unit_icon_0014_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 18514,
+    "name": "Baekdu",
+    "image_filename": "unit_icon_0030_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 15614,
+    "name": "Walkers",
+    "image_filename": "unit_icon_0021_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 19314,
+    "name": "Loren",
+    "image_filename": "unit_icon_0032_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 17214,
+    "name": "Tien Qin",
+    "image_filename": "unit_icon_0026_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 10814,
+    "name": "Priz",
+    "image_filename": "unit_icon_0003_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 10114,
+    "name": "Neal",
+    "image_filename": "unit_icon_0000_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 19114,
+    "name": "Fran",
+    "image_filename": "unit_icon_0028_4_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 10914,
+    "name": "Teon",
+    "image_filename": "unit_icon_0003_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 11414,
+    "name": "Groggo",
+    "image_filename": "unit_icon_0005_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 11514,
+    "name": "Shamann",
+    "image_filename": "unit_icon_0005_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 16014,
+    "name": "Prom",
+    "image_filename": "unit_icon_0018_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 12114,
+    "name": "Sia",
+    "image_filename": "unit_icon_0009_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 10514,
+    "name": "Kabilla",
+    "image_filename": "unit_icon_0001_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 12014,
+    "name": "Shren",
+    "image_filename": "unit_icon_0007_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 15814,
+    "name": "Shaffron",
+    "image_filename": "unit_icon_0007_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 11714,
+    "name": "Eludain",
+    "image_filename": "unit_icon_0006_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 11014,
+    "name": "Belladeon",
+    "image_filename": "unit_icon_0003_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 16514,
+    "name": "Silver",
+    "image_filename": "unit_icon_0025_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 17814,
+    "name": "Glinodon",
+    "image_filename": "unit_icon_0028_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 15014,
+    "name": "Xiao Ling",
+    "image_filename": "unit_icon_0018_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 17714,
+    "name": "Grotau",
+    "image_filename": "unit_icon_0027_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 15914,
+    "name": "Linda",
+    "image_filename": "unit_icon_0023_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 18714,
+    "name": "Dona",
+    "image_filename": "unit_icon_0031_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 11314,
+    "name": "Elpuria",
+    "image_filename": "unit_icon_0005_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 15214,
+    "name": "Darion",
+    "image_filename": "unit_icon_0021_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 10714,
+    "name": "Lusha",
+    "image_filename": "unit_icon_0002_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 14014,
+    "name": "Eshir",
+    "image_filename": "unit_icon_0015_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 14915,
+    "name": "Mara",
+    "image_filename": "unit_icon_0018_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 19015,
+    "name": "Basalt",
+    "image_filename": "unit_icon_0033_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 13715,
+    "name": "Haken",
+    "image_filename": "unit_icon_0014_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 18515,
+    "name": "Hanra",
+    "image_filename": "unit_icon_0030_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 15615,
+    "name": "Jamie",
+    "image_filename": "unit_icon_0021_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 19315,
+    "name": "Cassie",
+    "image_filename": "unit_icon_0032_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 17215,
+    "name": "Wei Shin",
+    "image_filename": "unit_icon_0026_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 10815,
+    "name": "Camules",
+    "image_filename": "unit_icon_0003_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 15315,
+    "name": "Rasheed",
+    "image_filename": "unit_icon_0020_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 11415,
+    "name": "Maggi",
+    "image_filename": "unit_icon_0005_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 11515,
+    "name": "Varus",
+    "image_filename": "unit_icon_0005_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 16015,
+    "name": "Thrain",
+    "image_filename": "unit_icon_0018_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 12115,
+    "name": "Seren",
+    "image_filename": "unit_icon_0009_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 10515,
+    "name": "Hellea",
+    "image_filename": "unit_icon_0001_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 10615,
+    "name": "Shumar",
+    "image_filename": "unit_icon_0002_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 12015,
+    "name": "Jumaline",
+    "image_filename": "unit_icon_0007_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 15815,
+    "name": "Loque",
+    "image_filename": "unit_icon_0007_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 11715,
+    "name": "Drogan",
+    "image_filename": "unit_icon_0006_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 11015,
+    "name": "Kro",
+    "image_filename": "unit_icon_0003_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 16515,
+    "name": "Zinc",
+    "image_filename": "unit_icon_0025_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 17815,
+    "name": "Devinodon",
+    "image_filename": "unit_icon_0028_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 15015,
+    "name": "Miho",
+    "image_filename": "unit_icon_0018_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 17715,
+    "name": "Kamatau",
+    "image_filename": "unit_icon_0027_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 15915,
+    "name": "Gina",
+    "image_filename": "unit_icon_0023_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 11315,
+    "name": "Mantura",
+    "image_filename": "unit_icon_0005_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 18415,
+    "name": "Woonhak",
+    "image_filename": "unit_icon_0030_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 15215,
+    "name": "Jubelle",
+    "image_filename": "unit_icon_0021_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 14815,
+    "name": "Janssen",
+    "image_filename": "unit_icon_0017_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 14015,
+    "name": "Jultan",
+    "image_filename": "unit_icon_0015_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 18813,
+    "name": "Hraesvelg",
+    "image_filename": "unit_icon_0032_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 18013,
+    "name": "Aquila",
+    "image_filename": "unit_icon_0028_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 16213,
+    "name": "Briand",
+    "image_filename": "unit_icon_0024_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 13413,
+    "name": "Lushen",
+    "image_filename": "unit_icon_0011_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 18113,
+    "name": "Taurus",
+    "image_filename": "unit_icon_0029_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 17313,
+    "name": "Ling Ling",
+    "image_filename": "unit_icon_0008_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 16313,
+    "name": "Fuco",
+    "image_filename": "unit_icon_0024_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 11213,
+    "name": "Arang",
+    "image_filename": "unit_icon_0004_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 13513,
+    "name": "Orochi",
+    "image_filename": "unit_icon_0013_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 14113,
+    "name": "Julien",
+    "image_filename": "unit_icon_0015_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 13913,
+    "name": "Sophia",
+    "image_filename": "unit_icon_0014_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 20214,
+    "name": "Hiro",
+    "image_filename": "unit_icon_0037_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 15513,
+    "name": "Yen",
+    "image_filename": "unit_icon_0021_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 16913,
+    "name": "Kaito",
+    "image_filename": "unit_icon_0026_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 18313,
+    "name": "Chasun",
+    "image_filename": "unit_icon_0029_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 11813,
+    "name": "Shimitae",
+    "image_filename": "unit_icon_0007_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 11913,
+    "name": "Acasis",
+    "image_filename": "unit_icon_0009_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 18413,
+    "name": "Woochi",
+    "image_filename": "unit_icon_0030_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 11613,
+    "name": "Delphoi",
+    "image_filename": "unit_icon_0006_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 14713,
+    "name": "Argen",
+    "image_filename": "unit_icon_0016_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 17013,
+    "name": "Eladriel",
+    "image_filename": "unit_icon_0019_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 17413,
+    "name": "Ritesh",
+    "image_filename": "unit_icon_0027_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 14613,
+    "name": "Lagmaron",
+    "image_filename": "unit_icon_0017_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 14413,
+    "name": "Jamire",
+    "image_filename": "unit_icon_0016_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 16613,
+    "name": "Leo",
+    "image_filename": "unit_icon_0025_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 17913,
+    "name": "Ethna",
+    "image_filename": "unit_icon_0023_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 19213,
+    "name": "Akhamamir",
+    "image_filename": "unit_icon_0032_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 16813,
+    "name": "Xing Zhe",
+    "image_filename": "unit_icon_0025_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 16113,
+    "name": "Charlotte",
+    "image_filename": "unit_icon_0022_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 15713,
+    "name": "Seara",
+    "image_filename": "unit_icon_0022_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 14513,
+    "name": "Teshar",
+    "image_filename": "unit_icon_0017_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 18613,
+    "name": "Pungbaek",
+    "image_filename": "unit_icon_0031_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 18913,
+    "name": "Tiana",
+    "image_filename": "unit_icon_0033_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 13813,
+    "name": "Katarina",
+    "image_filename": "unit_icon_0014_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 18811,
+    "name": "Aegir",
+    "image_filename": "unit_icon_0032_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 18011,
+    "name": "Orion",
+    "image_filename": "unit_icon_0028_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 16211,
+    "name": "Fedora",
+    "image_filename": "unit_icon_0024_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 13411,
+    "name": "Sian",
+    "image_filename": "unit_icon_0011_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 18111,
+    "name": "Malaka",
+    "image_filename": "unit_icon_0029_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 17311,
+    "name": "Xiao Lin",
+    "image_filename": "unit_icon_0008_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 16311,
+    "name": "Rigel",
+    "image_filename": "unit_icon_0024_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 11211,
+    "name": "Soha",
+    "image_filename": "unit_icon_0004_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 13511,
+    "name": "Susano",
+    "image_filename": "unit_icon_0013_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 14111,
+    "name": "Luer",
+    "image_filename": "unit_icon_0015_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 13911,
+    "name": "Julie",
+    "image_filename": "unit_icon_0014_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 15511,
+    "name": "Su",
+    "image_filename": "unit_icon_0021_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 11911,
+    "name": "Lumirecia",
+    "image_filename": "unit_icon_0009_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 18411,
+    "name": "Gildong",
+    "image_filename": "unit_icon_0030_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 11611,
+    "name": "Mikene",
+    "image_filename": "unit_icon_0006_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 14711,
+    "name": "Liesel",
+    "image_filename": "unit_icon_0016_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 17011,
+    "name": "Ariel",
+    "image_filename": "unit_icon_0019_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 17411,
+    "name": "Chandra",
+    "image_filename": "unit_icon_0027_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 14611,
+    "name": "Taor",
+    "image_filename": "unit_icon_0017_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 14411,
+    "name": "Verad",
+    "image_filename": "unit_icon_0016_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 16611,
+    "name": "Chow",
+    "image_filename": "unit_icon_0025_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 17911,
+    "name": "Beth",
+    "image_filename": "unit_icon_0023_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 19211,
+    "name": "Theomars",
+    "image_filename": "unit_icon_0032_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 16811,
+    "name": "Shi Hou",
+    "image_filename": "unit_icon_0025_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 20215,
+    "name": "Jackie",
+    "image_filename": "unit_icon_0037_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 16111,
+    "name": "Anavel",
+    "image_filename": "unit_icon_0022_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 15711,
+    "name": "Praha",
+    "image_filename": "unit_icon_0022_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 14511,
+    "name": "Sigmarus",
+    "image_filename": "unit_icon_0017_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 18611,
+    "name": "Woosa",
+    "image_filename": "unit_icon_0031_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 18911,
+    "name": "Alicia",
+    "image_filename": "unit_icon_0033_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 13811,
+    "name": "Camilla",
+    "image_filename": "unit_icon_0014_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 18814,
+    "name": "Mimirr",
+    "image_filename": "unit_icon_0032_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 18014,
+    "name": "Gemini",
+    "image_filename": "unit_icon_0028_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 16214,
+    "name": "Conrad",
+    "image_filename": "unit_icon_0024_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 15314,
+    "name": "Iona",
+    "image_filename": "unit_icon_0020_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 13414,
+    "name": "Figaro",
+    "image_filename": "unit_icon_0011_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 18114,
+    "name": "Dover",
+    "image_filename": "unit_icon_0029_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 17314,
+    "name": "Liu Mei",
+    "image_filename": "unit_icon_0008_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 16314,
+    "name": "Halphas",
+    "image_filename": "unit_icon_0024_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 15414,
+    "name": "Chris",
+    "image_filename": "unit_icon_0020_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 11214,
+    "name": "Chamie",
+    "image_filename": "unit_icon_0004_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 13514,
+    "name": "Gin",
+    "image_filename": "unit_icon_0013_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 14114,
+    "name": "Louis",
+    "image_filename": "unit_icon_0015_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 13914,
+    "name": "Eva",
+    "image_filename": "unit_icon_0014_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 15514,
+    "name": "Pang",
+    "image_filename": "unit_icon_0021_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 16914,
+    "name": "Tosi",
+    "image_filename": "unit_icon_0026_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 13314,
+    "name": "Aria",
+    "image_filename": "unit_icon_0011_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 11814,
+    "name": "Eredas",
+    "image_filename": "unit_icon_0007_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 11914,
+    "name": "Mihael",
+    "image_filename": "unit_icon_0009_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 18414,
+    "name": "Hwadam",
+    "image_filename": "unit_icon_0030_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 11614,
+    "name": "Icasha",
+    "image_filename": "unit_icon_0006_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 17014,
+    "name": "Artamiel",
+    "image_filename": "unit_icon_0019_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 17414,
+    "name": "Shazam",
+    "image_filename": "unit_icon_0027_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 14614,
+    "name": "Shan",
+    "image_filename": "unit_icon_0017_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 14414,
+    "name": "Zerath",
+    "image_filename": "unit_icon_0016_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 16614,
+    "name": "Jager",
+    "image_filename": "unit_icon_0025_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 17914,
+    "name": "Asima",
+    "image_filename": "unit_icon_0023_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 19214,
+    "name": "Elsharion",
+    "image_filename": "unit_icon_0032_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 16814,
+    "name": "Qitian Dasheng",
+    "image_filename": "unit_icon_0025_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 16114,
+    "name": "Lora",
+    "image_filename": "unit_icon_0022_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 15714,
+    "name": "Laima",
+    "image_filename": "unit_icon_0022_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 14514,
+    "name": "Eludia",
+    "image_filename": "unit_icon_0017_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 18614,
+    "name": "Nigong",
+    "image_filename": "unit_icon_0031_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 18914,
+    "name": "Elenoa",
+    "image_filename": "unit_icon_0033_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 18314,
+    "name": "Yeonhong",
+    "image_filename": "unit_icon_0029_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 13814,
+    "name": "Akroma",
+    "image_filename": "unit_icon_0014_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 14714,
+    "name": "Julianne",
+    "image_filename": "unit_icon_0016_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 18815,
+    "name": "Hrungnir",
+    "image_filename": "unit_icon_0032_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 18015,
+    "name": "Korona",
+    "image_filename": "unit_icon_0028_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 16215,
+    "name": "Dias",
+    "image_filename": "unit_icon_0024_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 13415,
+    "name": "Liebli",
+    "image_filename": "unit_icon_0011_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 18115,
+    "name": "Bering",
+    "image_filename": "unit_icon_0029_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 17315,
+    "name": "Fei",
+    "image_filename": "unit_icon_0008_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 16315,
+    "name": "Grego",
+    "image_filename": "unit_icon_0024_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 15415,
+    "name": "Bethony",
+    "image_filename": "unit_icon_0020_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 11215,
+    "name": "Kamiya",
+    "image_filename": "unit_icon_0004_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 14115,
+    "name": "Guillaume",
+    "image_filename": "unit_icon_0015_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 13915,
+    "name": "Luna",
+    "image_filename": "unit_icon_0014_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 15515,
+    "name": "Ran",
+    "image_filename": "unit_icon_0021_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 16915,
+    "name": "Sige",
+    "image_filename": "unit_icon_0026_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 18315,
+    "name": "Wolyung",
+    "image_filename": "unit_icon_0029_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 13315,
+    "name": "Isael",
+    "image_filename": "unit_icon_0011_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 11815,
+    "name": "Aschubel",
+    "image_filename": "unit_icon_0007_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 11915,
+    "name": "Icares",
+    "image_filename": "unit_icon_0009_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 11615,
+    "name": "Tilasha",
+    "image_filename": "unit_icon_0006_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 17415,
+    "name": "Rahul",
+    "image_filename": "unit_icon_0027_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 14615,
+    "name": "Zeratu",
+    "image_filename": "unit_icon_0017_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 14415,
+    "name": "Grogen",
+    "image_filename": "unit_icon_0016_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 16615,
+    "name": "Ragdoll",
+    "image_filename": "unit_icon_0025_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 17915,
+    "name": "Craka",
+    "image_filename": "unit_icon_0023_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 19215,
+    "name": "Veromos",
+    "image_filename": "unit_icon_0032_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 16815,
+    "name": "Son Zhang Lao",
+    "image_filename": "unit_icon_0025_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 13515,
+    "name": "Han",
+    "image_filename": "unit_icon_0013_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 16115,
+    "name": "Nicki",
+    "image_filename": "unit_icon_0022_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 15715,
+    "name": "Giana",
+    "image_filename": "unit_icon_0022_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 14515,
+    "name": "Jaara",
+    "image_filename": "unit_icon_0017_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 18615,
+    "name": "Woonsa",
+    "image_filename": "unit_icon_0031_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 18915,
+    "name": "Lydia",
+    "image_filename": "unit_icon_0033_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 13815,
+    "name": "Trinity",
+    "image_filename": "unit_icon_0014_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 14715,
+    "name": "Cadiz",
+    "image_filename": "unit_icon_0016_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 14813,
+    "name": "Walter",
+    "image_filename": "unit_icon_0017_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 17015,
+    "name": "Fermion",
+    "image_filename": "unit_icon_0019_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 18715,
+    "name": "Kuna",
+    "image_filename": "unit_icon_0031_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 13313,
+    "name": "Selena",
+    "image_filename": "unit_icon_0011_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 14811,
+    "name": "Huga",
+    "image_filename": "unit_icon_0017_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 10415,
+    "name": "Kumae",
+    "image_filename": "unit_icon_0001_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 19512,
+    "name": "Ignicus",
+    "image_filename": "unit_icon_0034_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 19511,
+    "name": "Aqcus",
+    "image_filename": "unit_icon_0034_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 19513,
+    "name": "Zephicus",
+    "image_filename": "unit_icon_0034_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 19515,
+    "name": "Calicus",
+    "image_filename": "unit_icon_0034_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 19514,
+    "name": "Rumicus",
+    "image_filename": "unit_icon_0034_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 19412,
+    "name": "Carrack",
+    "image_filename": "unit_icon_0034_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 19411,
+    "name": "Galleon",
+    "image_filename": "unit_icon_0034_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 19413,
+    "name": "Barque",
+    "image_filename": "unit_icon_0034_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 19414,
+    "name": "Brig",
+    "image_filename": "unit_icon_0034_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 19415,
+    "name": "Frigate",
+    "image_filename": "unit_icon_0034_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 19612,
+    "name": "Platy",
+    "image_filename": "unit_icon_0035_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 19611,
+    "name": "Tetra",
+    "image_filename": "unit_icon_0035_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 19613,
+    "name": "Cichlid",
+    "image_filename": "unit_icon_0035_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 19614,
+    "name": "Molly",
+    "image_filename": "unit_icon_0035_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 19615,
+    "name": "Betta",
+    "image_filename": "unit_icon_0035_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 19712,
+    "name": "Okeanos",
+    "image_filename": "unit_icon_0035_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 19711,
+    "name": "Poseidon",
+    "image_filename": "unit_icon_0035_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 19713,
+    "name": "Triton",
+    "image_filename": "unit_icon_0035_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 19714,
+    "name": "Pontos",
+    "image_filename": "unit_icon_0035_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 19715,
+    "name": "Manannan",
+    "image_filename": "unit_icon_0035_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 19812,
+    "name": "Astar",
+    "image_filename": "unit_icon_0036_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 19811,
+    "name": "Lapis",
+    "image_filename": "unit_icon_0036_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 19813,
+    "name": "Lupinus",
+    "image_filename": "unit_icon_0036_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 19814,
+    "name": "Iris",
+    "image_filename": "unit_icon_0036_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 19815,
+    "name": "Lanett",
+    "image_filename": "unit_icon_0036_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 16714,
+    "name": "Fami",
+    "image_filename": "unit_icon_0023_4_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 19912,
+    "name": "Lexy",
+    "image_filename": "unit_icon_0036_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 19911,
+    "name": "Stella",
+    "image_filename": "unit_icon_0036_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 19913,
+    "name": "Tanya",
+    "image_filename": "unit_icon_0036_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 19914,
+    "name": "Natalie",
+    "image_filename": "unit_icon_0036_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 19915,
+    "name": "Isabelle",
+    "image_filename": "unit_icon_0036_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 20112,
+    "name": "Lisa",
+    "image_filename": "unit_icon_0037_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 20111,
+    "name": "Emma",
+    "image_filename": "unit_icon_0037_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 20113,
+    "name": "Olivia",
+    "image_filename": "unit_icon_0037_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 20114,
+    "name": "Illianna",
+    "image_filename": "unit_icon_0037_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 20115,
+    "name": "Sylvia",
+    "image_filename": "unit_icon_0037_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 20211,
+    "name": "Luan",
+    "image_filename": "unit_icon_0037_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 20213,
+    "name": "Lo",
+    "image_filename": "unit_icon_0037_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 20012,
+    "name": "Trevor",
+    "image_filename": "unit_icon_0036_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 20011,
+    "name": "Ryan",
+    "image_filename": "unit_icon_0036_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 20013,
+    "name": "Logan",
+    "image_filename": "unit_icon_0036_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 20014,
+    "name": "Lucas",
+    "image_filename": "unit_icon_0036_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 20015,
+    "name": "Karl",
+    "image_filename": "unit_icon_0036_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 20312,
+    "name": "Sonora",
+    "image_filename": "unit_icon_0038_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 20311,
+    "name": "Nubia",
+    "image_filename": "unit_icon_0038_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 20313,
+    "name": "Namib",
+    "image_filename": "unit_icon_0038_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 20314,
+    "name": "Sahara",
+    "image_filename": "unit_icon_0038_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 20415,
+    "name": "Thebae",
+    "image_filename": "unit_icon_0038_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 20414,
+    "name": "Amarna",
+    "image_filename": "unit_icon_0038_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 20413,
+    "name": "Iunu",
+    "image_filename": "unit_icon_0038_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 20411,
+    "name": "Avaris",
+    "image_filename": "unit_icon_0038_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 20412,
+    "name": "Khmun",
+    "image_filename": "unit_icon_0038_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 20615,
+    "name": "Amduat",
+    "image_filename": "unit_icon_0039_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 20614,
+    "name": "Wedjat",
+    "image_filename": "unit_icon_0039_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 20613,
+    "name": "Imesety",
+    "image_filename": "unit_icon_0039_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 20611,
+    "name": "Qebehsenuef",
+    "image_filename": "unit_icon_0039_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 20612,
+    "name": "Duamutef",
+    "image_filename": "unit_icon_0039_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 20515,
+    "name": "Nephthys",
+    "image_filename": "unit_icon_0039_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 20514,
+    "name": "Isis",
+    "image_filename": "unit_icon_0039_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 20513,
+    "name": "Hathor",
+    "image_filename": "unit_icon_0039_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 20511,
+    "name": "Bastet",
+    "image_filename": "unit_icon_0039_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 20512,
+    "name": "Sekhmet",
+    "image_filename": "unit_icon_0039_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 20812,
+    "name": "Bulldozer",
+    "image_filename": "unit_icon_0039_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 20811,
+    "name": "Tractor",
+    "image_filename": "unit_icon_0039_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 20813,
+    "name": "Crane",
+    "image_filename": "unit_icon_0039_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 20814,
+    "name": "Driller",
+    "image_filename": "unit_icon_0039_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 20815,
+    "name": "Crawler",
+    "image_filename": "unit_icon_0039_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 20712,
+    "name": "Smokey",
+    "image_filename": "unit_icon_0040_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 20711,
+    "name": "Chilling",
+    "image_filename": "unit_icon_0040_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 20713,
+    "name": "Windy",
+    "image_filename": "unit_icon_0040_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 20714,
+    "name": "Misty",
+    "image_filename": "unit_icon_0040_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 20715,
+    "name": "Dusky",
+    "image_filename": "unit_icon_0040_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 20912,
+    "name": "Adrian",
+    "image_filename": "unit_icon_0041_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 20911,
+    "name": "Eluin",
+    "image_filename": "unit_icon_0041_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 20913,
+    "name": "Erwin",
+    "image_filename": "unit_icon_0041_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 20914,
+    "name": "Lucien",
+    "image_filename": "unit_icon_0041_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 20915,
+    "name": "Isillen",
+    "image_filename": "unit_icon_0041_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 21015,
+    "name": "Kroa",
+    "image_filename": "unit_icon_0041_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 21014,
+    "name": "Dova",
+    "image_filename": "unit_icon_0041_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 21013,
+    "name": "Raviti",
+    "image_filename": "unit_icon_0041_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 21011,
+    "name": "Remy",
+    "image_filename": "unit_icon_0041_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 21012,
+    "name": "Racuni",
+    "image_filename": "unit_icon_0041_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 21115,
+    "name": "Nyx",
+    "image_filename": "unit_icon_0040_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 21114,
+    "name": "Oberon",
+    "image_filename": "unit_icon_0040_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 21113,
+    "name": "Ganymede",
+    "image_filename": "unit_icon_0040_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 21111,
+    "name": "Psamathe",
+    "image_filename": "unit_icon_0040_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 21112,
+    "name": "Daphnis",
+    "image_filename": "unit_icon_0040_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 21212,
+    "name": "Xiong Fei",
+    "image_filename": "unit_icon_0041_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 21211,
+    "name": "Mo Long",
+    "image_filename": "unit_icon_0041_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 21213,
+    "name": "Feng Yan",
+    "image_filename": "unit_icon_0041_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 21214,
+    "name": "Tian Lang",
+    "image_filename": "unit_icon_0041_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 21215,
+    "name": "Mi Ying",
+    "image_filename": "unit_icon_0041_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 1000112,
+    "name": "Homunculus(Attack)",
+    "image_filename": "unit_icon_0042_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 1000111,
+    "name": "Homunculus(Attack)",
+    "image_filename": "unit_icon_0042_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 1000113,
+    "name": "Homunculus(Attack)",
+    "image_filename": "unit_icon_0042_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 21312,
+    "name": "Ludo",
+    "image_filename": "unit_icon_0043_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 21311,
+    "name": "Reno",
+    "image_filename": "unit_icon_0043_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 21313,
+    "name": "Morris",
+    "image_filename": "unit_icon_0043_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 21314,
+    "name": "Tablo",
+    "image_filename": "unit_icon_0043_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 21315,
+    "name": "Monte",
+    "image_filename": "unit_icon_0043_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 21411,
+    "name": "Sonnet",
+    "image_filename": "unit_icon_0043_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 21412,
+    "name": "Harmonia",
+    "image_filename": "unit_icon_0043_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 21413,
+    "name": "Triana",
+    "image_filename": "unit_icon_0043_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 21414,
+    "name": "Celia",
+    "image_filename": "unit_icon_0043_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 21415,
+    "name": "Vivachel",
+    "image_filename": "unit_icon_0043_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 21515,
+    "name": "Alexandra",
+    "image_filename": "unit_icon_0043_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 21512,
+    "name": "Helena",
+    "image_filename": "unit_icon_0043_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 21514,
+    "name": "Eleanor",
+    "image_filename": "unit_icon_0043_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 21511,
+    "name": "Amelia",
+    "image_filename": "unit_icon_0043_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 21513,
+    "name": "Diana",
+    "image_filename": "unit_icon_0043_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 1000214,
+    "name": "Homunculus(Support)",
+    "image_filename": "unit_icon_0044_2_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 1000215,
+    "name": "Homunculus(Support)",
+    "image_filename": "unit_icon_0044_3_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 21811,
+    "name": "Josephine",
+    "image_filename": "unit_icon_0044_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 21812,
+    "name": "Ophilia",
+    "image_filename": "unit_icon_0044_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 21813,
+    "name": "Louise",
+    "image_filename": "unit_icon_0044_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 21814,
+    "name": "Jeanne",
+    "image_filename": "unit_icon_0044_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 21815,
+    "name": "Leona",
+    "image_filename": "unit_icon_0044_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 21911,
+    "name": "Talia",
+    "image_filename": "unit_icon_0045_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 21912,
+    "name": "Shaina",
+    "image_filename": "unit_icon_0045_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 21913,
+    "name": "Melissa",
+    "image_filename": "unit_icon_0045_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 21914,
+    "name": "Deva",
+    "image_filename": "unit_icon_0045_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 21915,
+    "name": "Belita",
+    "image_filename": "unit_icon_0045_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 22011,
+    "name": "Sabrina",
+    "image_filename": "unit_icon_0045_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 22012,
+    "name": "Maruna",
+    "image_filename": "unit_icon_0045_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 22013,
+    "name": "Zenobia",
+    "image_filename": "unit_icon_0045_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 22014,
+    "name": "Bailey",
+    "image_filename": "unit_icon_0045_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 22015,
+    "name": "Martina",
+    "image_filename": "unit_icon_0045_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 22111,
+    "name": "Herne",
+    "image_filename": "unit_icon_0046_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 22112,
+    "name": "Nisha",
+    "image_filename": "unit_icon_0046_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 22113,
+    "name": "Mellia",
+    "image_filename": "unit_icon_0046_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 22114,
+    "name": "Felleria",
+    "image_filename": "unit_icon_0046_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 22115,
+    "name": "Hyanes",
+    "image_filename": "unit_icon_0046_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 22211,
+    "name": "Abellio",
+    "image_filename": "unit_icon_0046_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 22212,
+    "name": "Bellenus",
+    "image_filename": "unit_icon_0046_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 22213,
+    "name": "Taranys",
+    "image_filename": "unit_icon_0046_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 22214,
+    "name": "Valantis",
+    "image_filename": "unit_icon_0046_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 22215,
+    "name": "Pater",
+    "image_filename": "unit_icon_0046_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 22411,
+    "name": "Bagir",
+    "image_filename": "unit_icon_0047_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 22412,
+    "name": "Vidurr",
+    "image_filename": "unit_icon_0047_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 22413,
+    "name": "Skogul",
+    "image_filename": "unit_icon_0047_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 22414,
+    "name": "Einheri",
+    "image_filename": "unit_icon_0047_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 22415,
+    "name": "Trasar",
+    "image_filename": "unit_icon_0047_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 11034,
+    "name": "Belladeon",
+    "image_filename": "unit_icon_0051_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 22611,
+    "name": "Bolverk",
+    "image_filename": "unit_icon_0047_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 22612,
+    "name": "Baleygr",
+    "image_filename": "unit_icon_0047_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 22613,
+    "name": "Odin",
+    "image_filename": "unit_icon_0047_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 22614,
+    "name": "Geldnir",
+    "image_filename": "unit_icon_0047_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 22615,
+    "name": "Herteit",
+    "image_filename": "unit_icon_0047_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 22711,
+    "name": "Covenant",
+    "image_filename": "unit_icon_0048_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 22712,
+    "name": "Carcano",
+    "image_filename": "unit_icon_0048_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 22713,
+    "name": "Carbine",
+    "image_filename": "unit_icon_0048_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 22714,
+    "name": "Magnum",
+    "image_filename": "unit_icon_0048_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 22715,
+    "name": "Dragunov",
+    "image_filename": "unit_icon_0048_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 11035,
+    "name": "Kro",
+    "image_filename": "unit_icon_0051_4_3.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 22911,
+    "name": "Abigail",
+    "image_filename": "unit_icon_0049_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 22912,
+    "name": "Scarlett",
+    "image_filename": "unit_icon_0049_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 22913,
+    "name": "Christina",
+    "image_filename": "unit_icon_0049_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 22914,
+    "name": "Emily",
+    "image_filename": "unit_icon_0049_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 22915,
+    "name": "Bella",
+    "image_filename": "unit_icon_0049_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 23015,
+    "name": "Eirgar",
+    "image_filename": "unit_icon_0050_0_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 10131,
+    "name": "Elucia",
+    "image_filename": "unit_icon_0051_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 10132,
+    "name": "Iselia",
+    "image_filename": "unit_icon_0051_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 10133,
+    "name": "Aeilene",
+    "image_filename": "unit_icon_0051_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 10134,
+    "name": "Neal",
+    "image_filename": "unit_icon_0051_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 10135,
+    "name": "Sorin",
+    "image_filename": "unit_icon_0051_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 10331,
+    "name": "Kacey",
+    "image_filename": "unit_icon_0051_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 10332,
+    "name": "Tatu",
+    "image_filename": "unit_icon_0051_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 10333,
+    "name": "Shannon",
+    "image_filename": "unit_icon_0051_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 10334,
+    "name": "Cheryl",
+    "image_filename": "unit_icon_0051_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 10335,
+    "name": "Camaryn",
+    "image_filename": "unit_icon_0051_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 10731,
+    "name": "Dagora",
+    "image_filename": "unit_icon_0051_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 10732,
+    "name": "Ursha",
+    "image_filename": "unit_icon_0051_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 10733,
+    "name": "Ramagos",
+    "image_filename": "unit_icon_0051_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 10734,
+    "name": "Lusha",
+    "image_filename": "unit_icon_0051_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 10735,
+    "name": "Gorgo",
+    "image_filename": "unit_icon_0051_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 11031,
+    "name": "Icaru",
+    "image_filename": "unit_icon_0051_0_3.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 11032,
+    "name": "Raoq",
+    "image_filename": "unit_icon_0051_1_3.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 11033,
+    "name": "Ramahan",
+    "image_filename": "unit_icon_0051_2_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 23111,
+    "name": "Belial",
+    "image_filename": "unit_icon_0052_0_4.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 23112,
+    "name": "Bael",
+    "image_filename": "unit_icon_0052_1_4.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 23113,
+    "name": "Mephisto",
+    "image_filename": "unit_icon_0052_2_4.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 23114,
+    "name": "Lucifer",
+    "image_filename": "unit_icon_0052_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 23115,
+    "name": "Beelzebub",
+    "image_filename": "unit_icon_0052_4_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 23311,
+    "name": "Tanzaite",
+    "image_filename": "unit_icon_0052_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 23312,
+    "name": "Kunite",
+    "image_filename": "unit_icon_0052_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 23313,
+    "name": "Malite",
+    "image_filename": "unit_icon_0052_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 23314,
+    "name": "Phenaka",
+    "image_filename": "unit_icon_0052_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 23315,
+    "name": "Onyx",
+    "image_filename": "unit_icon_0052_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 14031,
+    "name": "Vigor",
+    "image_filename": "unit_icon_0053_0_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 14032,
+    "name": "Garoche",
+    "image_filename": "unit_icon_0053_1_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 14033,
+    "name": "Shakan",
+    "image_filename": "unit_icon_0053_2_1.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 14034,
+    "name": "Eshir",
+    "image_filename": "unit_icon_0053_3_1.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 14035,
+    "name": "Jultan",
+    "image_filename": "unit_icon_0053_4_1.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 15031,
+    "name": "Mina",
+    "image_filename": "unit_icon_0053_0_2.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 15032,
+    "name": "Mei",
+    "image_filename": "unit_icon_0053_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 15033,
+    "name": "Naomi",
+    "image_filename": "unit_icon_0053_2_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 15034,
+    "name": "Xiao Ling",
+    "image_filename": "unit_icon_0053_3_2.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 15035,
+    "name": "Miho",
+    "image_filename": "unit_icon_0053_4_2.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 23511,
+    "name": "Barbara",
+    "image_filename": "unit_icon_0054_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 23512,
+    "name": "Masha",
+    "image_filename": "unit_icon_0054_1_0.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 23513,
+    "name": "Savannah",
+    "image_filename": "unit_icon_0054_2_0.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 23514,
+    "name": "Narsha",
+    "image_filename": "unit_icon_0054_3_0.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 23515,
+    "name": "Xiana",
+    "image_filename": "unit_icon_0054_4_0.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 11531,
+    "name": "Kahn",
+    "image_filename": "unit_icon_0055_0_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 11532,
+    "name": "Spectra",
+    "image_filename": "unit_icon_0055_0_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 11533,
+    "name": "Bernard",
+    "image_filename": "unit_icon_0055_0_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 11534,
+    "name": "Shamann",
+    "image_filename": "unit_icon_0055_0_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 11535,
+    "name": "Varus",
+    "image_filename": "unit_icon_0055_0_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 23711,
+    "name": "Haegang",
+    "image_filename": "unit_icon_0056_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 23712,
+    "name": "Jeogun",
+    "image_filename": "unit_icon_0056_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 23713,
+    "name": "Cheongpung",
+    "image_filename": "unit_icon_0056_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 23714,
+    "name": "Hanwul",
+    "image_filename": "unit_icon_0056_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 23715,
+    "name": "Mookwol",
+    "image_filename": "unit_icon_0056_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 23911,
+    "name": "Songseol",
+    "image_filename": "unit_icon_0057_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 23912,
+    "name": "Hongyeon",
+    "image_filename": "unit_icon_0057_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 23913,
+    "name": "Yeonhwa",
+    "image_filename": "unit_icon_0057_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 23914,
+    "name": "Dongbaek",
+    "image_filename": "unit_icon_0057_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 23915,
+    "name": "Mirinae",
+    "image_filename": "unit_icon_0057_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 24011,
+    "name": "Douglas",
+    "image_filename": "unit_icon_0059_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 24012,
+    "name": "Douglas",
+    "image_filename": "unit_icon_0059_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 24013,
+    "name": "Douglas",
+    "image_filename": "unit_icon_0059_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 24014,
+    "name": "Douglas",
+    "image_filename": "unit_icon_0059_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 24015,
+    "name": "Douglas",
+    "image_filename": "unit_icon_0059_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 24112,
+    "name": "KEN",
+    "image_filename": "unit_icon_0060_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 24211,
+    "name": "M. BISON",
+    "image_filename": "unit_icon_0061_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 24212,
+    "name": "M. BISON",
+    "image_filename": "unit_icon_0061_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 24213,
+    "name": "M. BISON",
+    "image_filename": "unit_icon_0061_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 24214,
+    "name": "M. BISON",
+    "image_filename": "unit_icon_0061_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 24215,
+    "name": "M. BISON",
+    "image_filename": "unit_icon_0061_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 24311,
+    "name": "DHALSIM",
+    "image_filename": "unit_icon_0063_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 24312,
+    "name": "DHALSIM",
+    "image_filename": "unit_icon_0063_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 24313,
+    "name": "DHALSIM",
+    "image_filename": "unit_icon_0063_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 24314,
+    "name": "DHALSIM",
+    "image_filename": "unit_icon_0063_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 24315,
+    "name": "DHALSIM",
+    "image_filename": "unit_icon_0063_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 24411,
+    "name": "CHUN-LI",
+    "image_filename": "unit_icon_0062_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 24412,
+    "name": "CHUN-LI",
+    "image_filename": "unit_icon_0062_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 24413,
+    "name": "CHUN-LI",
+    "image_filename": "unit_icon_0062_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 24414,
+    "name": "CHUN-LI",
+    "image_filename": "unit_icon_0062_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 24415,
+    "name": "CHUN-LI",
+    "image_filename": "unit_icon_0062_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 24511,
+    "name": "Moore",
+    "image_filename": "unit_icon_0066_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 24512,
+    "name": "Douglas",
+    "image_filename": "unit_icon_0066_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 24513,
+    "name": "Kashmir",
+    "image_filename": "unit_icon_0066_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 24514,
+    "name": "Talisman",
+    "image_filename": "unit_icon_0066_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 24515,
+    "name": "Vancliffe",
+    "image_filename": "unit_icon_0066_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 24612,
+    "name": "Bernadotte",
+    "image_filename": "unit_icon_0067_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 24711,
+    "name": "Borgnine",
+    "image_filename": "unit_icon_0068_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 24712,
+    "name": "Karnal",
+    "image_filename": "unit_icon_0068_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 24713,
+    "name": "Sagar",
+    "image_filename": "unit_icon_0068_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 24714,
+    "name": "Craig",
+    "image_filename": "unit_icon_0068_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 24715,
+    "name": "Gurkha",
+    "image_filename": "unit_icon_0068_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 24811,
+    "name": "Kyle",
+    "image_filename": "unit_icon_0064_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 24812,
+    "name": "Todd",
+    "image_filename": "unit_icon_0064_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 24813,
+    "name": "Jarrett",
+    "image_filename": "unit_icon_0064_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 24814,
+    "name": "Hekerson",
+    "image_filename": "unit_icon_0064_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 24815,
+    "name": "Cayde",
+    "image_filename": "unit_icon_0064_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 24911,
+    "name": "Lariel",
+    "image_filename": "unit_icon_0065_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 24912,
+    "name": "Berenice",
+    "image_filename": "unit_icon_0065_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 24913,
+    "name": "Cordelia",
+    "image_filename": "unit_icon_0065_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 24914,
+    "name": "Leah",
+    "image_filename": "unit_icon_0065_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 24915,
+    "name": "Vereesa",
+    "image_filename": "unit_icon_0065_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 13231,
+    "name": "Lulu and Friends",
+    "image_filename": "unit_icon_0070_3_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 13232,
+    "name": "Lala and Friends",
+    "image_filename": "unit_icon_0070_3_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 13233,
+    "name": "Chichi and Friends",
+    "image_filename": "unit_icon_0070_3_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 13234,
+    "name": "Shushu and Friends",
+    "image_filename": "unit_icon_0070_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 13235,
+    "name": "Chacha and Friends",
+    "image_filename": "unit_icon_0070_3_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 16031,
+    "name": "Hemos",
+    "image_filename": "unit_icon_0071_3_0.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 16032,
+    "name": "Sath",
+    "image_filename": "unit_icon_0071_3_1.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 16033,
+    "name": "Hiva",
+    "image_filename": "unit_icon_0071_3_2.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 16034,
+    "name": "Prom",
+    "image_filename": "unit_icon_0071_3_3.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 16035,
+    "name": "Thrain",
+    "image_filename": "unit_icon_0071_3_4.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 25413,
+    "name": "ROBO-G92",
+    "image_filename": "unit_icon_0077_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 25011,
+    "name": "Shizuka",
+    "image_filename": "unit_icon_0072_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 25012,
+    "name": "Tomoe",
+    "image_filename": "unit_icon_0072_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 25013,
+    "name": "Giou",
+    "image_filename": "unit_icon_0072_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 25014,
+    "name": "Seimei",
+    "image_filename": "unit_icon_0072_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 25015,
+    "name": "Douman",
+    "image_filename": "unit_icon_0072_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 25111,
+    "name": "Suiki",
+    "image_filename": "unit_icon_0073_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 25112,
+    "name": "Kaki",
+    "image_filename": "unit_icon_0073_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 25113,
+    "name": "Fuuki",
+    "image_filename": "unit_icon_0073_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 25114,
+    "name": "Kinki",
+    "image_filename": "unit_icon_0073_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 25211,
+    "name": "Nana",
+    "image_filename": "unit_icon_0075_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 25212,
+    "name": "Coco",
+    "image_filename": "unit_icon_0075_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 25213,
+    "name": "Momo",
+    "image_filename": "unit_icon_0075_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 25214,
+    "name": "Dorothy",
+    "image_filename": "unit_icon_0075_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 25215,
+    "name": "Kiki",
+    "image_filename": "unit_icon_0075_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 25311,
+    "name": "Miles",
+    "image_filename": "unit_icon_0076_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 25312,
+    "name": "John",
+    "image_filename": "unit_icon_0076_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 25313,
+    "name": "Oliver",
+    "image_filename": "unit_icon_0076_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 25314,
+    "name": "Daniel",
+    "image_filename": "unit_icon_0076_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 25315,
+    "name": "Jackson",
+    "image_filename": "unit_icon_0076_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 25411,
+    "name": "ROBO-R40",
+    "image_filename": "unit_icon_0077_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 25412,
+    "name": "ROBO-P27",
+    "image_filename": "unit_icon_0077_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 25414,
+    "name": "ROBO-E65",
+    "image_filename": "unit_icon_0077_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 25415,
+    "name": "ROBO-F29",
+    "image_filename": "unit_icon_0077_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 25611,
+    "name": "Aaliyah",
+    "image_filename": "unit_icon_0078_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 25612,
+    "name": "Nora",
+    "image_filename": "unit_icon_0078_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 25613,
+    "name": "Riley",
+    "image_filename": "unit_icon_0078_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 25614,
+    "name": "Ella",
+    "image_filename": "unit_icon_0078_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 25615,
+    "name": "Maya",
+    "image_filename": "unit_icon_0078_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 25711,
+    "name": "Liam",
+    "image_filename": "unit_icon_0080_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 25712,
+    "name": "Carlos",
+    "image_filename": "unit_icon_0080_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 25713,
+    "name": "Dominic",
+    "image_filename": "unit_icon_0080_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 25714,
+    "name": "Benedict",
+    "image_filename": "unit_icon_0080_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 25715,
+    "name": "Maximilian",
+    "image_filename": "unit_icon_0080_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 25811,
+    "name": "Susan",
+    "image_filename": "unit_icon_0081_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 25812,
+    "name": "Miriam",
+    "image_filename": "unit_icon_0081_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 25813,
+    "name": "Celine",
+    "image_filename": "unit_icon_0081_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 25814,
+    "name": "Madeleine",
+    "image_filename": "unit_icon_0081_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 25815,
+    "name": "Deborah",
+    "image_filename": "unit_icon_0081_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 15231,
+    "name": "Allen",
+    "image_filename": "unit_icon_0082_3_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 15232,
+    "name": "Kai'en",
+    "image_filename": "unit_icon_0082_3_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 15233,
+    "name": "Roid",
+    "image_filename": "unit_icon_0082_3_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 15234,
+    "name": "Darion",
+    "image_filename": "unit_icon_0082_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 15235,
+    "name": "Jubelle",
+    "image_filename": "unit_icon_0082_3_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 15931,
+    "name": "Megan",
+    "image_filename": "unit_icon_0083_3_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 15932,
+    "name": "Rebecca",
+    "image_filename": "unit_icon_0083_3_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 15933,
+    "name": "Silia",
+    "image_filename": "unit_icon_0083_3_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 15934,
+    "name": "Linda",
+    "image_filename": "unit_icon_0083_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 15935,
+    "name": "Gina",
+    "image_filename": "unit_icon_0083_3_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 28513,
+    "name": "Usha",
+    "image_filename": "unit_icon_0119_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 25911,
+    "name": "Minato",
+    "image_filename": "unit_icon_0086_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 25912,
+    "name": "Ren",
+    "image_filename": "unit_icon_0086_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 25913,
+    "name": "Zen",
+    "image_filename": "unit_icon_0086_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 25914,
+    "name": "Shun",
+    "image_filename": "unit_icon_0086_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 25915,
+    "name": "Ritsu",
+    "image_filename": "unit_icon_0086_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 26011,
+    "name": "Birman",
+    "image_filename": "unit_icon_0085_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 26012,
+    "name": "Manx",
+    "image_filename": "unit_icon_0085_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 26013,
+    "name": "Nebelung",
+    "image_filename": "unit_icon_0085_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 26014,
+    "name": "Siamese",
+    "image_filename": "unit_icon_0085_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 26015,
+    "name": "Bombay",
+    "image_filename": "unit_icon_0085_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 26111,
+    "name": "Amber",
+    "image_filename": "unit_icon_0087_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 26112,
+    "name": "Claire",
+    "image_filename": "unit_icon_0087_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 26113,
+    "name": "Sonia",
+    "image_filename": "unit_icon_0087_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 26114,
+    "name": "Veronica",
+    "image_filename": "unit_icon_0087_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 26115,
+    "name": "Destiny",
+    "image_filename": "unit_icon_0087_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 26213,
+    "name": "Thomas",
+    "image_filename": "unit_icon_0089_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 26311,
+    "name": "Lucia",
+    "image_filename": "unit_icon_0093_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 26312,
+    "name": "Lucia",
+    "image_filename": "unit_icon_0093_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 26313,
+    "name": "Lucia",
+    "image_filename": "unit_icon_0093_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 26314,
+    "name": "Lucia",
+    "image_filename": "unit_icon_0093_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 26315,
+    "name": "Lucia",
+    "image_filename": "unit_icon_0093_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 26411,
+    "name": "Alice",
+    "image_filename": "unit_icon_0092_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 26412,
+    "name": "Alice",
+    "image_filename": "unit_icon_0092_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 26413,
+    "name": "Alice",
+    "image_filename": "unit_icon_0092_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 26414,
+    "name": "Alice",
+    "image_filename": "unit_icon_0092_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 26415,
+    "name": "Alice",
+    "image_filename": "unit_icon_0092_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 26511,
+    "name": "Hibiscus",
+    "image_filename": "unit_icon_0090_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 26512,
+    "name": "Hibiscus",
+    "image_filename": "unit_icon_0090_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 26513,
+    "name": "Hibiscus",
+    "image_filename": "unit_icon_0090_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 26514,
+    "name": "Hibiscus",
+    "image_filename": "unit_icon_0090_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 26515,
+    "name": "Hibiscus",
+    "image_filename": "unit_icon_0090_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 26611,
+    "name": "Pavé",
+    "image_filename": "unit_icon_0091_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 26612,
+    "name": "Pavé",
+    "image_filename": "unit_icon_0091_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 26613,
+    "name": "Pavé",
+    "image_filename": "unit_icon_0091_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 26614,
+    "name": "Pavé",
+    "image_filename": "unit_icon_0091_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 26615,
+    "name": "Pavé",
+    "image_filename": "unit_icon_0091_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 26713,
+    "name": "Thomas",
+    "image_filename": "unit_icon_0096_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 26811,
+    "name": "Adriana",
+    "image_filename": "unit_icon_0099_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 26812,
+    "name": "Lucia",
+    "image_filename": "unit_icon_0099_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 26813,
+    "name": "Angela",
+    "image_filename": "unit_icon_0099_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 26814,
+    "name": "Ariana",
+    "image_filename": "unit_icon_0099_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 26815,
+    "name": "Elena",
+    "image_filename": "unit_icon_0099_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 26911,
+    "name": "Manon",
+    "image_filename": "unit_icon_0097_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 26912,
+    "name": "Alice",
+    "image_filename": "unit_icon_0097_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 26913,
+    "name": "Jade",
+    "image_filename": "unit_icon_0097_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 26914,
+    "name": "Audrey",
+    "image_filename": "unit_icon_0097_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 26915,
+    "name": "Giselle",
+    "image_filename": "unit_icon_0097_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 27011,
+    "name": "Rosemary",
+    "image_filename": "unit_icon_0100_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 27012,
+    "name": "Hibiscus",
+    "image_filename": "unit_icon_0100_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 27013,
+    "name": "Chamomile",
+    "image_filename": "unit_icon_0100_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 27014,
+    "name": "Jasmine",
+    "image_filename": "unit_icon_0100_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 27015,
+    "name": "Lavender",
+    "image_filename": "unit_icon_0100_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 27111,
+    "name": "Ganache",
+    "image_filename": "unit_icon_0098_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 27112,
+    "name": "Pavé",
+    "image_filename": "unit_icon_0098_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 27113,
+    "name": "Praline",
+    "image_filename": "unit_icon_0098_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 27114,
+    "name": "Fudge",
+    "image_filename": "unit_icon_0098_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 27115,
+    "name": "Truffle",
+    "image_filename": "unit_icon_0098_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 27211,
+    "name": "Zibala",
+    "image_filename": "unit_icon_0106_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 27212,
+    "name": "Zima",
+    "image_filename": "unit_icon_0106_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 27213,
+    "name": "Smicer",
+    "image_filename": "unit_icon_0106_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 27214,
+    "name": "Kovarci",
+    "image_filename": "unit_icon_0106_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 27215,
+    "name": "Zenisek",
+    "image_filename": "unit_icon_0106_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 27314,
+    "name": "Frederic",
+    "image_filename": "unit_icon_0111_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 27411,
+    "name": "Patric",
+    "image_filename": "unit_icon_0109_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 27412,
+    "name": "Patric",
+    "image_filename": "unit_icon_0109_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 27413,
+    "name": "Patric",
+    "image_filename": "unit_icon_0109_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 27414,
+    "name": "Patric",
+    "image_filename": "unit_icon_0109_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 27415,
+    "name": "Patric",
+    "image_filename": "unit_icon_0109_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 27511,
+    "name": "Ashour",
+    "image_filename": "unit_icon_0110_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 27512,
+    "name": "Ashour",
+    "image_filename": "unit_icon_0110_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 27513,
+    "name": "Ashour",
+    "image_filename": "unit_icon_0110_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 27514,
+    "name": "Ashour",
+    "image_filename": "unit_icon_0110_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 27515,
+    "name": "Ashour",
+    "image_filename": "unit_icon_0110_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 27613,
+    "name": "Federica",
+    "image_filename": "unit_icon_0108_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 27614,
+    "name": "Federica",
+    "image_filename": "unit_icon_0108_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 27615,
+    "name": "Federica",
+    "image_filename": "unit_icon_0108_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 27711,
+    "name": "Brita",
+    "image_filename": "unit_icon_0107_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 27712,
+    "name": "Federica",
+    "image_filename": "unit_icon_0107_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 27713,
+    "name": "Cordelia",
+    "image_filename": "unit_icon_0107_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 27714,
+    "name": "Varin",
+    "image_filename": "unit_icon_0107_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 27715,
+    "name": "Havi",
+    "image_filename": "unit_icon_0107_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 27814,
+    "name": "Frederic",
+    "image_filename": "unit_icon_0113_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 27911,
+    "name": "Lionel",
+    "image_filename": "unit_icon_0114_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 27912,
+    "name": "Patrick",
+    "image_filename": "unit_icon_0114_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 27913,
+    "name": "Hector",
+    "image_filename": "unit_icon_0114_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 27914,
+    "name": "Ian",
+    "image_filename": "unit_icon_0114_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 27915,
+    "name": "Evan",
+    "image_filename": "unit_icon_0114_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 28011,
+    "name": "Omar",
+    "image_filename": "unit_icon_0115_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 28012,
+    "name": "Ashour",
+    "image_filename": "unit_icon_0115_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 28013,
+    "name": "Shahat",
+    "image_filename": "unit_icon_0115_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 28014,
+    "name": "Ahmed",
+    "image_filename": "unit_icon_0115_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 28015,
+    "name": "Salah",
+    "image_filename": "unit_icon_0115_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 28111,
+    "name": "Kalantatze",
+    "image_filename": "unit_icon_0116_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 28112,
+    "name": "Federica",
+    "image_filename": "unit_icon_0116_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 28113,
+    "name": "Eleni",
+    "image_filename": "unit_icon_0116_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 28114,
+    "name": "Aurelia",
+    "image_filename": "unit_icon_0116_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 28115,
+    "name": "Kiara",
+    "image_filename": "unit_icon_0116_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 28211,
+    "name": "Brita",
+    "image_filename": "unit_icon_0117_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 28212,
+    "name": "Solveig",
+    "image_filename": "unit_icon_0117_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 28213,
+    "name": "Astrid",
+    "image_filename": "unit_icon_0117_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 28214,
+    "name": "Berghild",
+    "image_filename": "unit_icon_0117_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 28215,
+    "name": "Sigrid",
+    "image_filename": "unit_icon_0117_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 28311,
+    "name": "Parjanya",
+    "image_filename": "unit_icon_0118_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 28312,
+    "name": "Vendhan",
+    "image_filename": "unit_icon_0118_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 28313,
+    "name": "Chakra",
+    "image_filename": "unit_icon_0118_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 28314,
+    "name": "Dyeus",
+    "image_filename": "unit_icon_0118_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 28315,
+    "name": "Devaraja",
+    "image_filename": "unit_icon_0118_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 28511,
+    "name": "Mayasura",
+    "image_filename": "unit_icon_0119_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 28512,
+    "name": "Varuna",
+    "image_filename": "unit_icon_0119_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 28514,
+    "name": "Danu",
+    "image_filename": "unit_icon_0119_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 28515,
+    "name": "Vritra",
+    "image_filename": "unit_icon_0119_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 16531,
+    "name": "Nickel",
+    "image_filename": "unit_icon_0125_3_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 16532,
+    "name": "Iron",
+    "image_filename": "unit_icon_0125_3_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 16533,
+    "name": "Copper",
+    "image_filename": "unit_icon_0125_3_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 16534,
+    "name": "Silver",
+    "image_filename": "unit_icon_0125_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 16535,
+    "name": "Zinc",
+    "image_filename": "unit_icon_0125_3_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 20831,
+    "name": "Tractor",
+    "image_filename": "unit_icon_0126_3_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 20832,
+    "name": "Bulldozer",
+    "image_filename": "unit_icon_0126_3_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 20833,
+    "name": "Crane",
+    "image_filename": "unit_icon_0126_3_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 20834,
+    "name": "Driller",
+    "image_filename": "unit_icon_0126_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 20835,
+    "name": "Crawler",
+    "image_filename": "unit_icon_0126_3_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 28611,
+    "name": "Irène",
+    "image_filename": "unit_icon_0127_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 28612,
+    "name": "Bloodya",
+    "image_filename": "unit_icon_0127_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 28613,
+    "name": "Layla",
+    "image_filename": "unit_icon_0127_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 28614,
+    "name": "Jessica",
+    "image_filename": "unit_icon_0127_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 28615,
+    "name": "Liliana",
+    "image_filename": "unit_icon_0127_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 28911,
+    "name": "Jeongnam",
+    "image_filename": "unit_icon_0133_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 28912,
+    "name": "Moogwang",
+    "image_filename": "unit_icon_0133_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 28913,
+    "name": "Byungchul",
+    "image_filename": "unit_icon_0133_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 28914,
+    "name": "Euldong",
+    "image_filename": "unit_icon_0133_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 28915,
+    "name": "Gapsoo",
+    "image_filename": "unit_icon_0133_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 29011,
+    "name": "Minji and Sapsaree",
+    "image_filename": "unit_icon_0132_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 29012,
+    "name": "Yeji and Sapsaree",
+    "image_filename": "unit_icon_0132_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 29013,
+    "name": "Yuna and Sapsaree",
+    "image_filename": "unit_icon_0132_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 29014,
+    "name": "Eunbee and Sapsaree",
+    "image_filename": "unit_icon_0132_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 29015,
+    "name": "Damee and Sapsaree",
+    "image_filename": "unit_icon_0132_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 29111,
+    "name": "Ramael and Judiah",
+    "image_filename": "unit_icon_0136_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 29112,
+    "name": "Karuel and Lanoah",
+    "image_filename": "unit_icon_0136_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 29113,
+    "name": "Sadiel and Zeryah",
+    "image_filename": "unit_icon_0136_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 29114,
+    "name": "Miruel and Graciah",
+    "image_filename": "unit_icon_0136_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 29115,
+    "name": "Jaduel and Aepiah",
+    "image_filename": "unit_icon_0136_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 29211,
+    "name": "Magnus",
+    "image_filename": "unit_icon_0141_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 29212,
+    "name": "Magnus",
+    "image_filename": "unit_icon_0141_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 29213,
+    "name": "Magnus",
+    "image_filename": "unit_icon_0141_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 29214,
+    "name": "Magnus",
+    "image_filename": "unit_icon_0141_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 29215,
+    "name": "Magnus",
+    "image_filename": "unit_icon_0141_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 29311,
+    "name": "Reyka",
+    "image_filename": "unit_icon_0142_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 29312,
+    "name": "Reyka",
+    "image_filename": "unit_icon_0142_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 29313,
+    "name": "Reyka",
+    "image_filename": "unit_icon_0142_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 29314,
+    "name": "Reyka",
+    "image_filename": "unit_icon_0142_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 29315,
+    "name": "Reyka",
+    "image_filename": "unit_icon_0142_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 29411,
+    "name": "Tarnisha",
+    "image_filename": "unit_icon_0143_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 29412,
+    "name": "Tarnisha",
+    "image_filename": "unit_icon_0143_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 29413,
+    "name": "Tarnisha",
+    "image_filename": "unit_icon_0143_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 29414,
+    "name": "Tarnisha",
+    "image_filename": "unit_icon_0143_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 29415,
+    "name": "Tarnisha",
+    "image_filename": "unit_icon_0143_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 29511,
+    "name": "Enshia",
+    "image_filename": "unit_icon_0144_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 29512,
+    "name": "Enshia",
+    "image_filename": "unit_icon_0144_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 29513,
+    "name": "Enshia",
+    "image_filename": "unit_icon_0144_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 29514,
+    "name": "Enshia",
+    "image_filename": "unit_icon_0144_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 29515,
+    "name": "Enshia",
+    "image_filename": "unit_icon_0144_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 30011,
+    "name": "K1D",
+    "image_filename": "unit_icon_0146_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 30012,
+    "name": "7R1X",
+    "image_filename": "unit_icon_0146_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 30013,
+    "name": "570RM",
+    "image_filename": "unit_icon_0146_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 30014,
+    "name": "51LV3R",
+    "image_filename": "unit_icon_0146_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 30015,
+    "name": "N1X",
+    "image_filename": "unit_icon_0146_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 30111,
+    "name": "Lorenza",
+    "image_filename": "unit_icon_0145_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 30112,
+    "name": "Carmella",
+    "image_filename": "unit_icon_0145_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 30113,
+    "name": "Eliza",
+    "image_filename": "unit_icon_0145_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 30114,
+    "name": "Alesia",
+    "image_filename": "unit_icon_0145_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 30115,
+    "name": "Roberta",
+    "image_filename": "unit_icon_0145_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 29711,
+    "name": "Rigna",
+    "image_filename": "unit_icon_0151_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 29712,
+    "name": "Reyka",
+    "image_filename": "unit_icon_0151_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 29713,
+    "name": "Tirsa",
+    "image_filename": "unit_icon_0151_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 29714,
+    "name": "Birgitta",
+    "image_filename": "unit_icon_0151_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 29715,
+    "name": "Fiona",
+    "image_filename": "unit_icon_0151_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 29811,
+    "name": "Johanna",
+    "image_filename": "unit_icon_0152_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 29812,
+    "name": "Tarnisha",
+    "image_filename": "unit_icon_0152_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 29813,
+    "name": "Hexarina",
+    "image_filename": "unit_icon_0152_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 29814,
+    "name": "Arcana",
+    "image_filename": "unit_icon_0152_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 29815,
+    "name": "Hilda",
+    "image_filename": "unit_icon_0152_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 29911,
+    "name": "Lumina",
+    "image_filename": "unit_icon_0153_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 29912,
+    "name": "Enshia",
+    "image_filename": "unit_icon_0153_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 29913,
+    "name": "Nobella",
+    "image_filename": "unit_icon_0153_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 29914,
+    "name": "Groa",
+    "image_filename": "unit_icon_0153_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 29915,
+    "name": "Celestara",
+    "image_filename": "unit_icon_0153_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 30215,
+    "name": "Ryomen Sukuna",
+    "image_filename": "unit_icon_0154_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 32211,
+    "name": "Qilin Slasher",
+    "image_filename": "unit_icon_0169_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 30311,
+    "name": "Werner",
+    "image_filename": "unit_icon_0158_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 30312,
+    "name": "Werner",
+    "image_filename": "unit_icon_0158_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 30313,
+    "name": "Werner",
+    "image_filename": "unit_icon_0158_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 30314,
+    "name": "Werner",
+    "image_filename": "unit_icon_0158_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 30315,
+    "name": "Werner",
+    "image_filename": "unit_icon_0158_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 30411,
+    "name": "Rick",
+    "image_filename": "unit_icon_0155_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 30412,
+    "name": "Rick",
+    "image_filename": "unit_icon_0155_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 30413,
+    "name": "Rick",
+    "image_filename": "unit_icon_0155_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 30414,
+    "name": "Rick",
+    "image_filename": "unit_icon_0155_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 30415,
+    "name": "Rick",
+    "image_filename": "unit_icon_0155_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 30511,
+    "name": "Tetsuya",
+    "image_filename": "unit_icon_0157_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 30512,
+    "name": "Tetsuya",
+    "image_filename": "unit_icon_0157_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 30513,
+    "name": "Tetsuya",
+    "image_filename": "unit_icon_0157_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 30514,
+    "name": "Tetsuya",
+    "image_filename": "unit_icon_0157_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 30515,
+    "name": "Tetsuya",
+    "image_filename": "unit_icon_0157_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 30611,
+    "name": "Aya",
+    "image_filename": "unit_icon_0156_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 30612,
+    "name": "Aya",
+    "image_filename": "unit_icon_0156_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 30613,
+    "name": "Aya",
+    "image_filename": "unit_icon_0156_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 30614,
+    "name": "Aya",
+    "image_filename": "unit_icon_0156_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 30615,
+    "name": "Aya",
+    "image_filename": "unit_icon_0156_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 12131,
+    "name": "Sisroo",
+    "image_filename": "unit_icon_0160_3_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 12132,
+    "name": "Colleen",
+    "image_filename": "unit_icon_0160_3_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 12133,
+    "name": "Seal",
+    "image_filename": "unit_icon_0160_3_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 12134,
+    "name": "Sia",
+    "image_filename": "unit_icon_0160_3_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 12135,
+    "name": "Seren",
+    "image_filename": "unit_icon_0160_3_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 30711,
+    "name": "Solvark",
+    "image_filename": "unit_icon_0161_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 30712,
+    "name": "Deragron",
+    "image_filename": "unit_icon_0161_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 30713,
+    "name": "Ereshion",
+    "image_filename": "unit_icon_0161_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 30714,
+    "name": "Fridrion",
+    "image_filename": "unit_icon_0161_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 30715,
+    "name": "Drakar",
+    "image_filename": "unit_icon_0161_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 30815,
+    "name": "Hayato",
+    "image_filename": "unit_icon_0162_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 30911,
+    "name": "Werner",
+    "image_filename": "unit_icon_0166_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 30912,
+    "name": "Werner",
+    "image_filename": "unit_icon_0166_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 30913,
+    "name": "Werner",
+    "image_filename": "unit_icon_0166_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 30914,
+    "name": "Werner",
+    "image_filename": "unit_icon_0166_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 30915,
+    "name": "Werner",
+    "image_filename": "unit_icon_0166_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 31011,
+    "name": "Rick",
+    "image_filename": "unit_icon_0163_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 31012,
+    "name": "Rick",
+    "image_filename": "unit_icon_0163_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 31013,
+    "name": "Rick",
+    "image_filename": "unit_icon_0163_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 31014,
+    "name": "Rick",
+    "image_filename": "unit_icon_0163_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 31015,
+    "name": "Rick",
+    "image_filename": "unit_icon_0163_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 31111,
+    "name": "Tetsuya",
+    "image_filename": "unit_icon_0165_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 31112,
+    "name": "Tetsuya",
+    "image_filename": "unit_icon_0165_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 31113,
+    "name": "Tetsuya",
+    "image_filename": "unit_icon_0165_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 31114,
+    "name": "Tetsuya",
+    "image_filename": "unit_icon_0165_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 31115,
+    "name": "Tetsuya",
+    "image_filename": "unit_icon_0165_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 31211,
+    "name": "Aya",
+    "image_filename": "unit_icon_0164_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 31212,
+    "name": "Aya",
+    "image_filename": "unit_icon_0164_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 31213,
+    "name": "Aya",
+    "image_filename": "unit_icon_0164_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 31214,
+    "name": "Aya",
+    "image_filename": "unit_icon_0164_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 31215,
+    "name": "Aya",
+    "image_filename": "unit_icon_0164_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 31311,
+    "name": "Lamiella",
+    "image_filename": "unit_icon_0175_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 31312,
+    "name": "Theodora",
+    "image_filename": "unit_icon_0175_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 31313,
+    "name": "Orphina",
+    "image_filename": "unit_icon_0175_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 31314,
+    "name": "Mortera",
+    "image_filename": "unit_icon_0175_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 31315,
+    "name": "Velaska",
+    "image_filename": "unit_icon_0175_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 31411,
+    "name": "Mork",
+    "image_filename": "unit_icon_0176_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 31412,
+    "name": "Rex",
+    "image_filename": "unit_icon_0176_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 31413,
+    "name": "Gronn",
+    "image_filename": "unit_icon_0176_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 31414,
+    "name": "Ramon",
+    "image_filename": "unit_icon_0176_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 31415,
+    "name": "Volg",
+    "image_filename": "unit_icon_0176_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 31713,
+    "name": "Black Tortoise Champion",
+    "image_filename": "unit_icon_0171_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 31811,
+    "name": "Azure Dragon Swordsman",
+    "image_filename": "unit_icon_0167_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 31812,
+    "name": "Azure Dragon Swordsman",
+    "image_filename": "unit_icon_0167_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 31813,
+    "name": "Azure Dragon Swordsman",
+    "image_filename": "unit_icon_0167_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 31814,
+    "name": "Azure Dragon Swordsman",
+    "image_filename": "unit_icon_0167_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 31815,
+    "name": "Azure Dragon Swordsman",
+    "image_filename": "unit_icon_0167_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 31911,
+    "name": "Vermilion Bird Dancer",
+    "image_filename": "unit_icon_0168_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 31912,
+    "name": "Vermilion Bird Dancer",
+    "image_filename": "unit_icon_0168_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 31913,
+    "name": "Vermilion Bird Dancer",
+    "image_filename": "unit_icon_0168_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 31914,
+    "name": "Vermilion Bird Dancer",
+    "image_filename": "unit_icon_0168_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 31915,
+    "name": "Vermilion Bird Dancer",
+    "image_filename": "unit_icon_0168_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 32111,
+    "name": "White Tiger Blade Master",
+    "image_filename": "unit_icon_0170_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 32112,
+    "name": "White Tiger Blade Master",
+    "image_filename": "unit_icon_0170_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 32113,
+    "name": "White Tiger Blade Master",
+    "image_filename": "unit_icon_0170_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 32114,
+    "name": "White Tiger Blade Master",
+    "image_filename": "unit_icon_0170_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 32115,
+    "name": "White Tiger Blade Master",
+    "image_filename": "unit_icon_0170_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 32212,
+    "name": "Qilin Slasher",
+    "image_filename": "unit_icon_0169_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 32213,
+    "name": "Qilin Slasher",
+    "image_filename": "unit_icon_0169_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 32214,
+    "name": "Qilin Slasher",
+    "image_filename": "unit_icon_0169_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 32215,
+    "name": "Qilin Slasher",
+    "image_filename": "unit_icon_0169_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 32413,
+    "name": "Black Tortoise Champion",
+    "image_filename": "unit_icon_0183_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 32511,
+    "name": "Azure Dragon Swordsman",
+    "image_filename": "unit_icon_0179_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 32512,
+    "name": "Azure Dragon Swordsman",
+    "image_filename": "unit_icon_0179_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 32513,
+    "name": "Azure Dragon Swordsman",
+    "image_filename": "unit_icon_0179_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 32514,
+    "name": "Azure Dragon Swordsman",
+    "image_filename": "unit_icon_0179_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 32515,
+    "name": "Azure Dragon Swordsman",
+    "image_filename": "unit_icon_0179_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 32611,
+    "name": "Vermilion Bird Dancer",
+    "image_filename": "unit_icon_0180_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 32612,
+    "name": "Vermilion Bird Dancer",
+    "image_filename": "unit_icon_0180_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 32613,
+    "name": "Vermilion Bird Dancer",
+    "image_filename": "unit_icon_0180_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 32614,
+    "name": "Vermilion Bird Dancer",
+    "image_filename": "unit_icon_0180_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 32615,
+    "name": "Vermilion Bird Dancer",
+    "image_filename": "unit_icon_0180_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 32811,
+    "name": "White Tiger Blade Master",
+    "image_filename": "unit_icon_0182_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 32812,
+    "name": "White Tiger Blade Master",
+    "image_filename": "unit_icon_0182_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 32813,
+    "name": "White Tiger Blade Master",
+    "image_filename": "unit_icon_0182_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 32814,
+    "name": "White Tiger Blade Master",
+    "image_filename": "unit_icon_0182_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 32815,
+    "name": "White Tiger Blade Master",
+    "image_filename": "unit_icon_0182_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 32311,
+    "name": "Gideon",
+    "image_filename": "unit_icon_0177_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 32312,
+    "name": "Tityus",
+    "image_filename": "unit_icon_0177_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 32313,
+    "name": "Elephas",
+    "image_filename": "unit_icon_0177_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 32314,
+    "name": "Hyllus",
+    "image_filename": "unit_icon_0177_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 32315,
+    "name": "Actaeon",
+    "image_filename": "unit_icon_0177_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 33012,
+    "name": "Daimon",
+    "image_filename": "unit_icon_0188_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 33111,
+    "name": "Kai",
+    "image_filename": "unit_icon_0187_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 33112,
+    "name": "Kai",
+    "image_filename": "unit_icon_0187_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 33113,
+    "name": "Kai",
+    "image_filename": "unit_icon_0187_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 33114,
+    "name": "Kai",
+    "image_filename": "unit_icon_0187_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 33115,
+    "name": "Kai",
+    "image_filename": "unit_icon_0187_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 33211,
+    "name": "Taebaek",
+    "image_filename": "unit_icon_0185_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 33212,
+    "name": "Taebaek",
+    "image_filename": "unit_icon_0185_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 33213,
+    "name": "Taebaek",
+    "image_filename": "unit_icon_0185_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 33214,
+    "name": "Taebaek",
+    "image_filename": "unit_icon_0185_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 33215,
+    "name": "Taebaek",
+    "image_filename": "unit_icon_0185_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 33311,
+    "name": "Duke",
+    "image_filename": "unit_icon_0186_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 33312,
+    "name": "Duke",
+    "image_filename": "unit_icon_0186_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 33313,
+    "name": "Duke",
+    "image_filename": "unit_icon_0186_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 33314,
+    "name": "Duke",
+    "image_filename": "unit_icon_0186_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 33315,
+    "name": "Duke",
+    "image_filename": "unit_icon_0186_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 33411,
+    "name": "Shasha",
+    "image_filename": "unit_icon_0184_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 33412,
+    "name": "Shasha",
+    "image_filename": "unit_icon_0184_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 33413,
+    "name": "Shasha",
+    "image_filename": "unit_icon_0184_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 33414,
+    "name": "Shasha",
+    "image_filename": "unit_icon_0184_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 33415,
+    "name": "Shasha",
+    "image_filename": "unit_icon_0184_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 34011,
+    "name": "Cecilia",
+    "image_filename": "unit_icon_0192_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 34012,
+    "name": "Cynthia",
+    "image_filename": "unit_icon_0192_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 34013,
+    "name": "Daisy",
+    "image_filename": "unit_icon_0192_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 34014,
+    "name": "Christine",
+    "image_filename": "unit_icon_0192_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 34015,
+    "name": "Elise",
+    "image_filename": "unit_icon_0192_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 34111,
+    "name": "Rhoetus",
+    "image_filename": "unit_icon_0193_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 34112,
+    "name": "Agrius",
+    "image_filename": "unit_icon_0193_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 34113,
+    "name": "Pholus",
+    "image_filename": "unit_icon_0193_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 34114,
+    "name": "Chiron",
+    "image_filename": "unit_icon_0193_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 34115,
+    "name": "Asbolus",
+    "image_filename": "unit_icon_0193_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 33512,
+    "name": "Daimon",
+    "image_filename": "unit_icon_0201_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 33611,
+    "name": "Kai",
+    "image_filename": "unit_icon_0200_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 33613,
+    "name": "Kai",
+    "image_filename": "unit_icon_0200_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 33614,
+    "name": "Kai",
+    "image_filename": "unit_icon_0200_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 33615,
+    "name": "Kai",
+    "image_filename": "unit_icon_0200_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 33711,
+    "name": "Taebaek",
+    "image_filename": "unit_icon_0198_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 33712,
+    "name": "Taebaek",
+    "image_filename": "unit_icon_0198_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 33713,
+    "name": "Taebaek",
+    "image_filename": "unit_icon_0198_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 33714,
+    "name": "Taebaek",
+    "image_filename": "unit_icon_0198_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 33715,
+    "name": "Taebaek",
+    "image_filename": "unit_icon_0198_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 33811,
+    "name": "Duke",
+    "image_filename": "unit_icon_0199_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 33812,
+    "name": "Duke",
+    "image_filename": "unit_icon_0199_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 33813,
+    "name": "Duke",
+    "image_filename": "unit_icon_0199_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 33814,
+    "name": "Duke",
+    "image_filename": "unit_icon_0199_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 33815,
+    "name": "Duke",
+    "image_filename": "unit_icon_0199_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 33911,
+    "name": "Shasha",
+    "image_filename": "unit_icon_0197_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 33912,
+    "name": "Shasha",
+    "image_filename": "unit_icon_0197_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 33913,
+    "name": "Shasha",
+    "image_filename": "unit_icon_0197_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 33914,
+    "name": "Shasha",
+    "image_filename": "unit_icon_0197_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 33915,
+    "name": "Shasha",
+    "image_filename": "unit_icon_0197_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 34815,
+    "name": "Gollum",
+    "image_filename": "unit_icon_0207_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 34211,
+    "name": "Neriope",
+    "image_filename": "unit_icon_0202_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 34212,
+    "name": "Agrenia",
+    "image_filename": "unit_icon_0202_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 34213,
+    "name": "Driana",
+    "image_filename": "unit_icon_0202_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 34214,
+    "name": "Arella",
+    "image_filename": "unit_icon_0202_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 34215,
+    "name": "Theonia",
+    "image_filename": "unit_icon_0202_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 34311,
+    "name": "Frodo",
+    "image_filename": "unit_icon_0203_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 34411,
+    "name": "Gandalf",
+    "image_filename": "unit_icon_0204_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 34412,
+    "name": "Gandalf",
+    "image_filename": "unit_icon_0204_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 34413,
+    "name": "Gandalf",
+    "image_filename": "unit_icon_0204_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 34414,
+    "name": "Gandalf",
+    "image_filename": "unit_icon_0204_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 34415,
+    "name": "Gandalf",
+    "image_filename": "unit_icon_0204_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 34611,
+    "name": "Aragorn",
+    "image_filename": "unit_icon_0206_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 34612,
+    "name": "Aragorn",
+    "image_filename": "unit_icon_0206_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 34613,
+    "name": "Aragorn",
+    "image_filename": "unit_icon_0206_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 34614,
+    "name": "Aragorn",
+    "image_filename": "unit_icon_0206_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 34615,
+    "name": "Aragorn",
+    "image_filename": "unit_icon_0206_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 34711,
+    "name": "Legolas",
+    "image_filename": "unit_icon_0205_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 34712,
+    "name": "Legolas",
+    "image_filename": "unit_icon_0205_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 34713,
+    "name": "Legolas",
+    "image_filename": "unit_icon_0205_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 34714,
+    "name": "Legolas",
+    "image_filename": "unit_icon_0205_1_4.png",
+    "element": "Light"
+  },
+  {
+    "com2us_id": 34715,
+    "name": "Legolas",
+    "image_filename": "unit_icon_0205_1_5.png",
+    "element": "Dark"
+  },
+  {
+    "com2us_id": 34811,
+    "name": "Gollum",
+    "image_filename": "unit_icon_0207_1_1.png",
+    "element": "Water"
+  },
+  {
+    "com2us_id": 34812,
+    "name": "Gollum",
+    "image_filename": "unit_icon_0207_1_2.png",
+    "element": "Fire"
+  },
+  {
+    "com2us_id": 34813,
+    "name": "Gollum",
+    "image_filename": "unit_icon_0207_1_3.png",
+    "element": "Wind"
+  },
+  {
+    "com2us_id": 34814,
+    "name": "Gollum",
+    "image_filename": "unit_icon_0207_1_4.png",
+    "element": "Light"
+  }
+]

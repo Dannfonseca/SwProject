@@ -1,0 +1,141 @@
+.detail-modal {
+    background: #1a1a1a;
+    width: 90%;
+    max-width: 700px;
+    border-radius: 12px;
+    padding: 30px;
+    border: 1px solid #333;
+    animation: slideUp 0.3s ease-out;
+    z-index: 1001;
+    position: relative;
+}
+
+@keyframes slideUp {
+    from {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.detail-content {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.detail-team-display {
+    display: flex;
+    justify-content: space-around;
+    gap: 15px;
+    padding: 20px;
+    background: #111;
+    border-radius: 10px;
+}
+
+.detail-mon-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    flex: 1;
+}
+
+.mon-img-wrapper {
+    position: relative;
+    width: 80px;
+    height: 80px;
+}
+
+.mon-img-wrapper img {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    border: 2px solid #444;
+}
+
+.mon-stars {
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 0.6rem;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 2px 5px;
+    border-radius: 4px;
+    white-space: nowrap;
+}
+
+.mon-name {
+    font-weight: 700;
+    color: #eee0e0;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.leader-tag {
+    color: #ff6b6b;
+    font-size: 0.8rem;
+}
+
+.ls-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 0.75rem;
+}
+
+.ls-area {
+    color: #888;
+}
+
+.ls-amount {
+    color: #fca5a5;
+    font-weight: 600;
+}
+
+.detail-notes h3 {
+    margin-bottom: 12px;
+    font-size: 0.9rem;
+    color: #a0aec0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.notes-box {
+    background: #222;
+    padding: 20px;
+    border-radius: 8px;
+    color: #ccc;
+    line-height: 1.6;
+    font-style: italic;
+    border-left: 4px solid #ff6b6b;
+}
+
+.detail-stats {
+    display: flex;
+    gap: 20px;
+    border-top: 1px solid #333;
+    padding-top: 20px;
+}
+
+.stat-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.stat-label {
+    font-size: 0.75rem;
+    color: #888;
+    text-transform: uppercase;
+}
+
+.stat-value {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #ff6b6b;
+}
