@@ -37,3 +37,5 @@ services:
           type: web
           name: sw-project-backend
           property: url
+      - key: VITE_GOOGLE_CLIENT_ID
+        sync: false
