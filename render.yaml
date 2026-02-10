@@ -28,8 +28,7 @@ services:
   - type: web
     name: sw-project-frontend
     env: docker
-    dockerfilePath: Dockerfile
-    dockerContext: frontend
+    dockerfilePath: frontend/Dockerfile
     plan: free # or starter
     autoDeploy: true
     envVars:
