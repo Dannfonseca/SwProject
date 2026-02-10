@@ -26,7 +26,7 @@ RUN pip install --no-cache-dir -r vision_service/requirements.txt
 COPY vision_service ./vision_service
 
 # --- Setup Backend (Node/Bun) ---
-COPY backend/package.json backend/bun.lockb ./backend/
+COPY backend/package.json backend/package-lock.json ./backend/
 WORKDIR /app/backend
 RUN bun install --production
 
