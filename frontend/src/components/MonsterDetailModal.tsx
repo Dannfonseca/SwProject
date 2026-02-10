@@ -8,25 +8,15 @@ interface MonsterDetailModalProps {
     onClose: () => void;
     familyMonsters: Monster[]; // All monsters in this family (for element switching)
     initialMonster: Monster;   // The one clicked
-    skillsData?: Skill[];      // All skills available (we might need to look them up by ID)
 }
 
 const ELEMENT_ORDER = ['Fire', 'Water', 'Wind', 'Light', 'Dark'];
-const STAT_LABELS: { [key: string]: string } = {
-    'hp': 'HP',
-    'attack': 'ATQ',
-    'defense': 'DEF',
-    'speed': 'VEL'
-};
-
-
 
 export const MonsterDetailModal: React.FC<MonsterDetailModalProps> = ({
     isOpen,
     onClose,
     familyMonsters,
-    initialMonster,
-    skillsData
+    initialMonster
 }) => {
     const [currentMonster, setCurrentMonster] = useState<Monster>(initialMonster);
     const [activeTab, setActiveTab] = useState<'skills' | 'defenses'>('skills');

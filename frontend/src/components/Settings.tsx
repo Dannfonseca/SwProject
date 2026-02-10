@@ -11,7 +11,7 @@ interface SettingsProps {
 
 export const Settings: React.FC<SettingsProps> = ({ onKeyChange, currentKey }) => {
     const [apiKey, setApiKey] = useState(currentKey);
-    const { isAdmin } = useAuth();
+    const { } = useAuth();
 
     const queryClient = useQueryClient();
 
