@@ -1,0 +1,39 @@
+services:
+  # --------------------------------------------------------------------------------
+  # BACKEND SERVICE (Monolithic: Node.js API + Python OCR)
+  # --------------------------------------------------------------------------------
+  - type: web
+    name: sw-project-backend
+    env: docker
+    dockerfilePath: backend/Dockerfile
+    plan: free # or starter
+    autoDeploy: true
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: VISION_SERVICE_URL
+        value: http://127.0.0.1:8008
+      - key: DATABASE_URL
+        sync: false # User must provide this in Render Dashboard
+      - key: JWT_SECRET
+        generateValue: true
+      - key: GOOGLE_CLIENT_ID
+        sync: false # User must provide this
+      - key: NODE_ENV
+        value: production
+
+  # --------------------------------------------------------------------------------
+  # FRONTEND SERVICE (Dockerized React App)
+  # --------------------------------------------------------------------------------
+  - type: web
+    name: sw-project-frontend
+    env: docker
+    dockerfilePath: frontend/Dockerfile
+    plan: free # or starter
+    autoDeploy: true
+    envVars:
+      - key: VITE_API_BASE_URL
+        fromService:
+          type: web
+          name: sw-project-backend
+          property: url

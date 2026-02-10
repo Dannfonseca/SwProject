@@ -455,7 +455,8 @@ app.post('/api/translate/skills', async ({ headers, set }) => {
 });
 
 
-app.listen(3001);
+const port = process.env.PORT || 3001;
+app.listen(port);
 
 console.log(
     `🦊 Elysia is running at ${app.server?.hostname}:${app.server?.port} (RESTARTED)`
